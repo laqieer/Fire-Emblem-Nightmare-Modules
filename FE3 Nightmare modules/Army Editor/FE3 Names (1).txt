@@ -53,7 +53,7 @@
 0x33 Gotoh
 0x34 Gazzak
 0x35 Wylar (unused)
-0x36 Doluna Soldier
+0x36 Dolhr Soldier
 0x37 Gomer
 0x38 Garuda Soldier
 0x39 Sabre (unused)
@@ -81,8 +81,8 @@
 0x4F Medeus
 0x50 Dolhr Soldier
 0x51 Gra Soldier
-0x52 Perati Soldier
-0x53 Kashimia Soldier
+0x52 Pyrathi Soldier
+0x53 Chiasmir Soldier
 0x54 Dark Knight Group
 0x55 Khadein Mage
 0x56 Sable Knight
@@ -125,14 +125,14 @@
 0x7B Thief
 0x7C Good Dragon?
 0x7D Ice Dragon
-0x7E Ice Thief (wtf?)
+0x7E Ice Thief (?)
 0x7F Eibel
 0x80 Sheena
 0x81 Earth Dragon
 0x82 Dark Priest
 0x83 Willow
-0x84 Akanea Soldier
-0x85 Orleans Soldier
+0x84 Archanea Soldier
+0x85 Aurelis Soldier
 0x86 Nyna
 0x87 Khadein Mercenary
 0x88 Fire Tribe

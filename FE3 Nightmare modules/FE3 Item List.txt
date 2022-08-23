@@ -21,13 +21,13 @@ Hand Spear
 Broken Lance
 Killer Lance
 Thin Lance
-Gladius
+Gradivus
 Iron Bow
 Broken Bow
 Steel Bow
 Silver Bow
 Killer Bow
-Partia
+Parthia
 Iron Axe
 Steel Axe
 Hand Axe
@@ -45,40 +45,40 @@ Dark Breath
 Mist Breath
 Fire Book
 Thunder Book
-Blizza
+Blizzard
 Shaver
 Elfire
-Torron 
-Volcannon
+Thoron 
+Bolganone
 Excalibur
 Aura
 Starlight
-Maph
-Durarm
-Rizziah
+Imhullu
+Dulam
+Resire
 Meteor
 Worm
 Earth Orb
 Shield of Seals
 Dark Orb
 Fire Emblem
-Live
+Heal
 Recover
-Libro
-Relive
+Physic
+Mend
 Warp
 Magic Shield
-Hammern
-Reserve
+Hammerne
+Fortify
 Silence
 Rescue
-Oum
+Aum
 Unlock
-Thief
-Watch
-Again
+Thief Staff
+Watch Staff
+Again Staff
 Fire Dragon Stone
-Oum
+Aum
 Ice Dragon Stone
 Flying Dragon Stone
 Earth Dragon Stone
@@ -95,22 +95,22 @@ Dragon Shield
 Secret Book
 Speed Ring
 Talisman
-Angel Robe
-Goddess Statue
+Angelic Robe
+Goddess Icon
 Manual
 Boots
 Pure Water
-Knight Medal
-Hero Proof
-Priest Ring
-Dragon Whip
-Orion's Arrow
+Knight Crest
+Hero Crest
+Guiding Ring
+Elysian Whip
+Orion's Bolt
 Earth Orb
 Life Orb
-Aiote Shield
+Iote Shield
 Aquarius Orb
-Piseces Orb
-Aeris Orb
+Pisces Orb
+Aries Orb
 Taurus Orb
 Gemini Orb
 Cancer Orb
@@ -118,9 +118,9 @@ Leo Orb
 Virgo Orb
 Libra Orb
 Scorpio Orb
-Saggitarius Orb
+Sagittarius Orb
 Capricorn Orb
-Oum Fragment
+Aum Fragment
 Silver Card
 Member Card
 Light Orb

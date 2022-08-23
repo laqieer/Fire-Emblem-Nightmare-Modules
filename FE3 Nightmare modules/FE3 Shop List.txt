@@ -1,0 +1,40 @@
+0x00 B1 Chapter 1 Armory
+0x01 B1 Chapter 2/3 Armory
+0x02 B1 Chapter 4 Armory
+0x03 B1 Chapter 6 Armory
+0x04 B1 Chapter 7 Armory
+0x05 B1 Chapter 7/8/11 Vendor
+0x06 B1 Chapter 8 Armory
+0x07 B1 Chapter 9 Armory
+0x08 B1 Chapter 9 Vendor
+0x09 B1 Chapter 11 Vendor
+0x0A B1 Chapter 12 Armory
+0x0B B1 Chapter 12/13 Magic/Staff Vendor, B2 Chapter 9/15/21 Magic/Staff Vendor
+0x0C B1 Chapter 12/13, B2 Chapter 9/15/21 Item Vendor
+0x0D B1 Chapter 13/B2 Chapter 15 South Armory
+0x0E B1 Chapter 13 North Armory
+0x0F B1 Chapter 14 Secret Shop
+0x10 B1 Chapter 16 Sword/Lance/Bow Armory
+0x11 B1 Chapter 16 BEST WEAPON TYPE Armory
+0x12 B1 Chapter 16 Vendor
+0x13 B1 Chapter 17 Specialty Armory
+0x14 B1 Chapter 17 Budget Armory
+0x15 B1 Chapter 17, B2 Chapter 5/18 Secret Shop
+0x16 B1 Chapter 19 Armory
+0x17 B1 Chapter 19 Vendor
+0x18 B1 Chapter 19, B2 Chapter 22-1 Secret Shop
+0x19 B2 Chapter 1 Armory
+0x1A B2 Chapter 3 Armory
+0x1B B2 Chapter 5 Armory
+0x1C B2 Chapter 5 Vendor
+0x1D B2 Chapter 7/15(North) Armory
+0x1E B2 Chapter 8 Armory
+0x1F B2 Chapter 9 Armory
+0x20 B2 Chapter 11 Secret Shop
+0x21 B2 Chapter 13 Secret Shop
+0x22 B2 Chapter 14 Secret Shop
+0x23 B2 Chapter 17/21(Right) Armory
+0x24 B2 Chapter 17/19 Vendor
+0x25 B2 Chapter 19 Armory
+0x26 B2 Chapter 21 Left Armory
+

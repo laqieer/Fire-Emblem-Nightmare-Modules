@@ -1,0 +1,15 @@
+14
+0x00 Infinite
+0x01 1 Ranged staff
+0x04 Long ranged staff
+0x09 1 Range
+0x0A 2 Range
+0x0B 1-2 Range
+0x0C 3-10 Range
+0x80 Undiscardable Infinite Range
+0x81 Undiscardable 1 Ranged staff
+0x84 Undiscardable Long ranged staff
+0x89 Undiscardable 1 Range
+0x8A Undiscardable 2 Range
+0x8B Undiscardable 1-2 Range
+0x8C Undiscardable 3-10 Range

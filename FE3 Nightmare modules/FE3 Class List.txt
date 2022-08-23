@@ -1,14 +1,14 @@
 Lord
-Axe Fighter
+Fighter
 Soldier
-Social Knight
+Cavalier
 Paladin
-Knight (Male)
-Knight (Female)
+Dismounted Knight (Male)
+Dismounted Knight (Female)
 Armor Knight
 General
 Pegasus Knight
-Dragon Knight
+Dracoknight
 Hunter
 Sniper
 Archer

@@ -1,77 +1,77 @@
 Marth
-Sheeda
-Jeigan
+Caeda
+Jagen
 Cain
 Abel
-Doga
-Gordan
-Ricardo
-Riff
-Saji
-Maji
-Barts
-Kashim
-Oguma
-Daros
+Draug
+Gordin
+Rickard
+Wrys (unused?)
+Bord
+Cord
+Barst
+Castor
+Ogma
+Darros
 Julian
-Rena
-Maric
-Navare
+Lena
+Merric
+Navarre
 Hardin
-Ulf
-Zagaro
-Roshe
-Villuck
-Banutu
-Ceasar
-Raddy
-Medea
-Katua
+Wolf
+Sedgar
+Roshea
+Vyland
+Bantu
+Caesar
+Radd
+Midia
+Catria
 Maria
 Minerva
-Linda
-George
-Toms
-Michilean
-Thomas
-Boa
-Aran
+Linde
+Jeorge
+Dolph
+Macellan
+Tomas
+Boah
+Arran
 Samson
 Beck
-Chainy
-Wendal
+Xane
+Wendell
 Est
-Astoria
-Matis
+Astram
+Matthis
 Roger
 Jake
-Paola
-Chiki
-Lawrence
-Ellis
-Gato
-Ricardo (Enemy)
-George (Enemy)
-Navare (Enemy)
-Matis (Enemy)
-Sheema (Enemy)
+Palla
+Tiki
+Lorenz
+Elice
+Gotoh
+Rickard (Enemy)
+Jeorge (Enemy)
+Navarre (Enemy)
+Matthis (Enemy)
+Sheena (Enemy)
 Samson (Enemy)
 ????
 ????
 Minerva (Enemy)
 ????
-Astoria (Enemy)
-Paola (Enemy)
+Astram (Enemy)
+Palla (Enemy)
 ????
 Est (Enemy)
 ????
 ????
 ????
 Enemy
-Garnef
+Gharnef
 Boss?
 Boss?
-Mishiel
+Michalis
 Boss?
 Enemy
 Enemy
@@ -108,65 +108,65 @@ Enemy
 Camus
 Cecil
 Luke
-Roddy
+Roderick
 Ryan
 Warren
 Enemy
 Enemy
-Yumina
-Yubellow
+Yuliya
+Jubelo
 Sirius
 Enemy
-Malisa
+Marisha
 Enemy
-Samuto
+Samuel
 Enemy
-Fina
-Enemy
-Enemy
+Phina
 Enemy
 Enemy
-Sheema
+Enemy
+Enemy
+Sheena
 Marth (Book 2)
-Aran (Book 2)
-Gordon (Book 2)
-Doga (Book 2)
-Linda (Book 2)
-Matis (Book 2)
+Arran (Book 2)
+Gordin (Book 2)
+Draug (Book 2)
+Linde (Book 2)
+Matthis (Book 2)
 Julian (Book 2)
-Katua (Book 2)
-Oguma (Book 2)
-Kashim (Book 2)
-Ricardo (Book 2)
-George (Book 2)
-Wendal (Book 2)
-Navare (Book 2)
-Astoria (Book 2)
-Sheeda (Book 2)
+Catria (Book 2)
+Ogma (Book 2)
+Castor (Book 2)
+Rickard (Book 2)
+Jeorge (Book 2)
+Wendell (Book 2)
+Navarre (Book 2)
+Astram (Book 2)
+Caeda (Book 2)
 Cain (Book 2)
-Bantou (Book 2)
+Bantu (Book 2)
 ????
-Maric (Book 2)
-Elren
+Merric (Book 2)
+Arlen
 Minerva (Book 2)
-Chainy (Book 2)
-Chiki (Book 2)
+Xane (Book 2)
+Tiki (Book 2)
 Abel (Book 2)
 ????
 Samson (Book 2)
 Enemy?
 Enemy?
-Roshe
+Roshea
 Enemy?
-Medea
+Midia
 Enemy?
 Enemy?
 Enemy?
 Enemy?
 Enemy
 Enemy
-Nina
+Nyna
 Maria (Book 2)
-Ellis (Book 2)
-Rena (Book 2)
-Paola (Book 2)
+Elice (Book 2)
+Lena (Book 2)
+Palla (Book 2)

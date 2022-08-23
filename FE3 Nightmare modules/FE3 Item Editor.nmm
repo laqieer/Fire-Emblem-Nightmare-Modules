@@ -1,8 +1,8 @@
-#FE3 Item Editor by Camus
+#FE3 Item Editor by Camus, Peerless and mysticShadow
 #
 
 1
-FE3 Item Editor by Camus
+FE3 Item Editor by Camus, Peerless and mysticShadow
 0x428E9
 127
 14
@@ -16,7 +16,7 @@ Item Type
 NDHU
 FE3 Item Type.txt
 
-Weapon Icon
+Item Icon
 1
 1
 NEDU
@@ -28,7 +28,7 @@ Weapon Level
 NEDU
 NULL
 
-Attack
+Might
 3
 1
 NEDU
@@ -74,15 +74,15 @@ Range
 11
 1
 NDHU
-range.txt
+FE3 Weapon Range.txt
 
-Item No.?
+Item No.
 12
 1
 NEDU
 NULL
 
-Item No.?
+Item No.
 13
 1
 NEDU
