@@ -1,0 +1,58 @@
+#FE5 Battle Sprite Editor
+#
+
+1
+FE5 Battle Sprite Editor
+0x055FF6
+277
+8
+NULL
+NULL
+
+Class
+0
+1
+NDHU
+Class List.txt
+
+Weapon Type
+1
+1
+NDHU
+Weapon Types.txt
+
+Character
+2
+1
+NDHU
+Character List.txt
+
+Gender
+3
+1
+NDHU
+FE5 Gender.txt
+
+Animation
+4
+1
+NDHU
+Animations.txt
+
+Horse (if mounted) / Body (on foot)
+5
+1
+NEHU
+NULL
+
+Body (if mounted) / Hair
+6
+1
+NEHU
+NULL
+
+Palette
+7
+1
+NEHU
+NULL

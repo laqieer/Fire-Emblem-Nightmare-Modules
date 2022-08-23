@@ -45,3 +45,4 @@
 0x2A Dark Dragon
 0x2B Divine Dragon
 0x2C Demon Dragon
+0xFF Terminator Byte

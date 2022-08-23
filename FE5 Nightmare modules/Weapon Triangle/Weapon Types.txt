@@ -1,0 +1,10 @@
+Sword
+Lance
+Axe
+Bow
+Staff
+Fire
+Thunder
+Wind
+Light
+Dark

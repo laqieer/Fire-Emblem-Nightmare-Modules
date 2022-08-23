@@ -1,0 +1,257 @@
+256
+0x00 Nothing/Separator
+0x01 Leaf
+0x02 Finn
+0x03 Othin
+0x04 Halvan
+0x05 Eyvel
+0x06 Dagudar
+0x07 Ralf
+0x08 Marty
+0x09 Ronan
+0x0A Miranda
+0x0B Saphy
+0x0C Lara
+0x0D Brighton
+0x0E Felgus
+0x0F Eda
+0x10 Asvel
+0x11 Machyua
+0x12 Hicks
+0x13 Nanna
+0x14 Selfina
+0x15 Dalshein
+0x16 Carrion
+0x17 Shiva
+0x18 Pahn
+0x19 Glade
+0x1A Kein
+0x1B Alba
+0x1C Roberto
+0x1D Fred
+0x1E Oruen
+0x1F Sety (Chapter 23)
+0x20 Rifis
+0x21 Karin
+0x22 Dean
+0x23 Shanam
+0x24 Trewd
+0x25 Tanya
+0x26 Linonan
+0x27 Misha
+0x28 Seiram
+0x29 Sleuf
+0x2A Mareeta
+0x2B Tina
+0x2C Gunna (Bishop from dialogue)
+0x2D Amalda
+0x2E Conomore
+0x2F Homeros
+0x30 Delmud
+0x31 Sara
+0x32 Cyas
+0x33 Leidrick
+0x34 Yurius (Dark Mage with Cyas portrait and Life...)
+0x35 Beldo
+0x36 Weissman (Boss)
+0x37 Manster - Archer
+0x38 Bugs (Boss)
+0x39 Jabal
+0x3A Rifis' Gang - Pirate
+0x3B Rifis' Gang - Hunter
+0x3C Rifis' Gang - Warrior
+0x3D Robos (Boss)
+0x3E Manster - Bow Armor
+0x3F Manster - Thunder Mage
+0x40 Manster - Bishop
+0x41 Romeo (NPC)
+0x42 Luchea (NPC)
+0x43 Yubel (NPC)
+0x44 Corple (NPC,FE4 cameo)
+0x45 Sety (Chapter 4G appearance)
+0x46 Ishtar
+0x47 Reinhart (Weak version,probably dialogue)
+0x48 Rifis' Gang - Sword Fighter
+0x49 Emily (NPC)
+0x4A Murphy (NPC)
+0x4B Bella (NPC)
+0x4C Krith (NPC)
+0x4D Boey (NPC)
+0x4E Leena (NPC)
+0x4F Mercenary - Sword Fighter
+0x50 Galzus
+0x51 Manster - Social Knight
+0x52 Manster - Paladin
+0x53 Manster - Arch Knight
+0x54 Manster - Troubadour
+0x55 Izenau (Boss)
+0x56 Hannibal (Dialogue,FE4 cameo)
+0x57 Manster - Axe Knight
+0x58 Bandit - Mountain Thief
+0x59 Bandit - Hunter
+0x5A Bandit - Warrior
+0x5B Lumei (Boss)
+0x5C Gomez (Boss)
+0x5D Mallock (Boss)
+0x5E Thracia - Dragon Knight
+0x5F Thracia - Sword Fighter
+0x60 Thracia - Axe Fighter
+0x61 Althenna (Enemy only,FE4 cameo)
+0x62 Torabant (Dialogue,FE4 cameo)
+0x63 Ralgo (Boss)
+0x64 Manster - Long Arch
+0x65 Manster - Axe Armor
+0x66 Kempf (Boss)
+0x67 Oltov (Boss)
+0x68 Rosa (NPC)
+0x69 Serra (NPC)
+0x6A Peter (NPC)
+0x6B Kolho (Mini-boss)
+0x6C Rist (Boss)
+0x6D Paluce (Boss)
+0x6E Baldack (Boss)
+0x6F Thracia - Lance Armor
+0x70 Lenster - Lance Knight
+0x71 Lenster - Arch Knight
+0x72 Arion (Dialogue,FE4 cameo)
+0x73 Makroi (Boss)
+0x74 Kodda (Boss)
+0x75 Roputo - Dark Mage
+0x76 Civilian
+0x77 Thief
+0x78 Manster - Sniper
+0x79 Mercenary - Social Knight
+0x7A Priest
+0x7B Mercenary - Sword Fighter
+0x7C 21 - Iron Arch
+0x7D Shupel (Boss)
+0x7E Bluke (Boss)
+0x7F Silesia - Pegasus Rider
+0x80 Nikolaf (Boss)
+0x81 Muua (Boss)
+0x82 Myura (Boss)
+0x83 Reincock (Boss)
+0x84 Palman (Boss)
+0x85 Kanto (Boss)
+0x86 Gustaf (Boss)
+0x87 Dancer
+0x88 Sister
+0x89 Manheim (Boss)
+0x8A Phlaus (Boss)
+0x8B Semitol (Boss)
+0x8C Zaom (Boss)
+0x8D Koen (Boss)
+0x8E Alphan (Boss)
+0x8F Opisu (Boss?)
+0x90 Ferden (Boss)
+0x91 Koruta (Boss)
+0x92 Reinhardt
+0x93 Nancy (NPC)
+0x94 Tahra Civilian
+0x95 Tahra Civilian
+0x96 Tahra Civilian
+0x97 Tahra Civilian
+0x98 Tahra Civilian
+0x99 Tahra Civilian
+0x9A Mercenary - Sword Fighter
+0x9B Freege - Long Arch
+0x9C Freege - Social Knight
+0x9D Freege - Troubadour
+0x9E Freege - Bow Armour
+0x9F Freege - Lance Armour
+0xA0 Freege - Axe Armour
+0xA1 Freege - Archer
+0xA2 Freege - Mage
+0xA3 Rilke (with Kempf portrait...)
+0xA4 Manster - Lance Armour
+0xA5 Civilian
+0xA6 Civilian
+0xA7 Civilian
+0xA8 Civilian
+0xA9 Civilian
+0xAA Civilian
+0xAB Manster - Mage
+0xAC Manster - Priest
+0xAD Yurius (with Yuria portrait...)
+0xAE Manfroy (with Machyua portrait...)
+0xAF Manster - Mage
+0xB0 Manster - Sword Fighter
+0xB1 Envoy - Mercenary
+0xB2 Envoy - Warrior
+0xB3 Envoy - General
+0xB4 Envoy - Swordmaster
+0xB5 Envoy - Berserker
+0xB6 Manster - Priest
+0xB7 Bantol (Boss)
+0xB8 Lopto - Dark Bishop
+0xB9 Torman (Boss)
+0xBA Manster - Soldier
+0xBB Bandit - Berserker
+0xBC Mercenary - Sword Fighter
+0xBD Magi Squad - Sword Fighter
+0xBE Magi Squad - Axe Fighter
+0xBF Magi Squad - Bow Fighter
+0xC0 Magi Squad - Sword Fighter
+0xC1 Dragon Rider
+0xC2 Bishop
+0xC3 Tobolzark (Boss)
+0xC4 Manster - Bishop
+0xC5 Freege - Long Arch
+0xC6 Bandit - Mountain Thief 2
+0xC7 Thief
+0xC8 Bow Fighter
+0xC9 Freege - Bishop
+0xCA Freege - Lance Armour
+0xCB Freege - Bow Armour
+0xCC Freege - Mage
+0xCD Iron Arch
+0xCE Freege - Axe Armour
+0xCF Aightman (Boss)
+0xD0 Zail (Boss)
+0xD1 Sword Armour
+0xD2 Soldier
+0xD3 Freege - Long Arch
+0xD4 Eyrios
+0xD5 Silesia - Pegasus Rider
+0xD6 Freege - Mage Knight
+0xD7 Paladin
+0xD8 Freege - Great Knight
+0xD9 Bow Knight
+0xDA Sword Armour
+0xDB Freege - Soldier
+0xDC Freege - Arch Knight
+0xDD Freege - Troubadour
+0xDE Freege - Lance Knight
+0xDF Freege - Socialknight
+0xE0 Civilian
+0xE1 Mercenary
+0xE2 Swordmaster
+0xE3 Berserker
+0xE4 Berserker
+0xE5 Silesia - Pegasus Rider
+0xE6 Freege - Axe Armour
+0xE7 Freege - Sword Armour
+0xE8 Freege - Lance Armour
+0xE9 Freege - Long Arch
+0xEA Bow Fighter
+0xEB Sword Fighter
+0xEC Mercenary
+0xED Xavier
+0xEE Xavier's Lenster Armour
+0xEF Xavier's Lenster Armour
+0xF0 Xavier's Lenster Armour
+0xF1 Xavier's Lenster Armour
+0xF2 Xavier's Lenster Armour
+0xF3 Xavier's Lenster Armour
+0xF4 Xavier's Lenster Armour
+0xF5 Xavier's Lenster Armour
+0xF6 Civilian
+0xF7 Civilian
+0xF8 Civilian
+0xF9 Civilian
+0xFA Civilian
+0xFB Civilian
+0xFC Civilian
+0xFD Civilian
+0xFE Freege - Soldier
+0xFF Lenster - Soldier
