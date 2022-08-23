@@ -1,0 +1,3 @@
+In order to switch up portraits, you'll need to switch up the pointer to the text that signifies which portrait to use. In the character editor, this is labeled as Portrait and consists of two bytes. Find the character whose portrait you want to replace (say, Cain's), take their portrait pointer (the two bytes), copy them, and paste them into another character's info to change that character's portrait.
+
+For example, if Cain's portrait pointer is BA70 and Marth's is 6EF0 then turn "6EF0" into "BA70". Simple hex editing concept that should quickly get the job done. Let me know if there are any problems with this method (alternatively use my other method on how to switch portrait graphics).

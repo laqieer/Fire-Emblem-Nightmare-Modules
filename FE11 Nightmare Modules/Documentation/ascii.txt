@@ -1,0 +1,1 @@
+I don't really know what the ascii folder pertains to or anything much besides general text related stuff. I don't think anything will be needed to be done with it but I'll note that a cl file (that means a palette file) is there. The palette is just 2 colors, maybe for some font related thing. Pretty simple and doesn't seem to be of much use to the standard hacker.

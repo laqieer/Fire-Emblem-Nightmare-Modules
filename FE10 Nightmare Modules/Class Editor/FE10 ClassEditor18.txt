@@ -1,0 +1,6 @@
+Light Mage
+Fire Sage(M)
+Fire Sage(F)
+Thunder Sage(M)
+Thunder Sage(F)
+Wind Sages

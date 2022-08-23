@@ -1,0 +1,46 @@
+#FE5 Stat Bonuses Editor By Pukachi
+#
+
+1
+FE5 Custom Stat Bonuses Editor By Pukachi
+0x187860
+25
+16
+FE5 Stat Bonuses Editor.txt
+NULL
+
+STR Bonus
+0
+1
+NEDU
+NULL
+
+MGC Bonus
+1
+1
+NEDU
+NULL
+
+SKL Bonus
+2
+1
+NEDU
+NULL
+
+SPD Bonus
+3
+1
+NEDU
+NULL
+
+LCK Bonus
+6
+1
+NEDU
+NULL
+
+DEF Bonus
+4
+1
+NEDU
+NULL

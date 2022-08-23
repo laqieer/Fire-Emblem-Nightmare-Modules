@@ -1,0 +1,110 @@
+#FE10 Growth Rate Module to be used with FE10data.tpl
+
+1
+FE10 Growth rates-Levail
+0x1b9f5
+1
+80
+FE10 Growth Rates32.txt
+NULL
+
+HP Stat Addition
+0
+1
+NEDU
+NULL
+
+STR Stat Addition
+1
+1
+NEDU
+NULL
+
+MGC Stat Addition
+2
+1
+NEDU
+NULL
+
+SKL Stat Addition
+3
+1
+NEDU
+NULL
+
+SPD Stat Addition
+4
+1
+NEDU
+NULL
+
+LUC Stat Addition
+5
+1
+NEDU
+NULL
+
+DEF Stat Addition
+6
+1
+NEDU
+NULL
+
+RES Stat Addition
+7
+1
+NEDU
+NULL
+
+HP Growth
+10
+1
+NEDU
+NULL
+
+
+STR Growth
+11
+1
+NEDU
+NULL
+
+
+MGC Growth
+12
+1
+NEDU
+NULL
+
+
+SKL Growth
+13
+1
+NEDU
+NULL
+
+
+SPD Growth
+14
+1
+NEDU
+NULL
+
+
+LCK Growth
+15
+1
+NEDU
+NULL
+
+DEF Growth
+16
+1
+NEDU
+NULL
+
+RES Growth
+17
+1
+NEDU
+NULL

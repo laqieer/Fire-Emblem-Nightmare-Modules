@@ -1,0 +1,3 @@
+Spirit(Fire)
+Spirit(Wind)
+Spirit(Thunder)

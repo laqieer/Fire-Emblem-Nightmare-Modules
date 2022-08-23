@@ -1,0 +1,89 @@
+#FE3 Item Editor by Camus
+#
+
+1
+FE3 Item Editor by Camus
+0x428E9
+127
+14
+FE3 Item List.txt
+NULL
+
+
+Item Type
+0
+1
+NDHU
+FE3 Item Type.txt
+
+Weapon Icon
+1
+1
+NEDU
+NULL
+
+Weapon Level
+2
+1
+NEDU
+NULL
+
+Attack
+3
+1
+NEDU
+NULL
+
+Hit Rate
+4
+1
+NEDU
+NULL
+
+Critical Rate
+5
+1
+NEDU
+NULL
+
+Weight
+6
+1
+NEDU
+NULL
+
+Seperator?
+7
+1
+NEDU
+NULL
+
+Uses
+8
+1
+NEDU
+NULL
+
+Cost (x10)
+9
+2
+NEDU
+NULL
+
+Range
+11
+1
+NDHU
+range.txt
+
+Item No.?
+12
+1
+NEDU
+NULL
+
+Item No.?
+13
+1
+NEDU
+NULL

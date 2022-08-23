@@ -1,0 +1,12 @@
+In order to change the portrait of a character, follow these steps. Note that this will not edit the portrait in any way whatsoever. Only switch up portraits' data.
+
+1. Decompile Fire Emblem DS ROM.
+2. Go to the folder "data" and then folder "f".
+3. You will see files with the names of all the portraits. Find the portrait you want.
+
+4a. Your first option is to rename the files of a portrait, and change it to the name of another portrait.
+For example, KAIN would be renamed ABEL and ABEL would be renamed KAIN, thus switching the portraits.
+
+4b. The 2nd option, which is less recommended, is to copy/paste the data of one file to another, literally switching the graphics up. Remember to back up your files though, and that the first method can be significantly less time consuming once you get the hang of it.
+
+NOTE- Doing this has been known to cause some shift-arounds with the data; offsets are likely to be changed and make all Nightmare Modules not correctly work with your game. If you are worried, don't bother doing this.

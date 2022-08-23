@@ -1,0 +1,49 @@
+1
+FE6 Spell Association Editor by flyingace24, updated by Nintenlord
+0x662E4C
+107
+16
+NULL
+NULL
+
+Weapon
+0
+1
+NDHU
+Item List.txt
+
+No. of Chars to Display (1 or 2)
+2
+1
+NEDU
+NULL
+
+Spell animation to use
+4
+2
+NDHU
+Spell Animations.txt
+
+Alternate Pointer
+8
+4
+NEHU
+NULL
+
+Return to original position (map)
+12
+1
+NDHU
+Returning.txt
+
+Facing position (map)
+13
+1
+NDHU
+Facing.txt
+
+Map Animation Hit Color
+14
+1
+NDDU
+Map Animation Hit Color.txt

@@ -1,0 +1,30 @@
+What Can Be Hacked (Known Aspects Thus Far)
+---------------------------------------------
+
+Character Stats: Yes
+Character Growths: Yes
+Class Stats: Yes
+Class Growths: Yes
+Item Stats: Yes
+Miscellaneous Character/Class/Item Info: Yes
+ReClass System: Yes
+Unit Placement: Yes
+Unit Classes: Yes
+Starting Inventories: Yes
+Unit Allegiances: Yes
+Events: Somewhat
+Text: Mostly
+Shops: Yes, with limits
+Chests: Yes, with limits
+Animations: Switchable, palettes, no customization yet
+Map Sprites & Animations: Yes
+Palettes: Yes
+Chibi Insertion: Yes
+Portrait Insertion: Yes
+General Graphic Insertion: Yes
+Custom CG Insertion: Yes
+Custom Battle Backgrounds: Yes
+Custom Dialog Backgrounds: Yes
+Custom Maps: No
+Some Miscellaneous: Yes
+General Music Editing: Yes

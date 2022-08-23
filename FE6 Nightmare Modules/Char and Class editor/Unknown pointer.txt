@@ -1,0 +1,7 @@
+6
+0x00 The rest
+0x860CB43 Sister, cleric and Bishops
+0x860CAAA Mountain thief
+0x860CADD Pirate
+0x860CB10 Berserker
+0x860CB76 King

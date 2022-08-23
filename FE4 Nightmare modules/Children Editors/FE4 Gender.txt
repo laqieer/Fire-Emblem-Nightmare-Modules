@@ -1,0 +1,4 @@
+3
+0x00 Male
+0x01 Female
+0xFF None (Generic Enemies)

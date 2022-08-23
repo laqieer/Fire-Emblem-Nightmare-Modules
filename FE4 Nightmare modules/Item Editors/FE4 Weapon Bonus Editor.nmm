@@ -1,0 +1,46 @@
+#FE4 Weapon Bonus Editor Editor
+#
+
+1
+FE4 Weapon Bonus Editor
+0x38BED
+13
+16
+FE4 Weapon Bonus Editor.txt
+NULL
+
+Strength
+0
+1
+NEDU
+NULL
+
+Magic
+1
+1
+NEDU
+NULL
+
+Skill
+2
+1
+NEDU
+NULL
+
+Speed
+3
+1
+NEDU
+NULL
+
+Defense
+4
+1
+NEDU
+NULL
+
+Magic Defense
+5
+1
+NEDU
+NULL

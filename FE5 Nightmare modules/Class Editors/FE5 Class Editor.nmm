@@ -1,0 +1,178 @@
+#FE5 Class Editor By Pukachi
+#
+
+1
+FE5 Class Editor By Pukachi
+0x30200
+119
+36
+FE5 Class List.txt
+NULL
+
+Base HP
+0
+1
+NEDU
+NULL
+
+Base STR
+1
+1
+NEDU
+NULL
+
+Base MGC
+2
+1
+NEDU
+NULL
+
+Base SKL
+3
+1
+NEDU
+NULL
+
+Base SPD
+4
+1
+NEDU
+NULL
+
+Base DEF
+5
+1
+NEDU
+NULL
+
+Base BLD
+6
+1
+NEDU
+NULL
+
+Base MOV
+7
+1
+NEDU
+NULL
+
+Class Relative Power (Affects EXP)
+8
+1
+NDDU
+Class Relative Power.txt
+
+Base Sword Level
+9
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Spear Level
+10
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Axe Level
+11
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Bow Level
+12
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Staff Level
+13
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Fire Level
+14
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Thunder Level
+15
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Wind Level
+16
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Light Level
+17
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Base Dark Level
+18
+1
+NDDU
+FE5 Class Weapon Rank.txt
+
+Class Skills 1 (bitwise)
+19
+1
+NDDU
+Skill List 1.txt
+
+Class Skills 2 (bitwise)
+20
+1
+NDDU
+Skill List 2.txt
+
+Class Skills 3 (bitwise)
+21
+1
+NDDU
+Skill List 3.txt
+
+Default Map Sprite
+22
+1
+NDHU
+Map Sprite List.txt
+
+Movement Type Pointer
+23
+2
+NDHU
+Terrain Movement.txt
+
+Terrain Evasion Type Pointer
+25
+2
+NDHU
+Terrain Evasion.txt
+
+Terrain Defense Type Pointer
+27
+2
+NDHU
+Terrain Defense.txt
+
+Unknown Pointer
+29
+2
+NDHU
+Unknown Pointer.txt
+
+Unknown (promoted only?)
+35
+1
+NDHU
+Unknown Byte.txt

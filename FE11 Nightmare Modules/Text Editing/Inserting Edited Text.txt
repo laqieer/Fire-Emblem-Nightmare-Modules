@@ -1,0 +1,11 @@
+Inserting Edited Text
+----------------------
+
+After you make the changes you want, save the file and recompress it, and then replace the old text file
+with the new text file and recompile your ROM using DSlazy (I'm sure this is explained in some file in this editing package).
+
+Note that these are all examples of text edits and it may not appear *exactly* like this in game.
+
+For the record, it IS possible to not have to worry about character limits and all that annoying stuff. The text would have to be repointed so that there was more space for text and more characters could be allowed in an entry-- I just don't know how to do that which is why I'm not telling you how. If you DO know how, then please contact me as I'd love to know. smashfire17@gmail.com
+
+With that, enjoy editing script/text!

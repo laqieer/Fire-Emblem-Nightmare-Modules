@@ -1,0 +1,40 @@
+Miscellaneous 'Intro' Graphics
+-------------------------------
+
+In the data folder of the unpacked NDS ROM is a folder called 'intro'. There are a bunch of graphics here but I'm not sure what all of them are. Some of the graphics are part of the Class Roll-- please see the pertaining documentation/guide on editing those graphics.
+
+Note: I refer to TSA and map data quite a bit. They are the same thing. Same. Thing. I'll even sometimes say TSA/map data just to remind you they are the same thing and different hackers call them different things.
+
+ESRB Graphic
+-------------
+
+The 'esrb' file has the graphics for the text at the beginning of the game saying 'Online Interactions not Rated by the ESRB'. The graphics are LZ77 compressed (0x10 variant) and are located at 0x3C. Use GBAGE to load the graphics. The graphic mode should be set to 4bit tile graphics as well. The palette is at 0x6A0 in the file.
+
+The best size for this image is 26x10 from what I see, but I could be wrong. Alternatively, you can load the image's map data using GBAGE.
+
+The map data is located at 0x5A0. Unfortunately, the map data/TSA is compressed using an RLE of 00's. My friend Nintenlord made a program that can decompress and compress such data though. It's a DLL called "FEDS Portrait Compression" in Nintenlord's Compressor (which comes with the editors or can be found on google). It says portrait compression, but it's really just RLE compression of zeros. That being said, use the program on offset 0x5A0 and decompress the data to a separate file. You're going to see a lot of 00s and then sequential bytes, but ALL of the data that is decompressed is necessary, even if you're thinking "oh, zeros don't matter".
+
+Then reattach the map/TSA data to the end of the esrb file and make GBAGE use the map data. Set the size to 32x24 and view the image saying "Online Interactions Not Rated by the ESRB". :D
+
+One little problem about this is that the palette is a 16 color palette (including the transparent color) and the graphics are 4bit tile graphics so don't expect to insert some fancy 128 color image instead of the ESRB notification. :\ Also, you're going to have to re-use the same TSA for the image, or alternatively you're going to have to make custom TSA for your new image-- both of them are hassles in my honest opinion, although there are programs that can make custom map data/TSA for images (such as wingrit).
+
+'Gauge' Graphic
+-----------------
+
+I honestly don't know what this is or what it's supposed to be. Good luck messing with it. It doesn't look even remotely interesting so I'm not going to waste my time with it...
+
+'bm' Graphic
+------------------
+
+0x20 byte header at the beginning with a few pointers towards data afterwards and the actual graphic data starting at 0x3C. The graphic data is LZ77 compressed 4bit tile graphics. Use GBAGE to view it. The palette is at 0x23D4 and the TSA is at 0x1F08. The TSA/map data is also LZ77 compressed, so use GBAGE's compressed TSA option to take care of that. The size should be 32x24, 32 width and 24 height. View the image. It looks like some sort of cloudy background and it's reminiscent of something but I can't figure out what. I'm sure if we edited the image and re-inserted it into the game we could find out what's up with it but I'm not going to be bothered. Happy graphic editing. xP
+
+'is' and 'nin' files
+----------------------
+
+The 'is' file works the exact same way as the 'esrb' file does. Instead, it says "Intelligent Systems" and it has the Intelliegent Systems logo. The TSA is at 0x704 and the palette is at 0x830. The graphic data is LZ77 compressed and at 0x3C-- this can be viewed with GBA Graphics Editor. Decompress the TSA in a separate file (it's compressed with an RLE of 00's, just like 'ersb') and put all the data in one ROM, then use GBAGE to load the graphics and enjoy. Make sure the graphics mode is set to 4bit tile graphics and all the offsets are correct. See the 'esrb' graphic explanation for more details.
+
+'nin' works the same way, but with the 'Nintendo' text and logo instead.
+
+That's all there is to what I found. Hope you found it useful! ^_^
+
+

@@ -1,0 +1,3 @@
+Halberdier(M)
+Halberdier(F)
+Halberdier(SP)

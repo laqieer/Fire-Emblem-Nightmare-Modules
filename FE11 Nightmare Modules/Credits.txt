@@ -1,0 +1,44 @@
+Credits
+---------
+
+My online name is most commonly Blazer or Fire Blazer. It's somewhat of a lame nickname,
+but I made it several years ago and it unfornuately stuck. I've been hacking for a long
+while and I excel in Fire Emblem hacking, especially Fire Emblem 7 and Fire Emblem 11 [DS].
+I made this editing package and wrote/created pretty much everything with it except for
+the actual programs like Nightmare, Nintenlord's Compressor, Puyo Tools, etc.
+
+If you use this at all to make a hack please give credit to me and the creators of the programs--I worked hard on this stuff and it's a time consuming, difficult job.
+
+Thank you and I hope you find my Shadow Dragon Editor & Documentation to be useful.
+Besides me, Blazer, whose contact details can be found at the end of this page, there are some other people who deserve some credit and mention here--
+
+Nintenlord- His amazing utilities, patches, inspirations, and hacking discussions. Big thanks to NLZ77 compressor which is a must-have for FEDS editing. Same thing for GBA Graphics Editor, which works great with NDS too. Also, he even made a special program/add-on that can decompress FE11 portraits. This means that people can now hack FE11 portraits! Seriously, Nintenlord is THE man. He's a great person, too. Best of luck to him in the real world. :P
+
+VincentASM- Help with locating data, answering questions, general hacking information, overall just some general help to get me started, he's a great person.
+
+Iggy/Lute- Original page of data for FE7, which led to editors which inspired me to hack
+
+Pukachi- Made first Nightmare editors, which inspired me to hack
+
+Twilkitri- Indirectly and directly taught me about compressions, as well as his programs.
+
+Arch- Very motivational and competitive, an awesome friend, hacker, and tested some patches for me.
+Also made the Item List and helped with some other lists.
+
+
+Motivational~
+--------------
+Seraphinox & Lusty- Friends of mine who if not for them, I probably would not care about Fire Emblem.
+FES Forums- Motivation, fun chats, and more-- seriously, if I'm not motivated, I don't get anything done.
+Shadowofchaos72, DH_Ninja, Felover3, Ryrumeli, TheDangerDan23, - Motivation and listening to my rants. felover3 helped me obtain FEDS before it even came out. These people are -pretty- good friends... XP
+
+Everybody who has ever motivated me or thanked me for the small and useless things I've done.
+
+(C) 2008-2010 Fire Emblem Shrine
+http://www.feshrine.net
+
+Contact me at...
+
+smashfire17@gmail.com
+AIM is fireblazerx17
+http://forums.feshrine.net

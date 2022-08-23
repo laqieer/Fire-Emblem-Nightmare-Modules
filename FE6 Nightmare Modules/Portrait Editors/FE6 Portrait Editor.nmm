@@ -1,0 +1,52 @@
+#FE6 Portrait Editor by flyingace24
+#
+
+1
+FE6 Portrait Editor by flyingace24
+0x66075C
+256
+16
+FE6 Portrait Editor.txt
+NULL
+
+Main Portrait Pointer
+0
+4
+NEHU
+NULL
+
+Mini Portrait Pointer
+4
+4
+NEHU
+NULL
+
+Palette Pointer
+8
+4
+NEHU
+NULL
+
+Mouth X-Position
+12
+1
+NEDU
+NULL
+
+Mouth Y-Position
+13
+1
+NEDU
+NULL
+
+Unknown
+14
+1
+NEHU
+NULL
+
+Unknown
+15
+1
+NEHU
+NULL

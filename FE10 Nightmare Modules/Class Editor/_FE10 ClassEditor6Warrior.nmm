@@ -1,0 +1,159 @@
+#FE10 Base Stats
+
+1
+FE10 Class Editor-Warrior
+0x992c
+1
+112
+FE10 ClassEditor6Warrior.txt
+NULL
+
+Max HP
+36
+1
+NEDU
+NULL
+
+Max STR
+37
+1
+NEDU
+NULL
+
+Max MGC
+38
+1
+NEDU
+NULL
+
+Max SKL
+39
+1
+NEDU
+NULL
+
+Max SPD
+40
+1
+NEDU
+NULL
+
+Max LUC
+41
+1
+NEDU
+NULL
+
+Max DEF
+42
+1
+NEDU
+NULL
+
+Max RES
+43
+1
+NEDU
+NULL
+
+Base HP
+44
+1
+NEDU
+NULL
+
+Base STR
+45
+1
+NEDU
+NULL
+
+Base MGC
+46
+1
+NEDU
+NULL
+
+Base SKL
+47
+1
+NEDU
+NULL
+
+Base SPD
+48
+1
+NEDU
+NULL
+
+Base LUC
+49
+1
+NEDU
+NULL
+
+Base DEF
+50
+1
+NEDU
+NULL
+
+Base RES
+51
+1
+NEDU
+NULL
+
+HP Growth
+52
+1
+NEDU
+NULL
+
+STR Growth
+53
+1
+NEDU
+NULL
+
+MGC Growth
+54
+1
+NEDU
+NULL
+
+SKL Growth
+55
+1
+NEDU
+NULL
+
+SPD Growth
+56
+1
+NEDU
+NULL
+
+LUC Growth
+57
+1
+NEDU
+NULL
+
+DEF Growth
+58
+1
+NEDU
+NULL
+
+RES Growth
+59
+1
+NEDU
+NULL
+
+Movement
+9
+1
+NEDU
+NULL

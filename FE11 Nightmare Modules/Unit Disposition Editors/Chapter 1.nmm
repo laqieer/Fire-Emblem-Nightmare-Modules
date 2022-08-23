@@ -1,0 +1,149 @@
+#Fire Emblem Shadow Dragon Unit Editor (U)
+#http://www.feshrine.net
+#http://forums.feshrine.net
+
+1
+Chapter 1 Unit Editor by Blazer
+0x74
+23
+80
+NULL
+NULL
+
+Character
+0
+1
+NEHU
+NULL
+
+Class
+2
+2
+NEHU
+NULL
+
+Loading X Co-ordinate
+4
+1
+NEDS
+NULL
+
+Loading Y-Co-ordinate
+5
+1
+NEDS
+NULL
+
+Starting X Co-ordinate
+6
+1
+NEDS
+NULL
+
+Starting Y-Co-ordinate
+7
+1
+NEDS
+NULL
+
+Unknown Allegiance Byte (?)
+8
+1
+NDHU
+Enemy 1.txt
+
+Base Level
+9
+1
+NEDU
+NULL
+
+Starting Level
+10
+1
+NEDU
+NULL
+
+Unknown Allegiance Byte (?)
+11
+1
+NDHU
+Enemy 2.txt
+
+Unknown (Ability Byte?)
+12
+1
+NEHU
+NULL
+
+Inventory Slot #1
+16
+1
+NEHU
+NULL
+
+Droppable Item Option
+17
+1
+NDHU
+Droppable.txt
+
+Inventory Slot #2
+18
+1
+NEHU
+NULL
+
+Droppable Item Option
+19
+1
+NDHU
+Droppable.txt
+
+Inventory Slot #3
+20
+1
+NEHU
+NULL
+
+Droppable Item Option
+21
+1
+NDHU
+Droppable.txt
+
+Inventory Slot #4
+22
+1
+NEHU
+NULL
+
+Droppable Item Option
+23
+1
+NDHU
+Droppable.txt
+
+AI Pointer 1
+40
+4
+NEHU
+NULL
+
+AI Pointer 2
+44
+4
+NEHU
+NULL
+
+AI Pointer 3
+48
+4
+NEHU
+NULL
+
+AI Pointer 4
+52
+4
+NEHU
+NULL

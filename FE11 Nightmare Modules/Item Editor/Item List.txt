@@ -1,0 +1,104 @@
+Iron Sword
+Steel Sword
+Silver Sword
+Killing Edge
+Levin Sword
+Devil Sword
+Wyrmslayer
+Armorslayer
+Mercurius
+Rapier
+Wo Dao
+Brave Sword
+Falchion (Fake)
+Falchion (Weak)
+Falchion
+Iron Lance
+Steel Lance
+Silver Lance
+Javelin
+Killer Lance
+Ridersbane
+Wing Spear
+Dragonpike
+Brave Lance
+Gradivus
+Iron Axe
+Steel Axe
+Silver Axe
+Hand Axe
+Killer Axe
+Hammer
+Poleax
+Devil Axe
+Brave Axe
+Hauteclere
+Iron Bow
+Steel Bow
+Silver Bow
+Killer Bow
+Longbow
+Brave Bow
+Parthia
+Arrowspate
+Stonehoist
+Hoistflamme
+Thunderbolt
+Pachyderm
+Firestone
+Earthstone
+Magestone
+Divinestone
+Fire
+Thunder
+Blizzard
+Elfire
+Imhullu (False)
+Bolganone
+Thoron
+Swarm
+Aura
+Excalibur
+Imhullu
+Starlight
+Heal
+Mend
+Recover
+Physic
+Fortify
+Warp
+Barrier
+Hammerne
+Aum
+Door Key
+Bridge Key
+Master Key
+Vulnerary
+Pure Water
+Energy Drop
+Spirit Dust
+Secret Book
+Speedwings
+Goddess Icon
+Dracoshield
+Talisman
+Seraph Robe
+Boots
+Arms Scroll
+Silver Card
+VIP Card
+Master Seal
+Elysian Whip
+Torch
+Iote's Shield
+Lightsphere
+Starsphere
+Geosphere
+Fire Emblem
+Door Key
+Bullion (S)
+Bullion (M)
+Bullion (L)
+Bullion (XL)
+All blanks beyond this point.
+This list was painstakingly created by Arch.

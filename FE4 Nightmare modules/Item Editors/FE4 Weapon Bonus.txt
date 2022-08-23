@@ -1,0 +1,17 @@
+16
+0x0 None
+0x1 Bonus #1 (Tyrfing)
+0x2 Bonus #2 (Narga
+0x3 Bonus #3 (Gungnir)
+0x4 Bonus #4 (Gae Bolg)
+0x5 Bonus #5 (Balmunk)
+0x6 Bonus #6 (Ichieval)
+0x7 Bonus #7 (Swanchika)
+0x8 Bonus #8 (Fala Flame)
+0x9 Bonus #9 (Thor Hammer)
+0xA Bonus #10 (Holsety)
+0xB Bonus #11 
+0xC Bonus #12 (Mistoltin)
+0xD Bonus #13 (Loptous)
+0xE +7 Def
+0xF +7 MD

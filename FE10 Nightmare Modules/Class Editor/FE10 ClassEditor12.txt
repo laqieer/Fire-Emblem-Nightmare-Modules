@@ -1,0 +1,5 @@
+Marshall(Lance)
+Marshall(Axe)
+Marshall(Sword, F)
+Marshall(Zelgius)
+Black Knight

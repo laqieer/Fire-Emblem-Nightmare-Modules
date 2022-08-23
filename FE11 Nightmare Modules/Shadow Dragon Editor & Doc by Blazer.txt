@@ -1,0 +1,20 @@
+Shadow Dragon Editor & Doc by Blazer
+-------------------------------------
+
+Please read the text files before contacting me, getting frustrated, giving up, etc.
+
+I've put up plenty of documentation and notes for people who want to hack and otherwise I've
+written plenty of guides and tutorials telling how to work pretty much each and every thing
+there is in this editing package. The editors aren't done and some guides and stuff may
+be outdated or incorrect or something, please excuse that.
+
+But do read the files that are around here--learn how to decompile your ROM and then
+get the basic Nightmare stuff going, using the READMEs and other guides to help you.
+Then you can go on and try harder stuff like text and graphic editing and if you need
+any help, post on the Fire Emblem Shrine forums at http://forums.feshrine.net or contact
+me somewhere else.
+
+And besides me, Blazer, don't forget about the other people who helped with this,
+all mentioned in the Credits text file.
+
+Good luck and have a good time hacking!

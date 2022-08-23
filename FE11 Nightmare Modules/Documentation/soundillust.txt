@@ -1,0 +1,3 @@
+The file can be uncompressed usin LZ77 decompressor. It has a directory to a bunch of files all starting with
+"evm" or "evp". There isn't much known about this yet but searching for the file names mentioned may lead to
+something.

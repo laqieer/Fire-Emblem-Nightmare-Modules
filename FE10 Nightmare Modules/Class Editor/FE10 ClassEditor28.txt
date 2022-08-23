@@ -1,0 +1,6 @@
+Gold Knight(Sword)
+Gold Knight(M)
+Gold Knight(F)
+Silver Knight(Lance, M)
+Silver Knight(Lance, F)
+Silver Knight(Bow, F)

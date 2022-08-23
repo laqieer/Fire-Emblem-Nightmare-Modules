@@ -1,0 +1,76 @@
+#FE4 Enemy Editor 9
+#
+
+1
+FE4 Enemy Editor 9
+0x3C6E9
+12
+13
+NULL
+NULL
+
+Character Type
+0
+1
+NDHU
+FE4 Character Type.txt
+
+Chararacter Number
+1
+2
+NDHU
+FE4 Character Numbers.txt
+
+Chararacter Name
+3
+2
+NDHU
+FE4 Character Name Numbers.txt
+
+Class
+5
+1
+NDHU
+FE4 Classes.txt
+
+Gender
+6
+1
+NDHU
+FE4 Gender.txt
+
+Level
+7
+1
+NEDU
+NULL
+
+Leadership
+8
+1
+NEDU
+NULL
+
+Unknown
+9
+1
+NEHU
+NULL
+
+Equipment 1
+10
+1
+NDHU
+FE4 Weapon List.txt
+
+Equipment 2
+11
+1
+NDHU
+FE4 Weapon List.txt
+
+Dropable Equipment
+12
+1
+NDHU
+FE4 Player Equipment.txt

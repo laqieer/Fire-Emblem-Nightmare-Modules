@@ -1,0 +1,30 @@
+How to Make Modules for Other Chapters
+----------------------------------------
+
+I don't have the time to create modules for every chapter, so here's how to make it yourself.
+If someone wants to do this and then give me the modules so that I can share them with
+everyone, then that'd be greatly appreciated...
+
+Copy the Chapter 1 NMM (nightmare module) and rename it to whatever. Open the file
+using a text editor and change the chapter # to whatever.
+
+Where it says this:
+
+1
+Chapter 1 Unit Editor by Blazer
+0x74
+23
+80
+NULL
+NULL
+
+Edit the '23' part to however many units there are in that chapter. To find out how many unit
+slots there are, go inside the unit data file (all the files are in the 'dispos' folder of
+the game's data, named bmap### depending on the chapter) and go to offset 0x74.
+
+Then go all the way until you reach the end of the unit data and you see some ASCII text.
+Select all of the unit data there and find out how many bytes (in hex) you have selected.
+Then take that #, use MS Calculator in Scientific Mode or some other hex calculator and type
+in the # you just got (making sure you are in hex mode). Then divide that # by 0x50.
+The result is how many unit entries/slots/whatever you want to call them there are in
+a chapter's unit data file. =D

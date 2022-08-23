@@ -1,0 +1,82 @@
+81
+0x00 None
+0x01 Tordo
+0x02 Tordo+
+0x04 Holsety
+0x08 Holsety+
+0x10 Blagi
+0x20 Blagi+
+0x40 Hezul
+0x80 Hezul+
+0x05 Tordo, Holsety
+0x09 Tordo, Holsety+
+0x11 Tordo, Blagi
+0x21 Tordo, Blagi+
+0x41 Tordo, Hezul
+0x81 Tordo, Hezul+
+0x06 Tordo+, Holsety
+0x0A Tordo+, Holsety+
+0x12 Tordo+, Blagi
+0x22 Tordo+, Blagi+
+0x42 Tordo+, Hezul
+0x82 Tordo+, Hezul+
+0x14 Holsety, Blagi
+0x24 Holsety, Blagi+
+0x44 Holsety, Hezul
+0x84 Holsety, Hezul+
+0x18 Holsety+, Blagi
+0x28 Holsety+, Blagi+
+0x48 Holsety+, Hezul
+0x88 Holsety+, Hezul+
+0x50 Blagi, Hezul
+0x90 Blagi, Hezul+
+0x60 Blagi+, Hezul
+0xA0 Blagi+, Hezul+
+0x15 Tordo, Holsety, Blagi
+0x25 Tordo, Holsety, Blagi+
+0x45 Tordo, Holsety, Hezul
+0x85 Tordo, Holsety, Hezul+
+0x19 Tordo, Holsety+, Blagi
+0x29 Tordo, Holsety+, Blagi+
+0x49 Tordo, Holsety+, Hezul
+0x89 Tordo, Holsety+, Hezul+
+0x51 Tordo, Blagi, Hezul
+0x91 Tordo, Blagi, Hezul+
+0x61 Tordo, Blagi+, Hezul
+0xA1 Tordo, Blagi+, Hezul+  
+0x16 Tordo+, Holsety, Blagi
+0x26 Tordo+, Holsety, Blagi+
+0x46 Tordo+, Holsety, Hezul
+0x86 Tordo+, Holsety, Hezul+
+0x1A Tordo+, Holsety+, Blagi
+0x2A Tordo+, Holsety+, Blagi+
+0x4A Tordo+, Holsety+, Hezul 
+0x8A Tordo+, Holsety+, Hezul+
+0x52 Tordo+, Blagi, Hezul
+0x92 Tordo+, Blagi, Hezul+
+0x62 Tordo+, Blagi+, Hezul
+0xA2 Tordo+, Blagi+, Hezul+ 
+0x54 Holsety, Blagi, Hezul
+0x94 Holsety, Blagi, Hezul+
+0x64 Holsety, Blagi+, Hezul
+0xA4 Holsety, Blagi+, Hezul+
+0x58 Holsety+, Blagi, Hezul
+0x98 Holsety+, Blagi, Hezul+
+0x68 Holsety+, Blagi+, Hezul
+0xA8 Holsety+, Blagi+, Hezul+
+0x55 Tordo, Holsety, Blagi, Hezul
+0x95 Tordo, Holsety, Blagi, Hezul+
+0x65 Tordo, Holsety, Blagi+, Hezul
+0xA5 Tordo, Holsety, Blagi+, Hezul+
+0x59 Tordo, Holsety+, Blagi, Hezul
+0x99 Tordo, Holsety+, Blagi, Hezul+
+0x69 Tordo, Holsety+, Blagi+, Hezul
+0xA9 Tordo, Holsety+, Blagi+, Hezul+
+0x56 Tordo+, Holsety, Blagi, Hezul
+0x96 Tordo+, Holsety, Blagi, Hezul+
+0x66 Tordo+, Holsety, Blagi+, Hezul
+0xA6 Tordo+, Holsety, Blagi+, Hezul+
+0x5A Tordo+, Holsety+, Blagi, Hezul
+0x9A Tordo+, Holsety+, Blagi, Hezul+
+0x6A Tordo+, Holsety+, Blagi+, Hezul
+0xAA Tordo+, Holsety+, Blagi+, Hezul+

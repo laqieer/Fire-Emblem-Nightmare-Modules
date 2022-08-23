@@ -1,0 +1,5 @@
+In the "fx" and "ffx" folders are some files ending with .fx. I think some other folders also have similar files.
+
+These files seem to have headers of 0x20 bytes followed by pointer tables to data, text labels, and a pointer table to those text labels, then animation data, and what seems like LZ77-10 compressed TSA data at the end. I'm going to guess somewhere in between is some graphical data and palette data but I'm not sure where nor do I care much simply because I've covered the compressions used in FE11 to the extent that if someone wants to hack the graphics, they can use the pointer tables to locate the graphics, decompress, view, hack, re-insert, etc., but doing such a thing amidst all the other stuff the .fx files might have, and actually locating data, is not in my interest.
+
+Sorry that I'm not much help here: good luck to anyone who might try and hack these files successfully. Please do document such hacking if it happens. Thanks.

@@ -1,0 +1,4 @@
+Fire Mage
+Thunder Mage(M)
+Thunder Mage(F)
+Wind Mage

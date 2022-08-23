@@ -1,0 +1,12 @@
+11
+0x0 None, Cause Status Effect
+0x1 Long Range Spell
+0x2 Long & Short Range Spell-Capable
+0x3 Absorb Health
+0x4 Hit Twice
+0x5 Uncounterable
+0x6 Blade Status Effect
+0x7 Loptous Effect
+0x8 Nullify Loptous Effect
+0x9 Hell Effect
+0xA Female Only

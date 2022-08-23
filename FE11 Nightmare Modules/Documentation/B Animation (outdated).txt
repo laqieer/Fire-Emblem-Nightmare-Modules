@@ -1,0 +1,7 @@
+The 'b' folder has the animation data for all the classes.
+
+Normal animation files don't have extensions. I don't see any compression, or at least it's not apparent. 
+
+Although it's just a guess, I think that the last 0x400 bytes contain the standard palette for the default class. I think that would mean it's the palette for the blue units of the class. I haven't actually checked this, tested it, looked into details of how it works, but it's something I noticed and I have a pretty good feeling about it.
+
+As for other random jots, I don't have much. I figure how animations are coded is going to be even more complex than before. I do believe that the graphics are somewhere within the files, especially considering the files are so large. It's also safe to assume the format isn't like GBA Fire Emblem animations. I'm guessing that the coding is a lot simpler and that there are things on the side that might control aspects like sound effects, background scrolling, etc.

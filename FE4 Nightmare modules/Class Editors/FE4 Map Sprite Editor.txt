@@ -1,0 +1,96 @@
+95
+0x0000: Mage Female
+0x0001: Mage Male
+0x0002: Priest Female
+0x0003: Lord
+0x0004: Sword Fighter Male
+0x0005: Lance Armor
+0x0006: Barbarian
+0x0007: Bow Fighter Male
+0x0008: Soldier
+0x0009: Bow Fighter Female
+0x000a: Axe Armor
+0x000b: Archer
+0x000c: Dancer
+0x000d: Sword Fighter Female
+0x000e: Princess
+0x000f: Thief Male
+0x0010: General
+0x0011: Shaman
+0x0012: Axe Fighter
+0x0013: Wind Mage Male
+0x0014: Wind Mage Female
+0x0015: Priest Male
+0x0016: Hunter
+0x0017: Sword Master Male
+0x0018: Forrest Male
+0x0019: Warrior
+0x001a: Mountain Thief
+0x001b: Pirate
+0x001c: Forrest Female
+0x001d: Baron
+0x001e: High Priest Female
+0x001f: Sword Master Female
+0x0020: Sniper Female
+0x0021: Sniper Male
+0x0022: Emperor
+0x0023: Sword Soldier
+0x0024: Axe Soldier
+0x0025: Spear Soldier
+0x0026: Sword Armor
+0x0027: Bow Armor
+0x0028: Fire Mage Female
+0x0029: Fire Mage Male
+0x002a: Thunder Mage Female
+0x002b: Thunder Mage Male
+0x002c: High Priest Male
+0x002d: Mage Fighter Female
+0x002e: Dark Bishop
+0x002f: Dark Mage
+0x0030: Prince
+0x0031: Mage Fighter Male
+0x0032: Kid Female
+0x0033: Kid Male
+0x0034: Queen
+0x0035: Bishop
+0x0036: Civilian Male
+0x0037: Civilian Female
+0x0038: Thief Fighter Female
+0x0039: Bard
+0x003a: Thief Female
+0x003b: Thief Fighter Male
+0x003c: Sage Male
+0x003d: Sage Female
+0x003e: Dark Prince
+0x003f: Shannan Kid
+0x8000: Dragon Rider Male
+0x8001: Social Knight
+0x8002: Pegasus Rider
+0x8003: Duke Knight
+0x8004: Axe Knight
+0x8005: Free Knight
+0x8006: Arch Knight
+0x8007: Lance Knight
+0x8008: Lord Knight Celice
+0x8009: Troubadour
+0x800a: Lord Knight Sigurd
+0x800b: Paladin Male
+0x800c: Dragon Master Male
+0x800d: Bow Knight
+0x800e: Great Knight
+0x800f: Mage Knight Male
+0x8010: Dragon Knight Male
+0x8011: Pegasus Knight
+0x8012: Falcon Knight
+0x8013: Master Knight Male
+0x8014: Forrest Knight
+0x8015: Long Arch
+0x8016: Iron Arch
+0x8017: Killer Arch
+0x8018: Great Arch
+0x8019: Dragon Rider Female
+0x801a: Dragon Rider Female
+0x801b: Dragon Master Female
+0x801c: Paladin Female
+0x801d: Mage Knight Female
+0x801e: Master Knight Female

@@ -1,0 +1,60 @@
+59
+0x8662828 Lord
+0x8662838 Mercenary
+0x8662844 Hero
+0x866285C Hero (F)
+0x8662874 Myrmidon
+0x8662880 Myrmidon (F)
+0x866288C Swordmaster
+0x8662898 Swordmaster (F)
+0x86628A4 Fighter
+0x86628B8 Warrior
+0x86628D0 Knight
+0x86628DC Knight (F)
+0x86628E8 General
+0x8662900 General (F)
+0x8662918 Archer
+0x8662930 Archer (F)
+0x8662948 Sniper
+0x8662960 Sniper (F)
+0x8662978 Priest
+0x8662984 Cleric
+0x8662990 Bishop
+0x86629A8 Bishop (F)
+0x86629C0 Mage
+0x86629D4 Mage (F)
+0x86629E8 Sage
+0x8662A00 Sage (F)
+0x8662A18 Shaman
+0x8662A2C Shaman (F)
+0x8662A40 Druid
+0x8662A58 Druid (F)
+0x8662A70 Cavalier
+0x8662A80 Paladin
+0x8662A94 Troubador
+0x8662AA0 Valkyrie
+0x8662AB8 Nomad
+0x8662AC4 Nomad (F)
+0x8662AD0 Nomad Trooper
+0x8662AE0 Nomad Trooper (F)
+0x8662AF0 Pegasus Knight
+0x8662AFC Falco Knight
+0x8662B0C Wyvern Rider
+0x8662B18 Wyvern Rider (F)
+0x8662B24 Wyvern Lord
+0x8662B34 Wyvern Lord (F)
+0x8662B44 Soldier
+0x8662B50 Brigand
+0x8662B64 Pirate
+0x8662B78 Berserker
+0x8662B8C Thief
+0x8662B98 Thief (F)
+0x8662BA4 Bard
+0x8662BAC Dancer
+0x8662BB4 Mamkute
+0x8662BC0 Mamkute (F)
+0x8662BCC Fire Dragon
+0x8662BDC Divine Dragon
+0x8662BEC Magic Dragon
+0x8662BF8 Emperor
+0x8662C04 Master Lord

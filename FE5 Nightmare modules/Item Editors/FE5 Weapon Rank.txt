@@ -1,0 +1,48 @@
+47
+0x0000 -
+0x0032 E
+0x0064 D
+0x0096 C
+0x00C8 B
+0x00FA A
+0xF560 ---->Custom Lock 1<----
+0xF570 ---->Custom Lock 2<----
+0xF580 ---->Custom Lock 3<----
+0xF590 ---->Custom Lock 4<----
+0xF5A0 ---->Custom Lock 5<----
+0xF5B0 ---->Custom Lock 6<----
+0xF5C0 ---->Custom Lock 7<----
+0xF5D0 ---->Custom Lock 8<----
+0xF5E0 ---->Custom Lock 9<----
+0xF5F0 ---->Custom Lock 10<----
+0xF600 ---->Custom Lock 11<----
+0xF610 ---->Custom Lock 12<----
+0xF620 ---->Custom Lock 13<----
+0xF630 ---->Custom Lock 14<----
+0xF640 ---->Custom Lock 15<----
+0xF650 ---->Custom Lock 16<----
+0x99DA Nanna
+0x99DE Asvel
+0x99EC Sara
+0x99F0 Sety
+0x99FA Nanna/Delmud/Fergus/Leaf
+0x9A64 Leidrick/Ains
+0x9A3A Fergus/Delmud
+0x9A52 Olwen/Reinhardt
+0x9A00 Leaf
+0x9A4E Mareeta
+0x9A44 Althenna/Dean
+0x9A40 Finn
+0x9A04 Othin/(Berserker)
+0x9A0E Manster/Freege
+0x9A22 (Iron Arch)/Freege
+0x9A1A Nobody
+0x9A1C Freege/Manster
+0x9A76 Nobody
+0x9A0A Ishtar
+0x9A6C Araphen/Loputo/Beldo
+0x9A76 Nobody
+0x9A78 Nobody
+0x9A36 Saphy
+0x9A28 Tina/Loputo
+0x9A2E Tina/Freege/Loputo

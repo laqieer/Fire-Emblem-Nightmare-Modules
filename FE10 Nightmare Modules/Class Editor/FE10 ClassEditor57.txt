@@ -1,0 +1,8 @@
+Pilgrim
+Vendor
+Citizen(Old Man)
+Citizen(Male)
+Citizen(Female)
+Citizen(M, Child)
+Citizen(F, Child)
+Horse

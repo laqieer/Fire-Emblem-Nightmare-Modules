@@ -1,0 +1,32 @@
+31
+0x00 Nothing
+0x01 Recover
+0x02 Bargain
+0x04 Return
+0x08 Pursuit
+0x10 Knight
+0x03 Recover, Bargain
+0x05 Recover, Return
+0x09 Recover, Pursuit
+0x11 Recover Knight
+0x06 Bargain, Return
+0x0A Bargain, Pursuit
+0x12 Bargain, Knight
+0x0C Return, Pursuit
+0x14 Return, Knight
+0x18 Pursuit, Knight
+0x07 Recover, Bargain, Return
+0x0B Recover, Bargain, Pursuit
+0x13 Recover, Bargain, Knight
+0x0D Recover, Return, Pursuit
+0x15 Recover, Return, Knight
+0x19 Recover, Pursuit, Knight
+0x0E Bargain, Return, Pursuit
+0x1A Bargain, Return, Knight
+0x1C Return, Pursuit, Knight
+0x0F Recover, Bargain, Return, Pursuit
+0x17 Recover, Bargain, Return, Knight
+0x1B Recover, Bargain, Pursuit, Knight
+0x1D Recover, Return, Pursuit, Knight
+0x1E Bargain, Return, Pursuit, Knight
+0x1F Recvr, Bargn, Retrn, Prsuit, Knght

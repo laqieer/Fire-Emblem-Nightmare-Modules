@@ -1,0 +1,9 @@
+8
+0x00 None
+0x01 Mounted
+0x02 Airborne
+0x08 Armor
+0x03 Mounted, Airborne
+0x09 Mounted, Armor
+0x0A Airborne, Armor
+0x0B Mounted, Airborne, Armor

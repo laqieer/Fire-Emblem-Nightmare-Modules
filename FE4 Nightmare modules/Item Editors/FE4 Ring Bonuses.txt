@@ -1,0 +1,66 @@
+65
+0x00 None
+0x03 Strength
+0x02 Magic
+0x07 Skill
+0x01 Speed
+0x04 Def
+0x05 MDef
+0x06 Move
+0x08 Strength, Def
+0x3E Strength, MDef
+0x38 Strength, Move
+0x0A Magic, Def
+0xD5 Magic, Skill
+0x5F Magic, Speed
+0x53 Skill, Def
+0x16 Skill, Move
+0x2E Speed, Def
+0x2B Def, MDef
+0xC1 Def, Move
+0x18 Strength, Magic, Skill
+0x90 Strength, Magic, Def
+0xC7 Strength, Magic, Move
+0x39 Strength, Skill, Speed
+0x0B Strength, Skill, Def
+0x0D Strength, Skill, MDef
+0x80 Strength, Speed, Move
+0xFC Strength, Speed, MDef
+0x1D Strength, Def, MDef
+0x56 Strength, Def, Move
+0x19 Strength, MDef, Move
+0x2F Magic, Skill, Def
+0x57 Magic, Def, Move
+0x9D Skill, Speed, Def
+0x24 Def, MDef, Move
+0x4B Strength, Magic, Skill, Speed
+0x37 Strength, Magic, Skill, Def
+0x81 Strength, Magic, Skill, MDef
+0xC2 Strength, Magic, Skill, Move
+0x0C Strength, Magic, Speed, Def
+0xB1 Strength, Magic, Speed, MDef
+0xBA Strength, Magic, Def, MDef
+0xA5 Strength, Magic, Def, Move
+0x13 Strength, Skill, Def, MDef
+0x54 Strength, Skill, Def, Move
+0x46 Strength, Skill, MDef, Move
+0xC4 Strength, Speed, Def, MDef
+0x97 Strength, Def, MDef, Move
+0x1B Magic, Skill, Speed, MDef
+0x55 Magic, Skill, Def, Move
+0x28 Magic, Speed, Def, MDef
+0x14 Skill, Speed, Def, MDef
+0x17 Speed, Def, MDef, Move
+0xCD Strength,Magic,Skill,Speed,Def
+0x94 Strength,Magic,Skill,Speed,Move
+0x7B Strength,Magic,Skill,MDef,Move
+0x59 Strength,Magic,Speed,Def,Move
+0x20 Strength, Skill, Def, MDef, Move
+0x21 Magic, Skill, Def, MDef, Move
+0x36 Magic, Skill, Speed, MDef, Move
+0xB4 Strength, Skill, Speed, Def, MDef
+0x52 Str,Magic,Skill,Speed,Def,Move
+0xB2 Str,Magic,Skill,Def,MDef,Move
+0x23 Str,Skill,Speed,Def,MDef,Move
+0x26 Mag,Skill,Speed,Def, MDef,Move
+0x89 Str,Mag,Skl,Spd,Def,MDef,Move

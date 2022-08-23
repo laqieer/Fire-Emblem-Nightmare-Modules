@@ -1,0 +1,11 @@
+NDDU: Decimal dropdown (uses file)
+NDHU: Hexadecimal dropdown (uses file)
+NEDU: unsigned decimal input (uses NULL)
+NEDS: signed decimal input (uses NULL)
+NEHU: hexadecimal value input (uses NULL)
+HEXA: hexadecimal sequence (uses NULL, may exceed 4 byte)
+
+For the format of the text file (e.g. Class List.txt), begin your line with the number of value (no more than the number of your data).
+
+
+~ explanation by: Icecube at http://feuniverse.us/t/nightmare-module-format-explained/267/2 ~

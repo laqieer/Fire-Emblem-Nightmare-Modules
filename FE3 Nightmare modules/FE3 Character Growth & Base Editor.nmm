@@ -1,0 +1,114 @@
+#FE3 Character Growth & Base Editor by Camus
+#
+
+1
+FE3 Character Growth & Base Editor by Camus
+0x41401
+172
+17
+FE3 Character List.txt
+NULL
+
+
+Base Strength
+0
+1
+NEDU
+NULL
+
+Base Skill
+1
+1
+NEDU
+NULL
+
+Base Speed
+2
+1
+NEDU
+NULL
+
+Base Luck
+3
+1
+NEDU
+NULL
+
+Base Defense
+4
+1
+NEDU
+NULL
+
+
+Base Magic Def.
+5
+1
+NEDU
+NULL
+
+Base HP
+6
+1
+NEDU
+NULL
+
+Base Weapon Lvl.
+7
+1
+NEDU
+NULL
+
+Gender
+8
+1
+NDHU
+FE3 Gender.txt
+
+Strength Growth
+9
+1
+NEDU
+NULL
+
+Skill Growth
+10
+1
+NEDU
+NULL
+
+Speed Growth
+11
+1
+NEDU
+NULL
+
+Luck Growth
+12
+1
+NEDU
+NULL
+
+Defense Growth
+13
+1
+NEDU
+NULL
+
+Magic Def. Growth
+14
+1
+NEDU
+NULL
+
+HP Growth
+15
+1
+NEDU
+NULL
+
+Weapon Skill Growth
+16
+1
+NEDU
+NULL

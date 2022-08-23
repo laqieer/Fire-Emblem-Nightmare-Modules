@@ -1,0 +1,238 @@
+#FE5 Character Editor By Pukachi
+#
+
+1
+FE5 Character Editor By Pukachi
+0x31C2D
+341
+48
+FE5 Character Editor.txt
+NULL
+
+Base HP
+0
+1
+NEDU
+NULL
+
+Base STR
+1
+1
+NEDU
+NULL
+
+Base MGC
+2
+1
+NEDU
+NULL
+
+Base SKL
+3
+1
+NEDU
+NULL
+
+Base SPD
+4
+1
+NEDU
+NULL
+
+Base DEF
+5
+1
+NEDU
+NULL
+
+Base BLD
+6
+1
+NEDU
+NULL
+
+Base LCK
+7
+1
+NEDU
+NULL
+
+MOV Bonus
+8
+1
+NEDU
+NULL
+
+Movement Stars
+9
+1
+NDHU
+Movement Stars.txt
+
+Counter Critical Boost
+10
+1
+NEDU
+NULL
+
+HP Growth
+11
+1
+NEDU
+NULL
+
+STR Growth
+12
+1
+NEDU
+NULL
+
+MGC Growth
+13
+1
+NEDU
+NULL
+
+SKL Growth
+14
+1
+NEDU
+NULL
+
+SPD Growth
+15
+1
+NEDU
+NULL
+
+DEF Growth
+16
+1
+NEDU
+NULL
+
+BLD Growth
+17
+1
+NEDU
+NULL
+
+LCK Growth
+18
+1
+NEDU
+NULL
+
+MOV Growth
+19
+1
+NEDU
+NULL
+
+Base Sword Level
+20
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Spear Level
+21
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Axe Level
+22
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Bow Level
+23
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Staff Level
+24
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Fire Level
+25
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Thunder Level
+26
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Wind Level
+27
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Light Level
+28
+1
+NDDU
+Character Weapon Rank.txt
+
+Base Dark Level
+29
+1
+NDDU
+Character Weapon Rank.txt
+
+Gender
+40
+1
+NDDU
+Character Gender.txt
+
+Character Skills 1
+41
+1
+NDDU
+Skill List 1.txt
+
+Character Skills 2
+42
+1
+NDDU
+Skill List 2.txt
+
+Character Skills 3
+43
+1
+NDDU
+Skill List 3.txt
+
+Class
+44
+1
+NDHU
+Class List.txt
+
+Leadership Stars
+45
+1
+NDDU
+Leadership Stars.txt
+
+Map Sprite
+46
+1
+NDHU
+Map Sprite List.txt
+
+Portrait
+47
+1
+NDHU
+Portrait List.txt

@@ -1,0 +1,110 @@
+#FE10 Growth Rate Module to be used with FE10data.tpl
+
+1
+FE10 Growth Rates-Volke, Aran
+0x1171
+2
+80
+FE10 Growth Rates21.txt
+NULL
+
+HP Stat Addition
+0
+1
+NEDS
+NULL
+
+STR Stat Addition
+1
+1
+NEDS
+NULL
+
+MGC Stat Addition
+2
+1
+NEDS
+NULL
+
+SKL Stat Addition
+3
+1
+NEDS
+NULL
+
+SPD Stat Addition
+4
+1
+NEDS
+NULL
+
+LUC Stat Addition
+5
+1
+NEDS
+NULL
+
+DEF Stat Addition
+6
+1
+NEDS
+NULL
+
+RES Stat Addition
+7
+1
+NEDS
+NULL
+
+HP Growth
+10
+1
+NEDU
+NULL
+
+
+STR Growth
+11
+1
+NEDU
+NULL
+
+
+MGC Growth
+12
+1
+NEDU
+NULL
+
+
+SKL Growth
+13
+1
+NEDU
+NULL
+
+
+SPD Growth
+14
+1
+NEDU
+NULL
+
+
+LCK Growth
+15
+1
+NEDU
+NULL
+
+DEF Growth
+16
+1
+NEDU
+NULL
+
+RES Growth
+17
+1
+NEDU
+NULL

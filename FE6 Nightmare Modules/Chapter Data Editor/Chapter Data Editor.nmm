@@ -1,0 +1,306 @@
+#Chapter Data Editor (FE6) - By Kate & Arch - V 0.8.0
+#
+
+1
+Chapter Data Editor (FE6) - By Kate & Arch - V 0.8.0
+0x6637A4
+45
+68
+ChapterList.txt
+NULL
+
+Chapter Number Pointer
+0
+4
+NEHU
+NULL
+
+Object Set part 1
+4
+1
+NDHU
+Pointerlist.txt
+
+Object Set part 2
+5
+1
+NDHU
+Pointerlist.txt
+
+Palette
+6
+1
+NDHU
+Pointerlist.txt
+
+Tile Configuration
+7
+1
+NDHU
+Pointerlist.txt
+
+Map
+8
+1
+NDHU
+Pointerlist.txt
+
+Tile Animations Part 1
+9
+1
+NDHU
+Pointerlist.txt
+
+Tile Animations Part 2
+10
+1
+NDHU
+Pointerlist.txt
+
+Triggerable Map Changes
+11
+1
+NDHU
+Pointerlist.txt
+
+Fog Vision Distance (0 for no fog)
+12
+1
+NEDU
+NULL
+
+Chapter Opening
+13
+1
+NDHU
+ChapterOpenings.txt
+
+Chapter Name
+14
+1
+NEHU
+NULL
+
+Byte 16 (Unknown)
+15
+1
+NEHU
+NULL
+
+Byte 17 (Unknown)
+16
+1
+NEHU
+NULL
+
+Weather
+17
+1
+NDHU
+Weather.txt
+
+Combat Tiles
+18
+1
+NDHU
+CombatTiles.txt
+
+Hard Mode Enemy Stat Bonuses?
+19
+1
+NEHU
+NULL
+
+Player Phase BGM
+20
+1
+NDHU
+FE6 Song List.txt
+
+Enemy Phase BGM
+21
+1
+NDHU
+FE6 Song List.txt
+
+NPC Phase BGM
+22
+1
+NDHU
+FE6 Song List.txt
+
+Chapter Introduction BGM
+23
+1
+NDHU
+FE6 Song List.txt
+
+
+Ch. Opening BGM
+24
+1
+NDHU
+FE6 Song List.txt
+
+(Unknown)
+25
+1
+NEHU
+NULL
+
+(Unknown)
+26
+2
+NEHU
+NULL
+
+(Unknown)
+28
+2
+NEHU
+NULL
+
+
+(Unknown)
+30
+2
+NEHU
+NULL
+
+(Unknown)
+32
+2
+NEHU
+NULL
+
+(Unknown)
+34
+2
+NEHU
+NULL
+
+(Unknown)
+36
+2
+NEHU
+NULL
+
+(Unknown)
+38
+2
+NEHU
+NULL
+
+(Unknown)
+40
+2
+NEHU
+NULL
+
+(Unknown)
+42
+2
+NEHU
+NULL
+
+(Unknown)
+44
+1
+NEHU
+NULL
+
+(Unknown)
+45
+1
+NEHU
+NULL
+
+(Unknown)
+46
+1
+NEHU
+NULL
+
+(Unknown)
+47
+1
+NEHU
+NULL
+
+Goal Text (Data Screen)
+48
+2
+NEHU
+NULL
+
+Ally Army Title
+50
+2
+NEHU
+NULL
+
+Enemy Army Title
+52
+2
+NEHU
+NULL
+
+Enemy Emblem (Data Screen)
+54
+1
+NDHU
+Mini Portraits.txt
+
+(Unknown)
+55
+1
+NEHU
+NULL
+
+(Unknown)
+56
+1
+NEHU
+NULL
+
+(Unknown)
+57
+1
+NEHU
+NULL
+
+Event Data Reference
+58
+1
+NDHU
+Pointerlist.txt
+
+Worldmap Pre-Chapter Scene
+59
+1
+NDHU
+Pointerlist.txt
+
+(Unknown)
+60
+1
+NEHU
+NULL
+
+(Unknown)
+62
+2
+NEHU
+NULL
+
+(Unknown)
+64
+2
+NEHU
+NULL
+
+(Unknown)
+66
+2
+NEHU
+NULL

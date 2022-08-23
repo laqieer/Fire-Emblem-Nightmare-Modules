@@ -1,0 +1,159 @@
+#FE10 Base Stats
+
+1
+FE10 Class Editor-Druid
+0xb114
+2
+116
+FE10 ClassEditor21.txt
+NULL
+
+Max HP
+40
+1
+NEDU
+NULL
+
+Max STR
+41
+1
+NEDU
+NULL
+
+Max MGC
+42
+1
+NEDU
+NULL
+
+Max SKL
+43
+1
+NEDU
+NULL
+
+Max SPD
+44
+1
+NEDU
+NULL
+
+Max LUC
+45
+1
+NEDU
+NULL
+
+Max DEF
+46
+1
+NEDU
+NULL
+
+Max RES
+47
+1
+NEDU
+NULL
+
+Base HP
+48
+1
+NEDU
+NULL
+
+Base STR
+49
+1
+NEDU
+NULL
+
+Base MGC
+50
+1
+NEDU
+NULL
+
+Base SKL
+51
+1
+NEDU
+NULL
+
+Base SPD
+52
+1
+NEDU
+NULL
+
+Base LUC
+53
+1
+NEDU
+NULL
+
+Base DEF
+54
+1
+NEDU
+NULL
+
+Base RES
+55
+1
+NEDU
+NULL
+
+HP Growth
+56
+1
+NEDU
+NULL
+
+STR Growth
+57
+1
+NEDU
+NULL
+
+MGC Growth
+58
+1
+NEDU
+NULL
+
+SKL Growth
+59
+1
+NEDU
+NULL
+
+SPD Growth
+60
+1
+NEDU
+NULL
+
+LUC Growth
+61
+1
+NEDU
+NULL
+
+DEF Growth
+62
+1
+NEDU
+NULL
+
+RES Growth
+63
+1
+NEDU
+NULL
+
+Movement
+9
+1
+NEDU
+NULL

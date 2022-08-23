@@ -1,0 +1,138 @@
+Iron Sword
+Steel Sword
+Silver Sword
+Iron Blade
+Steel Blade
+Silver Blade
+Prayer Sword
+Thief Sword
+Barrier Sword
+Berserk Sword
+Hero's Sword
+Silence Sword
+Sleep Sword
+Thin Sword
+Defence Sword
+Fire Sword
+Earth Sword
+Thunder Sword
+Wind Sword
+Light Sword
+Mistoltin
+Tyrfing
+Balmunk
+Armor Killer
+Wing Clipper
+Broken Sword (A)
+Broken Sword (B)
+Broken Sword (C)
+Iron Lance
+Steel Lance
+Silver Lance
+Hand Lance
+Knight Killer
+Hero's Lance
+Thin Lance
+Gungnir
+Gae Bolg
+Broken Lance (A)
+Broken Lance (B)
+Broken Lance (C)
+Iron Axe
+Steel Axe
+Silver Axe
+Hero's Axe
+Swanchika
+Hand Axe
+Broken Axe (A)
+Broken Axe (B)
+Broken Axe (C)
+Iron Bow
+Steel Bow
+Silver Bow
+Hero's Bow
+Killer Bow
+Ichieval
+Broken Bow (A)
+Broken Bow (B)
+Broken Bow (C)
+Long Arch
+Iron Arch
+Killer Arch
+Gold Arch
+Fire
+El Fire
+Volcanon
+Fala Flame
+Meteo
+Thunder
+El Thunder 
+Torron
+Tor Hammer
+Thunderstorm
+Wind
+El Wind
+Tornado
+Holsety
+Blizzard
+Lightning
+Rizziah
+Aura
+Narga
+Yotsmungand
+Fenrir
+Hell
+Loptous
+Empty Book
+Empty Book
+Empty Book
+Live Staff
+Relive Staff
+Recover Staff
+Libro Staff
+Reserve Staff
+Return Staff
+Warp Staff
+Rescue Staff
+Charm Staff
+Rest Staff
+Valkyre Staff
+Silence Staff
+Sleep Staff
+Berserk Staff
+Thief Staff
+Broken Staff
+Broken Staff
+Broken Staff
+Live Bracelet
+Elite Ring
+Thief Bracelet
+Prayer Bracelet
+Pursuit Ring
+Recover Ring
+Bargain Bracelet
+Knight Ring
+Return Ring
+Speed Ring
+Magic Ring
+Power Ring
+Shield Ring
+Barrier Ring
+Leg Ring
+Skill Ring
+Broken Sword
+Broken Lance
+Broken Bow
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Empty Book
+Broken Staff
+Circlet

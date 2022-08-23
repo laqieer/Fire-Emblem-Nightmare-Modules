@@ -1,0 +1,4 @@
+Armor Lance
+Armor Axe
+Armor Sword(M)
+Armor Sword(F)

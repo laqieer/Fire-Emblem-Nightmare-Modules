@@ -1,0 +1,7 @@
+6 
+0x860C978 Defence bonus 
+0x860C9AB Avoid bonus 
+0x860C9DE Resistance bonus 
+0x860CA11 Defence bonus(fliers) 
+0x860CA44 Avoid bonus(fliers) 
+0x860CA77 Resistance bonus(fliers) 

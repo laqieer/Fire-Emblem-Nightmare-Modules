@@ -1,0 +1,10 @@
+9
+0 Sword
+1 Lance
+2 Axe
+3 Bow
+4 Magic
+5 Staff
+6 Dragonstone
+7 Ballista
+8 Item

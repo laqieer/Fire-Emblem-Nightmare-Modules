@@ -1,0 +1,8 @@
+Arch Sage(Fire, M)
+Arch Sage(Fire, F)
+Arch Sage(Thunder, F)
+Arch Sage(Dark)
+Arch Sage(Wind)
+Light Priestess
+Empress
+Chancellor

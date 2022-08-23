@@ -1,0 +1,7 @@
+Lance General
+Axe General
+Sword General(M)
+Sword General(F)
+Lance General(SP)
+Axe General(SP)
+Sword General(SP)

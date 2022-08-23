@@ -1,0 +1,5 @@
+Many of the files within the game are .cl files. Most if not all files with the name or extension 'cl' are palette files. They won't be chopped off on any # of bytes that is not an increment of 16.
+
+From the files I have looked at, they are all uncompressed and that makes them extremely easy to edit.
+
+Remember that palettes work in a way that is identical to the GBA and SNES so they are easy to edit if you are familiar with those. However depending on the screen brightness and other factors the colors may not look exactly how you envision them (just a quick warning). 

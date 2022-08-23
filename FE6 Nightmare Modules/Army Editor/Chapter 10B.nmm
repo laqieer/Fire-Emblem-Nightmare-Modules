@@ -1,0 +1,106 @@
+#FE6 Army Editor by Camus
+#
+
+1
+Chapter 10B Army Editor by Camus
+0x681F5C
+82
+16
+NULL
+NULL
+
+Character
+0
+1
+NDHU
+Character List.txt
+
+Class
+1
+1
+NDHU
+Class List.txt
+
+UNKNOWN (Usually Zero)
+2
+1
+NEHU
+NULL
+
+Starting Level/Alliance
+3
+1
+NDHU
+Level.txt
+
+Reinforcement Placement?
+4
+1
+NEDU
+NULL
+
+Reinforcement Placement?
+5
+1
+NEDU
+NULL
+
+X Co-ordinate
+6
+1
+NEDU
+NULL
+
+Y Co-ordinate
+7
+1
+NEDU
+NULL
+
+Slot Item 1
+8
+1
+NDHU
+Item List.txt
+
+Slot Item 2
+9
+1
+NDHU
+Item List.txt
+
+Slot Item 3
+10
+1
+NDHU
+Item List.txt
+
+Slot Item 4
+11
+1
+NDHU
+Item List.txt
+
+AI 1
+12
+1
+NEHU
+NULL
+
+AI 2
+13
+1
+NEHU
+NULL
+
+AI 3
+14
+1
+NEHU
+NULL
+
+AI 4
+15
+1
+NEHU
+NULL

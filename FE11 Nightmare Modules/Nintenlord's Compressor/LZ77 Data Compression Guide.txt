@@ -1,0 +1,21 @@
+Tutorial on how to Compress & Uncompress LZ77 Data
+
+Major thanks to Nintenlord for his amazing program, NLZ77-- it's literally amazing in it's capabilities.
+
+Compressing Data
+
+1. Open up Nintenlord's LZ77 Compressor.
+2. There will be two "browse" buttons. For the first one, select the file you are looking to compress.
+For the second one, type in the name of the new file with all the compressed data.
+3. Make sure the option on the right is on "Compress" and then hit run. 
+4. Wait for it to run a few seconds (if it takes longer, just wait) and then a pop-up should say "Finished". Hit "OK.
+5. You are now finished.
+
+Uncompressing Data
+
+1. Open up Nintenlord's LZ77 Compressor.
+2. There will be two "browse" buttons. For the first one, select the file you are looking to uncompress.
+For the second one, type in the name of the new file with all the uncompressed data.
+3. Make sure the option on the right is on "Uncompress" and then hit run. 
+4. Wait for it to run a few seconds (if it takes longer, just wait) and then a pop-up should say "Finished". Hit "OK.
+5. You are now finished.

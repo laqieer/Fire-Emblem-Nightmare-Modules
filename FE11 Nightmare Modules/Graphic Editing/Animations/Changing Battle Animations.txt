@@ -1,0 +1,17 @@
+In order to change the battle animation of a whole class (not for individual character's; that requires
+changing the class, not the whole animation) you need to follow these steps.
+
+1. Decompile Fire Emblem DS ROM.
+2. Go to the folder "data" and then folder "b".
+3. You will see files with the names of all the animations. Find the animations you want.
+_LA = lance, _SW = sword, _AX = axe, etc., and if it doesn't have any extension, that means the unit is disarmed.
+
+4a. Your first option is to rename the files of an animation, like the archer animation, and change it to the name
+of another class's animation. ARCHER becomes LORD and ARCHER_BO becomes LORD_SW. However,
+you can't have two Lord animations with the same name in the folder, and if you keep the files in the folder,
+the game will screw up when you recompile it. So you'll have to get rid of the original Lord animation, or just
+keep it somewhere else for safe-keeping in case you need to restore the animation back to normal.
+
+4b. The 2nd option, which is less recommended, is to copy/paste the data of one file to another, you can literally switch the animations up. Remember to back up your files though, and that the first method can be significantly less time consuming once you get the hang of it.
+
+NOTE- Doing this has been known to cause some shift-arounds with the data; offsets are likely to be changed and make all Nightmare Modules not correctly work with your game. If you are worried, don't bother doing this.

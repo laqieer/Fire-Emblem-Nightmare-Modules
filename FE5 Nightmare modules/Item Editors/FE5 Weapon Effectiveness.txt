@@ -1,0 +1,23 @@
+22
+0x80AA None
+0xF700 ---->Custom Effectiveness 1<----
+0xF710 ---->Custom Effectiveness 2<----
+0xF720 ---->Custom Effectiveness 3<----
+0xF730 ---->Custom Effectiveness 4<----
+0xF740 ---->Custom Effectiveness 5<----
+0xF750 ---->Custom Effectiveness 6<----
+0xF760 ---->Custom Effectiveness 7<----
+0xF770 ---->Custom Effectiveness 8<----
+0xF780 ---->Custom Effectiveness 9<----
+0xF790 ---->Custom Effectiveness 10<----
+0xF7A0 ---->Custom Effectiveness 11<----
+0xF7B0 ---->Custom Effectiveness 12<----
+0xF7C0 ---->Custom Effectiveness 13<----
+0xF7D0 ---->Custom Effectiveness 14<----
+0xF7E0 ---->Custom Effectiveness 15<----
+0xF7F0 ---->Custom Effectiveness 16<----
+0x807A Armours
+0x8082 Dragons
+0x8086 Flying
+0x808F Armours/Knights
+0x8096 Knights

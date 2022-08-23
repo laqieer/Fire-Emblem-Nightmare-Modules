@@ -1,0 +1,106 @@
+#FE4 Battle Sprite Editor
+#
+
+1
+FE4 Battle Sprite Editor
+0x178AC9
+103
+16
+NULL
+NULL
+
+Class 1
+0
+1
+NDHU
+FE4 Classes.txt
+
+Weapon Type
+1
+1
+NDHU
+FE4 Battle Sprite Weapon Type.txt
+
+Char
+2
+1
+NDHU
+FE4 Character Numbers.txt
+
+Gender
+3
+1
+NDHU
+FE4 Gender.txt
+
+Battle Animation
+4
+1
+HEXA
+NULL
+
+Battle Sprite
+5
+1
+HEXA
+NULL
+
+Secondary Sprite
+6
+1
+HEXA
+NULL
+
+Palette
+7
+1
+HEXA
+NULL
+
+Class 2
+8
+1
+NDHU
+FE4 Classes.txt
+
+Weapon Type
+9
+1
+NDHU
+FE4 Battle Sprite Weapon Type.txt
+
+Char
+10
+1
+NDHU
+FE4 Character Numbers.txt
+
+Gender
+11
+1
+NDHU
+FE4 Gender.txt
+
+Battle Animation
+12
+1
+HEXA
+NULL
+
+Battle Sprite
+13
+1
+HEXA
+NULL
+
+Secondary Sprite
+14
+1
+HEXA
+NULL
+
+Palette
+15
+1
+HEXA
+NULL

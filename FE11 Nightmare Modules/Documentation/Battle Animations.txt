@@ -1,0 +1,18 @@
+Battle Animation Documentation
+--------------------------------
+
+Battle animations are found in the 'b' folder.
+
+The actual data doesn't seem to have any header of any sorts so pointers are relative to 0x00 (meaning not much of a fuss). Near the beginning of an animation file is a pointer table to palette data. Palette data can be found at the end of the animation file.
+
+Each palette entry is uncompressed and consists of 0x200 bytes, or 512 colors. It seems that each character has their palette within the animation file for a class or something. There should also be a default ally/enemy palette from what I know.
+
+For instance, the only character with the Lord class is Marth. The Sword!Lord animation file has two palettes at the end of the file. I've only seen Marth with a blue palette and a red palette and I'd say that's what those palettes are.
+
+I verified this by using GBAGE (GBA Graphics Editor) and loading up the animation file/its graphics. I loaded the palettes and fair enough I could tell what each palette was-- one was blue with a red cape, and the other was red with a red cape. I think it's safe to say that one is for his allied sprite and the other for his enemy sprite (not that Marth is ever an enemy in the actual game without hacking).
+
+As for the actual animation data, I kept on seeing '40001000' followed by some bytes and I don't know what it does but I looked at 2 animation files and I can tell that there has to be some sort of command thing in the data to dictate how the animation works.
+
+Speculation: the animation data is probably divided up into parts such as normal attack, critical, dodge, and ranged attack, with each animation file being for a different weapon of a different class. I'm also speculating that the graphics are split up in the file such that the graphics can be in between commands and pointer tables and whatnot.
+
+That's all I've really figured out so far but hopefully I can get more going soon...

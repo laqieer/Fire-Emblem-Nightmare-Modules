@@ -1,0 +1,1 @@
+Consecutive characters have a bonus, end a group with 0x00

@@ -1,0 +1,82 @@
+81
+0x00 None
+0x01 Odo
+0x02 Odo+
+0x04 Ulir
+0x08 Ulir+
+0x10 Neir
+0x20 Neir+
+0x40 Fala
+0x80 Fala+
+0x05 Odo, Ulir
+0x09 Odo, Ulir+
+0x11 Odo, Neir
+0x21 Odo, Neir+
+0x41 Odo, Fala
+0x81 Odo, Fala+
+0x06 Odo+, Ulir
+0x0A Odo+, Ulir+
+0x12 Odo+, Neir
+0x22 Odo+, Neir+
+0x42 Odo+, Fala
+0x82 Odo+, Fala+
+0x14 Ulir, Neir
+0x24 Ulir, Neir+
+0x44 Ulir, Fala
+0x84 Ulir, Fala+
+0x18 Ulir+, Neir
+0x28 Ulir+, Neir+
+0x48 Ulir+, Fala
+0x88 Ulir+, Fala+
+0x50 Neir, Fala
+0x90 Neir, Fala+
+0x60 Neir+, Fala
+0xA0 Neir+, Fala+
+0x15 Odo, Ulir, Neir
+0x25 Odo, Ulir, Neir+
+0x45 Odo, Ulir, Fala
+0x85 Odo, Ulir, Fala+
+0x19 Odo, Ulir+, Neir
+0x29 Odo, Ulir+, Neir+
+0x49 Odo, Ulir+, Fala
+0x89 Odo, Ulir+, Fala+
+0x51 Odo, Neir, Fala
+0x91 Odo, Neir, Fala+
+0x61 Odo, Neir+, Fala
+0xA1 Odo, Neir+, Fala+  
+0x16 Odo+, Ulir, Neir
+0x26 Odo+, Ulir, Neir+
+0x46 Odo+, Ulir, Fala
+0x86 Odo+, Ulir, Fala+
+0x1A Odo+, Ulir+, Neir
+0x2A Odo+, Ulir+, Neir+
+0x4A Odo+, Ulir+, Fala 
+0x8A Odo+, Ulir+, Fala+
+0x52 Odo+, Neir, Fala
+0x92 Odo+, Neir, Fala+
+0x62 Odo+, Neir+, Fala
+0xA2 Odo+, Neir+, Fala+ 
+0x54 Ulir, Neir, Fala
+0x94 Ulir, Neir, Fala+
+0x64 Ulir, Neir+, Fala
+0xA4 Ulir, Neir+, Fala+
+0x58 Ulir+, Neir, Fala
+0x98 Ulir+, Neir, Fala+
+0x68 Ulir+, Neir+, Fala
+0xA8 Ulir+, Neir+, Fala+
+0x55 Odo, Ulir, Neir, Fala
+0x95 Odo, Ulir, Neir, Fala+
+0x65 Odo, Ulir, Neir+, Fala
+0xA5 Odo, Ulir, Neir+, Fala+
+0x59 Odo, Ulir+, Neir, Fala
+0x99 Odo, Ulir+, Neir, Fala+
+0x69 Odo, Ulir+, Neir+, Fala
+0xA9 Odo, Ulir+, Neir+, Fala+
+0x56 Odo+, Ulir, Neir, Fala
+0x96 Odo+, Ulir, Neir, Fala+
+0x66 Odo+, Ulir, Neir+, Fala
+0xA6 Odo+, Ulir, Neir+, Fala+
+0x5A Odo+, Ulir+, Neir, Fala
+0x9A Odo+, Ulir+, Neir, Fala+
+0x6A Odo+, Ulir+, Neir+, Fala
+0xAA Odo+, Ulir+, Neir+, Fala+

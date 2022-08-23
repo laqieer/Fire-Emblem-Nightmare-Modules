@@ -1,0 +1,51 @@
+Custom Battle Background Insertion
+------------------------------------
+
+Battle backgrounds are found within the folder 's' (don't ask me why it's called that).
+
+Each background has a file to itself. BBG##. You'll likely notice that the order seems kind of off and that some backgrounds are missing. My only idea is that the files named "bg#" are those missing backgrounds. Once again, I'm not sure why things are like this, but oh well.
+
+In this tutorial, I am going to use the background BBG01. That being said, all data for a background is within a file-- that includes the graphical data, map data (also known as "TSA"), and the palette data.
+
+Load your file (BBG01 in this case) using GBA Graphics Editor (Nintenlord's graphic editing program). You'll have to make sure GBAGE recognizes all files, not just GBA ROMs, when you try and open the file.
+
+The program should have everything set at default-- uncompressed data at 00, palette at 00, and no TSA (map data) loaded. For this tutorial, I will use 'TSA' because the program GBAGE also uses 'TSA' and I don't want to confuse you too much. But TSA/map data are the same thing.
+
+In addition to using GBA Graphics Editor, you will also have to load your file in a ROM in order to locate the TSA and palette data.
+
+That being said, my graphic data starts at 0x3C. For BBG01, the data is compressed. However, some backgrounds may have their data be compressed using LZ77 compression. GBA Graphics Editor supports this, thankfully. An example is BBG29, in which the data also starts at 0x3C. You may need a hex editor to find out exactly where your data starts.
+
+If your graphic data is comperssed, select "Compressed graphics" in the Image Control part of GBAGE. This will load the graphics as compressed graphics. If you aren't allowed to press this button, then your data isn't compressed using LZ77, or the background might work differently than what I know.
+
+FE11 usually uses 8-bit tile graphics. GBGAGE also supports this. In the Palette Control, under "Graphics mode", select 8-bit tile graphics. You may recognize the image you are editing at this point, if only a little.
+
+Next, let's try and load the TSA. The TSA comes after the graphics and starts with (in most cases) 01 00 02 00 03 00 etc., so you can try searching something like "01000200030004000500" and you'll likely find it. It'll be a bit deeper into the file. For BBG01, the TSA is at 0xFC3E. TSA is NOT compressed here, so don't worry about using the TSA as compressed TSA.
+
+Open up Tile Control in GBAGE if you haven't already. Where it says "Offset" put in the offset of the TSA. The offset is where the first '0100' appears, FYI. As I said earlier, for BBG01, the offset is 0xFC3E. For BBG29 (which has graphical data compressed with LZ77) the data is at 0x8134.
+
+Now click "Use TSA". The image won't look too much better than it did before. In fact, it might look worse. Well, the dimensions of battle backgrounds are 384x256. Since each tile is 8 pixels, 384/8=48 and 256/8=32. So the dimensions (in tiles) for our image are 48x32.
+
+Why is this important? We want the image to look right in GBAGE, of course. Part of that is having the right size. In the Image Control, change the width to 48 and the height to 32. Also, change the window with the actual graphic showing to make it bigger so that you can see the entire image. You can do this by going to one of the corners of the graphic window and moving it to change the size of the window. Now your image should look a little better.
+
+Now we need to load the palette. First, find the offset of the palette. It's right after the end of the TSA. Hopefully you can tell what TSA looks like, and thus you can tell what ISN'T TSA. If you're having trouble finding the end of the TSA, try searching a few zeros (000000) that separates the TSA and palette data. BBG01's palette data starts at 0x10424.
+
+I take this offset and put it into the "ROM Palette(s) Offset" box in the Palette Control part of GBAGE. The palette should automatically load and you should now see your final image looking good.
+
+If it doesn't look good, do the following:
+
+- Make sure your palette offset isn't off or colors might be messed up
+- Make sure you are using TSA and that the TSA offset is the right one
+- Try altering the amount of bytes to ignore for displaying in the Tile Control to affect the TSA
+- Verify that the Graphics mode (in palette control) is 8bit tile graphics
+- Double check that the size of the image is 48x32 (width of 48 and height of 32)
+- Make sure the offset of your image's data is correct (in most cases, if not all cases, the data should start at 0x3C and may or may not be compressed)
+
+Now that your image is looking good, you can simply save the image as a bitmap, edit it, and then re-insert (making sure that you insert over the image when it's already loaded with TSA and palette data and everything). When inserting, you most likely do not want to let the program insert an image that takes up more space than the original image because if it does, your new image's data will run into the TSA, and then the TSA will screw up, and that's not cool. Same thing with the palette data, your palette should not be a bigger size than the original palette.
+
+As for a way to not be burdened by your new image's data, add many bytes of 00 (say, 0x5000 bytes, just to be safe) between the graphic data in TSA in a hex editor. Save. Insert your new image without worries. Now delete the extra space between the TSA and the graphic data so that things are back to normal. Do this using a hex editor. Save your file again.
+
+Now take the new background file and make it replace the old one in your unpacked FE11 ROM. Once it replaces, use a program such as dslazy to repack your ROM. Test your hacked FE11 ROM with an emulator such as no$GBA or Desmume. Hopefully your image inserted successfully and you freak out over it! XD
+
+~ Tutorial by Blazer
+
+Please credit me if this helped you at all. I'd really appreciate being in the credits of any game for helping with anything. It makes my work worthwhile. Thanks! ^_^

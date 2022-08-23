@@ -1,0 +1,9 @@
+CGs can be found in the 'evt' folder. There are sub-folders with names named "evm_#" with the # being some number.
+
+'cg' contains the graphics of the CG. Compressed with LZ77-2 (0x11 header). 'cl' is the palette. Uncompressed and extremely easy to manipulate. 'sc' contains the TSA, I believe. Compressed but also easy to manipulate and simple TSA.
+
+Images are 256x192 I believe, covering one of the screens.
+
+I haven't thus far been able to successfully load a CG by decompressing data, loading the image, using TSA on it, and loading the palette with the extremely useful and well-made program GBA Graphics Editor by my friend Nintenlord-- I did however get to the point that I recognized the image as the Sheeda CG that first appears.
+
+As for the 'tut' folders, those might also have CGs or something like it but I have not even touched the file so I'm not sure. At any case they are likely graphics because they also appear to have cg, cl, and sc files.

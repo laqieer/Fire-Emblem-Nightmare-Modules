@@ -1,0 +1,15 @@
+0x90BC Mounted
+0x90E8 Promoted Mounted
+0x9114 Flying
+0x9140 Ground
+0x9198 Armors
+0x916C UNUSED
+0x91F0 Berserkers
+0x91C4 Mountain Thieves
+0x921C Pirates
+0x9248 Lords/Dancers/Mage Fighters
+0x9274 Magic Users
+0x92A0 Thieves
+0x92CC Civilians
+0x92F8 Arches
+0x9324 Dark Prince

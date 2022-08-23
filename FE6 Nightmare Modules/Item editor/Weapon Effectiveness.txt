@@ -1,0 +1,7 @@
+6
+0x00 None
+0x86615C1 Knight
+0x86615D4 Dragons
+0x86615BC Cavalry
+0x86615DB Flying
+0x86615CF Divine Dragon Stone

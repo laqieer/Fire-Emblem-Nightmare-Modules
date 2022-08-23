@@ -1,0 +1,119 @@
+Social Knight
+Lance Knight
+Arch Knight
+Axe Knight
+Free Knight
+Troubadour
+Lord Knight
+Duke Knight
+Master Knight
+Paladin
+Paladin (F)
+Bow Knight
+Forrest Knight
+Mage Knight
+Great Knight
+Pegasus Knight
+Falcon Knight
+Dragon Rider
+Dragon Knight
+Dragon Master
+Bow Fighter
+Sword Fighter
+Swordmaster
+Sniper
+Forrest
+General
+Emperor
+Baron
+Lance Armour
+Axe Armour
+Bow Armour
+Sword Armour
+Berserker
+Mountain Thief
+Mountain Thief (2)
+Warrior
+Hunter
+Pirate
+Junior Lord
+Mage Knight (dismounted)
+Lord
+Prince
+Mage Knight (F) (dismounted)
+Baron (messed up battle sprite)
+Dancer
+Priest
+Mage
+Lopto Mage
+(Thunder) Mage
+(Wind) Mage
+High Priest
+Bishop
+Sage
+Bard
+Sister
+Dark Mage
+Dark Bishop
+Thief
+Thief Fighter
+Civilian
+Long Arch
+Iron Arch
+Killer Arch
+Dark Prince
+Axe Fighter
+Socialknight (dismounted)
+Lance Knight (dismounted)
+Arch Knight (dismounted)
+Axe Knight (dismounted)
+Free Knight (dismounted)
+Troubadour (dismounted)
+Lord Knight (dismounted)
+Duke Knight (dismounted)
+Master Knight (dismounted)
+Paladin (M) (dismounted)
+Paladin (F) (dismounted)
+Bow Knight (dismounted)
+Forrest Knight (dismounted)
+Great Knight (dismounted)
+Pegasus Knight (dismounted)
+Falcon Knight (dismounted)
+Dragon Rider (dismounted)
+Dragon Knight (dismounted)
+Dragon Master (dismounted)
+Arch Knight (F)
+Arch Knight (F) (dismounted)
+Bow Knight (F)
+Bow Knight (F) (dismounted)
+Master Knight (F)
+Master Knight (F) (dismounted)
+Dragon Rider (F)
+Dragon Rider (F) (dismounted)
+Dragon Knight (F)
+Dragon Knight (F) (dismounted)
+Dragon Master (F)
+Dragon Master (F) (dismounted)
+Poison Arch
+Mage (F)
+(Thunder) Mage (F)
+Lopto Mage (F)
+(Wind) Mage (F)
+Mage Knight (F)
+Sage (F)
+Priest (F)
+High Priest (F)
+Sword Fighter (F)
+Forrest (F)
+Sword Master (F)
+Bow Fighter (F)
+Sniper (F)
+Thief (F)
+Thief Fighter (F)
+Mercenary
+Thief (Thief Fighter battle sprite)
+Pegasus Rider
+Pegasus Rider (dismounted)
+Soldier
+Archer
+Mercenary (F)

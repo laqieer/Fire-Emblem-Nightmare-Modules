@@ -1,0 +1,124 @@
+#FE5 Starting Points Editor By SpyroDi
+#
+
+1
+Army Data - Ch15 Bandit2
+0x18B7C9
+3
+20
+NULL
+NULL
+
+Character Number
+0
+2
+NDHU
+FE5 Character List.txt
+
+Event Movement Starting X
+2
+1
+NEDU
+NULL
+
+Event Movement Starting Y
+3
+1
+NEDU
+NULL
+
+X-Coordinate
+4
+1
+NEDU
+NULL
+
+Y-Coordinate
+5
+1
+NEDU
+NULL
+
+Lo Army Origin
+6
+1
+NEDU
+NULL
+
+Hi Army Origin
+7
+1
+NEDU
+NULL
+
+Inventory Slot 1
+8
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 2
+9
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 3
+10
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 4
+11
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 5
+12
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 6
+13
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 7
+14
+1
+NDHU
+FE5 Item Data.txt
+
+Level
+15
+1
+NEDU
+NULL
+
+Unknown
+16
+1
+NEDU
+NULL
+
+Unknown
+17
+1
+NEDU
+NULL
+
+Unknown
+18
+1
+NEDU
+NULL
+
+Unknown
+19
+1
+NEDU
+NULL

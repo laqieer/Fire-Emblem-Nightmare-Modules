@@ -1,0 +1,16 @@
+Here are the names of the folders and what data they include, as well as what the files inside are used for.
+
+2- Map Sprites on the statsheet screen, sorted by class
+3- Map sprites and their animations, sorted by class
+b- Battle Animations, sorted by class
+data- includes 'database' file, used for character data editing
+dispos- event data
+evt- event data,  misc.
+f- portraits
+gmap- ton of important LZ77 data
+m- chapter data
+map- chapter/map data
+onfx- graphics
+s- background graphics
+script- event data, shop data, chest data, village data, and more
+sf- ???, but could easily be found out

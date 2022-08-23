@@ -1,0 +1,106 @@
+#FE4 Holy Blood Editor by Camus
+#
+
+1
+FE4 Holy Blood Editor by Camus
+0x38BE3
+13
+16
+FE4 Holy Blood List.txt
+NULL
+
+Weapon Type
+0
+1
+NDHU
+FE4 Weapon Type.txt
+
+Unlock Weapon
+1
+1
+NDHU
+FE4 Weapon List.txt
+
+HP Growth Bonus
+2
+1
+NEDU
+NULL
+
+Strength Growth Bonus
+3
+1
+NEDU
+NULL
+
+Magic Growth Bonus
+4
+1
+NEDU
+NULL
+
+Skill Growth Bonus
+5
+1
+NEDU
+NULL
+
+Speed Growth Bonus
+6
+1
+NEDU
+NULL
+
+Defense Growth Bonus
+7
+1
+NEDU
+NULL
+
+Magic Defense Growth Bonus
+8
+1
+NEDU
+NULL
+
+Luck Growth Bonus
+9
+1
+NEDU
+NULL
+
+Holy Weapon Strength Bonus
+10
+1
+NEDU
+NULL
+
+Holy Weapon Magic Bonus
+11
+1
+NEDU
+NULL
+
+Holy Weapon Skill Bonus
+12
+1
+NEDU
+NULL
+
+Holy Weapon Speed Bonus
+13
+1
+NEDU
+NULL
+
+Holy Weapon Defense Bonus
+14
+1
+NEDU
+NULL
+
+Holy Weapon Magic Defense Bonus
+15
+1
+NEDU
+NULL

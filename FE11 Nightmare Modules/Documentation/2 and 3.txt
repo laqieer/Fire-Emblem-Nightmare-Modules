@@ -1,0 +1,7 @@
+These include the map sprite graphics/palette/animation data. Nothing too complex about them. They are divided by class into idle sprites, palettes, and active sprites/moving sprites.
+
+The palettes here are uncompressed and can easily be edited.
+
+The actual graphics are compressed using LZ77-11 (the 0x11 variant of LZ77) and can be decompressed with a program such as Puyo Tools.
+
+Please see a tutorial on editing LZ77-11 compressed graphics for more details.

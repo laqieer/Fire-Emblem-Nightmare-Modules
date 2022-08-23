@@ -1,0 +1,23 @@
+Knight
+Armor
+P Knight/Gargoyle/Balrog
+Paladin
+F Knight/D Zombie/White Dragon
+Soldier
+Gold Knight/Badess
+Mercenary
+Swordfighter
+Demon Fighter/Kelbeth/Belreth
+Priestess/Zombie/Mummy
+Archer
+Sniper
+Villager/Thief
+Mage (M)/Sorcerer
+Mage (F)/Witch
+Saint/Skeletin/Lich
+Sister/Bigl
+Sage/Exorcist
+Bow Knight/Gold
+Fighter/Dark God
+Baron/Majin
+Hero

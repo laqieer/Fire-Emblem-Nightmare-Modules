@@ -1,0 +1,3 @@
+I do not know much about them but they seem to be all be compressed. Not every class has them. Their header starts with 0x40 which earlier on I identified as an RLE-based compression. Because I don't even know what kind of data it contains I have not tried to decompress it. However, decompressing it and attempting to view it as a graphic might give some results, but I really don't have any clue about this besides the compression. I also have been too lazy to try and use an RLE decompressor to see what these files might have.
+
+Eh... :\

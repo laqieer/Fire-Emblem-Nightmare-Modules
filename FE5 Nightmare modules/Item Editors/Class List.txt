@@ -1,0 +1,121 @@
+120
+0x00 Nothing/Separator
+0x01 Social Knight
+0x02 Lance Knight
+0x03 Arch Knight
+0x04 Axe Knight
+0x05 Free Knight
+0x06 Troubadour
+0x07 Lord Knight
+0x08 Duke Knight
+0x09 Master Knight
+0x0A Paladin
+0x0B Paladin (F)
+0x0C Bow Knight
+0x0D Forrest Knight
+0x0E Mage Knight
+0x0F Great Knight
+0x10 Pegasus Knight
+0x11 Falcon Knight
+0x12 Dragon Rider
+0x13 Dragon Knight
+0x14 Dragon Master
+0x15 Bow Fighter
+0x16 Sword Fighter
+0x17 Swordmaster
+0x18 Sniper
+0x19 Forrest
+0x1A General
+0x1B Emperor
+0x1C Baron
+0x1D Lance Armour
+0x1E Axe Armour
+0x1F Bow Armour
+0x20 Sword Armour
+0x21 Berserker
+0x22 Mountain Thief
+0x23 Mountain Thief (2)
+0x24 Warrior
+0x25 Hunter
+0x26 Pirate
+0x27 Junior Lord
+0x28 Mage Knight
+0x29 Lord
+0x2A Prince
+0x2B Mage Knight (F)
+0x2C Baron (messed up battle sprite)
+0x2D Dancer
+0x2E Priest
+0x2F Mage
+0x30 Lopto Mage
+0x31 (Thunder) Mage
+0x32 (Wind) Mage
+0x33 High Priest
+0x34 Bishop
+0x35 Sage
+0x36 Bard
+0x37 Sister
+0x38 Dark Mage
+0x39 Dark Bishop
+0x3A Thief
+0x3B Thief Fighter
+0x3C Civilian
+0x3D Long Arch
+0x3E Iron Arch
+0x3F Killer Arch
+0x40 Dark Prince
+0x41 Axe Fighter
+0x42 Socialknight (dismounted)
+0x43 Lance Knight (dismounted)
+0x44 Arch Knight (dismounted)
+0x45 Axe Knight (dismounted)
+0x46 Free Knight (dismounted)
+0x47 Troubadour (dismounted)
+0x48 Lord Knight (dismounted)
+0x49 Duke Knight (dismounted)
+0x4A Master Knight (dismounted)
+0x4B Paladin (M) (dismounted)
+0x4C Paladin (F) (dismounted)
+0x4D Bow Knight (dismounted)
+0x4E Forrest Knight (dismounted)
+0x4F Great Knight (dismounted)
+0x50 Pegasus Knight (dismounted)
+0x51 Falcon Knight (dismounted)
+0x52 Dragon Rider (dismounted)
+0x53 Dragon Knight (dismounted)
+0x54 Dragon Master (dismounted)
+0x55 Arch Knight (F)
+0x56 Arch Knight (F) (dismounted)
+0x57 Bow Knight (F)
+0x58 Bow Knight (F) (dismounted)
+0x59 Master Knight (F)
+0x5A Master Knight (F) (dismounted)
+0x5B Dragon Rider (F)
+0x5C Dragon Rider (F) (dismounted)
+0x5D Dragon Knight (F)
+0x5E Dragon Knight (F) (dismounted)
+0x5F Dragon Master (F)
+0x60 Dragon Master (F) (dismounted)
+0x61 Poison Arch
+0x62 Mage (F)
+0x63 (Thunder) Mage (F)
+0x64 Lopto Mage (F)
+0x65 (Wind) Mage (F)
+0x66 Mage Knight (F)
+0x67 Mage Knight (F) (dismounted)
+0x68 Priest (F)
+0x69 High Priest (F)
+0x6A Sword Fighter (F)
+0x6B Forrest (F)
+0x6C Sword Master (F)
+0x6D Bow Fighter (F)
+0x6E Sniper (F)
+0x6F Thief (F)
+0x70 Thief Fighter (F)
+0x71 Mercenary
+0x72 Thief (Thief Fighter battle sprite)
+0x73 Pegasus Rider
+0x74 Pegasus Rider (dismounted)
+0x75 Soldier
+0x76 Archer
+0x77 Mercenary (F)

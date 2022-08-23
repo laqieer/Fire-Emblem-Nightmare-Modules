@@ -1,0 +1,167 @@
+Iron Sword
+Steel Sword
+Silver Sword
+Thin Sword
+Iron Broadsword
+Killer Sword
+Poison Sword
+Berserk Sword
+Sleep Sword
+Beosword
+Holy Sword
+Loputous Sword
+Blagi Sword
+Light Sword
+Hero Sword
+King Sword
+Earth Sword
+Wind Sword
+Fire Sword
+Thunder Sword
+Elite Sword
+Armour Killer
+Rapier
+Short Sword
+Long Sword
+Great Sword
+Master Sword
+Darkness Sword
+Mareeta's Sword
+Broken Sword
+Iron Lance
+Steel Lance
+Silver Lance
+Thin Lance
+Poison Lance
+Dragon Lance
+Darkness Lance
+Hero Lance
+Short Lance
+Long Lance
+Great Lance
+Javelin
+Master Lance
+Knight Killer
+Killer Lance
+Gae Bolg
+Gungnir
+Broken Lance
+Iron Axe
+Poison Axe
+Steel Axe
+Silver Axe
+Hand Axe
+Hammer
+Killer Axe
+Pugi
+Hero Axe
+Devil Axe
+Battle Axe
+Poleaxe
+Master Axe
+Broken Axe
+Iron Bow
+Steel Bow
+Silver Bow
+Poison Bow
+Killer Bow
+Hero Bow
+Short Bow
+Long Bow
+Great Bow
+Master Bow
+Long Arch
+Iron Arch
+Killer Arch
+Poison Arch
+Broken Bow
+Fire
+Elfire
+Volcannon
+Falaflame
+Thunder
+Daim Thunder
+Tron
+Torhammer
+Wind
+Grafucalibur
+Tornado
+Holsety
+Lightning
+Rizziah
+Aura
+Yotsmungand
+Fenrir
+Hell
+Loputous
+Meteo
+Thunderstorm
+Blizzard
+Poison
+Stone
+Holsety(Unlimited)
+Broken Book
+Live
+Relive
+Recover
+Libro
+Reserve
+Rescue
+Warp
+Rest
+Silence
+Sleep
+Torch
+Return
+Repair
+Thief
+Watch
+Berserk
+Unlock
+Magic Shield
+Rewarp
+Cure
+Broken Staff
+Luck Ring
+Live Ring
+Speed Ring
+Magic Ring
+Power Ring
+Body Ring
+Shield Ring
+Skill Ring
+Leg Ring
+Knight Proof
+Master Proof
+Treasure Key
+Door Key
+Bridge Key
+Thief Key
+S Drink
+Medicine
+Holy Water
+Torch
+Antidote
+Member Card
+Odo Scroll
+Baldo Scroll
+Hezul Scroll
+Dain Scroll
+Noba Scroll
+Neir Scroll
+Ulir Scroll
+Tordo Scroll
+Fala Scroll
+Sety Scroll
+Blagi Scroll
+Heim Scroll
+Elite Manual
+Duel Manual
+Bargain Manual
+Ambush Manual
+Wrath Manual
+Continue Manual
+Prayer Manual
+Awareness Manual
+Sunlight Manual
+Moonlight Manual

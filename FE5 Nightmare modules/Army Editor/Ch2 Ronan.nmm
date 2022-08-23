@@ -1,0 +1,148 @@
+#FE5 Starting Points Editor By SpyroDi
+#
+
+1
+Army Data - Ch2 Ronan
+0x18FCE4
+2
+24
+NULL
+NULL
+
+UNKNOWN
+0
+1
+NEHU
+NULL
+
+UNKNOWN
+1
+1
+NEHU
+NULL
+
+Character Number
+2
+2
+NDHU
+FE5 Character List.txt
+
+Event Movement Starting X
+4
+1
+NEDU
+NULL
+
+Event Movement Starting Y
+5
+1
+NEDU
+NULL
+
+X-Coordinate
+6
+1
+NEDU
+NULL
+
+Y-Coordinate
+7
+1
+NEDU
+NULL
+
+Lo Army Origin
+8
+1
+NEDU
+NULL
+
+Hi Army Origin
+9
+1
+NEDU
+NULL
+
+Inventory Slot 1
+10
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 2
+11
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 3
+12
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 4
+13
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 5
+14
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 6
+15
+1
+NDHU
+FE5 Item Data.txt
+
+Inventory Slot 7
+16
+1
+NDHU
+FE5 Item Data.txt
+
+Level
+17
+1
+NEDU
+NULL
+
+Unknown
+18
+1
+NEDU
+NULL
+
+Unknown
+19
+1
+NEDU
+NULL
+
+Unknown
+20
+1
+NEDU
+NULL
+
+Unknown
+21
+1
+NEDU
+NULL
+
+Unknown
+22
+1
+NEDU
+NULL
+
+Unknown
+23
+1
+NEDU
+NULL

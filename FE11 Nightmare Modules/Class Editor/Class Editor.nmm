@@ -1,0 +1,342 @@
+#Fire Emblem Shadow Dragon Class Editor
+#http://www.feshrine.net
+#http://forums.feshrine.net
+#Created by Blazer of FES (smashfire17@gmail.com)
+
+1
+FEDS Class Editor (U) by Blazer
+0x7500
+52
+92
+Class List.txt
+NULL
+
+Class ID? (Don't change!)
+0
+2
+NEHU
+NULL
+
+Class Text Pointer
+4
+2
+NEHU
+NULL
+
+Base HP
+8
+1
+NEDS
+NULL
+
+Base Strength
+9
+1
+NEDS
+NULL
+
+Base Magic
+10
+1
+NEDS
+NULL
+
+Base Skill
+11
+1
+NEDS
+NULL
+
+Base Speed
+12
+1
+NEDS
+NULL
+
+Base Luck
+13
+1
+NEDS
+NULL
+
+Base Defense
+14
+1
+NEDS
+NULL
+
+Base Resistance
+15
+1
+NEDS
+NULL
+
+Base HP Growth
+16
+1
+NEDS
+NULL
+
+Base Strength Growth
+17
+1
+NEDS
+NULL
+
+Base Magic Growth
+18
+1
+NEDS
+NULL
+
+Base Skill Growth
+19
+1
+NEDS
+NULL
+
+Base Speed Growth
+20
+1
+NEDS
+NULL
+
+Base Luck Growth
+21
+1
+NEDS
+NULL
+
+Base Defense Growth
+22
+1
+NEDS
+NULL
+
+Base Resistance Growth
+23
+1
+NEDS
+NULL
+
+Enemy HP Growth
+24
+1
+NEDS
+NULL
+
+Enemy Strength Growth
+25
+1
+NEDS
+NULL
+
+Enemy Magic Growth
+26
+1
+NEDS
+NULL
+
+Enemy Skill Growth
+27
+1
+NEDS
+NULL
+
+Enemy Speed Growth
+28
+1
+NEDS
+NULL
+
+Enemy Luck Growth
+29
+1
+NEDS
+NULL
+
+Enemy Defense Growth
+30
+1
+NEDS
+NULL
+
+Enemy Resistance Growth
+31
+1
+NEDS
+NULL
+
+Max HP
+32
+1
+NEDS
+NULL
+
+Max Strength
+33
+1
+NEDS
+NULL
+
+Max Magic
+34
+1
+NEDS
+NULL
+
+Max Skill
+35
+1
+NEDS
+NULL
+
+Max Speed
+36
+1
+NEDS
+NULL
+
+Max Luck
+37
+1
+NEDS
+NULL
+
+Max Defense
+38
+1
+NEDS
+NULL
+
+Max Resistance
+39
+1
+NEDS
+NULL
+
+Movement Type
+40
+1
+NDDU
+Movement Types.txt
+
+Move (Stat)
+41
+1
+NEDS
+NULL
+
+Weapon Usage
+43
+1
+NDHU
+Weapon Usage.txt
+
+Sword Level
+44
+1
+NDDU
+Weapon Levels.txt
+
+Lance Level
+45
+1
+NDDU
+Weapon Levels.txt
+
+Axe Level
+46
+1
+NDDU
+Weapon Levels.txt
+
+Bow Level
+47
+1
+NDDU
+Weapon Levels.txt
+
+Magic Level
+48
+1
+NDDU
+Weapon Levels.txt
+
+Staff Level
+49
+1
+NDDU
+Weapon Levels.txt
+
+Reclass Set
+52
+1
+NDHU
+Reclass Sets.txt
+
+Unknown
+53
+1
+NEHU
+NULL
+
+Unit Type
+54
+1
+NDHU
+Unit Types.txt
+
+Gender
+56
+1
+NDDU
+Gender.txt
+
+Experience Control
+57
+1
+NDHU
+Experience.txt
+
+Class Abilities/Bonuses
+58
+1
+NDHU
+Class Abilities.txt
+
+Dragon Ability Flag (?)
+59
+1
+NEHU
+NULL
+
+Unknown Referential Pointer
+60
+2
+NEHU
+NULL
+
+Promote to Class
+64
+2
+NEHU
+NULL
+
+Unknown Referential Pointer
+68
+2
+NEHU
+NULL
+
+Unknown Referential Pointer
+72
+2
+NEHU
+NULL
+
+Unknown
+76
+2
+NEHU
+NULL

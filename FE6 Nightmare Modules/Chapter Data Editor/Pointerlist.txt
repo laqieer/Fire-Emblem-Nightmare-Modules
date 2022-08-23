@@ -1,0 +1,237 @@
+235
+0x00 Nothing
+0x01 Plains & Castle #1
+0x02 Plains & Castle #1
+0x03 Plains & Castle #1 Palette
+0x04 Plains & Castle #1 Config
+0x05 Tutorial Map
+0x06 Water (Fields; Plains; M&S) Tile Anim
+0x07 Tutorial Map Changes
+0x08 Tutorial Events
+0x09 Tutorial Worldmap Pre-Chapter Scene
+0x0A Ch. 1 Map
+0x0B Ch. 1 Map Changes
+0x0C Ch. 1 Events
+0x0D Ch. 1 Worldmap Pre-Chapter Scene
+0x0E Ch. 2 Map
+0x0F Ch. 2 Map Changes
+0x10 Ch. 2 Events
+0x11 Ch. 2 Worldmap Pre-Chapter Scene
+0x12 Plains & Castle #2
+0x13 Plains & Castle #2 Palette
+0x14 Plains & Castle #2 Config
+0x15 Ch. 3 Map
+0x16 Ch. 3 Map Changes
+0x17 Ch. 3 Events
+0x18 Ch. 3 Worldmap Pre-Chapter Scene
+0x19 Ch. 4 Map
+0x1A Ch. 4 Map Changes
+0x1B Ch. 4 Events
+0x1C Ch. 4 Worldmap Pre-Chapter Scene
+0x1D Ch. 5 Map
+0x1E Ch. 5 Map Changes
+0x1F Ch. 5 Events
+0x20 Ch. 5 Worldmap Pre-Chapter Scene
+0x21 Plains & Castle #3 
+0x22 Plains & Castle #3 Palette
+0x23 Plains & Castle #3 Config
+0x24 Ch. 6 Map
+0x25 Ch. 6 Map Changes 
+0x26 Ch. 6 Events
+0x27 Ch. 6 Worldmap Pre-Chapter Scene
+0x28 Ch. 7 Map 
+0x29 Ch. 7 Map Changes
+0x2A Ch. 7 Events
+0x2B Ch. 7 Worldmap Pre-Chapter Scene
+0x2C Inside Castle Ostia
+0x2D Inside Castle Ostia Palette
+0x2E Inside Castle Ostia Config
+0x2F Ch. 8 Map 
+0x30 Ch. 8 Map Changes
+0x31 Ch. 8 Events
+0x32 Ch. 8 Worldmap Pre-Chapter Scene 
+0x33 Western Isles #1
+0x34 Western Isles #1 palette
+0x35 Western Isles #1 Config
+0x36 Ch. 9 Map
+0x37 Ch. 9 Map Changes
+0x38 Ch. 9 Events
+0x39 Ch. 9 Worldmap Pre-Chapter Scene 
+0x3A Ch. 10A Map
+0x3B Ch. 10A Map Changes
+0x3C Ch. 10A Events
+0x3D Ch. 10A Worldmap Pre-Chapter Scene
+0x3E Western Isles #2
+0x3F Western Isles #2 Palette
+0x40 Western Isles #2 Config 
+0x41 Ch. 11A Map
+0x42 Ch. 11A Map Changes
+0x43 Ch. 11A Events 
+0x44 Ch. 11A Worldmap Pre-Chapter Scene
+0x45 Western Isles #3
+0x46 Western Isles #3 Palette
+0x47 Western Isles #3 Config 
+0x48 Ch. 12 Map
+0x49 Ch. 12 Map Changes
+0x4A Ch. 12 Events
+0x4B Ch. 12 Worldmap Pre-Chapter Scene 
+0x4C Plains & Castle #4 
+0x4D Plains & Castle #4 Palette
+0x4E Plains & Castle #4  Config
+0x4F Ch. 13 Map
+0x50 Ch. 13 Map Changes
+0x51 Ch. 13 Events
+0x52 Ch. 13 Worldmap Pre-Chapter Scene
+0x53 Desert
+0x54 Desert Palette
+0x55 Desert Config 
+0x56 Ch. 14 Map
+0x57 Ch. 14 Events
+0x58 Ch. 14 Worldmap Pre-Chapter Scene
+0x59 Ch. 15 Map
+0x5A Ch. 15 Map Changes
+0x5B Ch. 15 Events
+0x5C Ch. 15 Worldmap Pre-Chapter Scene
+0x5D Plains & Castle #5 Palette
+0x5E Ch. 16 Map
+0x5F Ch. 16 Map Changes
+0x60 Ch. 16 Events
+0x61 Ch. 16 Worldmap Pre-Chapter Scene 
+0x62 Ch. 17A Map
+0x63 Ch. 17A Map Changes
+0x64 Ch. 17A Events
+0x65 Ch. 17A Worldmap Pre-Chapter Scene
+0x66 Snow
+0x67 Snow Palette
+0x68 Snow Config
+0x69 Ch. 18A Map 
+0x6A Frozen River *needs a better name* Tile Anim #1
+0x6B Frozen River *needs a better name* Tile Anim #2
+0x6C Ch. 18A Map Changes
+0x6D Ch. 18A Events
+0x6E Ch. 18A Worldmap Pre-Chapter Scene
+0x6F Ch. 19A Map 
+0x70 Ch. 19A Map Changes
+0x71 Ch. 19A Events
+0x72 Ch. 19A Worldmap Pre-Chapter Scene 
+0x73 Castle? Snow
+0x74 Castle? Snow Palette
+0x75 Castle? Snow Config
+0x76 Ch. 20A Map 
+0x77 Ch. 20A Map Changes
+0x78 Ch. 20A Events
+0x79 Ch. 20A Worldmap Pre-Chapter Scene
+0x7A Forest & Grass?
+0x7B Forest & Grass? Palette
+0x7C Forest & Grass? Config
+0x7D Ch. 21 Map
+0x7E Ch. 21 Map Changes
+0x7F Ch. 21 Events
+0x80 Ch. 21 Worldmap Pre-Chapter Scene
+0x81 Castle Bern
+0x82 Castle Bern Palette
+0x83 Castle Bern Config
+0x84 Ch. 22 Map
+0x85 Castle Bern Tile Anim
+0x86 Castle Bern Tile Anim
+0x87 Ch. 22 Map Changes
+0x88 Ch. 22 Events
+0x89 Ch. 22 Worldmap Pre-Chapter Scene
+0x8A Ch. 23 Map
+0x8B Ch. 23 Map Changes
+0x8C Ch. 23 Events
+0x8D Ch. 23 Worldmap Pre-Chapter Scene
+0x8E Dragon Shrine #1
+0x8F Dragon Shrine #1 Palette
+0x90 Dragon Shrine #1 Config
+0x91 Ch. 24 Map
+0x92 Ch. 24 Map Changes
+0x93 Ch. 24 Events
+0x94 Ch. 24 Worldmap Pre-Chapter Scene
+0x95 Ch. Final Map
+0x96 Final Ch. Tile Animations
+0x97 Ch. Final Events
+0x98 Ch. 10B Map
+0x99 Ch. 10B Map Changes
+0x9A Ch. 10B Events
+0x9B Ch. 10B Worldmap Pre-Chapter Scene
+0x9C Ch. 11B Map
+0x9D Ch. 11B Map Changes
+0x9E Ch. 11B Events
+0x9F Ch. 11B Worldmap Pre-Chapter Scene
+0xA0 Sacae Plains: Dark Sand Palette
+0xA1 Ch. 17B Map
+0xA2 Ch. 17B Map Changes
+0xA3 Ch. 17B Events 
+0xA4 Ch. 17B Worldmap Pre-Chapter Scene
+0xA5 Sacae Plains
+0xA6 Sacae Plains Palette #1
+0xA7 Sacae Plains Config
+0xA8 Ch. 18B Map
+0xA9 Ch. 18B Events
+0xAA Ch. 18B Worldmap Pre-Chapter Scene
+0xAB Sacae Plains: Bulgar Palette
+0xAC Sacae Plains: Bulgar Config
+0xAD Ch. 19B Map
+0xAE Ch. 19B Map Changes
+0xAF Ch. 19B Events
+0xB0 Ch. 19B Worldmap Pre-Chapter Scene
+0xB1 Sacae Plains *Castle?*
+0xB2 Sacae Plains *Castle?* Palette
+0xB3 Sacae Plains *Castle?* Config
+0xB4 Ch. 20B Map
+0xB5 Ch. 20B Map Changes
+0xB6 Ch. 20B Events 
+0xB7 Ch. 20B Worldmap Pre-Chapter Scene
+0xB8 Lava Cave Palette
+0xB9 Ch. 8x Map
+0xBA Lava Cave Tile Animations
+0xBB Ch. 8x Events
+0xBC Ch. 8x Worldmap Pre-Chapter Scene 
+0xBD Cave (Armads) Palette
+0xBE Cave (Armads) Config
+0xBF Ch. 12x Map
+0xC0 Ch. 12x Map Changes 
+0xC1 Ch. 12x Events
+0xC2 Ch. 12x Worldmap Pre-Chapter Scene 
+0xC3 Inside Nabata Temple (Forblaze) palette
+0xC4 Ch. 14x Map
+0xC5 Inside Nabata Temple (Forblaze) Sinking Tile Animations
+0xC6 Ch. 14x Map Changes
+0xC7 Ch. 14x Events 
+0xC8 Ch. 14x Worldmap Pre-Chapter Scene
+0xC9 Temple? Palette (looks like the last tower of valni map palette)
+0xCA Ch. 16x Map
+0xCB Ch. 16x Events
+0xCC Ch. 16x Worldmap Pre-Chapter Scene
+0xCD Ice Temple Palette
+0xCE Ch. 20Ax Map
+0xCF Ch. 20Ax Map Changes
+0xD0 Ch. 20Ax Events
+0xD1 Ch. 20Ax Worldmap Pre-Chapter Scene
+0xD2 Ch. 20Bx Map
+0xD3 Ch. 20Bx Events 
+0xD4 Ch. 20Bx Worldmap Pre-Chapter Scene
+0xD5 Sacae Plains Palette #2
+0xD6 Ch. 21x Map
+0xD7 Ch. 21x Map Changes
+0xD8 Ch. 21x Events
+0xD9 Ch. 21x Worldmap Pre-Chapter Scene
+0xDA Link Arena 
+0xDB Trial Map 1
+0xDC Trial Map 1 Events
+0xDD Trial Map 2 
+0xDE Trial Map 2 Events 
+0xDF Trial Map 3
+0xE0 Trial Map 3 Events
+0xE1 Trial Map 4 
+0xE2 Trial Map 4 Events  
+0xE3 Trial Map 5 
+0xE4 Trial Map 5 Events 
+0xE5 Undocumented
+0xE6 Undocumented
+0xE7 Undocumented
+0xE8 Undocumented
+0xE9 Undocumented
+0xEA Undocumented
+

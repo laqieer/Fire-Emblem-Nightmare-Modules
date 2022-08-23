@@ -1,0 +1,29 @@
+Unit Disposition Data Format Documentation
+--------------------------------------------
+
+(Information found by Blazer)
+
+Data can be found in the 'dispos' folder of the game's data.
+
+Each file represents a different chapter/map. bmap000 is for the debug map and the arena maps are for something else (wi-fi, arena, not sure what, haven't bothered to figure out).
+
+Data can be decompressed using an LZ77 compressor. Note that files have a header of 0x20 bytes. Taking out this header can be a problem because the header is needed when the file is recompressed and inserted back into the game. However pointers and other data do not take the header into account.
+
+That being said, the data really starts at 0x20. Each entry is made up of 0x50 bytes (5 lines/rows of 0x10 or 16 bytes). 
+
+In bmap001 I'm not sure what's up with the first entry or if it's really an entry or not. I'm also skipping those 0x50 bytes and going to offset 0x70.
+
+Here we have Marth's unit data. I'm not sure what the first 4 00's do. The 4 00's after that are actually data: CH 00 CL 00 such that CH = the character # (such that Marth = 0x00) and that CL = the class # (such that Marth's class = 0x00). Obviously this is in hex. This can easily change the character and whatnot but events may be affected by doing such a thing. Just letting you guys know.
+
+After this are 4 more bytes: X1 Y1 X2 Y2. The starting co-ordinates for the unit (where they appear from) and where the units move to and ultimately end up at (X2 Y2). If these co-ordinate pairs are the same then the unit just appears to load somewhere and not move at all.
+
+I haven't bothered for the next 8 bytes but it could very well be something useful in the feature.
+
+I am now at offset 0x84 in bmap001 data file (uncompressed). The bytes there are 0A 00 01 00. 0A is the first weapon the character has (hex value of the item such that Iron Sword = 0x01) and 01 is also the hex of an item. Item hex are separated by 00s. If I had to take a guess, I'd say the 4 zeros that follow up these are also reserved for a unit's inventory.
+
+Near the end are some pointers such as AA 07 00 00 and C2 07 00 00 that point to something like AI data. Take the hex, reverse the bytes (little endian format), and go to the offset + 0x20. The reason why you're adding 0x20 is to make up for the header at the beginning of the file.
+
+So I would go to 07CA for instance, in the same file. This takes me to some data-- text. It says "CP_AC_Null" which I'd guess is like neutral AI to not do much of anything. I really can't say how this works or anything but it's possible that there are 4 AI pointers and each pointer contributes to the overall AI of a unit.
+
+That's about all I know right now. Enjoy hacking units! Don't forget to thank me! XD
+

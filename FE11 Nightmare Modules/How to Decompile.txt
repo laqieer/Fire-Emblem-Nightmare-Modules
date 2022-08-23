@@ -1,0 +1,31 @@
+Fire Emblem DS Hacking Compilation by Blazer
+---------------------------------------------------
+
+How to Decompile your NDS ROM
+
+1) Obtain the game. I cannot help you do this.
+2) Obtain a program to decompile your game. I recommend DSlazy because it is simple.
+If it does not work, make sure you have installed the .NET runtime.
+3) Use your program and either load your ROM. For DSlazy, this means using the "..." button on the left side
+and choosing your NDS game.
+4) Hit "unpack" or "decompile". Wait a couple of minutes for the thing to do it's stuff.
+5) Go to the place where the decompiled ROM is. For DSlazy, go to the folder with DSlazy and then go to
+"NDS_UNPACK".
+6) There are two folders from here. You will almost always use the "data" folder, unless mentioned otherwise.
+7) In the data folder are bunch of other folders with tons of files. If this is what you have, then you have successfully decompiled your game. ^_^
+
+How to Recompile your NDS ROM
+
+1) For DSlazy, simply hit "nds packer" and then choose what to save your packed game as.
+For others, hit something like 'recompile' or 'repack', and normally that will do it.
+
+How to edit the files in a decompiled ROM
+
+1) Open up your hex editor.
+2) Open up the file you want to edit.
+3) You can now edit the data just like that; however, it may prove hard as the data is usually compressed.
+To decompress and compress LZ77 data, see the LZ77 Compression guide. Not ALL data is LZ77. There
+are many compressions. I cannot help you with everything. See the documentation for information
+about individual files and folders.
+
+Link to DSlazy Download- http://l33t.spod.org/ratx/DS/dslazy/dslazy.zip

@@ -1,0 +1,179 @@
+#Fire Emblem Shadow Dragon Character Editor (U)
+#http://www.feshrine.net
+#http://forums.feshrine.net
+
+1
+FEDS Character Editor (U) by Blazer
+0x20
+374
+80
+Character List.txt
+NULL
+
+Character ID (?)
+0
+2
+NEHU
+NULL
+
+Name/Portrait
+4
+2
+NEHU
+NULL
+
+Generic Enemy Name
+8
+4
+NEHU
+NULL
+
+HP
+12
+1
+NEDS
+NULL
+
+Strength
+13
+1
+NEDS
+NULL
+
+Magic
+14
+1
+NEDS
+NULL
+
+Skill
+15
+1
+NEDS
+NULL
+
+Speed
+16
+1
+NEDS
+NULL
+
+Luck
+17
+1
+NEDS
+NULL
+
+Defense
+18
+1
+NEDS
+NULL
+
+Resistance
+19
+1
+NEDS
+NULL
+
+HP Growth
+20
+1
+NEDS
+NULL
+
+Strength Growth
+21
+1
+NEDS
+NULL
+
+Magic Growth
+22
+1
+NEDS
+NULL
+
+Skill Growth
+23
+1
+NEDS
+NULL
+
+Speed Growth
+24
+1
+NEDS
+NULL
+
+Luck Growth
+25
+1
+NEDS
+NULL
+
+Defense Growth
+26
+1
+NEDS
+NULL
+
+Resistance Growth
+27
+1
+NEDS
+NULL
+
+Sword Skill Level
+28
+1
+NDHU
+Weapon Levels.txt
+
+Lance Skill Level
+29
+1
+NDHU
+Weapon Levels.txt
+
+Axe Skill Level
+30
+1
+NDHU
+Weapon Levels.txt
+
+Bow Skill Level
+31
+1
+NDHU
+Weapon Levels.txt
+
+Magic Skill Level
+32
+1
+NDHU
+Weapon Levels.txt
+
+Staff Skill Level
+33
+1
+NDHU
+Weapon Levels.txt
+
+Unknown
+34
+1
+NEHU
+NULL
+
+Weapon Lock
+36
+2
+NDHU
+Special Weapon Abilities.txt
+
+Character Bonuses
+38
+1
+NDHU
+Special Bonuses.txt

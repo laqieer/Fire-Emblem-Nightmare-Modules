@@ -1,0 +1,159 @@
+#FE10 Base Stats
+
+1
+FE10 Class Editor-Sniper
+0x9af4
+2
+120
+FE10 ClassEditor8Sniper.txt
+NULL
+
+Max HP
+44
+1
+NEDU
+NULL
+
+Max STR
+45
+1
+NEDU
+NULL
+
+Max MGC
+46
+1
+NEDU
+NULL
+
+Max SKL
+47
+1
+NEDU
+NULL
+
+Max SPD
+48
+1
+NEDU
+NULL
+
+Max LUC
+49
+1
+NEDU
+NULL
+
+Max DEF
+50
+1
+NEDU
+NULL
+
+Max RES
+51
+1
+NEDU
+NULL
+
+Base HP
+52
+1
+NEDU
+NULL
+
+Base STR
+53
+1
+NEDU
+NULL
+
+Base MGC
+54
+1
+NEDU
+NULL
+
+Base SKL
+55
+1
+NEDU
+NULL
+
+Base SPD
+56
+1
+NEDU
+NULL
+
+Base LUC
+57
+1
+NEDU
+NULL
+
+Base DEF
+58
+1
+NEDU
+NULL
+
+Base RES
+59
+1
+NEDU
+NULL
+
+HP Growth
+60
+1
+NEDU
+NULL
+
+STR Growth
+61
+1
+NEDU
+NULL
+
+MGC Growth
+62
+1
+NEDU
+NULL
+
+SKL Growth
+63
+1
+NEDU
+NULL
+
+SPD Growth
+64
+1
+NEDU
+NULL
+
+LUC Growth
+65
+1
+NEDU
+NULL
+
+DEF Growth
+66
+1
+NEDU
+NULL
+
+RES Growth
+67
+1
+NEDU
+NULL
+
+Movement
+9
+1
+NEDU
+NULL

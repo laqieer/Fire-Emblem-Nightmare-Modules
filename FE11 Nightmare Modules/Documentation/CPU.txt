@@ -1,0 +1,4 @@
+The CPU folder has a file called 'database' which has LZ77 compressed text related to AI or something of the sort. The last part of the file almost looks like a palette but I'm too lazy to uncompress it and actually test anything out.
+
+This is all I could decipher. It doesn't seem like it has anything overly interesting about it.
+

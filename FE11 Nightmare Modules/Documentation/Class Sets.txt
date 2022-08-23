@@ -1,0 +1,15 @@
+Class Sets Info
+----------------
+
+In the Class Editor module there is a slot for the different class sets. This edits which class set
+the class is in. Any class in that class set can be switched to any other class in that class set.
+
+For example, if you put the Lord (who normally can't class change) into set 1, he can change to any other
+class in set 1. In addition, any other class in set 1 (like the Myrmidon, for instance) can also change
+to the Lord class.
+
+If you want to hack the game to not allow for class changes, you can do this by setting every class
+to "none" so that they are not in any set and can't change to anybody, although the menu will still
+be accessible (the player just can't change to any other class because there are no class sets).
+
+Hope you enjoy editing the ReClass system!

@@ -1,0 +1,17 @@
+16
+0X00 None
+0X01 Live
+0X02 Relive
+0X03 Recover
+0X04 Libro
+0X05 Reserve
+0X06 Return
+0X07 Warp
+0X08 Rescue
+0X09 Charm
+0X0A Rest
+0X0B Valkyre
+0X0C Silence
+0X0D Sleep
+0X0E Berserk
+0X0F Thief

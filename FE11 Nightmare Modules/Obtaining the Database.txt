@@ -1,0 +1,6 @@
+Obtaining the Database
+-----------------------
+
+If you don't have this file (the database file used with the character, class, and item editors) then learn how to decompile your ROM (there is a tutorial on it included with the editors and everything), obtain the file 'database' from data/data in the unpacked NDS ROM, and then copy it somewhere else to edit it. You must then decompress this file using Nintenlord's Compressor (use the LZ77 DLL to decompress the LZ77 database). The output file is the file you need (I usually name this file database_D, where the suffix "D" stands for decompressed). That's all there is to it.
+
+If you need any help ask on the Fire Emblem Shrine at http://forums.feshrine.net. Good luck!

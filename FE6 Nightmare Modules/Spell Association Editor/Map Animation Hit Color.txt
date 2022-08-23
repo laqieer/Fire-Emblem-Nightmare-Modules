@@ -1,0 +1,9 @@
+8
+0x00 White (normal)
+0x01 Black (dark)
+0x02 Red (fire)
+0x03 Green (wind)
+0x04 Blue (ice)
+0x05 Yellow (light)
+0x06 Pinkish (dummy)
+0x07 Dark purplish (dummy)

@@ -1,0 +1,18 @@
+Decompressing Text
+-------------------
+
+The game's script/text/dialog can all be found in the 'm' folder. You will find many files
+that all have different parts of the game's text. For example, 'en_system' has tons of script data
+pertaining to the general system, menus, names of things (such as characters and classes), and more.
+The files with numbers attached to them correspond to the chapters of the game.
+
+The game's text is compressed using LZ77, a basic type of compression. There are many programs to reverse this compression (these programs are commonly referred to as decompressors) such as NLZ77 Compressor, which I recommend for this process as it is the best program out there.
+
+Choose the file whose text you want to decompress. Open up NLZ77 Compressor (included in this editor)
+and in the "Input" select the file you want to decompress. For output, place it in some other folder
+and name it whatever you want (preferably something that tells you what script/text the file contains).
+
+Make sure "decompress" is selected and decompress the file. Now open up the decompressed file in a hex
+editor with ASCII character editing support such as HxD or Cygnus (google them). You should now see
+the game's text on the right of the hex editor (or wherever it shows the ASCII text). Congratulations,
+you have successfully decompressed one of the text files of the game!

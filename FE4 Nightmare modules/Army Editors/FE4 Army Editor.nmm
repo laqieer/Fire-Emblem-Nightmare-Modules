@@ -1,0 +1,82 @@
+#FE4 Army Editor Editor
+#
+
+1
+FE4 Army Editor
+0x1C274
+1000
+16
+NULL
+NULL
+
+Char no 1
+0
+2
+NDHU
+FE4 Character Numbers.txt
+
+X
+2
+1
+NEDU
+NULL
+
+Y
+3
+1
+NEDU
+NULL
+
+Leader
+4
+1
+NEDU
+NULL
+
+Squad and Army
+5
+2
+HEXA
+NULL
+
+Unit number
+7
+1
+NEDU
+NULL
+
+Char no 2
+8
+2
+NDHU
+FE4 Character Numbers.txt
+
+X
+10
+1
+NEDU
+NULL
+
+Y
+11
+1
+NEDU
+NULL
+
+Leader
+12
+1
+NEDU
+NULL
+
+Squad and Army
+13
+2
+HEXA
+NULL
+
+Unit number
+15
+1
+NEDU
+NULL

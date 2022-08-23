@@ -1,0 +1,15 @@
+When a character is set to use a weapon type they normally do not use, it appears they automatically use
+Marth's animation (which is probably the first animation in the set of animations, which explains
+why it is used at default).
+
+Sword- Marth Attack Anim
+Lance- Marth Attack Anim
+Axe- Marth Attack Anim
+
+Long-Range Weapons: Null Range Attack (shows range animation without any hit, HP depletion, etc., unless a magic sword is used)
+
+Bow- Null Range Attack
+Magic- Null Range Attack
+Staff- Unable to fight with
+
+The exception to this is that the unit already has an animation set to that weapon (Sheeda doesn't use Marth's anim for lances because she is set to use her Pegasus Knight animation).

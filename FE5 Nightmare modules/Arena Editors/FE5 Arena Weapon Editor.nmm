@@ -1,0 +1,70 @@
+#FE5 Arena Weapon Editor By Pukachi
+#
+
+1
+FE5 Arena Weapon Editor By Pukachi
+0x2F113
+3
+10
+Arena Weapon Levels.txt
+NULL
+
+Sword
+0
+1
+NDHU
+FE5 Item Data.txt
+
+Spear
+1
+1
+NDHU
+FE5 Item Data.txt
+
+Axe
+2
+1
+NDHU
+FE5 Item Data.txt
+
+Bow
+3
+1
+NDHU
+FE5 Item Data.txt
+
+Staff
+4
+1
+NDHU
+FE5 Item Data.txt
+
+Fire
+5
+1
+NDHU
+FE5 Item Data.txt
+
+Thunder
+6
+1
+NDHU
+FE5 Item Data.txt
+
+Wind
+7
+1
+NDHU
+FE5 Item Data.txt
+
+Light
+8
+1
+NDHU
+FE5 Item Data.txt
+
+Dark
+9
+1
+NDHU
+FE5 Item Data.txt

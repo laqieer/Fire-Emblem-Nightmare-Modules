@@ -1,0 +1,70 @@
+00:AA00 - 00:ADFF		Pointers?
+00:CD33				Skill Description/Name Data
+0D:0D1B				Battle Transition Data
+0D:A000 - ???			Battle Data
+02:D1F4				??? Names
+03:0200				Class Data
+03:1ADF				Terrain Name Pointers
+03:1B17				Terrain Name Data
+03:1C2D				Character Data
+03:5C49 - 03:5EFA		Character Name Pointers
+03:5EFB	- 03:65A0		Character Name Data
+04:04F1				Promotion Data
+04:33E5 - 04:3406		??? Pointers
+04:3407 - 04:349F		??? Data
+04:66BA - 04:674B		Pointers?
+04:8202	- 04:81FF		Class Name Pointers
+04:82F0				Class Name Data
+04:8EC2				4-bit pointers?
+05:5152				Pointers?
+05:51CC - 05:52C1		4-bit pointers?
+05:52C3				Pointers?
+05:545C				Data?
+05:55C7				Pointers
+05:61F6				Custom Battle Sprite Data
+05:8200				Pointers?
+06:4A42				Some kind of data separated by zeroes...
+07:4310				4-bit pointers?
+07:4489 - 07:464E		79 88
+07:465A - 07:480B		75 8B
+07:7160 - 07:71DD		Names?
+07:8906 - 07:898F		Pointers?
+0C:85E8				Ch.2 House with Medicine
+0F:83C0				Leftover FE4 skill/menu graphics
+0F:B3C0				Leftover FE4 statscreen text
+10:09A0				Menu screen background?
+10:14C0				Realtime Level Up bar graphics
+10:2400				Map Level Up graphics
+10:2DE0				Map weapon graphics
+10:6260				! and extra turn balloon graphics
+18:02C3				Item Data
+18:11C5 - 18:1312		Item Name Pointers
+18:1313				Item Name Data
+18:FD39				Ch.1 Army Data
+19:0200				A few map sprite walking graphics
+34:0200				Text graphics
+38:8200				Map sprite idle graphics
+38:F280				Misc. map graphics
+38:FA80				Realtime Level Up number graphics
+39:0200				Item graphics
+39:5580				Weapon Type graphics
+39:5A80				Skill graphics
+39:6400				Configuration graphics
+39:6980				Player/Enemy/NPC Phase graphics
+39:8200				Mounted map sprite idle graphics
+39:CE80				Menu text graphics
+3A:0200				Menu style backgrounds graphics
+3A:6200				Player/Enemy/NPC Phase graphics
+3A:6A60				More menu text graphics
+3A:7900				Dialogue border graphics
+3A:7B40				Movement tile graphics
+3A:8200				Various animated terrain tiles
+3E:8200				Ch.1 Event Data
+3E:8320				Ch.1 House with Pugi Axe
+3E:83EF				Ch.1 House with Medicine
+3E:8452				Ch.1 House with Iron Sword
+3F:0200 - 40:0200		Various water terrain tiles
+
+10 40 17 00 XX - Event code for recieving XX item from a house
+FE XX YY ZZ - Event for chest item ZZ at XX YY
+FF XX YY ZZ - Event for chest item ZZ at XX YY

@@ -1,0 +1,4 @@
+3
+0x14 Vendor
+0x13 Armory
+0x15 Secret Shop

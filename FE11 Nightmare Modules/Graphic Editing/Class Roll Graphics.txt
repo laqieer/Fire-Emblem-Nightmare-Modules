@@ -1,0 +1,40 @@
+Class Roll Graphics
+---------------------
+
+The class roll graphics can be found in the 'intro' part of the data. For those who don't know, the class roll occurs when the game is idle at the title screen. It displays various classes, their stats, descriptions, and their animations in the class roll.
+
+Light.t and Light.p (Class Roll Background)
+---------------------------------------------
+
+The files 'light.p' and 'light.t' are part of the same graphic. light.p has the palette for the file light.t. The graphics in light.t are compressed using LZ77-- because GBA Graphics Editor supports viewing LZ77 graphics, you can load light.t's graphics like that.
+
+However, before one does such a thing, I recommend adding some blank space to the end of the light.t graphic file (like 0x100 zeros), taking the palette from 'light.p', copying it, and pasting it at the end of light.t. Then load up light.t in GBA Graphics Editor and view its compressed graphics at offset 0. Change the graphics mode to "Indexed bitmap" since that's what the image is. Change the size to 32x24 (width of 32 and height of 24 in GBAGE). The palette will be at wherever you put it in the light.t file. Type in the offset of the palette in Palette Control under "ROM Palette(s) Offset" and then view your happy image. 
+
+You may or may not recognize it, but this image in light.t is an epic background found in the class roll, about the time when the game displays the name of the class and then fades out to white, then fades back in to where it shows the battle animation of the class and the description at the bottom. This will all make more sense if you load up your ROM in an emulator and check out the actual class roll.
+
+In order to edit this graphic, save it as a bitmap, edit to your liking, and re-insert the image as LZ77 compressed along with the palette. You'll have to separate the palette, however. Take it out from light.t and put your new palette into light.p such that only the graphics are in light.t and only the palette is in light.p. Also remember that the color limit for this image is 512 colors and you cannot go past this limit without some epic hax. Really though, 512 colors should be more than enough for a custom background.
+
+
+'Item' Graphic
+----------------
+
+This file includes the graphics for the text such as 'HP', 'Str', 'Magic', 'Skill', etc., probably meant for the class roll, though I'm not sure. Use GBAGE to load the LZ77 compressed graphics at 0x2C8 as 4bit tile graphics with a palette at 0x770 (put this under ROM Palette(s) Offset) and a preferably size of 4x16. If you use this size the graphics aren't all that easy to edit (although Magic, Skill, Speed, and Defense are, the other stat abbreviations are not).
+
+If I knew where the TSA for this was, if there even IS TSA, I would tell you guys, but I don't, so you're on your own... Sorry.
+
+L## and S##
+----------------
+
+Both of these contain graphics data with text of classes. Like L01 and S01 have the graphical text 'Lord'. While L## files seem to properly display the text (such that they are easily editable), I couldn't find a palette for them in the data. The opposite holds true of S##-- the graphics are a little jumbled up but the palette data is at the end of the file (to find the offset, look at the pointer table at the beginning of the file that points to the offsets of graphics and palette data).
+
+Can't say too much about these, unfortunately... :\
+
+wall.t and wall.p
+-------------------
+
+This image works exactly like light.t and light.p, just different graphics and different offsets. The image (wall.t) is an indexed bitmap with LZ77 compressed graphics at the beginning and its palette in the separate file wall.p. Put the palette and graphics into one file and use GBAGE to load the graphics. Then save it as a bitmap, edit, re-insert, and re-separate the files to hack the graphics. See above (light.p and light.t) for more information.
+
+The actual image is the same one in 'light.t' except it does not have the light shining from the top-- it's just the plain background.
+
+That's about it to the graphics that I have found so far. I hope you found them useful! ^_^
+

@@ -1,0 +1,7 @@
+Maps can be found in the "maps" folder (that's a little obvious). The map names are pretty explanatory I think.
+
+Each chapter's map data consists of 2 different files. For example, chapter 1's map data is 'bmap001' and 'bmap001.ta'. If you were to rename the files of one map's chapter and change them to the names of the maps for another chapter and had them replace the old chapter's map, you would ultimately change the map. :O However, this only changes the map graphic; everything else will be the same.
+
+The .ta file seems to be compressed using LZ77. The other one either isn't compressed or uses some unknown compression (seems to me like the former).
+
+The first file (without the extension) seems to control the tile data (what tile is which, such as a peak tile being a peak title, the gate being the gate, etc.). The file itself seems to give an outline of the map however the graphics are really messed up. Because of this I am assuming that the .ta file includes all the graphic data for the map.

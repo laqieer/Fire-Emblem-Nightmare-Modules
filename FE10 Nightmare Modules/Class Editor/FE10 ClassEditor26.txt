@@ -1,0 +1,5 @@
+Sword Knight
+Lance Knight(M)
+Lance Knight(F)
+Axe Knight
+Bow Knight

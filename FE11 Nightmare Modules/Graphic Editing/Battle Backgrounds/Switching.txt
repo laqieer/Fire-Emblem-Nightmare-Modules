@@ -1,0 +1,1 @@
+As usual, graphics are contained within files and simply switching up files by copying/replacing or renaming or whatever can ultimately alter the graphics. See another guide somewhere for details on how to switch files (or alternatively use some logic).

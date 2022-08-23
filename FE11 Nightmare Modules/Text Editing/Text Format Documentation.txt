@@ -1,0 +1,60 @@
+Text Format Documentation by Blazer
+------------------------------------
+
+Text files should be decompressed with an LZ77 decompressor, preferably Nintenlord's. See a guide on
+that to obtain the text file.
+
+Actual text, as in words and stuff, is all in ASCII. It's possible to use a text editor to edit
+the text except you can't use commands codes with a simple text editor.
+
+BBG## decides which background is used for the dialog. The talking characters are mentioned first.
+
+7C is a separator byte. Really. 0x7C = | in ASCII.
+
+Text starts off with a designation of which character is where and which background to load.
+Here are some commands:
+
+00 = Separator/End of Text
+01 = ?
+04 = ?
+06 = Target Left
+07 = Target Right
+08 = Load Portrait
+09 = Target Left (?)
+0A = Line Break
+0B = Command Code
+0D = Designate Background
+11 = Pause, Press A or Tap to continue
+
+0173 = Smile 
+0B31 = Short Pause
+0B32 = ^Above, slighty longer
+0B33 = ^Above, slighty longer
+0B34 = ^Above, slightly longer
+
+Characters and backgrounds are designated with the name of the character/background afterwards.
+
+For example, MARS is the name of Marth in text. So one would type 0x7C 0x06 0x08 "MARS" to load Marth
+on the left.
+
+The first 0x20 bytes in these files are all ignored. That's right, ignored. That includes pointers,
+too--if there's a pointer to something in the file, it'll reference from 0x20 rather than the beginning the file (0x00).
+
+At the bottom of the text file are pointers. 13 of them. There is a pointer to the text, which
+takes 4 bytes, then some other byte and 00's. So each entry is 8 bytes. Each entry also corresponds
+to a label which is at the bottom.
+
+For example, in en_001 file, the first pointer is 54 07 00 00, or after being reversed, 0x754 (inside of that file), and after adding 0x20, the offset becomes 0x774. Go to that offset in the file and you
+have the beginning of Gazam's battle text loading. :D
+
+After the pointers is some text. These are like text IDs. It's how text is referenced, really. So the first one is "MS001_BT_GAZAK". I'm going to say BT stands for battle and GAZAK stands for... Gazak, the bos of the chapter. So it's his battle text. Fair enough, we just went to the first pointer, 0x774, and they correspond to each other. Yay!
+
+With this one can repoint text and not be limited by the original amount of text in an entry. w00t! New accomplishment by Blazer! :D
+
+As before, text is separated by 00, in this case the text IDs/labels are separated by 00's.
+
+I actually have a good guess about what the numbers after the text pointer mean. I think if you go
+to the beginning of the text labels (such as the Gazek one in en_001 file) and you add that number,
+you should get to the corresponding text label. Am I right or what?
+
+That's about all I know about text editing so far. But it's quite a lot! Enough to make your own, customized script, in fact! So don't be sad! Be glad! :D

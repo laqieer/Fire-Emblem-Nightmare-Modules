@@ -1,0 +1,124 @@
+#FE5 Item Editor By Pukachi
+#
+
+1
+FE5 Item Editor By Pukachi
+0x1802C2
+167
+23
+FE5 Item List.txt
+NULL
+
+Item Type
+0
+1
+NDHU
+FE5 Item Types.txt
+
+Power
+1
+1
+NEDU
+NULL
+
+Accuracy
+2
+1
+NEDU
+NULL
+
+Weight
+3
+1
+NEDU
+NULL
+
+Maximum Uses
+4
+1
+NEDU
+NULL
+
+Critical%
+5
+1
+NEDU
+NULL
+
+Range
+6
+1
+NDHU
+Weapon Range.txt
+
+Weapon Rank/Lock Pointer
+7
+2
+NDHU
+FE5 Weapon Rank.txt
+
+Effectiveness Pointer
+9
+2
+NDHU
+FE5 Weapon Effectiveness.txt
+
+Stat Bonuses Pointer
+11
+2
+NDHU
+FE5 Stat Bonuses.txt
+
+Cost Per Use + 200
+13
+2
+NEDU
+NULL
+
+Description (Lo Pointer)
+15
+1
+NEHU
+NULL
+
+Description (Hi Pointer)
+16
+1
+NEHU
+NULL
+
+Use/Staff Effect
+17
+1
+NDHU
+FE5 Item Use Effect.txt
+
+Blade Effect
+18
+1
+NDHU
+FE5 Weapon Blade Effect.txt
+
+Weapon Skills 1
+19
+1
+NDDU
+FE5 Weapon Skills 1.txt
+
+Weapon Skills 2
+20
+1
+NDDU
+FE5 Weapon Skills 2.txt
+
+Capabilities
+21
+1
+NDHU
+FE5 Weapon Capabilities.txt
+
+Weapon Icon
+22
+1
+NDHU
+FE5 Item Icons.txt

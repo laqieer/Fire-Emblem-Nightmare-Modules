@@ -1,0 +1,52 @@
+51
+0x00 Nothing
+0x02 Luck Ring effect
+0x04 Live Ring effect
+0x06 Speed Ring effect
+0x08 Magic Ring effect
+0x0A Power Ring effect
+0x0C Body Ring effect
+0x0E Shield Ring effect
+0x10 Skill Ring effect
+0x12 Leg Ring effect
+0x14 Knight Proof effect
+0x16 Master Proof effect
+0x18 Treasure Key effect
+0x1A Door Key effect
+0x1C Bridge Key effect
+0x1E Thief Key effect
+0x20 Medicine effect
+0x22 Holy Water effect
+0x24 Torch effect
+0x26 Antidote effect
+0x28 Elite Skill
+0x2A Duel Skill
+0x2C Bargain Skill
+0x2E Ambush Skill
+0x30 Wrath Skill
+0x32 Continue Skill
+0x34 Prayer Skill
+0x36 Awareness Skill
+0x38 Sunlight Skill
+0x3A Moonlight Skill
+0x3C Live Staff effect
+0x3E Relive Staff effect
+0x40 Recover Staff effect
+0x42 Libro Staff effect
+0x44 Reserve Staff effect
+0x46 Rescue Staff effect
+0x48 Warp Staff effect
+0x4A Rest Staff effect
+0x4C Silence Staff effect
+0x4E Sleep Staff effect
+0x50 Torch Staff effect
+0x52 Return Staff effect
+0x54 Repair Staff effect
+0x56 Thief Staff effect
+0x58 Watch Staff effect
+0x5A Berserk Staff effect
+0x5C Unlock Staff effect
+0x5E Magic Shield effect
+0x60 Rewarp effect
+0x66 S Drink effect
+0x68 Cure Staff effect

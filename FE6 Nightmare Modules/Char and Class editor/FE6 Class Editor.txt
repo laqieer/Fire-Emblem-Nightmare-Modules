@@ -1,0 +1,76 @@
+None
+Roy Lord
+Mercenary
+Mercenary (F)
+Hero
+Hero (F)
+Swordfighter
+Swordfighter (F)
+Swordmaster
+Swordmaster (F)
+Axefighter
+Warrior
+Armour Knight
+Armour Knight (F)
+General
+General (F)
+Archer
+Archer (F)
+Sniper
+Sniper (F)
+Priest
+Sister
+Bishop
+Bishop (F)
+Mage
+Mage (F)
+Sage
+Sage (F)
+Shaman
+Shaman (F)
+Druid
+Druid (F)
+Socialknight
+Socialknight (F) (messed up palette)
+Paladin
+Paladin (F) (messed up palette)
+Troubadour
+Valkyrie
+Nomad
+Nomad (F)
+Nomad Trooper
+Nomad Trooper (F)
+Pegasus Knight
+Falcon Knight
+Dragon Knight
+Dragon Knight (F)
+Dragon Master
+Dragon Master (F)
+Soldier
+Mountain Thief
+Pirate
+Berserker
+Thief
+Thief (F)
+Bard
+Dancer
+Mamkute
+Mamkute (F)
+Fire Dragon
+Divine Dragon
+Magic Dragon
+King
+Civilian
+Civilian (F)
+Child
+Child (F)
+Storage
+Roy Master Lord
+Archer on Long Arch
+Archer on Iron Arch
+Archer on Killer Arch
+Long Arch
+Iron Arch
+Killer Arch
+Disarmed Sniper (no standing sprites)
+Disarmed Sniper (F) (no standing sprites)

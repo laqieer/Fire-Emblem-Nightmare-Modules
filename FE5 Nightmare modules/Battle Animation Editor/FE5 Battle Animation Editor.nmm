@@ -1,0 +1,106 @@
+#FE5 Battle Animation Editor By Pukachi
+#
+
+1
+FE5 Battle Animation Editor By Pukachi
+0x561F6
+400
+16
+NULL
+NULL
+
+Class
+0
+1
+NDHU
+Class List.txt
+
+Weapon Type
+1
+1
+NDHU
+Weapon Type.txt
+
+Character (for custom)
+2
+1
+NDHU
+FE5 Character List.txt
+
+Gender
+3
+1
+NDHU
+Gender.txt
+
+Battle Sprite
+4
+1
+NEHU
+NULL
+
+Battle Animation
+5
+1
+NDHU
+Battle Animations.txt
+
+Secondary Sprite
+6
+1
+NEHU
+NULL
+
+Palette
+7
+1
+NEHU
+NULL
+
+Class
+8
+1
+NDHU
+Class List.txt
+
+Weapon Type
+9
+1
+NDHU
+Weapon Type.txt
+
+Character (for custom)
+10
+1
+NDHU
+FE5 Character List.txt
+
+Gender
+11
+1
+NDHU
+Gender.txt
+
+Battle Sprite
+12
+1
+NEHU
+NULL
+
+Battle Animation
+13
+1
+NDHU
+Battle Animations.txt
+
+Secondary Sprite
+14
+1
+NEHU
+NULL
+
+Palette
+15
+1
+NEHU
+NULL

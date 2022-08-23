@@ -1,0 +1,72 @@
+Social Knight
+Lance Knight
+Arch Knight
+Axe Knight
+Free Knight 
+Troubadour
+Lord Knight
+Duke Knight
+Master Knight
+Paladin Male
+Paladin Female
+Bow Knight 
+Forrest Knight
+Mage Knight
+Great Knight
+Pegasus Rider
+Pegasus Knight
+Falcon Knight
+Dragon Rider
+Dragon Knight
+Dragon Master
+Bow Fighter
+Sword Fighter
+Sword Master
+Sniper
+Forrest
+General
+Emperor
+Baron
+Weird Class
+Weird Class
+Weird Class
+Weird Class
+Weird Class
+Lance Armor
+Axe Armor
+Bow Armor
+Sword Armor
+Barbarian
+Axe Fighter
+Mountain Thief
+Warrior
+Hunter
+Pirate
+Junior Lord
+Mage Fighter Male
+Prince
+Princess
+Mage Fighter Female
+Queen
+Dancer
+Priest
+Mage
+Fire Mage
+Thunder Mage
+Wind Mage
+High Priest
+Bishop
+Sage
+Bard
+Shaman
+Dark Mage
+Dark Bishop
+Thief
+Thief Fighter
+Civilian
+Child Civilian
+Range Arch
+Iron Arch
+Killer Arch
+Gold Arch
+Dark Prince 

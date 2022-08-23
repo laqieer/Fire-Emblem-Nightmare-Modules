@@ -1,0 +1,9 @@
+8
+0x00 None
+0x02 Swordmaster +8% Crit
+0x05 Sniper +11% Crit
+0x08 Berserker +10% Hit
+0x10 Unlock Ability?
+0x20 Unknown
+0x40 Special Ability Flag?
+0x7F Unknown

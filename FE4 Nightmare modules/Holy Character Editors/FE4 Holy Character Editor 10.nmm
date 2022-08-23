@@ -1,0 +1,226 @@
+#FE4 Holy Character Editor 10
+#
+
+1
+FE4 Holy Character Editor 10
+0x3CCA8
+2
+90
+NULL
+NULL
+
+Character Type
+0
+1
+NDHU
+FE4 Character Type.txt
+
+Base HP
+1
+1
+NEDU
+NULL
+
+Base Strength
+2
+1
+NEDU
+NULL
+
+Base Magic
+3
+1
+NEDU
+NULL
+
+Base Skill
+4
+1
+NEDU
+NULL
+
+Base Speed
+5
+1
+NEDU
+NULL
+
+Base Luck
+8
+1
+NEDU
+NULL
+
+Base Defense
+6
+1
+NEDU
+NULL
+
+Base Magic Defense
+7
+1
+NEDU
+NULL
+
+Class
+9
+1
+NDHU
+FE4 Classes.txt
+
+Level
+10
+1
+NEDU
+NULL
+
+Leadership
+11
+1
+NEDU
+NULL
+
+Unknown
+12
+1
+NEDU
+NULL
+
+Character Number
+13
+2
+NDHU
+FE4 Character Numbers.txt
+
+Character Name
+15
+2
+NDHU
+FE4 Character Name Numbers.txt
+
+Unknown
+17
+1
+NEDU
+NULL
+
+Gender
+18
+1
+NDHU
+FE4 Gender.txt
+
+Unknown
+19
+1
+HEXA
+NULL
+
+HP Growth
+20
+1
+NEDU
+NULL
+
+Strength Growth
+21
+1
+NEDU
+NULL
+
+Magic Growth
+22
+1
+NEDU
+NULL
+
+Skill Growth
+23
+1
+NEDU
+NULL
+
+Speed Growth
+24
+1
+NEDU
+NULL
+
+Luck Growth
+27
+1
+NEDU
+NULL
+
+Defense Growth
+25
+1
+NEDU
+NULL
+
+Magic Defense Growth
+26
+1
+NEDU
+NULL
+
+Skills 1
+28
+1
+NDHU
+FE4 Character Skills 1.txt
+
+Skills 2
+29
+1
+NDHU
+FE4 Character Skills 2.txt
+
+Skills 3
+30
+1
+NDHU
+FE4 Character Skills 3.txt
+
+Blood 1
+31
+1
+NDHA
+FE4 Holy Blood 1.txt
+
+Blood 2
+32
+1
+NDHA
+FE4 Holy Blood 2.txt
+
+Blood 3
+33
+1
+NDHA
+FE4 Holy Blood 3.txt
+
+Blood 4
+34
+1
+NDHA
+FE4 Holy Blood 4.txt
+
+Equipment 1
+35
+1
+NDHU
+FE4 Weapon List.txt
+
+Equipment 2
+36
+1
+NDHU
+FE4 Weapon List.txt
+
+Equipment 3
+37
+1
+NDHU
+FE4 Player Equipment.txt

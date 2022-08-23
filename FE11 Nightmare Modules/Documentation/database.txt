@@ -1,0 +1,65 @@
+Can be decompressed using LZ77 decompressor. It also contains a directory like the other files, including
+what seems to be event files amongst other things, and a list of items, units, and classes...
+I'm not completely sure how it works but it doesn't seem too useful at the moment. 
+
+The major part of this is the inclusion of character data. Character data is made up of 80 bytes per character.
+Each byte has detail in the character editing module.
+
+First is some character ID thing. Second is the portrait "pointer". Next are the base stats
+and then the growth rates. After are the bytes determining the weapon levels of the characters. 
+
+0x00 = None or E
+0x1E = D
+0x4B = C
+0x69 = B
+0xFF = A
+
+After the growth rates are 6 bytes. Each one represents a different weapon type. They go in the following order-
+
+Swords, Lances, Axes, Bows, Magic, Staves.
+
+------------------
+
+Starting at 0xAB00 becomes "unnecessary" stuff, or rather things that we probably don't care about and aren't
+majorly important, as well as later on the lists and the such that I mentioned at the start of this documentation.
+
+------------------
+
+At 0x878C item data is located. First is Iron Sword. Data is in following order:
+
+First are 4 bytes seem to follow some type of pattern. The first byte seems to be a chronological byte,
+increasing by one every item. 4 bytes afterwards is the "Item ID" (2 bytes) or something of the sort. 
+Next is the Item name pointer (2 bytes), and then the description pointer (2 bytes). Afterwards are 4 bytes, 
+first of which is a chronological byte that determines the weapon icon, 00, another byte (?), and another 00.
+After this are 2 bytes, the first of which determines the weapon type*, and the second of which
+is just a plain 00. Afterwards is the item's statistical data, outlined below in the following order;
+
+Weapon level (character weapon level hex + 1), weapon experience, uses, might, hit, critical, weight, 
+range (2 bytes). Weapons are grouped by weapon type, meaning that Swords are mostly next to each other, 
+lances are mostly next to each other, etc., with some exceptions.
+
+*Weapon type is any number from 0x00-0x05, where sword is 00, lance is 01, axe is 02, bow is 03, magic is 04,
+staff is 05, dragonstone is 06, ballista is 07, anything past that is 'nothing'.
+
+Infinite uses can be done by putting 0x00 as the usage #. Any amount of uses over 99 seems to mess up the TSA.
+Might and hit don't have too much of a limit, besides reason. Same with critical, it seems.
+Haven't tested weight but I don't see what would be the problem besides a weapon with a weight of 100 or over.
+Range seems to have a good amount of range but setting an invincible weapon with a high range
+causes battles to execute oddly, so don't make a weapon with infinite uses and super range.
+
+-------------------
+
+Class data is located at 0x7500, approximately. It starts with something that screwed the game when I touched it,
+2 00's, the "Class Text Pointer" (affects name and possibly description), 2 00's, and then goes into the
+class's statistical data.
+
+First are the base stats, then the base growths, 8 bytes of unknown data that look like stats,
+maximum class stats (AKA stat caps), movement type (1 byte), movement (1 byte), 
+2 bytes that are usually 0x02 and 0x03, class's base weapon levels (8 bytes, values are the same as the values 
+in the item data), and then a bunch of data I haven't figured out yet.
+
+I'd like to note that the little class icons and the movement sounds are based off of bytes in 2 areas,
+but I don't know much about them unfortunately. More importantly, the class animation and map sprites
+can be switched by other means but not by the changing of bytes, unfortunately.
+
+That's about it to the database file so far. Last Updated December 23rd, 2008.

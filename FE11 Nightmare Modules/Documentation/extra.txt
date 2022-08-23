@@ -1,0 +1,1 @@
+The 'extra' folder contains files relating to the Extras of the game, like Wi-Fi mode, sound room, and event recollection. I don't see anything great to edit within these files and don't think they will need to be hacked anytime soon.

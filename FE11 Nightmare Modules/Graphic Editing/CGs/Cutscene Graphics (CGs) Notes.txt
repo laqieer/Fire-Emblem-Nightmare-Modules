@@ -1,0 +1,8 @@
+CGs can be found in the 'evt' folder. There are sub-folders with names named "evm_#" with the # being some number.
+
+'cg' contains the graphics of the CG. Compressed with LZ77-2 (0x11 header). 'cl' is the palette. Uncompressed and extremely easy to manipulate. 'sc' contains the TSA (also compressed using LZ77-11).
+
+Images are 256x192, covering one of the screens (typically the bottom one, not that it matters).
+
+See a guide on editing CG, CL, and SC files to learn how to hack Cutscene Graphics.
+

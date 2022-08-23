@@ -1,0 +1,11 @@
+Blade Paladin
+Lance Paladin(M)
+Lance Paladin(F)
+Axe Paladin(M)
+Axe Paladin(F)
+Bow Paladin(M)
+Bow Paladin(F)
+Blade Paladin (SP)
+Lance Paladin (SP)
+Axe Paladin (SP)
+Bow Paladin (SP)

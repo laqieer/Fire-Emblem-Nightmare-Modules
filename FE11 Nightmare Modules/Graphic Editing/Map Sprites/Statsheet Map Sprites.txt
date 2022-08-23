@@ -1,0 +1,6 @@
+In order to edit the map sprite in the statsheet of a unit, you need to follow these steps--
+
+1. Decompile Fire Emblem DS ROM.
+2. Go to Data->2->Class Name
+3. The "palette" file can be edited via a hex editor and contains the palette. Palettes are 0x200 bytes and are divided into two parts (not sure why there are 2 palettes or what each one does at the moment, haven't bothered to test). The 'idle' file contains the graphical data for the idle map sprite in the statsheet.
+4. By copying/pasting the files of one thing to another, you can literally switch the map sprites up.  Alternatively find a guide in this editor on LZ77-11 decompression and how to edit LZ77-11 compressed graphics so that you can actually alter the graphics.

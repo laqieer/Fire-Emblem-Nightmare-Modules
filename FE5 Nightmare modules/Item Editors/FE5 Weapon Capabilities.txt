@@ -1,0 +1,23 @@
+22
+0x00 Item
+0x04 Weapon
+0x06 Magic Weapon
+0x0C Magic
+0x10 Staff
+0x20 Infinite Use Item
+0x24 Infinite Use Weapon
+0x26 Infinite Use Magic Weapon
+0x2C Infinite Use Magic
+0x30 Infinite Use Staff
+0x40 Treasure Item
+0x44 Treasure Weapon
+0x46 Treasure Magic Weapon
+0x4C Treasure Magic
+0x50 Treasure Staff
+0x60 Infinite Use Treasure Item
+0x64 Infinite Use Treasure Weapon
+0x66 Infinite Use Treasure Magic Weapon
+0x6C Infinite Use Treasure Magic
+0x70 Infinite Use Treasure Staff
+0xA0 Broken Item
+0xA4 Broken Weapon

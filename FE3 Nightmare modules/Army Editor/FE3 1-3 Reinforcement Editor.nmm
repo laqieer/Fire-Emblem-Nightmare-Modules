@@ -1,0 +1,125 @@
+#FE3 Army Editor by Camus
+#
+
+1
+FE3 Army Editor by Camus
+0x404E8
+10
+19
+NULL
+NULL
+
+
+Character
+0
+1
+NDHU
+FE3 Characters.txt
+
+Class
+1
+1
+NDHU
+FE3 Classes.txt
+
+Level
+2
+1
+NEDU
+NULL
+
+Name
+3
+1
+NDHU
+FE3 Names.txt
+
+X Position
+4
+1
+NEDU
+NULL
+
+Y Position
+5
+1
+NEDU
+NULL
+
+Seperator?
+6
+1
+NEHU
+NULL
+
+Portrait
+7
+1
+NDHU
+FE3 Portraits.txt
+
+Weapon 1
+8
+1
+NDHU
+FE3 Items.txt
+
+Weapon 2
+9
+1
+NDHU
+FE3 Items.txt
+
+Weapon 3
+10
+1
+NDHU
+FE3 Items.txt
+
+Weapon 4
+11
+1
+NDHU
+FE3 Items.txt
+
+Item 1
+12
+1
+NDHU
+FE3 Items.txt
+
+Item 2
+13
+1
+NDHU
+FE3 Items.txt
+
+????
+14
+1
+NEHU
+NULL
+
+????
+15
+1
+NEHU
+NULL
+
+Enemy AI
+16
+1
+NEHU
+NULL
+
+Enemy AI
+17
+1
+NEHU
+NULL
+
+Enemy AI
+18
+1
+NEHU
+NULL

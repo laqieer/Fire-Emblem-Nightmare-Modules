@@ -1,0 +1,32 @@
+31
+0x00 None
+0x8662738 +5 Str
+0x8662744 +5 Def & Res
+0x8662750 +5 Skill
+0x866275C +5 Def
+0x8662768 +5 Spd
+0x8662774 +5 Luck
+0x8662780 +5 Res
+0x866278C +5 Magic
+0x8662798 +10 Str & Skill +20 Def +5 Res
+0x86627A4 +12 Str & Skill +15 Def +25 Res
+0x86627B0 +15 Str & Skill +20 Def +15 Res
+0x86627BC +2 Skill
+0x86627C8 +2 Luck
+0x86627D4 +7 HP
+0x86627E0 +2 Defense
+0x86627EC +2 Energy Ring
+0x86627F8 +2 Speed
+0x8662804 +2 Resistance
+0x8662810 +2 Movement
+0x866281C +2 Constitution
+0x8FFF2A0 Custom
+0x8FFF2A8 Custom
+0x8FFF2B0 Custom
+0x8FFF2B8 Custom
+0x8FFF2C0 Custom
+0x8FFF2C8 Custom
+0x8FFF2D0 Custom
+0x8FFF2D8 Custom
+0x8FFF2E0 Custom
+0x8FFF2E8 Custom

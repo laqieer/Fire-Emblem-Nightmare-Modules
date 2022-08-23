@@ -1,0 +1,159 @@
+#FE10 Base Stats
+
+1
+FE10 Class Editor-Fighter
+0x98c4
+1
+112
+FE10 ClassEditor6.txt
+NULL
+
+Max HP
+28
+1
+NEDU
+NULL
+
+Max STR
+29
+1
+NEDU
+NULL
+
+Max MGC
+30
+1
+NEDU
+NULL
+
+Max SKL
+31
+1
+NEDU
+NULL
+
+Max SPD
+32
+1
+NEDU
+NULL
+
+Max LUC
+33
+1
+NEDU
+NULL
+
+Max DEF
+34
+1
+NEDU
+NULL
+
+Max RES
+35
+1
+NEDU
+NULL
+
+Base HP
+36
+1
+NEDU
+NULL
+
+Base STR
+37
+1
+NEDU
+NULL
+
+Base MGC
+38
+1
+NEDU
+NULL
+
+Base SKL
+39
+1
+NEDU
+NULL
+
+Base SPD
+40
+1
+NEDU
+NULL
+
+Base LUC
+41
+1
+NEDU
+NULL
+
+Base DEF
+42
+1
+NEDU
+NULL
+
+Base RES
+43
+1
+NEDU
+NULL
+
+HP Growth
+44
+1
+NEDU
+NULL
+
+STR Growth
+45
+1
+NEDU
+NULL
+
+MGC Growth
+46
+1
+NEDU
+NULL
+
+SKL Growth
+47
+1
+NEDU
+NULL
+
+SPD Growth
+48
+1
+NEDU
+NULL
+
+LUC Growth
+49
+1
+NEDU
+NULL
+
+DEF Growth
+50
+1
+NEDU
+NULL
+
+RES Growth
+51
+1
+NEDU
+NULL
+
+Movement
+9
+1
+NEDU
+NULL
