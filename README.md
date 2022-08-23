@@ -4,6 +4,8 @@ Nightmare editor modules for Fire Emblem series
 ## Tools
 - [Nightmare](https://www.romhacking.net/utilities/1307/)
 - [Nightmare 2](https://www.romhacking.net/utilities/610/)
+- [FEFNightmare](https://github.com/thane98/FEFEditor)
+- [Paragon](https://github.com/thane98/paragon)
 - [NMM2CSV](https://github.com/FireEmblemUniverse/NMM2CSV)
 
 ## Docs
