@@ -1,9 +1,0 @@
-//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
-
-//BLOCK #025 NAME:		Ending Cast
-//Block Range: $12837 - $12A34
-
-Cast<X>
-
-idia    Katua<X>
-

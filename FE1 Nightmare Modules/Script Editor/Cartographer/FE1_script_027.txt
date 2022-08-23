@@ -1,7 +1,0 @@
-//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
-
-//BLOCK #027 NAME:		Ending Narration
-//Block Range: $12CD7 - $12DB1
-
-<A>
-<$28>a<$18>A long long war is over.<$28><lance><$13>A darkness over the<$28><$C5><$12>world is defeated.<$29><$05><$17>Marth and his retainers<$29>a<$0E>have just won.<$29><lance><$18>It is one of the legends<$29><$C5><$0B>of falchion.<$2A><$0B><$08>Let's go!<$2A>a<$17>Because the next battle<$2A><lance><$17>has already started....
