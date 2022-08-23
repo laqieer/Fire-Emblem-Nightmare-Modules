@@ -1,3 +1,6 @@
 [submodule "FE14 Nightmare Modules/fefates-tools"]
 	path = FE14 Nightmare Modules/fefates-tools
 	url = https://github.com/RainThunder/fefates-tools.git
+[submodule "FE8 Nightmare modules/FE8-Nightmare-Light"]
+	path = FE8 Nightmare modules/FE8-Nightmare-Light
+	url = https://github.com/StanHash/FE8-Nightmare-Light.git
