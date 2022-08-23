@@ -1,0 +1,40 @@
+#FE3 Chest Item Editor 4
+#
+
+1
+Chest Item Editor 4
+0x61024
+32
+6
+NULL
+NULL
+
+Always 0
+0
+1
+NEHU
+NULL
+
+Always 0
+1
+1
+NEHU
+NULL
+
+Always 16
+2
+1
+NEHU
+NULL
+
+Item
+3
+1
+NDHU
+FE3 Items.txt
+
+Always 0 ?
+4
+1
+NEHU
+NULL

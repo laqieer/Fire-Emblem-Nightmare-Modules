@@ -1,0 +1,43 @@
+1
+Enemy Recrutable Character Editor
+0x58BC6
+34
+6
+NULL
+NULL
+
+Map Number
+0
+1
+NDHU
+Chapters.txt
+
+Character used to recruit
+1
+1
+NDHU
+FE3 Names.txt
+
+Character recruited
+2
+1
+NDHU
+FE3 Names.txt
+
+Event flag condition
+3
+1
+NEHU
+NULL
+
+Event number
+4
+1
+NEHU
+NULL
+
+Always 00
+5
+1
+NEHU
+NULL

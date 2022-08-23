@@ -1,0 +1,55 @@
+1
+Event Tile Editor
+0x61379
+239
+10
+NULL
+NULL
+
+Map Number
+0
+1
+NDHU
+Chapters.txt
+
+Character that can visit it
+1
+1
+NDHU
+FE3 Names.txt
+
+Coordinate X
+2
+1
+NEDU
+NULL
+
+Coordinate Y
+3
+1
+NEDU
+NULL
+
+Visit Restrictions
+4
+1
+NDHU
+Restrictions.txt
+
+Building Type
+5
+1
+NDHU
+Building.txt
+
+Event Number (2 bytes)
+6
+2
+NEHU
+NULL
+
+Graphic Change after event (2 bytes)
+7
+2
+NEHU
+NULL

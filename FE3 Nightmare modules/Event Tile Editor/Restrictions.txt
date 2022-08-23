@@ -1,0 +1,6 @@
+4
+
+0x00 Armory changes to Store (???)
+0x04 Only if holding Member Card
+0x01 Only if holding Star Sphere
+0xFF No restrictions

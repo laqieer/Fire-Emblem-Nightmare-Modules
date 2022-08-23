@@ -1,0 +1,4 @@
+2
+
+0x00 Outdoor
+0x01 Indoor

@@ -1,0 +1,48 @@
+0x00 Debug Map
+0x01 1-1: Marth Embarks
+0x02 1-3: A Brush in The Teeth
+0x03 1-4: Champion of Aurelis
+0x04 1-5: Fire Emblem
+0x05 1-6: Lefcandith Gauntlet
+0x06 1-8: Princess Minerva
+0x07 1-9: Knorda Slave Market
+0x08 1-10: The Ageless Palace
+0x09 1-11: Land of Sorrow
+0x0A 1-12: An Oasis of Magic
+0x0B 1-13: The Battle for Altea
+0x0C 1-14: Star and Savior
+0x0D 1-15: Manakete Princess
+0x0E 1-16: Camus the Sable
+0x0F 1-17: A Knight-Filled Sky
+0x10 1-18: Dark Pontifex
+0x11 1-20: Chosen by Fate
+0x12 2-1: The Grustian Expedition
+0x13 2-18: Battle of the Pass
+0x14 2-4: Joy and Sorrow
+0x15 2-2: Rebellion at Macedon
+0x16 2-3: Abducted Princess
+0x17 Cutscene?
+0x18 2-5: Liberation of Grust
+0x19 2-6: The Nest of Evil
+0x1A 2-7: The Scarlet Swordsman
+0x1B Cutscene?
+0x1C 2-8: Soulful Bridge
+0x1D 2-9: Sanctuary of Sorcery
+0x1E 2-10: Two Sorcerers
+0x1F 2-15: Return of the Prince
+0x20 2-16: Regaining the Capital
+0x21 2-11: Anri's Way
+0x22 Cutscene?
+0x23 2-12: Graveyard of Fire Dragons
+0x24 2-13: Frozen Land
+0x25 2-14: A Mystery Revealed
+0x26 2-17: Gra's Sun Sets
+0x27 2-21: The Wyvern's Dale
+0x28 2-19: The Last Decisive Battle
+0x29 2-20: Dark Emperor
+0x2A Dragon's Table: Part 1
+0x2B Dragon's Table: Part 2
+0x2C Dragon's Table: Part 3
+0x2D 1-2: The Pirates of Galder
+0x2E 1-7: The Scarlet Sword
+0x2F 1-19: The Dragonkin Realm
