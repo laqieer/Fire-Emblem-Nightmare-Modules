@@ -1,0 +1,3 @@
+[submodule "FE14 Nightmare Modules/fefates-tools"]
+	path = FE14 Nightmare Modules/fefates-tools
+	url = https://github.com/RainThunder/fefates-tools.git
