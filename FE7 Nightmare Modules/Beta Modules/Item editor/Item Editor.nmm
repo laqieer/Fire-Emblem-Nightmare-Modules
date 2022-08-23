@@ -1,6 +1,9 @@
+#FE7 Item Editor by SpyroDi
+#
+
 1
-FE7 Item Editor by SpyroDi, updated by Nintenlord
-0xBE222C
+FE7 Beta Item Editor by Arch and Nintenlord
+0xB7D5B4
 159
 36
 FE7 Item Editor.txt
@@ -64,14 +67,14 @@ Weapon Ability 4.txt
 Stat Bonuses Pointer
 12
 4
-NEHU
-NULL
+NDHU
+Stat Boost Pointers.txt
 
 Effectiveness
 16
 4
-NEHU
-NULL
+NDHU
+Effectiveness Pointers.txt
 
 Durability
 20
