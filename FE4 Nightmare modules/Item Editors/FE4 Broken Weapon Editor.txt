@@ -1,0 +1,6 @@
+// Broken weapons will automatically refer to these numbers
+// - if the rank and type match
+// By default, FE4 set Dark to use the same broken weapons
+// - as Light
+// In order to change this, you must change the pointer
+// - for Dark which is located at $7E4EE

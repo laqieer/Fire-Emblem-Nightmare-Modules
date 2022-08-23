@@ -1,0 +1,49 @@
+48
+0x00 Offscreen, far / Mounted
+0x01 Offscreen, far / Mounted
+0x02 Offscreen, far / Mounted
+0x03 Onscreen, average / Mounted
+0x04 Offscreen, far / Mounted
+0x05 Onscreen, near / Mounted
+0x06 Onscreen, far / Mounted / Fast
+0x07 Onscreen, far / Mounted / Fast
+0x08 Offscreen, far / Mounted / Fast
+0x09 Onscreen, average / Mounted / Fast
+0x0A Onscreen, near / Mounted / Fast
+0x0B Onscreen, average
+0x0C Offscreen, average / Pegasus / Fast
+0x0D Offscreen, average / Pegasus / Fast
+0x0E Offscreen, average / Pegasus / Fast
+0x0F Onscreen, near / Pegasus / Fast
+0x10 Offscreen, average / Dragon
+0x11 Offscreen, far / Dragon
+0x12 Offscreen, far / Dragon
+0x13 Offscreen, far / Archer, Sniper
+0x14 Onscreen, very close / Armor
+0x15 Onscreen, very close / Armor
+0x16 Offscreen, far / Armor
+0x17 Onscreen, average / Armor
+0x18 Offscreen, far / Armor
+0x19 Onscreen, near / Armor
+0x1A Onscreen, average
+0x1B Onscreen, close
+0x1C Onscreen, close
+0x1D Offscreen, far
+0x1E Onscreen, far
+0x1F Offscreen, far
+0x20 Offscreen, far
+0x21 Onscreen, near
+0x22 Onscreen, average
+0x23 Offscreen, far / Hunter, Warrior Bow
+0x24 Onscreen, near
+0x25 Onscreen, near / Mounted / Fast
+0x26 Onscreen, average / Fast
+0x27 Onscreen, far / Fast
+0x28 Onscreen, far / Fast
+0x29 Onscreen, near / Slow
+0x2A Onscreen, average / Mounted / Fast
+0x2B Onscreen, near
+0x2C Long Arch Ballistae
+0x2D Onscreen, average / Dark Prince
+0x2E Onscreen, near / Fast
+0x2F Onscreen, far / Mounted / Super Fast

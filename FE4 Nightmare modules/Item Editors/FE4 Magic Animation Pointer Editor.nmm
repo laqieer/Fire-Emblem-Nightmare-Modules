@@ -1,10 +1,10 @@
-#FE4 Char Name Editor
+#FE4 Magic Animation Pointer Editor by Lamia
 #
 
 1
-FE4 Char Name Editor (base $39C59)
-0x39C59
-48
+FE4 Magic Animation Pointer Editor (base 17917D, up to 0x4C)
+0x17917D
+5
 32
 NULL
 NULL

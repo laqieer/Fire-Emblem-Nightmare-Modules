@@ -1,0 +1,2 @@
+// Positions are set by the first attacker of battle
+// The Position affects the unit's movement speed and hitbox size

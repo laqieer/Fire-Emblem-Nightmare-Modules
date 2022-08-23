@@ -1,0 +1,3 @@
+// Positions are set by the first attacker of battle
+// The Position affects both units' starting positions,
+// and whether or not both characters are visible

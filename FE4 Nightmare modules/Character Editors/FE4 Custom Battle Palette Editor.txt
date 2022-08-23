@@ -1,0 +1,2 @@
+// Unique palettes are applied when the character and class match
+// Refer to the Battle Sprite Editor for palette comparisons
