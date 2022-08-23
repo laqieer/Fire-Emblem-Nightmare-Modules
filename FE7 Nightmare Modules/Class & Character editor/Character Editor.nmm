@@ -1,0 +1,451 @@
+#0x2A524221
+#0x000000A0
+#FIREEMBLEME\u0000AE7E01
+#BASEPOINTER
+#FE7 Character Editor module with Nightmare 2.0
+#feature support added by Hextator
+#Remove all but "#0x" from the first line
+#or save FE 7 with FEditor Adv to bypass
+#"invalid file" errors
+
+1
+FE7 Character Editor by SpyroDi, modified by Arch the GK and Nintenlord
+0xBDCE18
+#0x00017890
+#0x08000000
+254
+52
+FE7 Character List.txt
+NULL
+
+Character Name
+0
+2
+NEHU
+NULL
+
+Character Description
+2
+2
+NEHU
+NULL
+
+Character Number
+4
+1
+NDHU
+Characters.txt
+
+Class (support viewer only)
+5
+1
+NDHU
+Class List.txt
+
+Portrait
+6
+1
+NDHU
+Portrait List.txt
+
+***UNKNOWN***(Always Zero)
+7
+1
+NEHU
+NULL
+
+Mini Portrait
+8
+1
+NDHU
+Mini Protrait.txt
+
+Affinity
+9
+1
+NDDU
+Affinity.txt
+
+Character Number 2?
+10
+1
+NDHU
+Characters.txt
+
+Level
+11
+1
+NEDU
+NULL
+
+Base HP
+12
+1
+NEDS
+NULL
+
+Base Strength/Magic
+13
+1
+NEDS
+NULL
+
+Base Skill
+14
+1
+NEDS
+NULL
+
+Base Speed
+15
+1
+NEDS
+NULL
+
+Base Defense
+16
+1
+NEDS
+NULL
+
+Base Resistance
+17
+1
+NEDS
+NULL
+
+Base Luck
+18
+1
+NEDS
+NULL
+
+Constitution Bonus
+19
+1
+NEDS
+NULL
+
+Sword Level
+20
+1
+NDDU
+Weapon Rank.txt
+
+Spear Level
+21
+1
+NDDU
+Weapon Rank.txt
+
+Axe Level
+22
+1
+NDDU
+Weapon Rank.txt
+
+Bow Level
+23
+1
+NDDU
+Weapon Rank.txt
+
+Staff Level
+24
+1
+NDDU
+Weapon Rank.txt
+
+Anima Level
+25
+1
+NDDU
+Weapon Rank.txt
+
+Light Level
+26
+1
+NDDU
+Weapon Rank.txt
+
+Dark Level
+27
+1
+NDDU
+Weapon Rank.txt
+
+HP Growth
+28
+1
+NEDU
+NULL
+
+Strength/Magic Growth
+29
+1
+NEDU
+NULL
+
+Skill Growth
+30
+1
+NEDU
+NULL
+
+Speed Growth
+31
+1
+NEDU
+NULL
+
+Defense Growth
+32
+1
+NEDU
+NULL
+
+Resistance Growth
+33
+1
+NEDU
+NULL
+
+Luck Growth
+34
+1
+NEDU
+NULL
+
+Palette - Unpromoted
+35
+1
+NDHU
+Character Palettes.txt
+
+Palette - Promoted
+36
+1
+NDHU
+Character Palettes.txt
+
+Custom Battle Sprite - Unpromoted
+37
+1
+NDHU
+Custom Battle Sprites.txt
+
+Custom Battle Sprite - Promoted
+38
+1
+NDHU
+Custom Battle Sprites.txt
+
+***UNKNOWN*** (Zero)
+39
+1
+NEHU
+NULL
+
+Can Use Ballistae? (Archer ability)
+320b
+1b
+NDDU
+On Off.txt
+
+Critical Bonus (See crit bonus editor)
+321b
+1b
+NDDU
+On Off.txt
+
+Play (Bard ability)
+322b
+1b
+NDDU
+On Off.txt
+
+Dance (Dancer ability)
+323b
+1b
+NDDU
+On Off.txt
+
+Can pick locks? (Thief ability)
+324b
+1b
+NDDU
+On Off.txt
+
+Can steal? (Thief ability)
+325b
+1b
+NDDU
+On Off.txt
+
+Can move after non-attack action? (Mounted ability)
+326b
+1b
+NDDU
+On Off.txt
+
+Mounted aid system (Mounted/flier ability)
+327b
+1b
+NDDU
+On Off.txt
+
+Is boss?
+328b
+1b
+NDDU
+On Off.txt
+
+Is female?
+329b
+1b
+NDDU
+On Off.txt
+
+Is lord?
+330b
+1b
+NDDU
+On Off.txt
+
+Pegasus Knight icon
+331b
+1b
+NDDU
+On Off.txt
+
+Dragon Knight icon
+332b
+1b
+NDDU
+On Off.txt
+
+Mounted icon to appear by "Aid"
+333b
+1b
+NDDU
+On Off.txt
+
+Is supply depot?
+334b
+1b
+NDDU
+On Off.txt
+
+Is promoted?
+335b
+1b
+NDDU
+On Off.txt
+
+Has normal triangle attack?
+338b
+1b
+NDDU
+On Off.txt
+
+Has different triangle attack?
+337b
+1b
+NDDU
+On Off.txt
+
+Can use "Dragon Stone" locked weapons?
+341b
+1b
+NDDU
+On Off.txt
+
+Can use "Wo Dao" locked weapons?
+342b
+1b
+NDDU
+On Off.txt
+
+Can use "unused weapon lock" locked weapons?
+343b
+1b
+NDDU
+On Off.txt
+
+Can use "Athos" locked weapons?
+344b
+1b
+NDDU
+On Off.txt
+
+Can use "Lyn" locked weapons?
+345b
+1b
+NDDU
+On Off.txt
+
+Can use "Hector" locked weapons?
+346b
+1b
+NDDU
+On Off.txt
+
+Can use "Eliwood" locked weapons?
+347b
+1b
+NDDU
+On Off.txt
+
+Last item droppable
+348b
+1b
+NDDU
+On Off.txt
+
+Seal magic?
+349b
+1b
+NDDU
+On Off.txt
+
+Lethality skill
+350b
+1b
+NDDU
+On Off.txt
+
+Give no experience to enemies?
+351b
+1b
+NDDU
+On Off.txt
+
+Supports Data Pointer
+44
+4
+NEHU
+NULL
+
+***UNKNOWN***
+48
+1
+NEHU
+NULL
+
+***UNKNOWN*** (Zero)
+49
+1
+NEHU
+NULL
+
+***UNKNOWN*** (Zero)
+50
+1
+NEHU
+NULL
+
+***UNKNOWN*** (Zero)
+51
+1
+NEHU
+NULL
