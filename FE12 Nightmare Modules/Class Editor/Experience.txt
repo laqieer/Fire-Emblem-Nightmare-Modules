@@ -1,0 +1,5 @@
+4
+0x00 Unpromoted
+0x04 Unpromoted + Boost
+0x08 Promoted
+0x80 Can Imitate

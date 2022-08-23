@@ -1,0 +1,26 @@
+25
+0 - Default/Lord
+1 - Knight
+2 - General
+3 - Cavalier
+4 - Paladin
+5 - Merc/Myrm
+6 - Hero/Swdmaster
+7 - Fighter
+8 - Warrior
+9 - Pirate
+10 - Berserker
+11 - Thief
+12 - Archer/Dismounted Knight
+13 - Sniper/Dismounted Knight (F)
+14 - Hunter
+15 - Horsemen
+16 - Chameleon
+17 - Manakete
+18 - Magic Users
+19 - Unused
+20 - Promoted Magic Users
+21 - Flying
+22 - Magic Dragon
+23 - Soldier
+24 - Ballistician

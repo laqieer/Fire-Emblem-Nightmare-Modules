@@ -1,0 +1,17 @@
+16
+0x00 None
+0xF1 +5% Hit
+0xF2 +10% Hit
+0xF3 +15% Hit
+0xF4 +5% Critical
+0xF5 +5% Hit, +5% Critical
+0xF6 +10% Hit, +5% Critical
+0xF7 +15% Hit, +5% Critical
+0xF8 +10% Critical
+0xF9 +5% Hit, +10% Critical
+0xFA +10% Hit, +10% Critical
+0xFB +15% Hit, +10% Critical
+0xFC +15% Critical
+0xFD +5% Hit, +15% Critical
+0xFE +5% Hit, +15% Critical
+0xFF +15% Hit, +15% Critical

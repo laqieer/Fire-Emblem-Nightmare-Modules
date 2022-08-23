@@ -1,0 +1,145 @@
+1
+Chapter 0 Unit Editor by VincentASM
+0x50
+34
+88
+NULL
+NULL
+
+Character
+0
+2
+NDHU
+Char_list.txt
+
+Class
+2
+1
+NDHU
+Class_list.txt
+
+Starting X co-ordinate
+4
+1
+NEDS
+NULL
+
+Starting Y co-ordinate
+5
+1
+NEDS
+NULL
+
+Ending X co-ordinate
+6
+1
+NEDS
+NULL
+
+Ending Y co-ordinate
+7
+1
+NEDS
+NULL
+
+Player or enemy
+8
+1
+NEHU
+NULL
+
+Base Level
+9
+1
+NEDU
+NULL
+
+Final Level?
+10
+1
+NEDU
+NULL
+
+Army allegiance
+11
+1
+NEHU
+NULL
+
+Inventory slot 1
+16
+1
+NDHU
+Item_list.txt
+
+Item option
+18
+2
+HEXA
+NULL
+
+Inventory slot 2
+20
+1
+NDHU
+Item_list.txt
+
+Item option
+22
+2
+HEXA
+NULL
+
+Inventory slot 3
+24
+1
+NDHU
+Item_list.txt
+
+Item option
+26
+2
+HEXA
+NULL
+
+Inventory slot 4
+28
+1
+NDHU
+Item_list.txt
+
+Item option
+30
+2
+HEXA
+NULL
+
+Unknown
+44
+4
+HEXA
+NULL
+
+AI pointer 1
+48
+4
+NEHU
+NULL
+
+AI pointer 2
+52
+4
+NEHU
+NULL
+
+AI pointer 3
+56
+4
+NEHU
+NULL
+
+AI pointer 4
+60
+4
+NEHU
+NULL

@@ -1,0 +1,19 @@
+18
+0x00 None
+0x1435500 Vulnerary/Elixir/Gradius/Falchion/Hauteclere
+0xFD4500 Pure Water/Partia
+0x10D4000 Heal/Physic
+0x1423100 Mend
+0x1422900 Recover
+0x1423F00 Fortify
+0x1435F00 Warp
+0x1423800 Rescue
+0x12E3100 Barrier
+0x1430900 Thief Staff
+0x1434200 Unlock Staff
+0xFD3C00 Hammerne
+0x1425B00 Silence
+0xF50A00 Again Staff
+0x12E6000 Ohm
+0xF67F00 Stat Boosters
+0x12E4C00 Bonds/Boost-Staves

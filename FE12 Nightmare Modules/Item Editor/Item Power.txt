@@ -1,0 +1,8 @@
+7
+0x00 Iron Weapon
+0x01 Steel Weapon
+0x02 Silver Weapon
+0x03 Brave Weapon
+0x7D Forge on High Difficulty
+0x7E Enemy Only Forge
+0x7F Do Not Forge

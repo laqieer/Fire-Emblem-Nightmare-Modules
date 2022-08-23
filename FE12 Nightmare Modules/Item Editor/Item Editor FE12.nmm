@@ -1,0 +1,273 @@
+#Fire Emblem New Mystery Item Editor
+#http://www.feshrine.net
+#http://forums.feshrine.net
+#Created by Blazer for FE11
+#Some FE12 adaptation by Purple Mage
+#This version by Darrman
+
+1
+FE12 Item Editor (U) by Blazer, et al
+0xa308
+193
+60
+Item List.txt
+NULL
+
+
+IID Pointer (Item ID)
+0
+4
+NEHU
+NULL
+
+MIID Pointer (Item Name)
+4
+4
+NEHU
+NULL
+
+MI_H Pointer (Item Description)
+8
+4
+NEHU
+NULL
+
+Weapon Icon
+12
+1
+NEHU
+NULL
+
+Zero
+13
+1
+NEHU
+NULL
+
+Price Per Use
+14
+2
+NEDU
+NULL
+
+Item Type
+16
+1
+NDDU
+Item Types.txt
+
+Item Use Effect
+17
+1
+NDHU
+Use Effect.txt
+
+Weapon Level
+18
+1
+NDDU
+Weapon Levels.txt
+
+Weapon Experience
+19
+1
+NEDU
+NULL
+
+Uses (0=INF)
+20
+1
+NEDU
+NULL
+
+Might
+21
+1
+NEDU
+NULL
+
+Hit
+22
+1
+NEDU
+NULL
+
+Critical
+23
+1
+NEDU
+NULL
+
+Weight
+24
+1
+NEDU
+NULL
+
+Minimum Range
+25
+1
+NEDU
+NULL
+
+Max Range
+26
+1
+NEDU
+NULL
+
+Movement Increase
+27
+1
+NEDU
+NULL
+
+HP Healed/Increase
+28
+1
+NEDU
+NULL
+
+Strength Increase
+29
+1
+NEDU
+NULL
+
+Magic Increase
+30
+1
+NEDU
+NULL
+
+Skill Increase
+31
+1
+NEDU
+NULL
+
+Speed Increase
+32
+1
+NEDU
+NULL
+
+Luck Increase
+33
+1
+NEDU
+NULL
+
+Defence Increase
+34
+1
+NEDU
+NULL
+
+Resistance Increase
+35
+1
+NEDU
+NULL
+
+Ability 1
+36
+1
+NDHU
+Ability 1.txt
+
+Ability 2
+37
+1
+NDHU
+Ability 2.txt
+
+Ability 3
+38
+1
+NDHU
+Ability 3.txt
+
+Ability 4
+39
+1
+NDHU
+Ability 4.txt
+
+Ability 5
+40
+1
+NDHU
+Ability 5.txt
+
+Ability 6
+41
+1
+NDHU
+Ability 6.txt
+
+Ability 7
+42
+1
+NDHU
+Ability 7.txt
+
+Ability 8
+43
+1
+NDHU
+Ability 8.txt
+
+Effectiveness
+44
+1
+NDHU
+Effectiveness.txt
+
+Zero
+45
+2
+HEXA
+NULL
+
+Map Animation Pointer
+47
+4
+NDHI
+Map Animation Pointer.txt
+
+Ranged Animation Pointer
+51
+4
+NDHU
+Ranged Attack Animation.txt
+
+Separator
+55
+1
+NEHU
+NULL
+
+Alternative Item ID?
+56
+1
+NEHU
+NULL
+
+Base Staff EXP
+57
+1
+NEDU
+NULL
+
+Item Difficulty Adjustment
+58
+1
+NDHU
+Item Power.txt
+
+One
+59
+1
+NEHU
+NULL

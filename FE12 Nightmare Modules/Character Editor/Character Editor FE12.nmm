@@ -1,0 +1,403 @@
+#Based on Blazer's FE11 character editor
+#Fire Emblem Dark Dragon Character Editor (U)
+#http://www.feshrine.net
+#http://forums.feshrine.net
+
+1
+FE12 Character Editor by Darrman
+0x20
+374
+92
+Character List.txt
+NULL
+
+PID Pointer (Character ID)
+0
+4
+NEHU
+NULL
+
+FID Pointer (Name/Portrait)
+4
+4
+NEHU
+NULL
+
+Generic Enemy Name
+8
+4
+NEHU
+NULL
+
+HP
+12
+1
+NEDS
+NULL
+
+Strength
+13
+1
+NEDS
+NULL
+
+Magic
+14
+1
+NEDS
+NULL
+
+Skill
+15
+1
+NEDS
+NULL
+
+Speed
+16
+1
+NEDS
+NULL
+
+Luck
+17
+1
+NEDS
+NULL
+
+Defense
+18
+1
+NEDS
+NULL
+
+Resistance
+19
+1
+NEDS
+NULL
+
+HP Growth (note encryption)
+20
+1
+NEHU
+NULL
+
+Strength Growth
+21
+1
+NEHU
+NULL
+
+Magic Growth
+22
+1
+NEHU
+NULL
+
+Skill Growth
+23
+1
+NEHU
+NULL
+
+Speed Growth
+24
+1
+NEHU
+NULL
+
+Luck Growth
+25
+1
+NEHU
+NULL
+
+Defense Growth
+26
+1
+NEHU
+NULL
+
+Resistance Growth
+27
+1
+NEHU
+NULL
+
+HP Growth 2
+28
+1
+NEHU
+NULL
+
+Strength Growth 2
+29
+1
+NEHU
+NULL
+
+Magic Growth 2
+30
+1
+NEHU
+NULL
+
+Skill Growth 2
+31
+1
+NEHU
+NULL
+
+Speed Growth 2
+32
+1
+NEHU
+NULL
+
+Luck Growth 2
+33
+1
+NEHU
+NULL
+
+Defense Growth 2
+34
+1
+NEHU
+NULL
+
+Resistance Growth 2
+35
+1
+NEHU
+NULL
+
+
+Sword Skill Level
+36
+1
+NDHU
+Weapon Levels.txt
+
+Lance Skill Level
+37
+1
+NDHU
+Weapon Levels.txt
+
+Axe Skill Level
+38
+1
+NDHU
+Weapon Levels.txt
+
+Bow Skill Level
+39
+1
+NDHU
+Weapon Levels.txt
+
+Magic Skill Level
+40
+1
+NDHU
+Weapon Levels.txt
+
+Staff Skill Level
+41
+1
+NDHU
+Weapon Levels.txt
+
+Hair Colour
+42
+1
+NDHU
+Hair Colour.txt
+
+Zero
+43
+1
+NEHU
+NULL
+
+Weapon Lock 1
+44
+1
+NDHU
+Weapon Locks.txt
+
+Weapon Lock 2
+45
+1
+NDHU
+Weapon Locks 2.txt
+
+Always Zero
+46
+1
+NEHU
+NULL
+
+Ability 1
+47
+1
+NDHU
+Ability 1.txt
+
+Pointer to Support 1
+48
+4
+NDHU
+Support Pointers.txt
+
+Zero
+52
+1
+NEHU
+NULL
+
+Support 1 Points for C
+53
+1
+NEDU
+NULL
+
+Support 1 Points for B
+54
+1
+NEDU
+NULL
+
+Support 1 Points for A
+55
+1
+NEDU
+NULL
+
+Pointer to Support 2
+56
+4
+NDHU
+Support Pointers.txt
+
+Zero
+60
+1
+NEHU
+NULL
+
+Support 2 Points for C
+61
+1
+NEDU
+NULL
+
+Support 2 Points for B
+62
+1
+NEDU
+NULL
+
+Support 2 Points for A
+63
+1
+NEDU
+NULL
+
+Pointer to Support 3
+64
+4
+NDHU
+Support Pointers.txt
+
+Zero
+68
+1
+NEHU
+NULL
+
+Support 3 Points for C
+69
+1
+NEDU
+NULL
+
+Support 3 Points for B
+70
+1
+NEDU
+NULL
+
+Support 3 Points for A
+71
+1
+NEDU
+NULL
+
+Pointer to Support 4
+72
+4
+NDHU
+Support Pointers.txt
+
+Zero
+76
+1
+NEHU
+NULL
+
+Support 4 Points for C
+77
+1
+NEDU
+NULL
+
+Support 4 Points for B
+78
+1
+NEDU
+NULL
+
+Support 4 Points for A
+79
+1
+NEDU
+NULL
+
+Pointer to Support 5
+80
+4
+NDHU
+Support Pointers.txt
+
+Zero
+84
+1
+NEHU
+NULL
+
+Support 5 Points for C
+85
+1
+NEDU
+NULL
+
+Support 5 Points for B
+86
+1
+NEDU
+NULL
+
+Support 5 Points for A
+87
+1
+NEDU
+NULL
+
+Ending Changes if This Unit Dies
+88
+4
+NDHU
+Support Pointers.txt

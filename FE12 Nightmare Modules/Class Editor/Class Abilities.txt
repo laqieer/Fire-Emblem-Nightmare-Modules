@@ -1,0 +1,11 @@
+10
+0x00 None
+0x01 Can Dance
+0x02 +5% Hit
+0x04 +10% Avoid
+0x08 +5% Crit
+0x0A +5% Hit/Crit
+0x10 +10% Crit
+0x20 Open Locks Without Keys
+0x40 On clerics, more staff EXP?
+0x80 Enemy Only

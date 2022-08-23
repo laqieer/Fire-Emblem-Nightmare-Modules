@@ -1,0 +1,5 @@
+4
+0x00 None/Blank
+0x02 Special
+0x03 Normal
+0x05 Dragonstone

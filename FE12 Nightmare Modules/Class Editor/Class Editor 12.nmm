@@ -1,0 +1,378 @@
+#Fire Emblem New Mystery Class Editor
+#http://www.serenesforest.net
+#Created by Purple Mage of SF
+#Edited by Darrman
+
+1
+FE12 Class Editor (U) by Purple Mage
+0x90f8
+57
+80
+Class List.txt
+NULL
+
+JID Pointer (Class ID)
+0
+4
+NEHU
+NULL
+
+MJID Pointer (Class Name)
+4
+4
+NEHU
+NULL
+
+Base HP
+8
+1
+NEDS
+NULL
+
+Base Strength
+9
+1
+NEDS
+NULL
+
+Base Magic
+10
+1
+NEDS
+NULL
+
+Base Skill
+11
+1
+NEDS
+NULL
+
+Base Speed
+12
+1
+NEDS
+NULL
+
+Base Luck
+13
+1
+NEDS
+NULL
+
+Base Defense
+14
+1
+NEDS
+NULL
+
+Base Resistance
+15
+1
+NEDS
+NULL
+
+Base HP Growth (Note: Growths encrypted)
+16
+1
+NEDS
+NULL
+
+Base Strength Growth
+17
+1
+NEDS
+NULL
+
+Base Magic Growth
+18
+1
+NEDS
+NULL
+
+Base Skill Growth
+19
+1
+NEDS
+NULL
+
+Base Speed Growth
+20
+1
+NEDS
+NULL
+
+Base Luck Growth
+21
+1
+NEDS
+NULL
+
+Base Defense Growth
+22
+1
+NEDS
+NULL
+
+Base Resistance Growth
+23
+1
+NEDS
+NULL
+
+Enemy HP Growth
+24
+1
+NEDS
+NULL
+
+Enemy Strength Growth
+25
+1
+NEDS
+NULL
+
+Enemy Magic Growth
+26
+1
+NEDS
+NULL
+
+Enemy Skill Growth
+27
+1
+NEDS
+NULL
+
+Enemy Speed Growth
+28
+1
+NEDS
+NULL
+
+Enemy Luck Growth
+29
+1
+NEDS
+NULL
+
+Enemy Defense Growth
+30
+1
+NEDS
+NULL
+
+Enemy Resistance Growth
+31
+1
+NEDS
+NULL
+
+Max HP
+32
+1
+NEDS
+NULL
+
+Max Strength
+33
+1
+NEDS
+NULL
+
+Max Magic
+34
+1
+NEDS
+NULL
+
+Max Skill
+35
+1
+NEDS
+NULL
+
+Max Speed
+36
+1
+NEDS
+NULL
+
+Max Luck
+37
+1
+NEDS
+NULL
+
+Max Defense
+38
+1
+NEDS
+NULL
+
+Max Resistance
+39
+1
+NEDS
+NULL
+
+Movement Type
+40
+1
+NDDU
+Movement Types.txt
+
+Move (Stat)
+41
+1
+NEDS
+NULL
+
+Two
+42
+1
+NEHS
+NULL
+
+Weapon Usage
+43
+1
+NDHU
+Weapon Usage.txt
+
+Sword Level
+44
+1
+NDDU
+Weapon Levels.txt
+
+Lance Level
+45
+1
+NDDU
+Weapon Levels.txt
+
+Axe Level
+46
+1
+NDDU
+Weapon Levels.txt
+
+Bow Level
+47
+1
+NDDU
+Weapon Levels.txt
+
+Magic Level
+48
+1
+NDDU
+Weapon Levels.txt
+
+Staff Level
+49
+1
+NDDU
+Weapon Levels.txt
+
+Zero
+50
+2
+NEHU
+NULL
+
+Reclass Set
+52
+1
+NDHU
+Reclass Sets.txt
+
+Reclass Line
+53
+1
+NDHU
+Reclass Lines.txt
+
+Unit Type
+54
+1
+NDHU
+Unit Types.txt
+
+Class Weapon Locks
+55
+1
+NDHU
+Weapon Locks.txt
+
+Gender
+56
+1
+NDDU
+Gender.txt
+
+Class Ability 1
+57
+1
+NDHU
+Experience.txt
+
+Class Ability 2
+58
+1
+NDHU
+Class Abilities.txt
+
+Class Ability 3
+59
+1
+NDHU
+Class Abilities 2.txt
+
+Promoted from Class?
+60
+4
+NDHU
+Class List Pointers.txt
+
+Promote to Class
+64
+4
+NDHU
+Class List Pointers.txt
+
+MSJI Pointer (Class Description?)
+68
+4
+NEHU
+NULL
+
+FID Pointer (Class Card)
+72
+4
+NEHU
+NULL
+
+Move Animation Speed
+76
+1
+HEXA
+NULL
+
+Movement Speed
+77
+1
+HEXA
+NULL
+
+Movement Sound
+78
+1
+NDHU
+Move Sound.txt
+
+Unknown
+79
+1
+HEXA
+NULL
