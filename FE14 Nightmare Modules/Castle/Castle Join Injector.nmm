@@ -1,0 +1,67 @@
+#Fire Emblem Fates Castle Editor
+
+INJECTOR
+Fire Emblem Fates Castle Join Editor by Moonling
+0x10 0x28
+0x20 0x0 WORD
+32
+NULL
+Castle
+FALSE
+
+PID
+0*
+4
+TEXT
+NULL
+
+
+Birthright Join Chapter
+4*
+4
+TEXT
+NULL
+
+Conquest Join Chapter
+8*
+4
+TEXT
+NULL
+
+Revelation Join Chapter
+12*
+4
+TEXT
+NULL
+
+Unknown (1)
+16
+4
+HEXA FFFFFFFF
+NULL
+
+Unknown (2)
+20
+4
+HEXA FFFFFFFF
+NULL
+
+Unknown (3)
+24
+4
+HEXA FFFFFFFF
+NULL
+
+Join ID
+28
+2
+NEHU
+NULL
+
+Unused
+30
+2
+HEXA
+NULL
+
+

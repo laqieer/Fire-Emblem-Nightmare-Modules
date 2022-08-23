@@ -1,0 +1,4 @@
+3
+0x0 None
+0x7F Show Prep Screen
+0xF8 Unknown

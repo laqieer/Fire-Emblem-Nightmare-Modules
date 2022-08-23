@@ -1,0 +1,381 @@
+#Fire Emblem Echoes Item Editor
+
+RELATIVE
+SOV Item Editor by Moonling
+0x20 0x2C
+TABLE_HEADER_OFFSET 0x24 HALF
+224
+Item List.txt
+SOV
+
+Item Label
+0
+4
+STRP
+NULL
+
+Item Name
+4
+4
+STRP
+NULL
+
+Item Description
+8
+4
+STRP
+NULL
+
+Mess Item ID Tut.
+12
+4
+STRP
+NULL
+
+Person ID
+16
+4
+STRP
+NULL
+
+Forge Data ID
+20
+4
+STRP
+NULL
+
+Effect ID
+24
+4
+STRP
+NULL
+
+New Item ID
+28
+4
+STRP
+NULL
+
+Com Fld
+32
+4
+STRP
+NULL
+
+Item Type
+36
+1
+NDHU
+Item Type.txt
+
+Effect
+37
+1
+NEDU
+NULL
+
+Icon
+38
+1
+NEHU
+NULL
+
+Sort
+39
+1
+NEDU
+NULL
+
+Age Restrict
+40
+1
+NEDU
+NULL
+
+Rarity
+41
+1
+NEDU
+NULL
+
+Chapter Restrict
+42
+1
+NEDU
+NULL
+
+Visit Restrict
+43
+1
+NEDU
+NULL
+
+Preference
+44
+1
+NDHU
+Provision Taste.txt
+
+HP Recover
+45
+1
+NEDU
+NULL
+
+Fatigue Recover
+46
+1
+NEDU
+NULL
+
+Experience
+47
+1
+NEDU
+NULL
+
+Might
+48
+1
+NEDS
+NULL
+
+Weight
+49
+1
+NEDS
+NULL
+
+Range 1
+50
+1
+NEDS
+NULL
+
+Range 2
+51
+1
+NEDS
+NULL
+
+Hit
+52
+1
+NEDS
+NULL
+
+Avoid
+53
+1
+NEDS
+NULL
+
+Critical
+54
+1
+NEDS
+NULL
+
+Crt Evade
+55
+1
+NEDS
+NULL
+
+Equip +HP / STR / SKL / SPD
+60
+4
+HEXA
+NULL
+
+Equip +LCK / DEF / RES / MOV
+64
+4
+HEXA
+NULL
+
+Consume +HP / STR / SKL / SPD
+68
+4
+HEXA
+NULL
+
+Consume +LCK / DEF / RES / MOV
+72
+4
+HEXA
+NULL
+
+Passive Skill ID
+84
+4
+STRP
+NULL
+
+Passive Skill ID
+88
+4
+STRP
+NULL
+
+Passive Skill ID
+92
+4
+STRP
+NULL
+
+Passive Skill ID
+100
+4
+STRP
+NULL
+
+Passive Skill ID
+104
+4
+STRP
+NULL
+
+Passive Skill ID
+108
+4
+STRP
+NULL
+
+Learn Skill ID
+116
+4
+STRP
+NULL
+
+Learn Skill ID
+120
+4
+STRP
+NULL
+
+Learn Skill ID
+124
+4
+STRP
+NULL
+
+Worth
+132
+2
+NEDS
+NULL
+
+Staff Type
+134
+1
+NEDU
+NULL
+
+Staff EXP
+135
+1
+NEDU
+NULL
+
+Spell HP
+136
+1
+NEDS
+NULL
+
+Reward
+137
+1
+NEDS
+NULL
+
+Quantity
+138
+1
+NEDS
+NULL
+
+Effective Reserved
+139
+1
+NEDS
+NULL
+
+Flags
+140
+4
+HEXA
+NULL
+
+Model
+144
+4
+STRP
+NULL
+
+Texture
+148
+4
+STRP
+NULL
+
+X Position
+152
+4
+NEHU
+NULL
+
+Y Position
+156
+4
+NEHU
+NULL
+
+Z Position
+160
+4
+NEHU
+NULL
+
+X Size
+164
+4
+NEHU
+NULL
+
+Y Size
+168
+4
+NEHU
+NULL
+
+Z Size
+172
+4
+NEHU
+NULL
+
+Appear Sound
+176
+4
+STRP
+NULL
+
+Drop Effect
+180
+4
+STRP
+NULL
+
+Place Effect
+184
+4
+STRP
+NULL
+
+Pick Up Effect
+188
+4
+STRP
+NULL

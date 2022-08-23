@@ -1,0 +1,928 @@
+#Fire Emblem Awakening Character Editor (U)
+#http://serenesforest.net
+
+RELATIVE
+FE14 Character Editor (U) by VincentASM
+0x10 0x28
+0x24 0x0 WORD
+568
+Character List.txt
+Awakening Data
+
+Flag 1 - 8
+0
+1
+NDHU
+Flag1-8.txt
+
+Flag 9 - 16
+1
+1
+NDHU
+Flag9-16.txt
+
+Flag 17 - 24
+2
+1
+NDHU
+Flag17-24.txt
+
+Flag 25 - 32
+3
+1
+NDHU
+Flag25-32.txt
+
+PID
+8
+4
+STRP
+Character.txt
+
+FID
+12
+4
+STRP
+NULL
+
+JID
+16
+4
+STRP
+Class.txt
+
+MPID
+20
+4
+STRP
+NULL
+
+MPID_H
+24
+4
+STRP
+NULL
+
+HP Addition
+28
+1
+NEDS
+NULL
+
+STR Addition
+29
+1
+NEDS
+NULL
+
+MAG Addition
+30
+1
+NEDS
+NULL
+
+SKL Addition
+31
+1
+NEDS
+NULL
+
+SPD Addition
+32
+1
+NEDS
+NULL
+
+LCK Addition
+33
+1
+NEDS
+NULL
+
+DEF Addition
+34
+1
+NEDS
+NULL
+
+RES Addition
+35
+1
+NEDS
+NULL
+
+Encrypted player growth
+36
+8
+HEXA
+NULL
+
+Encrypted enemy growth
+44
+8
+HEXA
+NULL
+
+HP Cap Modifier
+52
+1
+NEDS
+NULL
+
+STR Cap Modifier
+53
+1
+NEDS
+NULL
+
+MAG Cap Modifier
+54
+1
+NEDS
+NULL
+
+SKL Cap Modifier
+55
+1
+NEDS
+NULL
+
+SPD Cap Modifier
+56
+1
+NEDS
+NULL
+
+LCK Cap Modifier
+57
+1
+NEDS
+NULL
+
+DEF Cap Modifier
+58
+1
+NEDS
+NULL
+
+RES Cap Modifier
+59
+1
+NEDS
+NULL
+
+Unknown
+60
+2
+HEXA
+NULL
+
+Sword rank
+62
+1
+NEDS
+NULL
+
+Lance rank
+63
+1
+NEDS
+NULL
+
+Axe rank
+64
+1
+NEDS
+NULL
+
+Bow rank
+65
+1
+NEDS
+NULL
+
+Tome rank
+66
+1
+NEDS
+NULL
+
+Level
+69
+1
+NEDS
+NULL
+
+Unknown
+70
+1
+NEDS
+NULL
+
+Character ID
+71
+1
+NEHU
+NULL
+
+Skill 1
+72
+1
+NDHU
+Skill.txt
+
+Skill 2
+74
+1
+NDHU
+Skill.txt
+
+Skill 3
+76
+1
+NDHU
+Skill.txt
+
+Skill 4
+78
+1
+NDHU
+Skill.txt
+
+Skill 5
+80
+1
+NDHU
+Skill.txt
+
+Male Reclass 1 JID
+108
+4
+STRP
+Class.txt
+
+Male Reclass 2 JID
+112
+4
+STRP
+Class.txt
+
+Male Reclass 3 JID
+116
+4
+STRP
+Class.txt
+
+Female Reclass 1 JID
+120
+4
+STRP
+Class.txt
+
+Female Reclass 2 JID
+124
+4
+STRP
+Class.txt
+
+Female Reclass 3 JID
+128
+4
+STRP
+Class.txt
+
+Parent 
+132
+4
+STRP
+Character.txt
+
+Support #001 ID
+136
+4
+STRP
+NULL
+
+Support #001 Type
+140
+4
+NDHU
+Support.txt
+
+Support #002 ID
+144
+4
+STRP
+NULL
+
+Support #002 Type
+148
+4
+NDHU
+Support.txt
+
+Support #003 ID
+152
+4
+STRP
+NULL
+
+Support #003 Type
+156
+4
+NDHU
+Support.txt
+
+Support #004 ID
+160
+4
+STRP
+NULL
+
+Support #004 Type
+164
+4
+NDHU
+Support.txt
+
+Support #005 ID
+168
+4
+STRP
+NULL
+
+Support #005 Type
+172
+4
+NDHU
+Support.txt
+
+Support #006 ID
+176
+4
+STRP
+NULL
+
+Support #006 Type
+180
+4
+NDHU
+Support.txt
+
+Support #007 ID
+184
+4
+STRP
+NULL
+
+Support #007 Type
+188
+4
+NDHU
+Support.txt
+
+Support #008 ID
+192
+4
+STRP
+NULL
+
+Support #008 Type
+196
+4
+NDHU
+Support.txt
+
+Support #009 ID
+200
+4
+STRP
+NULL
+
+Support #009 Type
+204
+4
+NDHU
+Support.txt
+
+Support #010 ID
+208
+4
+STRP
+NULL
+
+Support #010 Type
+212
+4
+NDHU
+Support.txt
+
+Support #011 ID
+216
+4
+STRP
+NULL
+
+Support #011 Type
+220
+4
+NDHU
+Support.txt
+
+Support #012 ID
+224
+4
+STRP
+NULL
+
+Support #012 Type
+228
+4
+NDHU
+Support.txt
+
+Support #013 ID
+232
+4
+STRP
+NULL
+
+Support #013 Type
+236
+4
+NDHU
+Support.txt
+
+Support #014 ID
+240
+4
+STRP
+NULL
+
+Support #014 Type
+244
+4
+NDHU
+Support.txt
+
+Support #015 ID
+248
+4
+STRP
+NULL
+
+Support #015 Type
+252
+4
+NDHU
+Support.txt
+
+Support #016 ID
+256
+4
+STRP
+NULL
+
+Support #016 Type
+260
+4
+NDHU
+Support.txt
+
+Support #017 ID
+264
+4
+STRP
+NULL
+
+Support #017 Type
+268
+4
+NDHU
+Support.txt
+
+Support #018 ID
+272
+4
+STRP
+NULL
+
+Support #018 Type
+276
+4
+NDHU
+Support.txt
+
+Support #019 ID
+280
+4
+STRP
+NULL
+
+Support #019 Type
+284
+4
+NDHU
+Support.txt
+
+Support #020 ID
+288
+4
+STRP
+NULL
+
+Support #020 Type
+292
+4
+NDHU
+Support.txt
+
+Support #021 ID
+296
+4
+STRP
+NULL
+
+Support #021 Type
+300
+4
+NDHU
+Support.txt
+
+Support #022 ID
+304
+4
+STRP
+NULL
+
+Support #022 Type
+308
+4
+NDHU
+Support.txt
+
+Support #023 ID
+312
+4
+STRP
+NULL
+
+Support #023 Type
+316
+4
+NDHU
+Support.txt
+
+Support #024 ID
+320
+4
+STRP
+NULL
+
+Support #024 Type
+324
+4
+NDHU
+Support.txt
+
+Support #025 ID
+328
+4
+STRP
+NULL
+
+Support #025 Type
+332
+4
+NDHU
+Support.txt
+
+Support #026 ID
+336
+4
+STRP
+NULL
+
+Support #026 Type
+340
+4
+NDHU
+Support.txt
+
+Support #027 ID
+344
+4
+STRP
+NULL
+
+Support #027 Type
+348
+4
+NDHU
+Support.txt
+
+Support #028 ID
+352
+4
+STRP
+NULL
+
+Support #028 Type
+356
+4
+NDHU
+Support.txt
+
+Support #029 ID
+360
+4
+STRP
+NULL
+
+Support #029 Type
+364
+4
+NDHU
+Support.txt
+
+Support #030 ID
+368
+4
+STRP
+NULL
+
+Support #030 Type
+372
+4
+NDHU
+Support.txt
+
+Support #031 ID
+376
+4
+STRP
+NULL
+
+Support #031 Type
+380
+4
+NDHU
+Support.txt
+
+Support #032 ID
+384
+4
+STRP
+NULL
+
+Support #032 Type
+388
+4
+NDHU
+Support.txt
+
+Support #033 ID
+392
+4
+STRP
+NULL
+
+Support #033 Type
+396
+4
+NDHU
+Support.txt
+
+Support #034 ID
+400
+4
+STRP
+NULL
+
+Support #034 Type
+404
+4
+NDHU
+Support.txt
+
+Support #035 ID
+408
+4
+STRP
+NULL
+
+Support #035 Type
+412
+4
+NDHU
+Support.txt
+
+Support #036 ID
+416
+4
+STRP
+NULL
+
+Support #036 Type
+420
+4
+NDHU
+Support.txt
+
+Support #037 ID
+424
+4
+STRP
+NULL
+
+Support #037 Type
+428
+4
+NDHU
+Support.txt
+
+Support #038 ID
+432
+4
+STRP
+NULL
+
+Support #038 Type
+436
+4
+NDHU
+Support.txt
+
+Support #039 ID
+440
+4
+STRP
+NULL
+
+Support #039 Type
+444
+4
+NDHU
+Support.txt
+
+Support #040 ID
+448
+4
+STRP
+NULL
+
+Support #040 Type
+452
+4
+NDHU
+Support.txt
+
+Support #041 ID
+456
+4
+STRP
+NULL
+
+Support #041 Type
+460
+4
+NDHU
+Support.txt
+
+Support #042 ID
+464
+4
+STRP
+NULL
+
+Support #042 Type
+468
+4
+NDHU
+Support.txt
+
+Support #043 ID
+472
+4
+STRP
+NULL
+
+Support #043 Type
+476
+4
+NDHU
+Support.txt
+
+Support #044 ID
+480
+4
+STRP
+NULL
+
+Support #044 Type
+484
+4
+NDHU
+Support.txt
+
+Support #045 ID
+488
+4
+STRP
+NULL
+
+Support #045 Type
+492
+4
+NDHU
+Support.txt
+
+Support #046 ID
+496
+4
+STRP
+NULL
+
+Support #046 Type
+500
+4
+NDHU
+Support.txt
+
+Support #047 ID
+504
+4
+STRP
+NULL
+
+Support #047 Type
+508
+4
+NDHU
+Support.txt
+
+Support #048 ID
+512
+4
+STRP
+NULL
+
+Support #048 Type
+516
+4
+NDHU
+Support.txt
+
+Support #049 ID
+520
+4
+STRP
+NULL
+
+Support #049 Type
+524
+4
+NDHU
+Support.txt
+
+Support #050 ID
+528
+4
+STRP
+NULL
+
+Support #050 Type
+532
+4
+NDHU
+Support.txt
+
+Support #051 ID
+536
+4
+STRP
+NULL
+
+Support #051 Type
+540
+4
+NDHU
+Support.txt
+
+Support #052 ID
+544
+4
+STRP
+NULL
+
+Support #052 Type
+548
+4
+NDHU
+Support.txt
+
+Sprite Pointer
+552
+4
+NEHU
+NULL

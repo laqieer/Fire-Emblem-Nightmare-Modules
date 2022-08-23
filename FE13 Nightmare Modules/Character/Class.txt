@@ -1,0 +1,50 @@
+49
+0x0000 None
+0XBA9E Tactician_M
+0XBABD Tactician_F
+0XBAEB Lord_M
+0XBB12 Cavalier_M
+0XBB27 Archer_M
+0XBB38 Lord_F
+0XBB45 Cavalier_F
+0XBB5A Archer_F
+0XBB74 Cleric
+0xBB99 Priest
+0XBBA4 Myrmidon_M
+0XBBAF Barbarian
+0xBBBA Pegasus Knight
+0xBBCF Troubadour
+0xBBF1 Great Knight_M
+0XBC28 Knight_M
+0XBC3D Wyvern Rider_M
+0XBC52 Knight_F
+0XBC67 Wyvern Rider_F
+0XBCAD Mage_M
+0XBCBA Mage_F
+0XBCEC Myrmidon_F
+0xBD04 Fighter
+0XBD2D Thief_M
+0XBD38 Mercenary_F
+0XBD43 Thief_F
+0XBD9E Dark Mage_M
+0xBDB1 Dark Mage_F
+0XBE9E Taguel_F
+0XBECD Taguel_M
+0XBF35 Mercenary_M
+0XBF63 Manakete
+0xBF95 War Monk
+0xBFFC Dancer
+0xC0B1 Swordmaster_F
+0XC0EF Warrior
+0xC133 Hero_F
+0XC169 Villager
+0xc195 Trickster_F
+0XC3F3 Trickster_M
+0XC43B Conqueror
+0xc483 Sage_F
+0XC4B7 Swordmaster_M
+0XC4F5 Dark Flier
+0xc537 Hero_M
+0XC55C Lodestar
+0xc56F Dummy
+0xc592 Merchant

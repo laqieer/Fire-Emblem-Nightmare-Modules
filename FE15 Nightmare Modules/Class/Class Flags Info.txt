@@ -1,0 +1,10 @@
+
+0 None
+1 Base
+2 Beast
+3 Armored
+4 Flier
+5 Dark Magic
+6 Terror
+7 Dragon
+8 God

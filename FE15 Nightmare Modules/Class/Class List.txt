@@ -1,0 +1,73 @@
+None
+Villager (M)
+Villager (F)
+Cavalier (M)
+Cavalier (F)
+Paladin (M)
+Paladin (F)
+Gold Knight (M)
+Gold Knight (F)
+Soldier (M)
+Knight (M)
+Baron (M)
+Fiend
+Brigand (M)
+Mercenary (M)
+Myrmidon (M)
+Dread Fighter (M)
+Archer (M)
+Sniper (M)
+Bow Knight (M)
+Fighter (M)
+Hero (M)
+Mage (M)
+Sage (M)
+Pegasus Knight (F)
+Falcon Knight (F)
+Cleric (F)
+Saint (F)
+Mage (F)
+Priestess (F)
+Priestess (Celica)
+Princess (F)
+Arcanist (M)
+Cantor (M)
+Witch (F)
+Revenant
+Entombed
+Bonewalker
+Lich
+Gargoyle
+Deathgoyle
+Necrodragon
+White Dragon
+Mogall
+Fell God
+Boy
+Girl
+Boat Ally (Map)
+Boat Enemy (Map)
+Mila's Servant
+Duma's Apostle
+Dracul
+Titan
+Garuda
+Guardian
+Vestal
+Fafnir
+Dagon
+Balor
+Deimos
+Fire Dragon
+Fell Dragon
+Revenant (Poison)
+Revenant (Paralysis)
+Entombed (Poison)
+Entombed (Paralysis)
+Illusion Marth
+Illusion Ike
+Illusion Lucina
+Illusion Robin
+Illusion Roy
+Illusion Corrin (M)
+Illusion Corrin (F)

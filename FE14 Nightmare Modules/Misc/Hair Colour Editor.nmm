@@ -1,0 +1,15 @@
+#Fire Emblem Fates My Unit Hair Colour Editor
+
+RELATIVE
+Fire Emblem Fates My Unit Hair Colour Editor
+0x0A48 0x20
+TABLE_HEADER_OFFSET 0x18 HALF
+4
+NULL
+MISC
+
+Colour HEX RGBA
+0
+4
+HEXA
+NULL

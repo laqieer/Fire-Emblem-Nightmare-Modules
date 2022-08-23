@@ -1,0 +1,258 @@
+None
+Unknown Item
+Sword
+Iron Sword
+Steel Sword
+Silver Sword
+Brave Sword
+Shadow Sword
+Lightning Sword
+Blessed Sword
+Royal Sword
+Falchion
+Astra
+Golden Dagger
+Zweihander
+Ladyblade
+Mercurius
+Beloved Zofia
+Ilwoon
+Rapier
+Lance
+Iron Lance
+Steel Lance
+Silver Lance
+Javelin
+Ridersbane
+Blessed Lance
+Gradivus
+Sol
+Duma's Lance
+Emperor Lance
+Kriemhild
+Rhomphaia
+Saunion
+Axe
+Splitting Axe
+Devil Axe
+Bow
+Iron Bow
+Steel Bow
+Silver Bow
+Blessed Bow
+Luna
+Parthia
+Mila's Bow
+Longbow
+Killer Bow
+Radiant Bow
+Exalted Falchion
+Parallel Falchion
+Ragnell
+Binding Blade
+Yato
+Rusted Sword (Iron)
+Rusted Sword (Steel)
+Rusted Sword (Shadow)
+Rusted Sword (Brave)
+Rusted Sword (Astra)
+Rusted Sword (Venin)
+Rusted Lance (Iron)
+Rusted Lance (Steel)
+Rusted Lance (Sol)
+Rusted Lance (Venin)
+Rusted Bow (Iron)
+Rusted Bow (Steel)
+Rusted Bow (Luna)
+Rusted Bow (Venin)
+Rusted Shield (Iron)
+Rusted Shield (Steel)
+Rusted Shield (Dracoshield)
+Rusted Axe (Devil Axe)
+Rusted Ring (Angel Ring)
+Rusted Ring (Demon Ring)
+Fire
+Thunder
+Excalibur
+Seraphim
+Aura
+Sagittae
+Ragnarok
+Miasma
+Mire
+Death
+Medusa
+Ocular Beam
+Oculus
+Apocalypse
+Nosferatu
+Thoron
+Recover
+Physic
+Fortify
+Warp
+Rewarp
+Rescue
+Anew
+Entrap
+Freeze
+Silence
+Expel
+Invoke (Dread Fighters)
+Invoke (Pegasus Knights)
+Invoke (Soldiers)
+Conjure (Revenants)
+Conjure (Bonewalkers)
+Conjure (Gargoyle)
+Conjure (Draco Zombie)
+Conjure (Witch)
+Conjure (Mogall)
+Conjure (Powerful Revenants)
+Conjure (Powerful Bonewalkers)
+Conjure (Stronger Gargoyles)
+Conjure (Powerful Gargoyles)
+Conjure (Powerful Draco Zombies)
+Conjure (Powerful Witches)
+Conjure (Powerful Mogalls)
+Claws
+Venin Claws
+Numbing Claws
+Fangs
+Scythe
+Bone Sword
+Club
+Tackle
+Tentacle
+Fire Breath
+Water Breath
+Talons
+Expiration
+Leather Shield
+Iron Shield
+Steel Shield
+Rion Shield
+Fugue Shield
+Silver Shield
+Blessed Shield
+Dracoshield
+Hexlock Shield
+Emperor Shield
+Duma's Shield
+Royal Shield
+Silver Platter
+Blessed Ring
+Angel Ring
+Speed Ring
+Mage Ring
+Prayer Ring
+Grimoire Ring
+Coral Ring
+Mila's Ring
+Animus Ring
+Demon Ring
+Keepsake Ring
+Handmade Doll
+Gossamer Hair
+Dragon Scale
+Lima Armlet
+A Son's Journal
+Bear Carving
+Mila Carving
+Duma Carving
+Coral Fragment
+Black Pearl
+Gargoyle Ear
+Bonewalker Oil
+Red Tricorn
+Dubious Mask
+Duma's Helm
+Mila's Diadem
+Ale
+Leftover Ale
+Soup
+Cold Soup
+Wine
+Garlic
+Ram Wine
+Drinking Water
+Duma Moss
+Herring
+Dagon Fillet
+Yogurt
+Medicinal Syrup
+Orange
+Exotic Spice
+Sausage
+Dried Shieldfish
+Carrot
+Butter
+Honey
+Ham
+Bread
+Leftover Bread
+Bread Piece
+Hard Bread
+Dried Meat
+Raw Meat
+Mana Herbs
+Flour
+Holey Cheese
+Blue Cheese
+Sweet Cookie
+Pegasus Cheese
+Nectar
+Fruit of Life
+Ambrosia
+Golden Apple
+Soma
+Nethergranate
+Gold Mark
+Gold Purse
+Silver Mark
+Silver Purse
+Silver Purse+
+Silver Purse++
+Cell Key
+Memory Prism 01
+Memory Prism 02
+Memory Prism 03
+Memory Prism 04
+Memory Prism 05
+Memory Prism 06
+Memory Prism 07
+Memory Prism 08
+Memory Prism 09
+Memory Prism 10
+Memory Prism 11
+Memory Prism 12
+Memory Prism 13
+Memory Prism 14
+Memory Prism 15
+Memory Prism 16
+Memory Prism 17
+Memory Prism 18
+Memory Prism 19
+Memory Prism 20
+Cog
+Mila's Turnwheel (Alm)
+Mila's Turnwheel (Celica)
+Venin Sword
+Venin Lance
+Venin Bow
+Venin Axe
+Sage's Shield
+Boots
+Rusted Ring (Mage Ring)
+Devil Lance
+Titan's axe
+Seven Sword
+Eleven Shield
+Boiled Chicken
+Moist Bread
+Spicy Chicken
+Mille Crepe
+Chicken Link
+Pure Honey
+Ward
+Restore
+Lemegeton

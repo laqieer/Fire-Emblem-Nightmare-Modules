@@ -1,0 +1,202 @@
+None
+Bronze Sword
+Iron Sword
+Steel Sword
+Silver Sword
+Brave Sword
+Armorslayer
+Wyrmslayer
+Killing Edge
+Levin Sword
+Rapier
+Noble Rapier
+Missiletainn
+Sol
+Amatsu
+Falchion
+Exalted Falchion
+Parallel Falchion
+Mercurius
+Tyrfing
+Mystletainn
+Balmung
+Sol Katti
+Ragnell
+Ragnell (Enemy)
+Tree Branch
+Soothing Sword
+Glass Sword
+Superior Edge
+Eliwood's Blade
+Roy's Blade
+Alm's Blade
+Leif's Blade
+Eirika's Blade
+Seliph's Blade
+Bronze Lance
+Iron Lance
+Steel Lance
+Silver Lance
+Brave Lance
+Javalin
+Short Spear
+Spear
+Beast Killer
+Blessed Lance
+Killer Lance
+Luna
+Gradivus
+Gungnir
+Gae Blog
+Log
+Miniature Lance
+Shockstick
+Glass Lance
+Superior Lance
+Sigurd's Lance
+Ephraim's Lance
+Finn's Lance
+Bronze Axe
+Iron Axe
+Steel Axe
+Silver Axe
+Brave Axe
+Hand Axe
+Short Axe
+Tomahawk
+Hammer
+Bolt Axe
+Killer Axe
+Vengeance
+Wolf Berg
+Hauteclere
+Helswath
+Armads
+Ladle
+Imposing Axe
+Volant Axe
+Glass Axe
+Superior Axe
+Titania's Axe
+Orsin's Hatchet
+Hector's Axe
+Bronze Bow
+Iron Bow
+Steel Bow
+Silver Bow
+Brave Bow
+Blessed Bow
+Killer Bow
+Longbow
+Astra
+Parthia
+Yewfelle
+Nidhogg
+Double Bow
+Slack Bow
+Towering Bow
+Underdog Bow
+Glass Bow
+Superior Bow
+Wolt's Bow
+Innes' Bow
+Fire
+Elfire
+Arcfire
+Bolganone
+Valflame
+Thunder
+Elthunder
+Arcthunder
+Thoron
+Mjolnir
+Wind
+Elwind
+Arcwind
+Rexcalibur
+Forseti
+Excalibur
+Book of Naga
+Flux
+Nosferatu
+Ruin
+Waste
+Goetia
+Grima's Truth
+Mire
+Dying Blaze
+Micaiah's Pyre
+Superior Jolt
+Katarina's Bolt
+Wilderwind
+Celica's Gale
+Aversa's Night
+Heal
+Mend
+Physic
+Recover
+Fortify
+Goddess Staff
+Rescue
+Ward
+Hammerne
+Kneader
+Balmwood Staff
+Catharsis
+Dragonstone
+Dragonstone+
+Beaststone
+Beaststone+
+Blighted Claws
+Blighted Talons
+Expiration
+Vulnerary
+Concoction
+Elixir
+Pure Water
+HP Tonic
+Strength Tonic
+Magic Tonic
+Skill Tonic
+Speed Tonic
+Luck Tonic
+Defense Tonic
+Resistance Tonic
+Door Key
+Chest Key
+Master Key
+Seraph Robe
+Energy Drop
+Spirit Dust
+Secret Book
+Speedwing
+Goddess Icon
+Dracoshield
+Talisman
+Naga's Tear
+Boots
+Arms Scroll
+Master Seal
+Second Seal
+Bullion (S)
+Bullion (M)
+Bullion (L)
+Sweet Tincture
+Gaius's Confect
+Kris's Confect
+Tiki's Tear
+Seed of Trust
+Reeking Box
+Rift Door
+Supreme Emblem
+Iote's Shield
+Limit Breaker
+Silver Card
+Dread Scroll
+Wedding Bouquet
+All Stats +2
+Paragon
+1000G
+3000G
+5000G
+7000G

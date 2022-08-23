@@ -1,0 +1,184 @@
+#Fire Emblem Fates Chapter Editor
+
+RELATIVE
+Fire Emblem Fates Chapter Editor by RainThunder
+0x10 0x24
+0x20 0x0 HALF
+104
+NULL
+My Castle
+
+Building ID
+0
+2
+NEHU
+NULL
+
+Upgrade Level
+2
+1
+NEHU
+NULL
+
+Set Number
+3
+1
+NEHU
+NULL
+
+Set Label
+4
+4
+STRP
+NULL
+
+KID
+8
+4
+STRP
+NULL
+
+Unknown
+12
+4
+HEXA
+NULL
+
+MKID
+16
+4
+STRP
+NULL
+
+MKID_H
+20
+4
+STRP
+NULL
+
+Mode
+24
+4
+STRP
+NULL
+
+Model (Repeat)
+28
+4
+STRP
+NULL
+
+TID
+32
+4
+STRP
+NULL
+
+MKID (2)
+36
+4
+STRP
+NULL
+
+Unknown
+40
+4
+HEXA
+NULL
+
+Unknown
+44
+4
+HEXA
+NULL
+
+Statute Buff
+48
+1
+NDHU
+CastleStatuteBuff.txt
+
+Unused
+49
+3
+HEXA
+NULL
+
+Statute PID
+52
+4
+STRP
+NULL
+
+Unknown
+56
+4
+HEXA
+NULL
+
+Birthright Chapter
+60
+4
+STRP
+NULL
+
+Conquest Chapter
+64
+4
+STRP
+NULL
+
+Revelation Chapter
+68
+4
+STRP
+NULL
+
+Unknown
+72
+4
+HEXA
+NULL
+
+DVP Cost
+76
+4
+NEHU
+NULL
+
+Unknown
+80
+4
+HEXA
+NULL
+
+Statue Kill Requirement
+84
+4
+NEHU
+NULL
+
+Unknown
+88
+4
+HEXA
+NULL
+
+Music
+92
+4
+STRP
+NULL
+
+Unknown
+96
+4
+HEXA
+NULL
+
+Unknown
+100
+4
+HEXA
+NULL
+

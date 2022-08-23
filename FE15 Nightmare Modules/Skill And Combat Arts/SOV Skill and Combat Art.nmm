@@ -1,0 +1,279 @@
+#SoV Skill and Combat Art Editor by Moonling
+
+RELATIVE
+SoV Skill and Combat Art Editor by Moonling
+0x20 0x2C
+TABLE_HEADER_OFFSET 0x24 HALF
+104
+Skill List.txt
+SOV
+
+Skill Label
+0
+4
+STRP
+NULL
+
+Skill Name
+4
+4
+STRP
+NULL
+
+Skill Description
+8
+4
+STRP
+NULL
+
+Type
+12
+1
+NDHU
+Skill Type.txt
+
+EXP
+13
+1
+NEDU
+NULL
+
+HP Cost
+14
+1
+NEDU
+NULL
+
+Quantity
+15
+1
+NEDU
+NULL
+
+Minimum Range
+16
+1
+NEDU
+NULL
+
+Icon
+17
+1
+NDHU
+Skill Icon 1.txt
+
+Icon Big
+18
+1
+NDHU
+Skill Icon 2.txt
+
+Status Icon
+19
+1
+NEDU
+NULL
+
+Attack Mod%
+20
+1
+NEDU
+NULL
+
+Pierce Mod%
+21
+1
+NEDU
+NULL
+
+Phys Damage %
+22
+1
+NEDU
+NULL
+
+Mag Damage %
+23
+1
+NEDU
+NULL
+
+Ranged Damage %
+24
+1
+NEDU
+NULL
+
+Terrain %
+25
+1
+NEDU
+NULL
+
+Stat %
+26
+1
+NEDU
+NULL
+
+Recovery %
+27
+1
+NEDU
+NULL
+
+Might+/-
+28
+2
+NEDS
+NULL
+
+Hit+/-
+30
+2
+NEDS
+NULL
+
+Avoid+/-
+32
+2
+NEDS
+NULL
+
+Crt+/-
+34
+2
+NEDS
+NULL
+
+Phy damage-
+36
+2
+NEDS
+NULL
+
+Mag damage-
+38
+2
+NEDS
+NULL
+
+Attack Speed+/-
+40
+2
+NEDS
+NULL
+
+Range+/-
+42
+2
+NEDS
+NULL
+
+HP/STR/SKL/SPD+
+44
+4
+HEXA
+NULL
+
+LCK/DEF/RES/MOV+
+48
+4
+HEXA
+NULL
+
+Phys Reflect
+52
+1
+HEXA
+NULL
+
+Mag Reflect
+53
+1
+HEXA
+NULL
+
+Compatible Weapon
+54
+1
+NDHU
+Flags1-8.txt
+
+Effective versus
+55
+1
+NDHU
+Flags1-8.txt
+
+Flags
+56
+4
+HEXA
+NULL
+
+Icon Effect
+60
+4
+STRP
+NULL
+
+Charge Effect
+64
+4
+STRP
+NULL
+
+Hit Effect
+68
+4
+STRP
+NULL
+
+Avoidance effect
+72
+4
+STRP
+NULL
+
+Camera
+76
+4
+STRP
+NULL
+
+Proction Pointer
+80
+4
+HEXA
+NULL
+
+Motion 1
+84
+4
+STRP
+NULL
+
+Motion 2
+88
+4
+STRP
+NULL
+
+Motion 3
+92
+4
+STRP
+NULL
+
+Motion 4
+96
+4
+STRP
+NULL
+
+Motion 5
+100
+4
+STRP
+NULL

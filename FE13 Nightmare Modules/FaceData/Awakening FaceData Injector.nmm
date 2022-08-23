@@ -1,0 +1,72 @@
+#Fire Emblem Fates Character Editor
+
+INJECTOR
+Fire Emblem Fates Character Editor by RainThunder
+0x10 0x24
+0x20 0x0 WORD
+40
+NULL
+FaceData
+true
+
+FSID Pointer
+0*
+4
+STRP
+NULL
+
+
+MPID Pointer
+4*
+4
+STRP
+NULL
+
+File Name Pointer
+8*
+4
+STRP
+NULL
+
+Hair Color?
+12
+4
+HEXA
+NULL
+
+Unknown (1)
+16
+4
+HEXA
+NULL
+
+Unknown (2)
+20
+4
+HEXA
+NULL
+
+Unknown (3)
+24
+4
+HEXA
+NULL
+
+Unknown (4)
+28
+4
+HEXA
+NULL
+
+Unknown (5)
+32
+4
+HEXA
+NULL
+
+Unknown (6)
+36
+4
+HEXA
+NULL
+

@@ -1,0 +1,39 @@
+#Fire Emblem Fates Chapter Editor
+
+RELATIVE
+Fire Emblem Fates Chapter Editor by RainThunder
+0x10 0x24
+0x20 0x0 WORD
+20
+NULL
+Misc
+
+Label 1
+0
+4
+STRP
+NULL
+
+Label 2
+4
+4
+STRP
+NULL
+
+Unknown 1
+8
+4
+HEXA
+NULL
+
+Unknown 2
+12
+4
+HEXA
+NULL
+
+Unknown 3
+16
+4
+HEXA
+NULL

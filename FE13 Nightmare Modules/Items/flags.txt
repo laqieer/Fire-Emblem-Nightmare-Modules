@@ -1,0 +1,55 @@
+1  ISID_使用可能
+2  Brave weapon
+3  Magic weapon
+4  ISID_遠距離
+5  Effect + Magic / 2
+6  ISID_特効無効
+7  Can open treasure chests
+8  Can open doors
+9  ISID_購入半額
+10 ISID_秘密店発見
+11 Valuables
+12 Unremovable
+13 Infinite uses
+14 God weapon
+15 Boost stats when equipped
+16 Recover HP each turn when equipped
+17 Absorb half the enemy's HP
+18 Astra
+19 Sol
+20 Luna
+21 Ignis
+22 Vengeance
+23 Despoil
+24 Swordbreaker
+25 Lancebreaker
+26 Axebreaker
+27 Bowbreaker
+28 Tomebreaker
+29 Patience
+30 Underdog
+31 Healing Staff
+32 Interference Staff
+33 Special Staff
+34 Pickup item (event tile, barracks)
+35 Chrom only
+36 Lords only
+37 Myrmidons and Swordmasters only
+38 Archers and Snipers only
+39 Dark tome
+40 Marth and Lucina only
+41 Walhart only
+42 Owain only
+43 For men
+44 For women
+45 ISID_錬成武器
+46 ISID_錬成不可
+47 Basic weapon
+48 Enemy only
+49 Summon something to overworld map
+50 ISID_強制オンバト
+51 ISID_通信譲渡禁止
+52 Supreme Emblem
+53 Gold
+54 Reserve
+55 ISID_難易度価格

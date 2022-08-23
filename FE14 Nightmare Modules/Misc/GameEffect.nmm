@@ -1,0 +1,153 @@
+#Fire Emblem Fates GameEffect Editor
+
+RELATIVE
+Fire Emblem Fates GameEffect Editor by RainThunder
+0x20C 0x20
+0x208 0x0 HALF
+76
+NULL
+Misc
+
+Effect Name
+0
+4
+STRP
+NULL
+
+Arc File Name
+4
+4
+STRP
+NULL
+
+Model Name
+8
+4
+STRP
+NULL
+
+Emitter Name
+12
+4
+STRP
+NULL
+
+Battle Time Effects
+16
+4
+STRP
+NULL
+
+Battle Scale
+20
+4
+HEXA
+NULL
+
+Map Scale
+24
+4
+HEXA
+NULL
+
+Type
+28
+1
+NEHU
+NULL
+
+Target
+29
+1
+NEDU
+NULL
+
+Flag
+30
+1
+NEHU
+NULL
+
+FPS
+31
+1
+NEDU
+NULL
+
+Playback Delay
+32
+2
+NEDS
+NULL
+
+Break Time
+34
+1
+NEDS
+NULL
+
+UNUSED
+35
+1
+HEXA
+NULL
+
+X Position
+36
+4
+NEDS
+NULL
+
+Y Position
+40
+4
+NEDS
+NULL
+
+Z Position
+44
+4
+NEDS
+NULL
+
+X Rotation
+48
+4
+NEDS
+NULL
+
+Y Rotation
+52
+4
+NEDS
+NULL
+
+Z Rotation
+56
+4
+NEDS
+NULL
+
+X Scale
+60
+4
+NEDS
+NULL
+
+Y Scale
+64
+4
+NEDS
+NULL
+
+Z Scale
+68
+4
+NEDS
+NULL
+
+Sound Effect
+72
+4
+STRP
+NULL

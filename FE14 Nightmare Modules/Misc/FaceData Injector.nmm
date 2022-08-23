@@ -1,0 +1,120 @@
+#Fire Emblem Fates Character Editor
+
+INJECTOR
+Fire Emblem Fates Character Editor by RainThunder
+0x10 0x24
+0x20 0x0 WORD
+72
+NULL
+Misc
+TRUE
+
+FSID
+0*
+4
+TEXT
+NULL
+
+
+MPID
+4*
+4
+TEXT
+NULL
+
+Character Name
+8*
+4
+TEXT
+NULL
+
+File Name
+12*
+4
+TEXT
+NULL
+
+Unknown (1)
+16*
+4
+TEXT
+NULL
+
+Unknown (2)
+20*
+4
+TEXT
+NULL
+
+Unknown (3)
+24*
+4
+TEXT
+NULL
+
+Hair Color (RGBA)
+28
+4
+HEXA
+NULL
+
+Advantage Emotion
+32*
+4
+TEXT
+NULL
+
+Disadvantage Emotion
+36*
+4
+TEXT
+NULL
+
+Portrait Position (1)
+40
+4
+HEXA
+NULL
+
+Portrait Position (2)
+44
+4
+HEXA
+NULL
+
+Portrait Position (3)
+48
+4
+HEXA
+NULL
+
+Portrait Position (4)
+52
+4
+HEXA
+NULL
+
+Blush Position
+56
+4
+HEXA
+NULL
+
+Portrait Position (5)
+60
+4
+HEXA
+NULL
+
+Sweat Position
+64
+4
+HEXA
+NULL
+
+Portrait Position (6)
+68
+4
+HEXA
+NULL
+

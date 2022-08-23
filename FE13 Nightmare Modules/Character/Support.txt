@@ -1,0 +1,7 @@
+6
+0x63636363 None
+0X63120A04 Non-romantic
+0x16100A05 Slow
+0x140e0904 Medium
+0x120d0803 Fast
+0x03020100 Haxxors

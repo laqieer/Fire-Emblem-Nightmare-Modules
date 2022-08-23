@@ -1,0 +1,303 @@
+None
+Alm
+Lukas
+Gray
+Tobin
+Kliff
+Silque
+Clair
+Clive
+Forsyth
+Python
+Luthier
+Mathilda
+Delthea
+Tatiana
+Zeke
+Mycen
+Faye
+Celica
+Mae
+Boey
+Genny
+Saber
+Valbar
+Kamui
+Leon
+Palla
+Catria
+Atlas
+Jesse
+Sonya
+Deen
+Est
+Nomah
+Conrad
+Brigand Boss
+Desaix
+Slayde
+Barth
+Zakson
+Desaix Chapter 3
+Lawson
+Gazelle
+Tatarrah
+Enemy Delthea
+Enemy Fernand Chapter 3 1
+Berkut Chapter 3
+Enemy Fernand Chapter 3 2
+Garth
+Wolff
+Enemy Deen
+Enemy Sonya
+Grieth
+Blake
+Mikhail
+Shizas (Unused)
+Xaizor
+Marla
+Nuibaba
+Enemy Zeke
+Jerome
+Magnus
+Hestia
+Mueller
+Rudolf
+Berkut Chapter 4 
+Enemy Fernand Chapter 4 
+Slayde Chapter 4 
+Garcia
+Dolth
+Jamil
+Jedah
+Duma
+Aurum
+Argentum
+Gharn
+Cerberus
+Naberius
+Hades
+Berkut Chapter 5 
+Rinea
+Berkut Chapter 5 H
+Rinea H
+Marla Chapter 5 
+Hestia Chapter 5 
+Mila's Servant
+Duma's Apostle
+Dracul
+Titan
+Garuda
+Guardian
+Vestal
+Fafnir
+Dagon
+Balor
+Deimos
+Fire Dragon
+The Creation
+Death Mask
+Strong Revenant
+Strong Bonewalker
+Strong Gargoyle
+Strong Necrodragon
+Strong Mogall
+Strong Witch
+Cavalier
+Knight
+Paladin
+Necrodragon
+White Dragon
+Soldier
+Gold Knight
+Mercenary
+Myrmidon
+Dread Fighter
+Revenant
+Bonewalker
+Wight
+Gargoyle
+Deathgoyle
+Entombed
+Mogall
+Fiend
+Archer
+Sniper
+Brigand
+Arcanist - Miasma
+Arcanist - Mire
+Arcanist - Mire, Fortify
+Arcanist - Death, Fortify
+Arcanist - Death
+Witch - Fire
+Witch - Fire 2
+Witch - Thunder
+Witch - Excalibur
+Cantor - Death, Bonewalker
+Cantor - Death, Revenant
+Cantor - Mire, Gargoyle
+Cantor - Mire, Necrodragon
+Cantor - Nuibaba
+Cantor - Duma, Death, Bonewalker
+Cantor - Duma, Death, Revenant
+Cantor - Duma, Mire, Gargoyle
+Cantor - Archanea, Mire, Gargoyle
+Cantor - Mire, Gargoyle (Used somewhere)
+Cantor - Death, Strong Bonewalker
+Cantor - Mire, Strong Revenant
+Cantor - Death, Strong Bonewalker
+Cantor - Death, Strong Bonewalker
+Bow Knight
+Fighter
+Baron
+Hero
+Priestess
+Summoned Alm
+Summoned Celica
+Summoned Villager Male
+Summoned Cavalier
+Summoned Paladin
+Summoned Gold Knight
+Summoned Soldier
+Summoned Knight
+Summoned Baron
+Summoned Fiend
+Summoned Brigand
+Summoned Mercenary
+Summoned Myrmidon
+Summoned Dread Fighter
+Summoned Archer
+Summoned Sniper
+Summoned Bow Knight
+Summoned Fighter
+Summoned Hero
+Summoned Mage Male
+Summoned Sage
+Summoned Pegasus Knight
+Summoned Falcon Knight
+Summoned Cleric
+Summoned Saint
+Summoned Mage Female
+Summoned Priestess
+Summoned Priestess Celica
+Summoned Princess
+Summoned Arcanist
+Summoned Cantor
+Summoned Witch
+Summoned Revenant
+Summoned Entombed
+Summoned Bonewalker
+Summoned Wight
+Summoned Gargoyle
+Summoned Deathgoyle
+Summoned Necrodragon
+Summoned White Dragon
+Summoned Mogall
+Child Alm
+Child Celica
+Child Gray
+Child Tobin
+Child Kliff
+Child Faye
+Mycen Prologue
+Slayde Prologue
+Cavalier Prologue
+Soldier Prologue
+Player Boat
+Ruffian Boat
+Act 1 Weak Archer
+Act 2 Weak Archer
+Masked Knight
+Mercenary Illusion
+Myrmidon Illusion
+Dread Fighter Illusion
+Archer Illusion
+Sniper Illusion
+Bow Knight Illusion
+Brigand Illusion
+Revenant Illusion
+Bonewalker Illusion
+Wight Illusion
+Gargoyle Illusion
+Deathgoyle Illusion
+Entombed Illusion
+Mogall Illusion
+Fiend Illusion
+Witch Illusion - Fire
+Witch Illusion - Thunder
+Necrodragon Illusion
+Soldier Illusion
+Knight Illusion
+Baron Illusion
+Cavalier Illusion
+Paladin Illusion
+Gold Knight Illusion
+Sage Illusion
+Arcanist Illusion - Miasma
+Arcanist Illusion - Death, Fortify
+Cantor Illusion - Mire, Strong Revenant
+Priestess Illusion
+Pegasus Knight Illusion
+Falcon Knight Illusion
+Villager Death Mask Male
+Villager Death Mask Female
+Mercenary Death Mask
+Myrmidon Death Mask
+Dread Fighter Death Mask
+Brigand Death Mask
+Archer Death Mask
+Sniper Death Mask
+Bow KnightDeath Mask
+Soldier Death Mask
+Knight Death Mask
+Baron Death Mask
+Cavalier Death Mask
+Paladin Death Mask
+Gold Knight Death Mask
+Sage Death Mask
+Priestess Death Mask
+Arcanist Death Mask - Death, Fortify
+Cantor Death Mask
+Gargoyle Silence
+Deathgoyle Silence
+Princess Celica
+Mogall Archanea
+Mogall Thabes
+Revenant Venom
+Revenant Paralyze
+Entombed Venom
+Entombed Paralyze
+Marth Illusion
+Ike Illusion
+Lucina Illusion
+Robin Illusion
+Roy Illusion
+Corrin Male Illusion
+Corin Female Illusion
+Arcanist Illusion - Mire
+Rudolf H
+Jedah H
+Fire Dragon Thabes
+Titan Thabes
+Garuda Thabes
+Guardian Thabes
+Vestal Thabes
+Fafnir Thabes
+Mage Illusion Male
+Mage Illusion Female
+Entombed Weak
+Reserved 1
+Reserved 2
+Reserved 3
+Strong Summoned Revenant 1
+Strong Summoned Revenant 2
+Strong Summoned Bonewalker
+Strong Summoned Gargoyle
+Strong Summoned Witch - Fire
+Strong Summoned Necrodragon
+Strong Summoned Entombed
+Strong Summoned Wight
+Strong Summoned Deathgoyle
+Strong Summoned Witch - Thunder
+Strong Summoned Fiend
+Strong Summoned White Dragon

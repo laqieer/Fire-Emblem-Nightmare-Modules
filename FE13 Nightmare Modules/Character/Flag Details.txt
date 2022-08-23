@@ -1,0 +1,111 @@
+﻿1
+SID_女性
+* Is Female
+
+2
+SID_主人公
+* Is Hero
+
+3
+SID_プレイヤー
+* Is Player
+
+4
+SID_上級職
+* Advanced Classes
+
+5
+SID_リーダー
+* Leader
+
+6
+SID_敗北条件
+* Defeat Conditions
+
+7
+SID_移動禁止
+* Movement ban
+
+8
+SID_強制キリバト
+* Force Battle Animations
+
+9
+SID_キリバト禁止
+* Ban Battle Animations
+
+10
+SID_撃破経験値＋２０
+Experience Gain when Defeated + 20 (Untested)
+
+11
+SID_撃破経験値−１０
+Experience Gain when Defeated - 10 (Untested)
+
+12
+SID_杖経験値＋
+* Unknown (Experience Gain +?)
+
+13
+SID_マルス
+* Marth
+
+14
+SID_ヴァルハルト
+* Walhart
+
+15
+SID_インバース
+* Aversa
+
+16
+SID_ウード
+* Owain
+
+17
+SID_マムクート
+* Manakete
+
+18
+SID_ラグズ
+* Laguz (Probably Taguel flag)
+
+19
+SID_村破壊
+* Destroy villages
+
+20
+SID_必殺禁止
+* Crit ban
+
+21
+SID_回避禁止
+* Avoid ban
+
+22
+SID_敵専用
+* Enemy Only
+
+23
+SID_特殊演出
+* Unknown (Special Performance)
+
+24
+SID_ゲスト
+* Guest
+
+25
+SID_旧マルス
+* Original Marth
+
+26
+SID_撃破経験値マミー
+* Unknown (Entombed Experience?)
+
+27
+SID_配信フェイス
+* Unknown (Delivery Face?)
+
+28
+SID_白竜
+* White Dragon

@@ -1,0 +1,4 @@
+3
+0x00 -
+0x01 Combat Art
+0x02 Passive Skill

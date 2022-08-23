@@ -1,0 +1,202 @@
+#Sov Player Dispo Editor
+
+RELATIVE
+SOV Player Dispo Editor
+0x58 0x20
+0x54 0x00 HALF
+96
+NULL
+SOV
+
+
+PID
+0
+4
+STRP
+NULL
+
+Unknown
+4
+3
+HEXA
+NULL
+
+Enemy Level
+7
+1
+NEDU
+NULL
+
+Hard Level Bonus
+8
+1
+NEDU
+NULL
+
+Unknown
+9
+1
+HEXA
+NULL
+
+Flags
+10
+1
+NDDU
+Flags1-8.txt
+
+Unknown
+11
+1
+HEXA
+NULL
+
+Location X 1
+12
+1
+NEDU
+NULL
+
+Location Y 1
+13
+1
+NEDU
+NULL
+
+Location X 2
+14
+1
+NEDU
+NULL
+
+Location Y 2
+15
+1
+NEDU
+NULL
+
+JID
+16
+4
+STRP
+NULL
+
+IID
+20
+4
+STRP
+NULL
+
+Item Drops
+24
+1
+NDDU
+TrueFalse.txt
+
+Unknown
+25
+3
+HEXA
+NULL
+
+Unknown
+28
+4
+HEXA
+NULL
+
+BID
+32
+4
+STRP
+NULL
+
+Action AI (AC)
+36
+4
+STRP
+NULL
+
+Extra Data String
+40
+4
+STRP
+NULL
+
+Values for AI
+44
+4
+HEXA
+NULL
+
+MI AI (MI)
+48
+4
+STRP
+NULL
+
+Extra Data String
+52
+4
+STRP
+NULL
+
+Values for AI
+56
+4
+HEXA
+NULL
+
+Attack AI (AT)
+60
+4
+STRP
+NULL
+
+Extra Data String
+64
+4
+STRP
+NULL
+
+Values for AI
+68
+4
+HEXA
+NULL
+
+Movement AI (MV)
+72
+4
+STRP
+NULL
+
+Extra Data String
+76
+4
+STRP
+NULL
+
+Values for AI
+80
+4
+HEXA
+NULL
+
+Unknown
+84
+4
+HEXA
+NULL
+
+Unknown
+88
+4
+HEXA
+NULL
+
+Unknown
+92
+4
+HEXA
+NULL

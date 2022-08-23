@@ -1,0 +1,358 @@
+#SoV Class Editor by Moonling
+
+INJECTOR
+SoV Class Editor by Moonling
+0x20 0x2C
+TABLE_HEADER_OFFSET 0x24 HALF
+160
+Class list.txt
+SOV
+true
+
+Class Label
+0*
+4
+TEXT
+NULL
+
+Class Name
+4*
+4
+TEXT
+NULL
+
+Message ID
+8*
+4
+TEXT
+NULL
+
+Class Description
+12*
+4
+TEXT
+NULL
+
+Panel
+16*
+4
+TEXT
+NULL
+
+Rank
+20
+1
+NEDU
+NULL
+
+Move Type
+21
+1
+NEDU
+NULL
+
+Footstep Distance
+22
+1
+NEDU
+NULL
+
+Magic Tier
+23
+1
+NEDU
+NULL
+
+Max Level
+24
+1
+NEDU
+NULL
+
+Initial Level
+25
+1
+NEDU
+NULL
+
+EXP
+26
+1
+NEDU
+NULL
+
+Power
+27
+1
+NEDU
+NULL
+
+EXP Coefficient
+28
+2
+NEDU
+NULL
+
+Sort
+30
+2
+NEHU
+NULL
+
+Unused
+32
+1
+NEHU
+NULL
+
+Class Type Flag
+33
+1
+NDHU
+Flags1-8.txt
+
+Weapon Flags
+34
+1
+NDHU
+Flags1-8.txt
+
+Player Weapon
+35
+1
+NEDU
+NULL
+
+HP
+36
+1
+NEDU
+NULL
+
+STR
+37
+1
+NEDU
+NULL
+
+SKL
+38
+1
+NEDU
+NULL
+
+SPD
+39
+1
+NEDU
+NULL
+
+LCK
+40
+1
+NEDU
+NULL
+
+DEF
+41
+1
+NEDU
+NULL
+
+RES
+42
+1
+NEDU
+NULL
+
+MOV
+43
+1
+NEDU
+NULL
+
+Growth HP
+52
+1
+NEDU
+NULL
+
+Growth STR
+53
+1
+NEDU
+NULL
+
+Growth SKL
+54
+1
+NEDU
+NULL
+
+Growth SPD
+55
+1
+NEDU
+NULL
+
+Growth LCK
+56
+1
+NEDU
+NULL
+
+Growth DEF
+57
+1
+NEDU
+NULL
+
+Growth RES
+58
+1
+NEDU
+NULL
+
+Growth MOV
+59
+1
+NEDU
+NULL
+
+P Growth HP
+60
+1
+NEDS
+NULL
+
+P Growth STR
+61
+1
+NEDS
+NULL
+
+P Growth SKL
+62
+1
+NEDS
+NULL
+
+P Growth SPD
+63
+1
+NEDS
+NULL
+
+P Growth LCK
+64
+1
+NEDS
+NULL
+
+P Growth DEF
+65
+1
+NEDS
+NULL
+
+P Growth RES
+66
+1
+NEDS
+NULL
+
+P Growth MOV
+67
+1
+NEDS
+NULL
+
+Default Equip 1
+68*
+4
+TEXT
+NULL
+
+Default Equip 2
+72*
+4
+TEXT
+NULL
+
+Magic 1
+76*
+4
+TEXT
+NULL
+
+Magic 2
+80*
+4
+TEXT
+NULL
+
+Magic 3
+84*
+4
+TEXT
+NULL
+
+Promotes From
+88*
+4
+TEXT
+NULL
+
+Footstep Name
+92*
+4
+TEXT
+NULL
+
+Skill 1
+96*
+4
+TEXT
+NULL
+
+Skill 2
+100*
+4
+TEXT
+NULL
+
+Skill 3
+104*
+4
+TEXT
+NULL
+
+Skill 4
+108*
+4
+TEXT
+NULL
+
+Skill 5
+112*
+4
+TEXT
+NULL
+
+Skill 6
+116*
+4
+TEXT
+NULL
+
+Skill 7
+120*
+4
+TEXT
+NULL
+
+Skill 8
+124*
+4
+TEXT
+NULL

@@ -1,0 +1,5 @@
+4
+0x1 Store Level 1
+0x2 Store Level 2
+0x3 Store Level 3
+0x63 Special unlock

@@ -1,0 +1,83 @@
+#Fire Emblem Fates Accessory Shop Editor
+
+INJECTOR
+Fire Emblem Fates Accessory Shop by Moonling
+0x11C 0x20
+0x118 0x0 HALF
+24
+Accessories.txt
+Shop
+TRUE
+
+Accessory ID
+0
+1
+NEHU
+NULL
+
+
+Resource Type
+1
+1
+NDHU
+ExchangeType.txt
+
+Damage Increase
+2
+1
+NEDS
+NULL
+
+Damage Reduction
+3
+1
+NEDS
+NULL
+
+Accessory Index
+4
+4
+NEDS
+NULL
+
+Name
+8*
+4
+TEXT
+NULL
+
+Description
+12*
+4
+TEXT
+NULL
+
+Store Level
+16
+1
+NDHU
+StoreLevel.txt
+
+Shop Tab
+17
+1
+NDHU
+ShopTab.txt
+
+Required Material 
+18
+1
+NDHU
+Material.txt
+
+Required Number of Materials
+19
+1
+NEDS
+NULL
+
+Flag
+20
+4
+HEXA
+NULL

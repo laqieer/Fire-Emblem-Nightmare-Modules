@@ -1,0 +1,5 @@
+4
+0x0 None 
+0x1 Basic Enemy
+0x2 Drops Stolen Items
+0x3 Basic Enemy + Drops Stolen Items

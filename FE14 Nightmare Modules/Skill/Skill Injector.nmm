@@ -1,0 +1,94 @@
+#Fire Emblem Fates Skill Editor
+
+INJECTOR
+Fire Emblem Fates Skill Editor by RainThunder
+0x30 0x0
+0x38 0x0 WORD
+32
+Skill.txt
+GameData
+true
+
+Skill Label
+0*
+4
+TEXT
+NULL
+
+Skill Name
+4*
+4
+TEXT
+NULL
+
+Skill Description
+8*
+4
+TEXT
+NULL
+
+Skl_
+12*
+4
+TEXT
+NULL
+
+Skill ID
+16
+2
+NEHU
+NULL
+
+Unknown
+18
+2
+NEHU
+NULL
+
+Skill icon ID
+20
+2
+NEHU
+NULL
+
+Stat
+22
+1
+NDHU
+Stat.txt
+
+Trigger % factor
+23
+1
+NEDU
+NULL
+
+Trigger % divisor
+24
+1
+NEDU
+NULL
+
+Unknown
+25
+1
+NEHU
+NULL
+
+Price
+26
+2
+NEDU
+NULL
+
+Unknown
+28
+1
+NEHU
+NULL
+
+Padding
+29
+3
+HEXA
+NULL

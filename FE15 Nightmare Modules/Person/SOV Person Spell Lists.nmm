@@ -1,0 +1,123 @@
+#SoV Spell List Editor by Moonling
+
+RELATIVE
+SoV Spell List Editor by Moonling
+0x24 0x2C
+TABLE_HEADER_OFFSET 0x24 HALF
+52
+Spell Learn List.txt
+SOV
+
+MSID Pointer
+0
+4
+STRP
+NULL
+
+Spell Pointer
+4
+4
+STRP
+NULL
+
+Promoted?
+8
+2
+NEDS
+NULL
+
+Level
+10
+2
+NEDS
+NULL
+
+Spell Pointer
+12
+4
+STRP
+NULL
+
+Promoted?
+16
+2
+NEDS
+NULL
+
+Level
+18
+2
+NEDS
+NULL
+
+Spell Pointer
+20
+4
+STRP
+NULL
+
+Promoted?
+24
+2
+NEDS
+NULL
+
+Level
+26
+2
+NEDS
+NULL
+
+Spell Pointer
+28
+4
+STRP
+NULL
+
+Promoted?
+32
+2
+NEDS
+NULL
+
+Level
+34
+2
+NEDS
+NULL
+
+Spell Pointer
+36
+4
+STRP
+NULL
+
+Promoted?
+40
+2
+NEDS
+NULL
+
+Level
+42
+2
+NEDS
+NULL
+
+Spell Pointer
+44
+4
+STRP
+NULL
+
+Promoted?
+48
+2
+NEDS
+NULL
+
+Level
+50
+2
+NEDS
+NULL

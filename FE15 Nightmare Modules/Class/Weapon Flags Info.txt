@@ -1,0 +1,9 @@
+0 - None
+1 - No Valid Weapon
+2 - Sword
+3 - Lance
+4 - Axe
+5 - Bow
+6 - Black Magic
+7 - White Magic
+8 - Terror

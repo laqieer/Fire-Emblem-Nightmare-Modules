@@ -1,0 +1,5 @@
+4
+0xF Infantry
+0x11 Tank
+0x12 Wolf Skin/Monster
+0x14 Mounted/Dragon

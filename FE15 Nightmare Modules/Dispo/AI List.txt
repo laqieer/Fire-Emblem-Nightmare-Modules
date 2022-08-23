@@ -1,0 +1,16 @@
+| AI Type	| AI name				| Effect 	|
+| ---		| ---					| ---		|
+| AC		| AI_AC_Everytime		| Does an Action every turn |
+| AC		| AI_AC_TurnAttackRange	| Attack After Turn Set Below |
+| MI		| AI_MI_Null			| No Effect		|
+| AT		| AI_AT_AttackToHeal	| Attacks and Heals	|
+| MV		| AI_MV_Terrain			| Restrict to Terrian Type Below |
+| MV		| AI_MV_NearestEnemy	| Move to nearest Enemy		|
+| MV		| AI_MV_Null			| No Effect		|
+| AT		| AI_AT_SummonOnly		| Only Summons	|
+| AT		| AI_AT_Attack			| Attacks	|
+| AT		| AI_AT_Person			| Targets Person Below	|
+| MV		| AI_MV_Hero			| ???		|
+| MV		| AI_MV_Person			| Move to Person Below		|
+| ---		| ---					| ---		|
+

@@ -1,0 +1,388 @@
+#Fire Emblem Echoes Person Editor
+
+INJECTOR
+SOV Person Editor by Moonling
+0x20 0x2C
+TABLE_HEADER_OFFSET 0x24 HALF
+168
+Person List.txt
+SOV
+TRUE
+
+Person Label
+0*
+4
+TEXT
+NULL
+
+Person Name
+4*
+4
+TEXT
+NULL
+
+Job ID
+8*
+4
+TEXT
+NULL
+
+Face ID
+12*
+4
+TEXT
+NULL
+
+Actor ID
+16*
+4
+TEXT
+NULL
+
+Person Description
+20*
+4
+TEXT
+NULL
+
+Alliance
+24*
+4
+TEXT
+NULL
+
+Gender
+28
+1
+NEDS
+NULL
+
+Level
+29
+1
+NEDU
+NULL
+
+Gain EXP?
+30
+1
+NEHU
+NULL
+
+Route
+31
+1
+NEHU
+NULL
+
+Fatigue Tolerance
+32
+4
+NDHU
+Fatigue.txt
+
+Age
+36
+1
+NEDU
+NULL
+
+Flags
+37
+2
+HEXA
+NULL
+
+Summon Level
+39
+1
+NEDU
+NULL
+
+Summon # Limit
+40
+1
+NEDS
+NULL
+
+Recovery % A
+41
+1
+NEDS
+NULL
+
+Recovery % B
+42
+1
+NEDS
+NULL
+
+Attack Turn
+43
+1
+NEDS
+NULL
+
+Experience
+44
+1
+NEDU
+NULL
+
+Power
+45
+1
+NEDS
+NULL
+
+Exp coefficient
+46
+2
+NEHU
+NULL
+
+Recruit Renown
+48
+2
+NEDU
+NULL
+
+Defeat Renown
+50
+2
+NEDU
+NULL
+
+Base HP
+52
+1
+NEDU
+NULL
+
+Base STR
+53
+1
+NEDU
+NULL
+
+Base SKL
+54
+1
+NEDU
+NULL
+
+Base SPD
+55
+1
+NEDU
+NULL
+
+Base LCK
+56
+1
+NEDU
+NULL
+
+Base DEF
+57
+1
+NEDU
+NULL
+
+Base RES
+58
+1
+NEDU
+NULL
+
+Base MOV
+59
+1
+NEDU
+NULL
+
+Max HP
+60
+1
+NEDU
+NULL
+
+Max STR
+61
+1
+NEDU
+NULL
+
+Max SKL
+62
+1
+NEDU
+NULL
+
+Max SPD
+63
+1
+NEDU
+NULL
+
+Max LCK
+64
+1
+NEDU
+NULL
+
+Max DEF
+65
+1
+NEDU
+NULL
+
+Max RES
+66
+1
+NEDU
+NULL
+
+Max MOV
+67
+1
+NEDU
+NULL
+
+Growth HP
+68
+1
+NEDS
+NULL
+
+Growth STR
+69
+1
+NEDS
+NULL
+
+Growth SKL
+70
+1
+NEDS
+NULL
+
+Growth SPD
+71
+1
+NEDS
+NULL
+
+Growth LCK
+72
+1
+NEDS
+NULL
+
+Growth DEF
+73
+1
+NEDS
+NULL
+
+Growth RES
+74
+1
+NEDS
+NULL
+
+Growth MOV
+75
+1
+NEDS
+NULL
+
+BGM
+76*
+4
+TEXT
+NULL
+
+Voice
+80*
+4
+TEXT
+NULL
+
+Skill 1
+84*
+4
+TEXT
+NULL
+
+Skill 2
+88*
+4
+TEXT
+NULL
+
+Skill 3
+92*
+4
+TEXT
+NULL
+
+Skill 4
+96*
+4
+TEXT
+NULL
+
+Skill 5
+100*
+4
+TEXT
+NULL
+
+Skill 6
+104*
+4
+TEXT
+NULL
+
+Skill 7
+108*
+4
+TEXT
+NULL
+
+Skill 8
+112*
+4
+TEXT
+NULL
+
+Learned Black Magic
+116*
+4
+TEXT
+Person Spell.txt
+
+Learned White Magic
+120*
+4
+TEXT
+Person Spell.txt
+
+Equipped
+124*
+4
+TEXT
+Person Item.txt
+
+Dropped
+128*
+4
+TEXT
+Person Item.txt
+
+Drop Rate (%)
+132
+4
+NDHU
+Drop Rate.txt

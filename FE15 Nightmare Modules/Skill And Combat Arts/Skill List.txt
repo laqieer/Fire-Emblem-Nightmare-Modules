@@ -1,0 +1,180 @@
+None
+Curved Shot
+Wrath Strike
+Hit and Run
+Subdue
+Shove
+Swap
+Crosswise Cut
+Heavy Draw
+Duelist Sword
+Sunder
+Hexblade
+Lifetaker
+Lunge
+Penetrate
+Leonine Poise
+Thunderclap
+Knightkneeler
+Armorcrush
+Death Blow
+Celestial Bow
+Grounder
+Destreza
+Encloser
+Ward Arrow
+Plenitude
+Double Lion
+Vendetta
+Dragonhaze
+Tigerstance
+Archballista
+Trance Shot
+Shadow Gambit
+Hundred Blades
+Roundhouse
+Solar Thrust
+Lunar Flash
+Defensive
+Coral Cover
+Aegis
+Speculum
+Pavise
+Earth's Kiss
+Windsweep
+Foudroyant
+Earth's Boon
+Flamberge
+Longearche
+Tempest Lance
+Mistdancer
+Overrun
+Hunter's Volley
+Lethality
+Counter
+Scendscale
+Ragnarok ƒ¶
+Triangle Attack
+Protagonist
+Rigelian Royal
+Zofian Royal
+Soothing Light
+Recovery
+Regeneration
+Incarnation
+Absorb
+Nihil
+Deicide
+Hidden Deicide
+Ignore Terrain
+Hex
+Resist Hex
+Antihex
+Transmute
+Fixed Power
+Deathdefy
+Aptitude
+Reconstruct
+Evade Critical
+Banish
+Vengeful Cry
+Wrath
+Magic +5
+Discipline
+Influence
+Sophisticate
+Bowrange +1
+Bowrange +2
+Resistance +5
+Wildfire
+Halve Swords
+Halve Lances
+Halve Axes
+Heavy Armor
+Apotrope
+Sanctuary
+Heavy Armor
+Apotrope
+Phantasm
+Boss
+Leader
+Download
+No Trade
+Defeat Conditions
+Forced Kiribato
+No Kiribato
+Teleportation
+Rand. Summ.
+Prob. Summ.
+Always Summ.
+Nullify Expel
+Summon AI
+Summ. Indep.
+Mogall Link
+Divide
+No Floor Dmg.
+Living Lost
+Memorial Lost
+No Class Roll
+Miracle
+Attack Twice
+Paragon
+Charm
+Pass
+Vantage
+Unique
+Sub-unique
+Retreat-unique
+Magic Range
+1/2 Magic Range
+1/4 Magic Range
+Poisoned
+Poisoned
+Poisoned
+Stunned
+Stunned
+Spellbound
+Spellbound
+Venom Strike
+Stun Toxin
+Eerie Screech
+Spare Alm
+Duma's Gift
+Duma's Eye
+Nullify Eye
+Upheaval
+Dark Spikes
+Dragonskin
+Anatheme
+Bypass Defense
+Nullify Ailments
+Mounted
+Flier
+Armored
+Terror
+Great Terror
+Dragon
+God
+God Grima
+Anti-Mortals
+Anti-Cavalry
+Anti-Armor
+Anti-Fliers
+Anti-Mages
+Anti-Terrors
+Anti-Dragons
+Anti-Gods
+Lethal Lady
+Pact
+Rare
+Bonus Exp
+Illusionary
+Absolve
+Seven Sword
+Eleven Shield
+No Level Up
+Phalanx
+Ward
+Tri-affliction
+Bowrange+3
+Nullify Magic

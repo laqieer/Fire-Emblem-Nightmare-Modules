@@ -1,0 +1,106 @@
+105
+0x00 None
+0x01 HP +5
+0x02 Strength +2
+0x03 Magic +2
+0x04 Skill +2
+0x05 Speed +2
+0x06 Defence +2
+0x07 Resistance +2
+0x08 Hit rate +10
+0x09 Hit rate +20
+0x0A Avoid +10
+0X0B Movement +1
+0X0C Locktouch
+0X0D Veteran
+0X0E Aptitude
+0X0F Discipline 
+0x10 Armsthrift
+0x11 Dual Support+
+0x12 Dual Strike+
+0x13 Dual Guard+
+0x14 Rightful King
+0x15 Odd Rhythm
+0x16 Even Rhythm
+0x17 Quick Start
+0x18 Slow Start
+0x19 Lucky 7
+0x1A Zeal
+0X1B Outdoor Fighter
+0X1C Indoor Fighter
+0X1D Tantivy
+0X1E Focus
+0X1F Gamble
+0x20 Wrath
+0x21 Prescience
+0x22 Patience
+0x23 Underdog
+0x24 Charm
+0x25 Solidarity
+0x26 Demoiselle
+0x27 Hex
+0x28 Anathema
+0x29 Healtouch
+0x2A Relief
+0X2B Renewal
+0X2C Deliverer
+0X2D Defender
+0X2E Acrobat
+0X2F Pass
+0x30 Swordfaire
+0x31 Lancefaire
+0x32 Axefaire
+0x33 Bowfaire
+0x34 Tomefaire
+0x35 Dance
+0x36 Special Dance
+0x37 Rally Strength
+0x38 Rally Magic
+0x39 Rally Skill
+0x3A Rally Speed
+0X3B Rally Luck
+0X3C Rally Defence
+0X3D Rally Resistance
+0X3E Rally Movement
+0X3F Rally Spectrum
+0x40 Swordbreaker
+0x41 Lancebreaker
+0x42 Axebreaker
+0x43 Bowbreaker
+0x44 Tomebreaker
+0x45 Wyrmsbane
+0x46 Beastbane
+0x47 Lethality
+0x48 Aether
+0x49 Astra
+0x4A Sol
+0x4B Luna
+0x4C Ignis
+0x4D Vengeance
+0x4E Vantage
+0X4F Pavise
+0X50 Aegis
+0X51 Counter
+0X52 Miracle
+0X53 Despoil
+0X54 Galeforce
+0x55 Lifetaker
+0x56 Conquest
+0x57 Shadowgift
+0x58 Dragonskin
+0x59 Hawkeye
+0x5A Luck +4
+0X5B Luna+
+0x5C Vantage+
+0x5D Pavise+
+0x5E Aegis+
+0X5F Rightful God
+0x60 All Stats +2
+0x61 Paragon
+0x62 Iote Shield
+0x63 Limit Breaker
+0x64 Resistance +10
+0x65 Aggressor
+0x66 Rally Heart
+0x67 Bond
+0x68 Outrealm 

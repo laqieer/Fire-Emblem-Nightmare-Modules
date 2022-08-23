@@ -1,0 +1,33 @@
+#Fates Movement Table Editor by Moonling
+
+RELATIVE
+Fire Emblem Fates Movement Table Editor bt Moonling
+0x6C 0x24
+TABLE_HEADER_OFFSET 0x20 HALF
+16
+NULL
+MISC
+
+Line 1
+0
+4
+HEXA
+NULL
+
+Line 2
+4
+4
+HEXA
+NULL
+
+Line 3
+8
+4
+HEXA
+NULL
+
+Line 4
+12
+4
+HEXA
+NULL

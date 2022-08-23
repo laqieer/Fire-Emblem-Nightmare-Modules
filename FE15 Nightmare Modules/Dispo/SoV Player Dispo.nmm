@@ -1,0 +1,166 @@
+#Sov Player Dispo Editor
+
+RELATIVE
+SOV Player Dispo Editor
+0x4C 0x20
+TABLE_HEADER_OFFSET 0x0C HALF
+96
+NULL
+SOV
+
+
+PID
+0
+4
+STRP
+NULL
+
+Unknown
+4
+3
+HEXA
+NULL
+
+Tilde Thinks This Is Important
+7
+1
+HEXA
+NULL
+
+Unknown
+8
+2
+HEXA
+NULL
+
+Tilde Thinks This Is Also Important
+10
+1
+HEXA
+NULL
+
+Unknown
+11
+1
+HEXA
+NULL
+
+Location X 1
+12
+1
+NEDU
+NULL
+
+Location Y 1
+13
+1
+NEDU
+NULL
+
+Location X 2
+14
+1
+NEDU
+NULL
+
+Location Y 2
+15
+1
+NEDU
+NULL
+
+JID
+16
+4
+STRP
+NULL
+
+IID
+20
+4
+STRP
+NULL
+
+Unknown
+24
+4
+HEXA
+NULL
+
+Unknown
+28
+4
+HEXA
+NULL
+
+BID
+32
+4
+STRP
+NULL
+
+Action AI
+36
+4
+STRP
+NULL
+
+Values for AI
+40
+8
+HEXA
+NULL
+
+MI AI
+48
+4
+STRP
+NULL
+
+Values for AI
+52
+8
+HEXA
+NULL
+
+Attack AI
+60
+4
+STRP
+NULL
+
+Values for AI
+64
+8
+HEXA
+NULL
+
+Movement AI
+72
+4
+STRP
+NULL
+
+Values for AI
+76
+8
+HEXA
+NULL
+
+Unknown
+84
+4
+HEXA
+NULL
+
+Unknown
+88
+4
+HEXA
+NULL
+
+Unknown
+92
+4
+HEXA
+NULL

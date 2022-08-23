@@ -1,0 +1,33 @@
+#Fire Emblem Fates Chapter Editor
+
+RELATIVE
+Fire Emblem Fates Chapter Editor by RainThunder
+0x5C 0x2C
+TABLE_HEADER_OFFSET 0x24 WORD
+16
+NULL
+Misc
+
+MKID Label
+0
+4
+STRP
+NULL
+
+Music Label
+4
+4
+STRP
+NULL
+
+Unknown 1
+8
+4
+HEXA
+NULL
+
+Unknown 2
+12
+4
+HEXA
+NULL
