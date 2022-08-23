@@ -4,3 +4,6 @@
 [submodule "FE8 Nightmare modules/FE8-Nightmare-Light"]
 	path = FE8 Nightmare modules/FE8-Nightmare-Light
 	url = https://github.com/StanHash/FE8-Nightmare-Light.git
+[submodule "FE16 Nightmare Modules/th-hack-tools"]
+	path = FE16 Nightmare Modules/th-hack-tools
+	url = https://github.com/HeartHeroDE/th-hack-tools.git
