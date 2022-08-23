@@ -1,0 +1,28 @@
+___ / Wall
+Plain / Bridge / Bone
+Forest
+Desert
+Ledge
+Village
+Closed Village
+Ruined Village
+House / Armory / Vendor / Arena
+Fence
+Fort
+Castle Gate
+Castle
+Mountain
+Cave
+Peak
+River
+Sea
+Lava
+Floor / Stairs
+Pillar
+Throne
+Chest
+Door
+Drawbridge
+Altar
+???
+???

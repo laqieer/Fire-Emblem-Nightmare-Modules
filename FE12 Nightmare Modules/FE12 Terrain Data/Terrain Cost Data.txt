@@ -1,0 +1,26 @@
+Dancer/Lord
+Knight
+General
+Cavalier
+Paladin
+Merc/Myrm
+Hero/Swordmaster
+Fighter/Barbarian
+Warrior
+Pirate
+Berserker
+Thief
+Archer
+Sniper
+Hunter
+Horseman
+Freelancer
+Manakete
+Magic Users
+Unused
+Promoted Magic Users
+Flying
+Dragons
+Soldier/Emperor
+Ballistician
+Ice Dragon

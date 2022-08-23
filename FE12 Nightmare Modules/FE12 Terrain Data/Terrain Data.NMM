@@ -1,0 +1,31 @@
+1
+FE12 Terrain Data Editor
+0xEB80
+28
+4
+Terrain Data.txt
+NULL
+
+Avoid
+0
+1
+NEDS
+NULL
+
+Defense
+1
+1
+NEDS
+NULL
+
+Resistance
+2
+1
+NEDS
+NULL
+
+Heal
+3
+1
+NEDS
+NULL
