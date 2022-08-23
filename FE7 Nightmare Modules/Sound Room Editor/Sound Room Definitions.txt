@@ -1,0 +1,100 @@
+0x00 Opening: History Unveiled
+0x01 Fire Emblem Theme
+0x02 A Hint of Things to Come
+0x03 Road of Trials
+0x04 Destiny Enlaced by Fear
+0x05 Winds across the Plains
+0x06 Precious Things
+0x07 Companions
+0x08 Friendship and Adventure
+0x09 Distant Travels
+0x0A Inescapable Fate
+0x0B Dragon's Gate II
+0x0C Winning Road
+0x0D Binding Ties
+0x0E Scars of the Scouring
+0x0F Raise Your Spirits
+0x10 Shadow Approaches
+0x11 Enemies Appear
+0x12 The Messenger
+0x13 Darkness Comes
+0x14 Dragon's Gate I
+0x15 Nabata's Wandering Messenger 
+0x16 Legendary Inheritance
+0x17 Raid!
+0x18 Messenger from the Darkness 
+0x19 Strike
+0x1A Safeguard
+0x1B Victory Now!
+0x1C Rise to the Challenge
+0x1D Softly with Grace
+0x1E Everything into the Dark 
+0x1F Campaign of Fire
+0x20 Blessing of the 8 Generals I 
+0x21 Healing
+0x22 Curing
+0x23 Recieve the Blessings of Winter
+0x24 Ride the Wind 
+0x25 To the Heights
+0x26 An Unexpected Caller
+0x27 When the Rush Comes
+0x28 Land of Swirling Sands
+0x29 Ships and Homes
+0x2A Silent Ground
+0x2B The Inn
+0x2C Going My Way
+0x2D Together, We Ride!
+0x2E A Knight's Oath
+0x2F Happiness Abounds
+0x30 Merlinus
+0x31 Final Farewell
+0x32 Requiem
+0x33 Recollection of a Petal
+0x34 The Cogs of Fate
+0x35 The Eight Generals
+0x36 The Archsage Athos
+0x37 Distant Utopia
+0x38 What Comes from Darkness
+0x39 Black Fang
+0x3A Calamity Bringer: Nergal's Theme
+0x3B Nergal's Wrath
+0x3C Stratagem
+0x3D The Kingdom of Bern
+0x3E Bern - A Mother's Wish
+0x3F Shocking Truth I 
+0x40 Shocking Truth II
+0x41 Triumph
+0x42 Into the Shadow of Triumph
+0x43 Main Theme Arrangement
+0x44 Blessing of the 8 Generals II
+0x45 Girl of the Plains: Lyn's Theme
+0x46 Lyn's Desire
+0x47 Light to Tomorrow
+0x48 One Heart: Eliwood's Theme
+0x49 Eyes of Sorrow
+0x4A Unshakable Faith
+0x4B Loyalty: Hector's Theme
+0x4C The Grieving Heart
+0x4D Reminisceence
+0x4E Shattered Life
+0x4F Anguish
+0x50 Respite in Battle
+0x51 Prepare to Charge
+0x52 Armory
+0x53 Shop
+0x54 Fortune-Telling
+0x55 Arena Entrance
+0x56 Arena Battle
+0x57 Arena Victory
+0x58 Arena Tactics
+0x59 Within Sadness
+0x5A Game Over
+0x5B Legend of Athos
+0x5C Results
+0x5D Treasured Hope
+0x5E Beneath a New Light
+0x5F The Path to Greatness
+0x60 In the Name of Bern
+0x61 Avoided Fate
+0x62 Legend of the Dragon God
+0x63 Royal Palaze of Silezha
