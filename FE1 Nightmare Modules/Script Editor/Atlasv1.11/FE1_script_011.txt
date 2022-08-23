@@ -1,0 +1,15 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #011 NAME:		Battle Preperations
+
+//POINTER #0 @ $2C201 - STRING #0 @ $2C20E
+
+#W16($2C201)
+A button: Pick unit<N>
+B button: See map<N>
+Up/Down: Scroll<N>
+Left/Right: Items<N>
+Press Start when<N>
+the remainder's 0<N>
+<X>
+

@@ -1,0 +1,6 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #024 NAME:		Class Roll Stats
+//Block Range: $3447B - $3449A
+
+Str:Ski:Wlv:Agi:Def:Mov: HP:Exp

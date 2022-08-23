@@ -1,0 +1,22 @@
+Cavalier
+Knight
+Pegasus Knight
+Paladin
+Dracoknight
+Mercenary
+Fighter
+Pirate
+Thief
+Hero
+Archer
+Hunter
+Ballistician
+Horseman
+Sniper
+Commando
+Mamkute
+Mage
+Priest
+Bishop
+Lord
+General

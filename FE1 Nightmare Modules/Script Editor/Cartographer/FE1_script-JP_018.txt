@@ -1,0 +1,105 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #018 NAME:		Opening
+
+//POINTER #0 @ $369C3 - STRING #0 @ $36A17
+
+#W16($369C3)
+まHし<$FD>AT FIRST<$93><OpeningN>あめ<$C4>えああああま<$B1>し<$FD>THERE ARE<OpeningN>あめ<$CC>お<$F0><$F0><$F0><$F0>あま<$F0>そ<$FD>DARK DRAGON<$F0><OpeningN>あめ<$CC>おあああああみん"<$FD>FALCION SWORD<OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKか<$FD>AND<OpeningN>あめ<$D5>いああめ<$C4>お<$F0><$F0><$F0><$F0>あめ<$CC>お""""あめ<$CC>お    あめ<$D4>お""""あめ<$D4>お    あむニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #1 @ $369C5 - STRING #1 @ $36A2D
+
+#W16($369C5)
+ま<$B1>し<$FD>THERE ARE<OpeningN>あめ<$CC>お<$F0><$F0><$F0><$F0>あま<$F0>そ<$FD>DARK DRAGON<$F0><OpeningN>あめ<$CC>おあああああみん"<$FD>FALCION SWORD<OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKか<$FD>AND<OpeningN>あめ<$D5>いああめ<$C4>お<$F0><$F0><$F0><$F0>あめ<$CC>お""""あめ<$CC>お    あめ<$D4>お""""あめ<$D4>お    あむニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #2 @ $369C7 - STRING #2 @ $36A44
+
+#W16($369C7)
+ま<$F0>そ<$FD>DARK DRAGON<$F0><OpeningN>あめ<$CC>おあああああみん"<$FD>FALCION SWORD<OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKか<$FD>AND<OpeningN>あめ<$D5>いああめ<$C4>お<$F0><$F0><$F0><$F0>あめ<$CC>お""""あめ<$CC>お    あめ<$D4>お""""あめ<$D4>お    あむニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #3 @ $369C9 - STRING #3 @ $36A5E
+
+#W16($369C9)
+みん"<$FD>FALCION SWORD<OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKか<$FD>AND<OpeningN>あめ<$D5>いああめ<$C4>お<$F0><$F0><$F0><$F0>あめ<$CC>お""""あめ<$CC>お    あめ<$D4>お""""あめ<$D4>お    あむニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #4 @ $369CB - STRING #4 @ $36A79
+
+#W16($369CB)
+みKか<$FD>AND<OpeningN>あめ<$D5>いああめ<$C4>お<$F0><$F0><$F0><$F0>あめ<$CC>お""""あめ<$CC>お    あめ<$D4>お""""あめ<$D4>お    あむニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #5 @ $369CD - STRING #5 @ $36AAF
+
+#W16($369CD)
+むニか<$FD>THE<OpeningN>あめ<BossQuote?>う""あむZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #6 @ $369CF - STRING #6 @ $36ABE
+
+#W16($369CF)
+むZそ<$FD>ACRNEAR ERA<$F0><OpeningN>あめ<SetSpeed>え<$F0><$F0><$F0>あむ<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #7 @ $369D1 - STRING #7 @ $36AD7
+
+#W16($369D1)
+む<$C6>く<$FD>3011<$93><OpeningN>あめ<SetSpeed>うあああむ<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #8 @ $369D3 - STRING #8 @ $36AE8
+
+#W16($369D3)
+む<MouthOff>"<$FD>"           <$F1><OpeningN>めえせ<$FD>DOLLUER WAR<OpeningN>あめ<LoadFace>おああああめ<$F1>え<$F0><$F0><$F0>あめトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #9 @ $369D5 - STRING #9 @ $36B19
+
+#W16($369D5)
+めトす<$FD>BROKE OUT<$93><OpeningN>あめ<$F1>えああああめ<BossQuote?>う  あめ<SetSpeed>え"""あめ<SetSpeed>う  あめ<LoadFace>お<$F0>   め<$F1>え"""あめ<$F1>え   あま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #10 @ $369D7 - STRING #10 @ $36B58
+
+#W16($369D7)
+ま<$B0>せ<$FD>A BRAVE MAN<OpeningN>あめ<$CC>え<$F0><$F0><$F0>あま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #11 @ $369D9 - STRING #11 @ $36B70
+
+#W16($369D9)
+ま<$F2>こ<$FD>BATTLED<OpeningN>あめ<$CC>えああああみアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #12 @ $369DB - STRING #12 @ $36B84
+
+#W16($369DB)
+みアそ<$FD>WITH EMBLEM<$93><OpeningN>あめ<$D4>お<$F0><$F0><$F0><$F0>あみKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #13 @ $369DD - STRING #13 @ $36B9E
+
+#W16($369DD)
+みKき<$FD>BUT<$F0><OpeningN>あめ<$D5>うあああめ<$CC>え"""あめ<$CC>え   あめ<$D4>お""""あめ<$D5>う  あむ2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #14 @ $369DF - STRING #14 @ $36BCA
+
+#W16($369DF)
+む2せ<$FD>HE COULDN<$F2>T<OpeningN>あめ<$E0>おけけけ"あむァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #15 @ $369E1 - STRING #15 @ $36BE3
+
+#W16($369E1)
+むァき<$FD>STOP<OpeningN>あめ<SetSpeed>う<$F0><$F0>あむ<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+
+
+//POINTER #16 @ $369E3 - STRING #16 @ $36BF3
+
+#W16($369E3)
+む<$E0>と <$FD>TEARS OF ALTEMIS<$93><OpeningN>む<SetPoin>う<$FD>"む<$D2>う<$F1><OpeningN>あめ<LoadFace>かああああさあめ<$E0>お<$F0><$F0><$F0><$F0>あめ<SetSpeed>う""あめ<LoadFace>か    <$F8>あェカ:<$F8>おェな:<$F9>おェか:<$FA>おェ"<$A0>ええ<$DB>おャ<$D0><$FA>ェWっむませ<$C7>ェ<$A0>:Tかェ<$B2>:Uか<$A0>き<$A5>み<$D0><$FC>まYァャ<$D0><$F6>まJ//Sか<$D0>ほ<$A5>み<$D0><$FC>まN<X>ェ":<LoadFace>お:<SetSpeed>おェWっむまYァまサ<X>/Sか<$D0>あ0まソ<$C7>まJ<$C7>ェ<SetSpeed>っあェ<$B0>っいま<YesNo?>
+

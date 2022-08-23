@@ -1,0 +1,381 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #020 NAME:		Menus, Stat Screen
+
+//POINTER #0 @ $2CFD2 - STRING #0 @ $2D062
+
+#W16($2CFD2)
+  Power:<X>
+
+
+//POINTER #1 @ $2CFD4 - STRING #1 @ $2D06B
+
+#W16($2CFD4)
+  Skill:<X>
+
+
+//POINTER #2 @ $2CFD6 - STRING #2 @ $2D075
+
+#W16($2CFD6)
+Wpn lvl:<X>
+
+
+//POINTER #3 @ $2CFD8 - STRING #3 @ $2D080
+
+#W16($2CFD8)
+  Speed:<X>
+
+
+//POINTER #4 @ $2CFDA - STRING #4 @ $2D08A
+
+#W16($2CFDA)
+   Luck:<X>
+
+
+//POINTER #5 @ $2CFDC - STRING #5 @ $2D093
+
+#W16($2CFDC)
+Defense:<X>
+
+
+//POINTER #6 @ $2CFDE - STRING #6 @ $2D09D
+
+#W16($2CFDE)
+Movemnt:<X>
+
+
+//POINTER #7 @ $2CFE0 - STRING #7 @ $2D0A7
+
+#W16($2CFE0)
+   <$0A><$07><$13><$06>:<X>
+
+
+//POINTER #8 @ $2CFE2 - STRING #8 @ $2D0B0
+
+#W16($2CFE2)
+Level<X>
+
+
+//POINTER #9 @ $2CFE4 - STRING #9 @ $2D0B6
+
+#W16($2CFE4)
+Hp:<X>
+
+
+//POINTER #10 @ $2CFE6 - STRING #10 @ $2D0BA
+
+#W16($2CFE6)
+Turn<X>
+
+
+//POINTER #11 @ $2CFE8 - STRING #11 @ $2D0BF
+
+#W16($2CFE8)
+ Player<N>
+
+//POINTER #12 @ $2CFEA - STRING #12 @ $2D0C7
+
+#W16($2CFEA)
+End<N>
+
+//POINTER #13 @ $2CFEC - STRING #13 @ $2D0CB
+
+#W16($2CFEC)
+   <N>
+
+//POINTER #14 @ $2CFEE - STRING #14 @ $2F6E5
+
+#W16($2CFEE)
+Attack<N>
+
+//POINTER #15 @ $2CFF0 - STRING #15 @ $2D0D5
+
+#W16($2CFF0)
+Item<N>
+
+//POINTER #16 @ $2CFF2 - STRING #16 @ $2F8AB
+
+#W16($2CFF2)
+Wand<N>
+
+//POINTER #17 @ $2CFF4 - STRING #17 @ $2D0DD
+
+#W16($2CFF4)
+End<N>
+
+//POINTER #18 @ $2CFF6 - STRING #18 @ $2D0E1
+
+#W16($2CFF6)
+ Enemy  <N>
+
+//POINTER #19 @ $2CFF8 - STRING #19 @ $2D0EA
+
+#W16($2CFF8)
+Equ <N>
+
+//POINTER #20 @ $2CFFA - STRING #20 @ $2D0EF
+
+#W16($2CFFA)
+Use<N>
+
+//POINTER #21 @ $2CFFC - STRING #21 @ $2D0F3
+
+#W16($2CFFC)
+Giv<N>
+
+//POINTER #22 @ $2CFFE - STRING #22 @ $2D0F7
+
+#W16($2CFFE)
+Drp<N>
+
+//POINTER #23 @ $2D000 - STRING #23 @ $2D0FB
+
+#W16($2D000)
+No item<N>
+
+//POINTER #24 @ $2D002 - STRING #24 @ $2D103
+
+#W16($2D002)
+<$0C><$13><$10><N>
+
+//POINTER #25 @ $2D004 - STRING #25 @ $2D107
+
+#W16($2D004)
+<$2D><$10><$0B><$10><N>
+
+//POINTER #26 @ $2D006 - STRING #26 @ $2D10C
+
+#W16($2D006)
+<$12><$05><lance><$10><N>
+
+//POINTER #27 @ $2D008 - STRING #27 @ $2D111
+
+#W16($2D008)
+<$0E><$02><$1B>"<$0B><$10><N>
+
+//POINTER #28 @ $2D00A - STRING #28 @ $2D118
+
+#W16($2D00A)
+ kuie<$19><$0B><axe><$02><$29><N>
+
+//POINTER #29 @ $2D00C - STRING #29 @ $2D122
+
+#W16($2D00C)
+Game Over<N>
+
+//POINTER #30 @ $2D00E - STRING #30 @ $2D12C
+
+#W16($2D00E)
+<$10><$01><$29><axe><$07><$05>"<N>
+
+//POINTER #31 @ $2D010 - STRING #31 @ $2D134
+
+#W16($2D010)
+<$05><$01><$1C><$07><$0B><$20><$0B><$10><N>
+
+//POINTER #32 @ $2D012 - STRING #32 @ $2D13D
+
+#W16($2D012)
+ <$24><$11><$24><$19><$05>"<$01><lance><$1A><box><$01><$13>"<$0C><N>
+
+//POINTER #33 @ $2D014 - STRING #33 @ $2D14D
+
+#W16($2D014)
+tar<$05><$0C><$13><$20><$0C><$05><N>
+
+//POINTER #34 @ $2D016 - STRING #34 @ $2D156
+
+#W16($2D016)
+Yes<N>
+
+//POINTER #35 @ $2D018 - STRING #35 @ $2D15A
+
+#W16($2D018)
+No<N>
+
+//POINTER #36 @ $2D01A - STRING #36 @ $2D15D
+
+#W16($2D01A)
+iu<$0C><$13><$13><N>
+
+//POINTER #37 @ $2D01C - STRING #37 @ $2D162
+
+#W16($2D01C)
+iu<$03><$10><N>
+
+//POINTER #38 @ $2D01E - STRING #38 @ $2D166
+
+#W16($2D01E)
+<$00><$06><$28><$23><$10><N>
+
+//POINTER #39 @ $2D020 - STRING #39 @ $2D16C
+
+#W16($2D020)
+ Resist:<X>
+
+
+//POINTER #40 @ $2D022 - STRING #40 @ $2D177
+
+#W16($2D022)
+    EXP:<X>
+
+
+//POINTER #41 @ $2D024 - STRING #41 @ $2F6F7
+
+#W16($2D024)
+Armory<N>
+
+//POINTER #42 @ $2D026 - STRING #42 @ $2D185
+
+#W16($2D026)
+Visit<N>
+
+//POINTER #43 @ $2D028 - STRING #43 @ $2D18B
+
+#W16($2D028)
+ Name  LV HP<N>
+
+//POINTER #44 @ $2D02A - STRING #44 @ $2D198
+
+#W16($2D02A)
+Select Units<N>
+
+//POINTER #45 @ $2D02C - STRING #45 @ $2D1A5
+
+#W16($2D02C)
+Map <X>
+
+
+//POINTER #46 @ $2D02E - STRING #46 @ $2D1AB
+
+#W16($2D02E)
+On<N>
+
+//POINTER #47 @ $2D030 - STRING #47 @ $2D1AE
+
+#W16($2D030)
+Off<N>
+
+//POINTER #48 @ $2D032 - STRING #48 @ $2D1B2
+
+#W16($2D032)
+Fst<X>
+
+
+//POINTER #49 @ $2D034 - STRING #49 @ $2D1B6
+
+#W16($2D034)
+Slw<X>
+
+
+//POINTER #50 @ $2D036 - STRING #50 @ $2D1BA
+
+#W16($2D036)
+Save Game?<N>
+
+//POINTER #51 @ $2D038 - STRING #51 @ $2D1C5
+
+#W16($2D038)
+Shop  <N>
+
+//POINTER #52 @ $2D03A - STRING #52 @ $2D1CC
+
+#W16($2D03A)
+Arena   <N>
+
+//POINTER #53 @ $2D03C - STRING #53 @ $2D1D5
+
+#W16($2D03C)
+Store<N>
+
+//POINTER #54 @ $2D03E - STRING #54 @ $2D1DB
+
+#W16($2D03E)
+Take<N>
+
+//POINTER #55 @ $2D040 - STRING #55 @ $2D1E1
+
+#W16($2D040)
+Chest <N>
+
+//POINTER #56 @ $2D042 - STRING #56 @ $2F6EC
+
+#W16($2D042)
+Seize<N>
+
+//POINTER #57 @ $2D044 - STRING #57 @ $2D1EB
+
+#W16($2D044)
+Throne<N>
+
+//POINTER #58 @ $2D046 - STRING #58 @ $2D1F2
+
+#W16($2D046)
+Storage <N>
+
+//POINTER #59 @ $2D048 - STRING #59 @ $2F6F2
+
+#W16($2D048)
+Talk<N>
+
+//POINTER #60 @ $2D04A - STRING #60 @ $2D1FD
+
+#W16($2D04A)
+Transf<N>
+
+//POINTER #61 @ $2D04C - STRING #61 @ $2D204
+
+#W16($2D04C)
+Secret<N>
+
+//POINTER #62 @ $2D04E - STRING #62 @ $2D20B
+
+#W16($2D04E)
+Next Story<N>
+
+//POINTER #63 @ $2D050 - STRING #63 @ $2F716
+
+#W16($2D050)
+New Game<N>
+
+//POINTER #64 @ $2D052 - STRING #64 @ $2F71F
+
+#W16($2D052)
+Quick Load<N>
+
+//POINTER #65 @ $2D054 - STRING #65 @ $2F72A
+
+#W16($2D054)
+Continue<N>
+
+//POINTER #66 @ $2D056 - STRING #66 @ $2D22C
+
+#W16($2D056)
+File1: CH<X>
+
+
+//POINTER #67 @ $2D058 - STRING #67 @ $2D236
+
+#W16($2D058)
+File2: CH<X>
+
+
+//POINTER #68 @ $2D05A - STRING #68 @ $2D240
+
+#W16($2D05A)
+Copy   <N>
+
+//POINTER #69 @ $2D05C - STRING #69 @ $2D248
+
+#W16($2D05C)
+Erase <N>
+
+//POINTER #70 @ $2D05E - STRING #70 @ $2D24F
+
+#W16($2D05E)
+Drop  <N>
+
+//POINTER #71 @ $2D060 - STRING #71 @ $2D256
+
+#W16($2D060)
+ storages <N>

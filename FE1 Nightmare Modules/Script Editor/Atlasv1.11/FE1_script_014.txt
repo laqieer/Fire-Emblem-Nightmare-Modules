@@ -1,0 +1,209 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #014 NAME:		Class Roll Descriptions
+
+//POINTER #0 @ $34DDC - STRING #0 @ $34E08
+
+#W16($34DDC)
+A horse mounted unit.<N>
+They excel in movement and<N>
+have balanced attack,<N>
+defense and speed.<N>
+<X>
+
+
+//POINTER #1 @ $34DDE - STRING #1 @ $34E5F
+
+#W16($34DDE)
+Encased in heavy armor,<N>
+they excel in defense,<N>
+but lack speed and<N>
+movement.<N>
+<X>
+
+
+//POINTER #2 @ $34DE0 - STRING #2 @ $34EAA
+
+#W16($34DE0)
+Pegasus mounted knights.<N>
+They excel in speed<N>
+and movement.<N>
+<X>
+
+
+//POINTER #3 @ $34DE2 - STRING #3 @ $34EE3
+
+#W16($34DE2)
+Experienced S Knights<N>
+who've promoted. All<N>
+abilities exceed that of<N>
+an S Knight.<N>
+<X>
+
+
+//POINTER #4 @ $34DE4 - STRING #4 @ $34F2F
+
+#W16($34DE4)
+Experienced P Knights who<N>
+ride a dragon. They boast<N>
+overwhelming strength.<N>
+<X>
+
+
+//POINTER #5 @ $34DE6 - STRING #5 @ $34F7E
+
+#W16($34DE6)
+Hired soldiers and<N>
+combat experts. They<N>
+excel in skill and<N>
+speed.<N>
+<X>
+
+
+//POINTER #6 @ $34DE8 - STRING #6 @ $34FC7
+
+#W16($34DE8)
+Axe wielders from<N>
+frontier lands. Strong<N>
+but lacking defense.<N>
+<X>
+
+
+//POINTER #7 @ $34DEA - STRING #7 @ $35004
+
+#W16($34DEA)
+They wield axes, like<N>
+fighters and can move<N>
+on sea.<N>
+<X>
+
+
+//POINTER #8 @ $34DEC - STRING #8 @ $35036
+
+#W16($34DEC)
+Village-destroying rogues.<N>
+They've low power and<N>
+can open chests.<N>
+<X>
+
+
+//POINTER #9 @ $34DEE - STRING #9 @ $35076
+
+#W16($34DEE)
+Talented mercenaries<N>
+become these swift<N>
+swordmasters who land<N>
+many criticals.<N>
+<X>
+
+
+//POINTER #10 @ $34DF0 - STRING #10 @ $350C4
+
+#W16($34DF0)
+Armored bowmen with high<N>
+defense. However, they<N>
+lack movement.<N>
+<X>
+
+
+//POINTER #11 @ $34DF2 - STRING #11 @ $35104
+
+#W16($34DF2)
+Forest and mountain combat<N>
+skilled bowmen, but they<N>
+lack defense.<N>
+<X>
+
+
+//POINTER #12 @ $34DF4 - STRING #12 @ $35148
+
+#W16($34DF4)
+Units who use projectile<N>
+weapons. They exceed in<N>
+power and defense, but<N>
+lack movement.<N>
+<X>
+
+
+//POINTER #13 @ $34DF6 - STRING #13 @ $3519F
+
+#W16($34DF6)
+Bow users with high<N>
+speed and movement. They<N>
+land many criticals.<N>
+<X>
+
+
+//POINTER #14 @ $34DF8 - STRING #14 @ $351E4
+
+#W16($34DF8)
+Archers with high<N>
+experience. They are<N>
+powerful bowmen.<N>
+<X>
+
+
+//POINTER #15 @ $34DFA - STRING #15 @ $35220
+
+#W16($34DFA)
+They've low power,<N>
+but they can transform<N>
+into ally units.<N>
+<X>
+
+
+//POINTER #16 @ $34DFC - STRING #16 @ $3525A
+
+#W16($34DFC)
+A race which can<N>
+transform into<N>
+dragons. They used to<N>
+rule the world.<N>
+<X>
+
+
+//POINTER #17 @ $34DFE - STRING #17 @ $352A7
+
+#W16($34DFE)
+They cast offensive<N>
+spells with tomes.<N>
+Powerful against<N>
+generals.<N>
+<X>
+
+
+//POINTER #18 @ $34E00 - STRING #18 @ $352EA
+
+#W16($34E00)
+They use staves to heal<N>
+and raise defense,<N>
+but cannot attack.<N>
+<X>
+
+
+//POINTER #19 @ $34E02 - STRING #19 @ $35327
+
+#W16($34E02)
+Magicians and Clerics<N>
+promote to these strong<N>
+magic users.<N>
+<X>
+
+
+//POINTER #20 @ $34E04 - STRING #20 @ $3535F
+
+#W16($34E04)
+Aritia's prince who was<N>
+dethroned by Durhua. He's<N>
+the player's main unit.<N>
+<X>
+
+
+//POINTER #21 @ $34E06 - STRING #21 @ $353AA
+
+#W16($34E06)
+Knights sent by Durhua.<N>
+They're highly trained in<N>
+attack and defense.<N>
+<X>
+

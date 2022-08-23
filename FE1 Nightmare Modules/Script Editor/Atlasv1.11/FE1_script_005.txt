@@ -1,0 +1,154 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #005 NAME:		Class Names
+//Character limit: 9
+
+//POINTER #0 @ $3DA2F - STRING #0 @ $3F5F3
+//Social Knight
+
+#W16($3DA2F)
+S Knight<X>
+
+
+//POINTER #1 @ $3DA31 - STRING #1 @ $3F5FB
+//Armour Knight
+
+#W16($3DA31)
+A Knight<X>
+
+
+//POINTER #2 @ $3DA33 - STRING #2 @ $3F60B
+//Pegasus Knight
+
+#W16($3DA33)
+P Knight<X>
+
+
+//POINTER #3 @ $3DA35 - STRING #3 @ $3DA6E
+
+#W16($3DA35)
+Paladin<X>
+
+
+//POINTER #4 @ $3DA37 - STRING #4 @ $3F613
+//Dragon Knight
+
+#W16($3DA37)
+D Knight<X>
+
+
+//POINTER #5 @ $3DA39 - STRING #5 @ $3F61B
+
+#W16($3DA39)
+Mercenary<X>
+
+
+//POINTER #6 @ $3DA3B - STRING #6 @ $3F625
+
+#W16($3DA3B)
+Fighter<X>
+
+
+//POINTER #7 @ $3DA3D - STRING #7 @ $3F62D
+
+#W16($3DA3D)
+Pirate<X>
+
+
+//POINTER #8 @ $3DA3F - STRING #8 @ $3DA8A
+
+#W16($3DA3F)
+Thief<X>
+
+
+//POINTER #9 @ $3DA41 - STRING #9 @ $3DA90
+
+#W16($3DA41)
+Hero<X>
+
+
+//POINTER #10 @ $3DA43 - STRING #10 @ $3F634
+
+#W16($3DA43)
+Archer<X>
+
+
+//POINTER #11 @ $3DA45 - STRING #11 @ $3F63B
+
+#W16($3DA45)
+Hunter<X>
+
+
+//POINTER #12 @ $3DA47 - STRING #12 @ $3F64B
+
+#W16($3DA47)
+Shooter<X>
+
+
+//POINTER #13 @ $3DA49 - STRING #13 @ $3F642
+
+#W16($3DA49)
+Horseman<X>
+
+
+//POINTER #14 @ $3DA4B - STRING #14 @ $3DAAC
+
+#W16($3DA4B)
+Sniper<X>
+
+
+//POINTER #15 @ $3DA4D - STRING #15 @ $3F66A
+
+#W16($3DA4D)
+Commando<X>
+
+
+//POINTER #16 @ $3DA4F - STRING #16 @ $3F673
+
+#W16($3DA4F)
+Mamkute<X>
+
+
+//POINTER #17 @ $3DA51 - STRING #17 @ $3F65A
+//Mage
+
+#W16($3DA51)
+Magician<X>
+
+
+//POINTER #18 @ $3DA53 - STRING #18 @ $3F653
+
+#W16($3DA53)
+Cleric<X>
+
+
+//POINTER #19 @ $3DA55 - STRING #19 @ $3F663
+//Bishop
+
+#W16($3DA55)
+Priest<X>
+
+
+//POINTER #20 @ $3DA57 - STRING #20 @ $3DAD9
+
+#W16($3DA57)
+Lord<X>
+
+
+//POINTER #21 @ $3DA59 - STRING #21 @ $3F603
+
+#W16($3DA59)
+General<X>
+
+
+//POINTER #22 @ $3DA5B - STRING #22 @ $3F673
+
+#W16($3DA5B)
+Mamkute<X>
+
+
+//POINTER #23 @ $3DA5D - STRING #23 @ $3F673
+
+#W16($3DA5D)
+Mamkute<X>
+

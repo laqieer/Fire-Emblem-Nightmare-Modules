@@ -1,0 +1,655 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #015 NAME:		Post-Combat Messages, Death Quotes
+
+//POINTER #0 @ $1046B - STRING #0 @ $104ED
+
+#W16($1046B)
+<PostCombatBox>
+<LoadVar><$00> killed!<N>
+<LoadVar><$02> got<N>
+<LoadVar><$01> EXP.   <N>
+ <A>
+<X>
+
+
+//POINTER #1 @ $1046D - STRING #1 @ $10542
+
+#W16($1046D)
+<$08><$12><$10><$04><LoadVar><$02>r<9E>eached<N>
+level <LoadVar><$01>!<X>
+
+
+//POINTER #2 @ $1046F - STRING #2 @ $10558
+
+#W16($1046F)
+<$08><$12><$10><$04>gained <LoadVar><$01> <LoadVar><$00>!<X>
+
+
+//POINTER #3 @ $10471 - STRING #3 @ $10532
+
+#W16($10471)
+<PostCombatBox>
+<LoadVar><$00> died!  <N>
+<X>
+
+
+//POINTER #4 @ $10473 - STRING #4 @ $1057A
+
+#W16($10473)
+<$08><$12><$10><$04><LoadVar><$00> left<N>
+<LoadVar><$01>!<N>
+<LoadVar><$02> received<N>
+<LoadVar><$01>!!<X>
+
+
+//POINTER #5 @ $10475 - STRING #5 @ $1059B
+
+#W16($10475)
+//Marth
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #6 @ $10477 - STRING #6 @ $106A0
+
+#W16($10477)
+//Sheeda
+<PostCombatBox>
+Marth...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #7 @ $10479 - STRING #7 @ $105AB
+
+#W16($10479)
+//Jeigan
+<PostCombatBox>
+The rest is up<N>
+to you.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #8 @ $1047B - STRING #8 @ $105F0
+
+#W16($1047B)
+//Kain
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #9 @ $1047D - STRING #9 @ $105F0
+
+#W16($1047D)
+//Abel
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #10 @ $1047F - STRING #10 @ $10613
+
+#W16($1047F)
+//Doga
+<PostCombatBox>
+N,No...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #11 @ $10481 - STRING #11 @ $10761
+
+#W16($10481)
+//Gordon
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #12 @ $10483 - STRING #12 @ $10771
+
+#W16($10483)
+//Ricardo
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #13 @ $10485 - STRING #13 @ $10761
+
+#W16($10485)
+//Riff
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #14 @ $10487 - STRING #14 @ $10761
+
+#W16($10487)
+//Saji
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #15 @ $10489 - STRING #15 @ $10771
+
+#W16($10489)
+//Maji
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #16 @ $1048B - STRING #16 @ $10761
+
+#W16($1048B)
+//Barts
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #17 @ $1048D - STRING #17 @ $10771
+
+#W16($1048D)
+//Kashim
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #18 @ $1048F - STRING #18 @ $10630
+
+#W16($1048F)
+//Oguma
+<PostCombatBox>
+Sheeda<N>
+stay safe...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #19 @ $10491 - STRING #19 @ $10761
+
+#W16($10491)
+//Daros
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #20 @ $10493 - STRING #20 @ $10655
+
+#W16($10493)
+//Julian
+<PostCombatBox>
+Looks like it's<N>
+time. Goodbye...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #21 @ $10495 - STRING #21 @ $105D3
+
+#W16($10495)
+//Rena
+<PostCombatBox>
+Julian...  <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #22 @ $10497 - STRING #22 @ $105F0
+
+#W16($10497)
+//Marich
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #23 @ $10499 - STRING #23 @ $10771
+
+#W16($10499)
+//Navarre
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #24 @ $1049B - STRING #24 @ $10613
+
+#W16($1049B)
+//Hardin
+<PostCombatBox>
+N,No...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #25 @ $1049D - STRING #25 @ $10761
+
+#W16($1049D)
+//Wolf
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #26 @ $1049F - STRING #26 @ $10771
+
+#W16($1049F)
+//Zagaro
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #27 @ $104A1 - STRING #27 @ $10761
+
+#W16($104A1)
+//Roshe
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #28 @ $104A3 - STRING #28 @ $10771
+
+#W16($104A3)
+//Biraku
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #29 @ $104A5 - STRING #29 @ $10686
+
+#W16($104A5)
+//Banutu
+<PostCombatBox>
+Chiki...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #30 @ $104A7 - STRING #30 @ $10761
+
+#W16($104A7)
+//Caesar
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #31 @ $104A9 - STRING #31 @ $10771
+
+#W16($104A9)
+//Raddy
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #32 @ $104AB - STRING #32 @ $105F0
+
+#W16($104AB)
+//Midia
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #33 @ $104AD - STRING #33 @ $106F4
+
+#W16($104AD)
+//Katua
+<PostCombatBox>
+Minerva,<N>
+I'm sorry...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #34 @ $104AF - STRING #34 @ $106A0
+
+#W16($104AF)
+//Maria
+<PostCombatBox>
+Marth...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #35 @ $104B1 - STRING #35 @ $105F0
+
+#W16($104B1)
+//Minerva
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #36 @ $104B3 - STRING #36 @ $105F0
+
+#W16($104B3)
+//Linda
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #37 @ $104B5 - STRING #37 @ $10761
+
+#W16($104B5)
+//George
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #38 @ $104B7 - STRING #38 @ $10771
+
+#W16($104B7)
+//Tomth
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #39 @ $104B9 - STRING #39 @ $10761
+
+#W16($104B9)
+//Mishelan
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+
+<X>
+
+
+//POINTER #40 @ $104BB - STRING #40 @ $10761
+
+#W16($104BB)
+//Thomas
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #41 @ $104BD - STRING #41 @ $106BE
+
+#W16($104BD)
+//Boa
+<PostCombatBox>
+My life's ended...<N>
+Is this<N>
+fate....   <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #42 @ $104BF - STRING #42 @ $10613
+
+#W16($104BF)
+//Alan
+<PostCombatBox>
+N,No...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #43 @ $104C1 - STRING #43 @ $10613
+
+#W16($104C1)
+//Samson
+<PostCombatBox>
+N,No...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #44 @ $104C3 - STRING #44 @ $10761
+
+#W16($104C3)
+//Beck
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #45 @ $104C5 - STRING #45 @ $10771
+
+#W16($104C5)
+//Chainy
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #46 @ $104C7 - STRING #46 @ $105F0
+
+#W16($104C7)
+//Wendel
+<PostCombatBox>
+Please stay<N>
+safe.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #47 @ $104C9 - STRING #47 @ $106F4
+
+#W16($104C9)
+//Est
+<PostCombatBox>
+Minerva,<N>
+I'm sorry...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #48 @ $104CB - STRING #48 @ $10613
+
+#W16($104CB)
+//Astria
+<PostCombatBox>
+N,No...    <N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #49 @ $104CD - STRING #49 @ $10771
+
+#W16($104CD)
+//Machis
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #50 @ $104CF - STRING #50 @ $10761
+
+#W16($104CF)
+//Roger
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #51 @ $104D1 - STRING #51 @ $10761
+
+#W16($104D1)
+//Jake
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #52 @ $104D3 - STRING #52 @ $106F4
+
+#W16($104D3)
+//Paola
+<PostCombatBox>
+Minerva,<N>
+I'm sorry...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #53 @ $104D5 - STRING #53 @ $1071A
+
+#W16($104D5)
+//Chiki
+<PostCombatBox>
+Grandpa...<N>
+Sorry...<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #54 @ $104D7 - STRING #54 @ $10761
+
+#W16($104D7)
+//Lawrence
+<PostCombatBox>
+<LoadVar><$02> died!  <A>
+<X>
+
+
+//POINTER #55 @ $104D9 - STRING #55 @ $1073F
+
+#W16($104D9)
+//Ellis
+<PostCombatBox>
+Marth<N>
+don't lose.<N>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #56 @ $104DB - STRING #56 @ $10771
+
+#W16($104DB)
+//Gato
+<PostCombatBox>
+<LoadVar><$02> died!   <A>
+<X>
+
+
+//POINTER #57 @ $104DD - STRING #57 @ $10782
+
+#W16($104DD)
+<PostCombatBox>
+Endured attack!!<N>
+<LoadVar><$02> got <LoadVar><$01> EXP.<N>
+  <A>
+<X>
+
+
+//POINTER #58 @ $104DF - STRING #58 @ $107AA
+
+#W16($104DF)
+<PostCombatBox>
+Endured attack!!<N>
+<X>
+
+
+//POINTER #59 @ $104E1 - STRING #59 @ $107C0
+
+#W16($104E1)
+<PostCombatBox>
+<LoadVar><$02> promoted<N>
+to <LoadVar><$01>! <A>
+<X>
+
+
+//POINTER #60 @ $104E3 - STRING #60 @ $107D9
+
+#W16($104E3)
+<PostCombatBox>
+Changed to<N>
+<LoadVar><$01>.<X>
+
+
+//POINTER #61 @ $104E5 - STRING #61 @ $107EC
+
+#W16($104E5)
+//Mediuth
+<PostCombatBox>
+Ugh...<N>
+I...<N>
+lost...<N>
+to the humans...<A>
+But remember,<N>
+Prince of Light.<N>
+One day...<N>
+As long there isdarkness, <N>
+my manifestationswill appear. <N>
+Remember... As<N>
+long there is<N>
+light, there<N>
+will always be<N>
+darkness...<N>
+<X>
+
+
+//POINTER #62 @ $104E7 - STRING #62 @ $10511
+
+#W16($104E7)
+<PostCombatBox>
+<LoadVar><$03> hits  <N>
+<LoadVar><$02> got<N>
+<LoadVar><$01> EXP. <N>
+ <A>
+<X>
+
+
+//POINTER #63 @ $104E9 - STRING #63 @ $108BE
+
+#W16($104E9)
+//Garnef
+<PostCombatBox>
+Ugh... <N>
+Starlight...<N>
+I can't believe<N>
+I lost...<N>
+ <N>
+But remember...<N>
+Even if I die,<N>
+your power's no<N>
+match for<N>
+Mediuth.<N>
+I'll wait<N>
+patiently in hell.<N>
+<N>
+<N>
+<X>
+
+
+//POINTER #64 @ $104EB - STRING #64 @ $10950
+
+#W16($104EB)
+//Camus
+<PostCombatBox>
+Princess Nina, I'm sorry... Farewell...<N>
+<N>
+<X>
+

@@ -1,0 +1,248 @@
+Chapter 1 to 13 pointer table : $8010
+
+Chapter 14 to 25 pointer table : $24010
+
+The maps in question starts just after those two tables
+
+note : pointers of table 1 only works on table 1 and same for table 2
+
+0E 1F 00 10 (the rest of the map are the tiles in hex) 
+
+This is chapter 1's map.what interests us here are the first 4 bytes
+
+1st byte : y-size of the map
+2nd byte : x-size of the map
+3rd byte : starting camera's y-coordinates
+4th byte : starting camera's x-coordinates
+
+so the map is 1Fx0E(31*14)
+and the camera starts at 10(16);0
+
+minimum size in fe1
+0E*0F
+14*15
+15*14
+
+map tiles hex:
+
+00=UNUSED
+01=UNUSED
+02=Social Knight (Blue)
+03=Social Knight (Red)
+04=Armor (Blue)
+05=Armor (Red)
+06=Pegasus Knight (Blue)
+07=Pegasus Knight (Red)
+08=Paladin (Blue)
+09=Paladin (Red)
+0A=Dragon Knight (Blue)
+0B=Dragon Knight (Red)
+0C=Sword Fighter (Blue)
+0D=Sword Fighter (Red)
+0E=Axe Fighter (Blue)
+0F=Axe Fighter (Red)
+
+10=Pirate (Blue)
+11=Pirate (Red)
+12=Thief (Blue)
+13=Thief (Red)
+14=Hero (Blue)
+15=Hero (Red)
+16=Archer (Blue)
+17=Archer (Red)
+18=Hunter (Blue)
+19=Hunter (Red)
+1A=Ballistae (Blue)
+1B=Ballistae (Red)
+1C=Arch Knight (Blue)
+1D=Arch Knight (Red)
+1E=Sniper (Blue)
+1F=Sniper (Red)
+
+20=Commando (Blue)
+21=Commando (Red)
+22=Mamkute (Blue)
+23=Mamkute (Red)
+24=Mage (Blue)
+25=Mage (Red)
+26=Priest (Blue)
+27=Priest (Red)
+28=Bishop (Blue)
+29=Bishop (Red)
+2A=Lord (Blue)
+2B=Lord (Red)
+2C=General (Blue)
+2D=General (Red)
+2E=Top-left castle-top
+2F=Top-right castle-top
+
+30=Grass
+31=Forest
+32=Forest (the same; secret shop?)
+33=Sand
+34=Sand edge right
+35=Sand edge left
+36=Sand edge bottom
+37=Sand edge top
+38=Hill
+39=Bridge (Vertical)
+3A=Bridge (Horizontal)
+3B=Rocky wall
+3C=Altar?
+3D=Door
+3E=Bottom-left castle-top
+3F=Bottom-right castle-top
+
+40=Bridge (locked)
+41=Bridge (unlocked)
+42=Bridge (top)
+43=UNUSED
+44=UNUSED
+45=Tent
+46=House
+47=Arena
+48=Armory
+49=Item Shop
+4A=Fort
+4B=Castle (outside; bottom)
+4C=Castle (outside; top)
+4D=Castle (outside; bottom-left)
+4E=Castle (outside; bottom-right)
+4F=Castle (wall; top-right)
+
+50=River
+51=River (left-right edge)
+52=River (top-bottom edge)
+53=River (top-left edge)
+54=River (top-right edge)
+55=River (bottom-left edge)
+56=River (bottom-right edge)
+57=River (left edge)
+58=River (right edge)
+59=River (top edge)
+5A=River (bottom edge)
+5B=Mountain
+5C=Castle (wall; bottom-left)
+5D=Castle (wall; left)
+5E=Castle (wall; right)
+5F=Castle (wall; bottom-right)
+
+60=Sea
+61=Sea (top edge)
+62=Sea (bottom edge)
+63=Sea (left edge)
+64=Sea (right edge)
+65=Sea (bottom-left edge)
+66=Sea (bottom-right edge)
+67=Sea (top-left edge)
+68=Sea (top-right edge)
+69=Castle (wall; top-left)
+6A=Castle (wall)
+6B=Castle (wall; top edge)
+6C=Castle (wall; roof)
+6D=Castle (wall; bottom shadow)
+6E=Castle (wall; top edge w/ shadow)
+6F=Castle (wall; top shadow)
+
+70=Stairs (left-edge)
+71=Stairs (right-edge)
+72=Social Knight (Blue)
+73=Social Knight (Red)
+74=Armor (Blue)
+75=Armor (Red)
+76=Pegasus Knight (Blue)
+77=Pegasus Knight (Red)
+78=Paladin (Blue)
+79=Paladin (Red)
+7A=Dragon Knight (Blue)
+7B=Dragon Knight (Red)
+7C=Sword Fighter (Blue)
+7D=Sword Fighter (Red)
+7E=Axe Fighter (Blue)
+7F=Axe Fighter (Red)
+
+80=Pirate (Blue)
+81=Pirate (Red)
+82=Thief (Blue)
+83=Thief (Red)
+84=Hero (Blue)
+85=Hero (Red)
+86=Archer (Blue)
+87=Archer (Red)
+88=Hunter (Blue)
+89=Hunter (Red)
+8A=Ballistae (Blue)
+8B=Ballistae (Red)
+8C=Arch Knight (Blue)
+8D=Arch Knight (Red)
+8E=Sniper (Blue)
+8F=Sniper (Red)
+
+90=Commando (Blue)
+91=Commando (Red)
+92=Mamkute (Blue)
+93=Mamkute (Red)
+94=Mage (Blue)
+95=Mage (Red)
+96=Priest (Blue)
+97=Priest (Red)
+98=Bishop (Blue)
+99=Bishop (Red)
+9A=Lord (Blue)
+9B=Lord (Red)
+9C=General (Blue)
+9D=General (Red)
+9E=Castle (wall; top-edge w/ right pillar)
+9F=Castle (wall; top-edge w/ left pillar)
+
+A0=Castle (floor)
+A1=Stairs
+A2=Castle (floor w/ shadow)
+A3=Grass (shadow)
+A4=Village (bottom; gate closed)
+A5=Village (bottom; gate open)
+A6=Village (house)
+A7=Village (bottom-left edge)
+A8=Village (bottom-right edge)
+A9=Village (bottom; gate ruined)
+AA=Grass (top shadow)
+AB=Chest 
+AC=Chest (open)
+AD=Village (house; ruined)
+AE=Throne
+AF=Castle (floor w/ top-left shadow)
+
+B0=Castle (dual pillars)
+B1=Castle (pillar right w/ shadow)
+B2=Castle (pillar left)
+B3=Castle (pillar right)
+B4=Castle (pillar shadow)
+B5=Castle (shadow top)
+B6=Village (top-left edge)
+B7=Village (top-right edge)
+B8=Castle (floor w/ sharp top-left shadow)
+B9=Stairs (left-right edge)
+BA=Grass w/ sharp top-left shadow
+BB=Stairs leading down
+BC=UNUSED
+BD=Wall (pillar right)
+BE=Wall (pillar left w/ shadow)
+BF=UNUSED
+
+C0=Castle (outside; top-left edge)
+C1=Castle (outside; top-right edge)
+C2=Castle (wall; thin wall top)
+C3=Castle (wall; thin wall)
+C4=Castle (wall; thin wall bottom)
+C5=UNUSED
+C6=UNUSED
+C7=Castle (wall; thin wall top-edge)
+C8=Castle (wall; heavy shadow)
+
+Then it's garbage data(horse heads) up to FF (note that all of the UNUSED tiles are garbage data too)
+
+see : tilesetfe1.png and tilesetfe1withhex.png to have a visual representation of those tiles
+
+-------------
+
+~~h4x1ng fe1 1s t00h4rd4m3~~

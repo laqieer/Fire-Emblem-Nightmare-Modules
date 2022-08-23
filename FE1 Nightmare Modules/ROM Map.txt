@@ -1,0 +1,238 @@
+FE1 ROM Map by Darrman
+Where in the world is all the data?
+Good question. I suppose I should
+finally go and actually organise
+all of my findings. Properly.
+Same goes for any research other
+people have gone and done too.
+
+The rom is split into two main
+sections: the PRG and the CHR.
+The PRG has all the game's code
+and data. It is divided into
+16 0x4000 byte banks.
+
+The CHR contains the graphics.
+It is divided into 32 0x1000
+byte banks.
+
+For the purposes of this, I'll
+be labelling the banks from
+0-F until I know enough about
+things to actually name them.
+Addresses assume header. NES
+roms always have them, anyway.
+
+00000 - 00010: Headers!
+
+BANK 0; 00010 - 04010
+35A6 - 400F: Free
+
+BANK 1; 04010 - 08010
+7D70 - 800F: Free
+
+BANK 2; 08010 - 0C010, Map Data 1
+8010 - 8029: Map Data Pointers 1
+802A - A65D: Map Data, Ch1-13
+(Offsets ignore map headers)
+802E: Ch1
+8212: Ch2
+83F6: Ch3
+86BA: Ch4
+897E: Ch5
+8C42: Ch6
+8F20: Ch7
+910B: Ch8
+94CE: Ch9
+9892: Ch10
+9C56: Ch11
+9F7A: Ch12
+A33E: Ch13
+ABEB - C00F: Free
+BFB0 - BFBD: Unknown
+C00A - C00C: Unknown
+
+BANK 3; 0C010 - 10010, Chapter Data
+D476 - D4A7: Village Recruitment Pointers
+D4A8 - D5A9: Village Recruitment Data
+D5AC - D5DD: Reinforcement Pointers
+D5DE - D9F4: Reinforcement Data
+DD0D - DD41: Gold Values
+E09D - E0CE: Chapter Opening Selection Pointers
+E0CF - E100: Chapter Opening Selection Table
+E101 - E132: Chapter Event Pointers
+E133 ~ E3D0: Chapter Events
+E477 - E4DA: House Text Pointers
+E4DB - F6DF: House Text
+F6E0 - 1000F: Free
+FFB0 - FFBB, F0-F1: Unknown
+
+BANK 4: 10010 - 14010, Ending Data
+1046B - 104EC: Death Quote, Post Combat Message Pointers
+104ED - 1097C: Death Quotes, Post Combat Messages
+12685 - 12835: Staff Credits
+12836 - 12A2A: Ending Character Roll
+12A2B - 12C9D: Turncounts
+12CD8 - 12DB1: Ending Narration
+12DB2 - 12DFC: Fin Screen
+12DFD - 12E80: Character Endings Pointers
+12E81 - 1397B: Character Endings
+13D92 - 1400F: Free
+13FB0-B7, D0-D1, E0-E5, F0-F3: Unknown
+
+BANK 5: 14010 - 18010, Combat Related Data
+145A6 - 145B4: Terrain Window TSA
+147B1 - 147BE: Level Up Screen Pointers
+147BF - 147E7: Level Up Stat Messages
+148CA - 14955: Battle Window TSA
+1554F - 1559C: HP Bar TSA
+17D12 - 17D14: Battle Window Palette
+17E4C - 1800F: Free
+17FB0-B5, D0-D1, E0-E1: Unknown
+
+BANK 6: 18010 - 1C010, Item ASM, Map Tiles
+18010 - 1840F: Map Tile TSA
+198AD - 198BB: Promotion Table
+1A370 ~ ?: Item Equip Routine
+1A3E1 - 1A3E9: Item Type Partition Values
+1A3EA - 1A3FA: Weapon Usability Pointers
+1BA42 - 1BA61: Map Tile Palettes
+1BEF0 - 1BFAF: Free
+1BFB0 - 1BFCB: Unknown
+1BFCC - 1C00F: Free
+
+BANK 7: 1C010 - 20010, Recruitment Text
+1C05F - 1C0E7: Combat Message Box TSA
+1C2FD - 1C328: Combat Message Pointers
+1C329 - 1C433: Combat Messages
+1C863 - 1C93C: Recruitment/Boss Quote Pointers
+1C93D - 1EA3A: Character Recruitments, Boss Quotes
+1EE3D - 2000F: Free
+1FFB0-B7, D0-D1, F0-F2: Unknown
+
+BANK 8: 20010 - 24010, Unit Data, Chapter Openings
+204A0 - 204D1: Player Unit Data Pointers
+204D2 - 2079F: Player Unit Data
+207A0 - 207D1: Unit Deployment Pointers
+207D2 - 20AB2: Unit Deployment Locations
+20AB3 - 20AE4: Enemy Data Pointers
+20AE5 - 21F3A: Enemy Data
+21F3B - 21FA0: Chapter Opening Pointers
+21FA1 - 23A89: Chapter Opening Text
+23C91 - 23FAF: Free
+
+BANK 9: 24010 - 28010, Map Data 2
+24010 - 2402B: Map Data Pointers 2
+2402C ~ 26B77: Map Data, Ch14 - 25
+//* Offsets subject to verification!
+2402c: ch14
+243f0: ch15
+247b0: ch16
+24b79: ch17
+24f3c: ch18
+25300: ch19
+254e4: ch20
+258a9: ch21
+25c6b: ch22
+26030: ch23
+263f4: ch24
+267b8: ch25
+*//
+27D70 - 27FAF: Free
+
+BANK A: 28010 - 2C010, Portrait Data
+? ~ 293C1 ~ ?: Portrait Tilemaps
+? ~ 2A7DC ~ ?: Attribute Tables
+? ~ 2B778 ~ ?: Portrait Palette Pointers
+? ~ 2BAC8 ~ ?: Portrait Palettes
+2BD80 - 2BDF9: Unit Portrait Table
+2BEE0 - 2BFAF: Free
+
+BANK B: 2C010 - 30010, Shop Data
+2C1B5 - 2C1B6: System Menu Pointer
+2C1C2 - 2C1EA: System Menu
+2C201 - 2C202: Battle Preperations Pointer
+2C20E - 2C27B: Battle Preperations
+2CE62 		 : Menu Cursor Tile
+2CFD2 - 2D061: Menu Pointers
+2D062 - 2D260: Menu Options, Stat Screen
+2D3E8 - 2D3EF: Menu Cursor Locations
+2DBD9 - 2DBDE: Sound Room Cheat Code
+2DD95 - 2DDAA: Chapter Termination Message Pointers
+2DDAB - 2DE6B: Chapter Completion Messages
+2E111 - 2E290: Game Over Messages
+2E50F - 2E540: Shop Location Pointers
+2E541 - 2E6D1: Shop Locations
+2E6D2 - 2E6F9: Shop Inventory Pointers
+2E6FA - 2E775: Shop Inventories
+2E776 - 2E825: Shop Text Pointers
+2E826 - 2F048: Shop, Item Usage Text
+2F43C - 2F484: Unused? RAM Initialisation Messages
+2F485 - 2F6DF: Unused House Duplicates?
+2F6E0 - 2FFAF: Free
+
+BANK C: 30010 - 34010, Village Text
+30010 - 300CB: Village, Chapter Ending Pointers
+300CC - 3347E: Villages, Chapter Endings
+33824 - 33978: Ending duplicates in translation. Original Japanese data unknown.
+33D92 - 33FAF: Free
+
+BANK D: 34010 - 38010, Opening Data
+343C2 - 34436: Class Roll Frame TSA
+3447B - 3449A: Class Roll Stat Labels
+34CA8 - 34CD3: Class Roll Name Pointers
+34CD4 - 34DDB: Class Roll Names
+34DDC - 34E07: Class Roll Description Pointers
+34E08 - 353ED: Class Roll Descriptions
+3689C		 : Amount of Opening Lines to Display
+369C3 - 369E4: Opening Pointers
+369E5 - 36C09: Full Opening Cutscene
+36DFA - 36DFC: Title Screen "FIRE EMBLEM" Palette
+37146 - 37166: Nintendo Presents...
+~37290 ~ ????: Title Screen TSA
+37E4C - 37FAF: Free
+
+
+BANK E: 38010 - 3C010, Unknown
+3BF4E - 3BFAF: Free
+
+BANK F: 3C010 - 40010, General Purpose
+3CC7C ~ 3CC82: Magic Damage Check Routine
+3CCCF ~ 3CCFF: Magic Damage Routine
+3D126 ~ 3D146: Miracle Sword Routine
+//* 3D667 - 3DA2E: Item Data Tables
+3D667 - 3D6C2: Might Table
+3D6C3 - 3D71E: Weapon Level Table
+3D71F - 3D77A: Weight Table
+3D77B - 3D7D6: Accuracy Table
+3D7D7 - 3D832: Critical Table
+3D833 - 3D88E: Price Table
+3D88F - 3D8EA: Durability Table
+3D8EB - 3D946: Effectiveness Table
+3D947 - 3D95C: Effective Damage Pointers
+3D95D - 3D976: Effective Damage Lists
+3D977 - 3D9D2: Weapon Effect Table
+3D9D3 - 3DA2E: Range/Usability Table
+*// End Item Data
+3DA2F - 3DA5E: Class Name Pointers
+3DA5F - 3DAE4: Class Names
+3DAE5 - 3DB9C: Item Name Pointers
+3DB9D - 3DE3A: Item Names
+3DE3B - 3DEA4: Character Name Pointers
+3DEA5 - 2DFB3: Character Names
+3DFB4 - 3E03D: Enemy Name Pointers
+3E03E - 3E1EF: Enemy Names
+3E1F0 - 3E259: Growth Rate Pointers
+3E25A - 3E3BE: Growth Rates
+3E601 - 3E620: Terrain Name Pointers
+3E621 - 3E66B: Terrain Names
+3EC14 - 3EC3F: Class Base Pointers
+3EC40 - 3ED05: Class Bases
+3EDC5 - 3EDFD: Enemy Recruitment Data
+3EDFE - 3EE17: Boss Music Table
+3EE18 - 3EE49: Chapter Title Pointers
+3EEFA - 3EFC6: Chapter Titles
+3EFC7 - 3EFF8: Unit Death Chapter Title Pointers
+3EFF9 - 3F0AD: Unit Death Chapter Titles
+3F391 - 3F816: Free
+3F990 - 3FFAF: Free

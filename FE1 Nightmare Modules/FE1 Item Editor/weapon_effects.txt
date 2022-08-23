@@ -1,0 +1,16 @@
+15
+0x00 None
+0x01 Heal, Physic
+0x02 Mend
+0x03 Recover
+0x04 ----
+0x05 Magestone: immune to magic
+0x06 Falchion - immune to 1-range non-manakete attack
+0x07 Warp
+0x08 Hammerne
+0x09 Aum
+0x0A Fortify
+0x0B Imhullu - makes user invincible to non-Starlight
+0x0C Barrier
+0x0D "Helarn" - makes weapons indestructible
+0x0E Earthstone - immune to 2-range

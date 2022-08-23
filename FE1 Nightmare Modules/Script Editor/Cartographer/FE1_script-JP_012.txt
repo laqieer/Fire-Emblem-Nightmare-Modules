@@ -1,0 +1,103 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #012 NAME:		End of Chapter Messages
+
+//POINTER #0 @ $2DD95 - STRING #0 @ $2DDAB
+
+#W16($2DD95)
+タ<$90>とお<LoadFace>タアきけノ<SetSpeed>いセ-フ"か"しゅうりょうしました<box><N>
+//このままケ"-ムをつつ"けますか?<YesNo?>
+
+
+//POINTER #1 @ $2DD97 - STRING #1 @ $2DDDB
+
+#W16($2DD97)
+テ"-タか"きえるは"あいか"あるのて"<N>
+//リセットスイッチをおしなか"ら<N>
+//て"んけ"んをきってくた"さいね<3<YesNo?>
+
+
+//POINTER #2 @ $2DD99 - STRING #2 @ $2DE12
+
+#W16($2DD99)
+タ<$90>とお<LoadFace>タアきけノ<SetSpeed>かこ"めんなさい......<N>
+//テ"-タこわれちゃった<box><N>
+//なんとか,なおそうとおもったん<N>
+//た"けと",た"めみたい....<N>
+//もういっかい,はし"めからやってね<YesNo?>
+
+
+//POINTER #3 @ $2DD9B - STRING #3 @ $2F43C
+
+#W16($2DD9B)
+タ<$90>とお<LoadFace>タアきけノ<SetSpeed>いセ-フ"ラムをイニシャライス"します<N>
+//よろしいて"すか?<YesNo?>
+
+
+//POINTER #4 @ $2DD9D - STRING #4 @ $2F465
+
+#W16($2DD9D)
+セ-フ"ラムはクリアされました<YesNo?>
+
+
+//POINTER #5 @ $2DD9F - STRING #5 @ $2F475
+
+#W16($2DD9F)
+セ-フ"ラムはクリアしません<YesNo?>
+
+
+//POINTER #6 @ $2DDA1 - STRING #6 @ $2E111
+
+#W16($2DDA1)
+タ<$90>とお<LoadFace><$A0>マききこ<SetSpeed>かああ..マルスさま...<N>
+//しんて"しまうなんて....<N>
+//<A>
+//セ-フ"したところから<N>
+//もういちと"はし"めますか?<N>
+//<YesNo?>
+
+
+//POINTER #7 @ $2DDA3 - STRING #7 @ $2E156
+
+#W16($2DDA3)
+タ<$90>とお<LoadFace><$A0>マききけ<SetSpeed>かおうし",しっかりしてくた"さい<N>
+//このくにのみらいは われわれの<N>
+//かたに かかっているのて"すよ<N>
+//<A>
+//セ-フ"したところから<N>
+//もういちと"はし"めますか?<N>
+//<YesNo?>
+
+
+//POINTER #8 @ $2DDA5 - STRING #8 @ $2E1B0
+
+#W16($2DDA5)
+タ<$90>とお<LoadFace><$A0>マききま<SetSpeed>かおお マルス あなたはこのような<N>
+//ところて"いのちを おとしては<N>
+//いけません<box><N>
+//<A>
+//セ-フ"したところから<N>
+//もういちと"はし"めますか?<N>
+//<YesNo?>
+
+
+//POINTER #9 @ $2DDA7 - STRING #9 @ $2E201
+
+#W16($2DDA7)
+タ<$90>とお<LoadFace><$A0>タきけか<SetSpeed>かマルスよ このようなところて"<N>
+//ちからつきるとは....<N>
+//<A>
+//セ-フ"したところから<N>
+//もういちと"はし"めますか?<N>
+//<YesNo?>
+
+
+//POINTER #10 @ $2DDA9 - STRING #10 @ $2E247
+
+#W16($2DDA9)
+タWとか<LoadFace><$A0>タききエ<SetSpeed>かマルスおうし"!<N>
+//セ-フ"テ"-タか" ありませんそ"!<N>
+//さ"んねんて"すか"<N>
+//さいしょからやりなおして<N>
+//いたた"きます!<X>
+

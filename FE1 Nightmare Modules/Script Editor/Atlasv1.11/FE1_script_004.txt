@@ -1,0 +1,51 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #004 NAME:		Credits
+
+//POINTER #0 @ $12687 - STRING #0 @ $12697
+
+#W16($12687)
+<$21>:<$05>Staff<$00><$21>f<$08>Director<$21>it<$10>Keisuke Terasaki<$00><$20><YesNo?>
+
+
+//POINTER #1 @ $12689 - STRING #1 @ $126A0
+
+#W16($12689)
+<$21>f<$08>Director<$21>it<$10>Keisuke Terasaki<$00><$20><YesNo?>
+
+
+//POINTER #2 @ $1268B - STRING #2 @ $126BF
+
+#W16($1268B)
+<$20><YesNo?>
+
+
+//POINTER #3 @ $1268D - STRING #3 @ $126DA
+
+#W16($1268D)
+<$22><$23><$0A>Programmers<$22>5<$0D>Masaharu Tani<$22><$A5><$11>Masayuki Imanishi<$22><ChapTitle><$0D>Kouji Yoshida<$23><$25><$0A>Kei Fukura<$00><$20><key><$11>Graphic Designers<$20><$CA><$0C>Tohru Ohsawa<$21><$0A>"Naotaka Ohnishi<$21>f"Satoshi Machida<$21><staff><$12>Toshitaka Muramatu<$00><$22>j<$05>Music<$22><$90>"Hirokazu Tanaka<$22><$D0><$0A>Yuka Banba<$00><$21><LoadFace><$0E><$7C><$55><$49><$47>ial Thanks<$22><$2A><$11>Ryoichi Kitanishi<$22>A<$12>Masafumi Sakashita<$22>il<$0D>Papa Narihiro<$22><*><$0D>Wink Nakamura<$23><$2A>"Haruhiko Simizu<$00><$21>b<$08>Producer<$21><key><$0C>Gunpei Yokoi<$00><$07>Cast<X>
+
+
+//POINTER #4 @ $1268F - STRING #4 @ $12729
+
+#W16($1268F)
+<$20><key><$11>Graphic Designers<$20><$CA><$0C>Tohru Ohsawa<$21><$0A>"Naotaka Ohnishi<$21>f"Satoshi Machida<$21><staff><$12>Toshitaka Muramatu<$00><$22>j<$05>Music<$22><$90>"Hirokazu Tanaka<$22><$D0><$0A>Yuka Banba<$00><$21><LoadFace><$0E><$7C><$55><$49><$47>ial Thanks<$22><$2A><$11>Ryoichi Kitanishi<$22>A<$12>Masafumi Sakashita<$22>il<$0D>Papa Narihiro<$22><*><$0D>Wink Nakamura<$23><$2A>"Haruhiko Simizu<$00><$21>b<$08>Producer<$21><key><$0C>Gunpei Yokoi<$00><$07>Cast<X>
+
+
+//POINTER #5 @ $12691 - STRING #5 @ $12786
+
+#W16($12691)
+<$22>j<$05>Music<$22><$90>"Hirokazu Tanaka<$22><$D0><$0A>Yuka Banba<$00><$21><LoadFace><$0E><$7C><$55><$49><$47>ial Thanks<$22><$2A><$11>Ryoichi Kitanishi<$22>A<$12>Masafumi Sakashita<$22>il<$0D>Papa Narihiro<$22><*><$0D>Wink Nakamura<$23><$2A>"Haruhiko Simizu<$00><$21>b<$08>Producer<$21><key><$0C>Gunpei Yokoi<$00><$07>Cast<X>
+
+
+//POINTER #6 @ $12693 - STRING #6 @ $127AE
+
+#W16($12693)
+<$21><LoadFace><$0E><$7C><$55><$49><$47>ial Thanks<$22><$2A><$11>Ryoichi Kitanishi<$22>A<$12>Masafumi Sakashita<$22>il<$0D>Papa Narihiro<$22><*><$0D>Wink Nakamura<$23><$2A>"Haruhiko Simizu<$00><$21>b<$08>Producer<$21><key><$0C>Gunpei Yokoi<$00><$07>Cast<X>
+
+
+//POINTER #7 @ $12695 - STRING #7 @ $1281B
+
+#W16($12695)
+<$21>b<$08>Producer<$21><key><$0C>Gunpei Yokoi<$00><$07>Cast<X>
+

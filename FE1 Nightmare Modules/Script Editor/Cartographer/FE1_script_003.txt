@@ -1,0 +1,2734 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #003 NAME:		Recruitments, Boss Quotes
+
+//POINTER #0 @ $1C863 - STRING #0 @ $1C93D
+
+#W16($1C863)
+<StandardDialogue1>
+<LoadFace><$30><$20><$06><$06><$19>S<SetSpeed><$03>ire, I'm sailor<N>
+Daros. I wish to<N>
+quit pirate life.<N>
+I'll work hard,<N>
+please let me<N>
+join you.<X>
+
+
+//POINTER #1 @ $1C865 - STRING #1 @ $1C9A1
+
+#W16($1C865)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$2C><SetSpeed><$03>Oh! So you're<N>
+Prince Marth?<N>
+[He's quite<N>
+handsome]<A>
+Thanks for<N>
+rescuing me.<N>
+Please tell big<N>
+sister I'm safe.<A>
+Also... I will<N>
+help you from<N>
+now on, okay?  <X>
+
+
+//POINTER #2 @ $1C867 - STRING #2 @ $1CA44
+
+#W16($1C867)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$0E><SetSpeed><$03>Hello Prince<N>
+Marth. I'm<N>
+Macedonia's<N>
+Minerva. Thanks<N>
+for rescuing<N>
+Maria.<A>
+The situation<N>
+made your army<N>
+my enemy. I'm<N>
+very sorry. My<N>
+older brother,<N>
+Misheil, and<N>
+many Macedonian<N>
+people, sided<N>
+with Durhua.<A>
+He killed my<N>
+father. I want<N>
+to defeat him by<N>
+my hands if<N>
+possible.<A>
+If you could,<N>
+please help<N>
+White Knights<N>
+Katua, Paola and<N>
+Est.<A>
+They were<N>
+seperated from<N>
+me when Durhua<N>
+thought they'd<N>
+rebel. I'm sure<N>
+they will join.<N>
+So will I now!<X>
+
+
+//POINTER #3 @ $1C869 - STRING #3 @ $1CD06
+
+#W16($1C869)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$11><SetSpeed><$03>Sire, it's been<N>
+a while. I've<N>
+been waiting for<N>
+princess Minerva<N>
+to become your<N>
+ally.<A>
+I will do my<N>
+best.<X>
+
+
+//POINTER #4 @ $1C86B - STRING #4 @ $1CBFF
+
+#W16($1C86B)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$10><SetSpeed><$03>Greetings Sire,<N>
+I'm Paola of the<N>
+White Knights.<A>
+When we heard<N>
+Maria was<N>
+rescued, Katua<N>
+and I escaped<N>
+from Macedonia.<A>
+We'll fight<N>
+alongside<N>
+princess<N>
+Minerva.<A>
+But our younger<N>
+sister Est<N>
+hasn't returned<N>
+from Grunia yet.<A>
+Together we're<N>
+even more<N>
+useful. <X>
+
+
+//POINTER #5 @ $1C86D - STRING #5 @ $1CD7A
+
+#W16($1C86D)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$16><SetSpeed><$03>Huh?! You're<N>
+Aritia's prince?<N>
+Thanks!<A>
+I'm Ricardo, a<N>
+thief who tried to<N>
+steal this<N>
+castle's<N>
+treasures but<N>
+got caught.<A>
+Now I'll work<N>
+for you.<X>
+
+
+//POINTER #6 @ $1C86F - STRING #6 @ $1CE0C
+
+#W16($1C86F)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$2E><SetSpeed><$03><*><*><$2D><$10><$0B><$1A> <$0B><$0A><$01>litiz't"u<N>
+la"-dh<$19><$25><$29><$05><$10><$16><N>
+<$1A>rs<$10><$01><$0B><$10><$10><$23> <$14><$28><$2D><$2B><$13><N>
+<$0B><$20><$01><$20><$0B><$10><A>
+<*><$09><$2B><$05><$28><$1A><N>
+<$2D><$10><$0B><$19> Mld-uis"<$13>"<N>
+<$00><$15><$10>ttaiu <N>
+<$04><$20><$24><$29><$0B><$20><$0B><axe><$02><X>
+
+
+//POINTER #7 @ $1C871 - STRING #7 @ $1CE72
+
+#W16($1C871)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$0F><SetSpeed><$03>You're prince<N>
+Marth, correct?<N>
+I'm Est of<N>
+Macedonia.<A>
+I've taken back<N>
+the <sword>Miracle,<N>
+which was stolen<N>
+by Grunia.<A>
+But I can't use<N>
+it, so feel free<N>
+to equip it.   <X>
+
+
+//POINTER #8 @ $1C873 - STRING #8 @ $1D060
+
+#W16($1C873)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$32><SetSpeed><$03>This is<N>
+unbearable.<N>
+Paola, Est,<N>
+Katua, let's go.<BossQuote?><$08><X>
+
+
+//POINTER #9 @ $1C875 - STRING #9 @ $1D004
+
+#W16($1C875)
+<StandardDialogue2>
+<LoadFace><$90><$20><$06><$06><$17><SetSpeed><$06>Marth, I can't<N>
+stay here<N>
+forever.<A>
+If you want the<N>
+Falchion meet me<N>
+at Tebe.   <BossQuote?><$0E><X>
+
+
+//POINTER #10 @ $1C877 - STRING #10 @ $1D3E8
+
+#W16($1C877)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$31><SetSpeed><$03>Kashim!?<N>
+You're Kashim,<N>
+right? Why...<ChangeRecruitment><$37><LoadFace><$90><$30><$06><$06><$1D><N>
+Oh...<A>
+I'm sorry<N>
+princess. My<N>
+mother's ill and<N>
+I needed<N>
+money...<ChangeRecruitment><$38><N>
+So you joined the<N>
+pirates.<A>
+I see. I have<N>
+some money.<A>
+Take this to<N>
+your mother.   <ChangeRecruitment><$39><N>
+!... Even though<N>
+I betrayed Talis,<N>
+you still treat<N>
+me nice.<A>
+Forgive me!<N>
+My life is<N>
+yours!    <X>
+
+
+//POINTER #11 @ $1C879 - STRING #11 @ $1D2AA
+
+#W16($1C879)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$09><SetSpeed><$03>Navarre,<N>
+why's someone<N>
+your strength<N>
+fighting with<N>
+bandits?<ChangeRecruitment><$3A><LoadFace><$30><$30><$06><$06><$4C><N>
+!?...<N>
+Who are you?<N>
+I've no<N>
+business with<N>
+you! <ChangeRecruitment><$3C><N>
+Please stop this<N>
+pointless fight<N>
+and join us.<A>
+If you can't<N>
+say yes,<N>
+do what you<N>
+want to me!<N>
+   <ChangeRecruitment><$3B><N>
+....<N>
+My sword won't<N>
+harm a woman.<A>
+If you risk<N>
+your life to<N>
+recruit me,<N>
+I have no<N>
+choice...<X>
+
+
+//POINTER #12 @ $1C87B - STRING #12 @ $1DAA0
+
+#W16($1C87B)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$0A><SetSpeed><$03>Hello. You're<N>
+Jake of Grunia,<N>
+right?  <ChangeRecruitment><$22><LoadFace><$30><$30><$06><$06><$14><N>
+!<N>
+Who are you?<N>
+It's dangerous<N>
+to be here. <ChangeRecruitment><$24><N>
+People said<N>
+there are kind<N>
+people in the<N>
+Grunian Army.<A>
+You know Anna?  <ChangeRecruitment><$25><N>
+Huh, did Anna<N>
+say something<N>
+about me?<ChangeRecruitment><$26><N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #13 @ $1C87D - STRING #13 @ $1D882
+
+#W16($1C87D)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$09><SetSpeed><$03>Lawrence, I am<N>
+Sheeda of Talis.<A>
+I've heard about<N>
+you.<ChangeRecruitment><$28><LoadFace><$30><$30><$06><$06><$12><N>
+Ah, Sheeda!<N>
+Your father<N>
+truly helped me<N>
+long ago. <ChangeRecruitment><$29><N>
+You were against<N>
+alliance between<N>
+Durhua and<N>
+Grunia.<A>
+Why didn't you<N>
+stop it?<ChangeRecruitment><$2A><N>
+The king of<N>
+Grunia's weak and<N>
+was frightened by<N>
+Durhua's might.<ChangeRecruitment><$2B><N>
+Durhua's trying<N>
+to conquer all<N>
+humans using<N>
+their Mamkutes.<A>
+For Grunia and<N>
+all the humans in<N>
+the world we<N>
+must crush<N>
+Durhua's<N>
+ambitions.<A>
+Please, General,<N>
+join us.  <ChangeRecruitment><$2C><N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #14 @ $1C87F - STRING #14 @ $1DC1A
+
+#W16($1C87F)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$2E><SetSpeed><$03>Sire, I'm<N>
+Wendel. A priest<N>
+from Khadein.<A>
+The capital of<N>
+magic, Khadein<N>
+has been taken<N>
+over by Garnef.<A>
+Many mages have<N>
+been brought in<N>
+Durhua's army by<N>
+him.<A>
+Please lend me<N>
+your strength in<N>
+defeating<N>
+Garnef. <X>
+
+
+//POINTER #15 @ $1C881 - STRING #15 @ $1D6AC
+
+#W16($1C881)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$2A><SetSpeed><$03>Oh, it's you.<N>
+What are you<N>
+doing?<ChangeRecruitment><$2D><LoadFace><$90><$30><$06><$06><$16><N>
+Julian, it's been<N>
+a while.<A>
+Embarrassingly,<N>
+I tried to steal<N>
+some treasures<N>
+but I got<N>
+caught.<A>
+Why are you<N>
+here?<ChangeRecruitment><$2E><N>
+I quit being a<N>
+thief.<A>
+Now I'm an ally<N>
+of justice.<ChangeRecruitment><$2F><N>
+You got tricked<N>
+by a girl.<N>
+You're so weak<N>
+to beauty.<ChangeRecruitment><$30><N>
+I...idiot!<N>
+I really fight<N>
+for justice...<A>
+Well, that<N>
+doesn't matter.<N>
+Now you will be<N>
+our ally.<ChangeRecruitment><$31><N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #16 @ $1C883 - STRING #16 @ $1D54A
+
+#W16($1C883)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$18><SetSpeed><$03>Chiki! Here you<N>
+are!<A>
+You've been<N>
+hypnotized by<N>
+Garnef...<N>
+Wake up... <ChangeRecruitment><$32><LoadFace><$30><$30><$06><$06><$29><N>
+Uh... Ah...!<N>
+Grandpa...<N>
+What...<N>
+Happens?   <ChangeRecruitment><$33><N>
+You awakened!<N>
+Are you fine? <ChangeRecruitment><$34><N>
+What happened?<N>
+It was so scary,<N>
+like a bad dream.<ChangeRecruitment><$35><N>
+I'm sorry for<N>
+making you<N>
+suffer...<A>
+But don't worry,<N>
+from now on<N>
+we'll be<N>
+together. <ChangeRecruitment><$36><N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #17 @ $1C885 - STRING #17 @ $1D0CE
+
+#W16($1C885)
+ioG<$12><$04><LoadFace><$90><$20><$06><$06><$24><SetSpeed><$05>Fools, I'll show<N>
+you my might!  <BossQuote?><$08><X>
+
+
+//POINTER #18 @ $1C887 - STRING #18 @ $1D187
+
+#W16($1C887)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$37><SetSpeed><$05><*>is"u-io<$16><$10><$13><$12><$07><N>
+<$1A>rs<$28>rs<$07>"rs<$19> <$1D><$01><$0B><$14>"<$24><N>
+<$2D><$0B><$19> <$11><axe><$02><$1A><$05><$01><$20><$1E><$02><N>
+j"ula"eziu <$02><$08><$13><$21><$27>!!<BossQuote?><$08><X>
+
+
+//POINTER #19 @ $1C889 - STRING #19 @ $1D1D0
+
+#W16($1C889)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$1F><SetSpeed><$05>As long I have<N>
+the Gradius I<N>
+can't lose.<A>
+You can't win,<N>
+give it up! <BossQuote?><$08><X>
+
+
+//POINTER #20 @ $1C88B - STRING #20 @ $1D14D
+
+#W16($1C88B)
+ioG<$12><$04><LoadFace><$90><$20><$06><$06><$24><SetSpeed><$05>Let me show you<N>
+my power. Burn,<N>
+humans!    <BossQuote?><$08><X>
+
+
+//POINTER #21 @ $1C88D - STRING #21 @ $1D0FC
+
+#W16($1C88D)
+<StandardDialogue2>
+<LoadFace><$90><$20><$06><$06><$17><SetSpeed><$05>You mustn't value<N>
+your life to<N>
+fight me.<A>
+I'll show the<N>
+power of Maph!<BossQuote?><$08><X>
+
+
+//POINTER #22 @ $1C88F - STRING #22 @ $1D221
+
+#W16($1C88F)
+<StandardDialogue2>
+<LoadFace><$70><$20><$06><$06><$30><SetSpeed><$05>Fools who have<N>
+awoken me.<N>
+Burn in pain<N>
+from the fires<N>
+of hell!   <BossQuote?><$08><X>
+
+
+//POINTER #23 @ $1C891 - STRING #23 @ $1D09C
+
+#W16($1C891)
+ioG<$12><$03><LoadFace><$30><$20><$06><$06><$4C><SetSpeed><$05>It's a pity, but<N>
+I must kill you.<X>
+
+
+//POINTER #24 @ $1C893 - STRING #24 @ $1DCF4
+
+#W16($1C893)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$0C><SetSpeed><$03>Teacher!<N>
+Is that you?   <ChangeRecruitment><$19><LoadFace><$90><$10><$06><$06><$2E><N>
+Oh! It's you<N>
+Marich. Good,<N>
+you're safe.<ChangeRecruitment><$1A><N>
+Yes, I met<N>
+Aritia's prince:<N>
+Marth.<A>
+Now I'm fighting<N>
+with them against<N>
+Durhua.<A>
+Why are you here<N>
+teacher?<ChangeRecruitment><$1B><N>
+Hm...<N>
+Khadein fell.<N>
+Now it's under<N>
+control of the<N>
+evil king Garnef<N>
+and it became<N>
+the capital of<N>
+darkness.<A>
+So I escaped.<ChangeRecruitment><$1C><N>
+I see.<N>
+Then will you<N>
+lend us your<N>
+hand teacher?<A>
+We'll defeat<N>
+Garnef and take<N>
+back Khadein.<A>
+I'm sure the<N>
+prince will be<N>
+happy to have<N>
+such a great<N>
+priest at our<N>
+side.<ChangeRecruitment><$1D><N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #25 @ $1C895 - STRING #25 @ $1DD1B
+
+#W16($1C895)
+<LoadFace><$90><$10><$06><$06><$2E><N>
+Oh! It's you<N>
+Marich. Good,<N>
+you're safe.<ChangeRecruitment><$1A><N>
+Yes, I met<N>
+Aritia's prince:<N>
+Marth.<A>
+Now I'm fighting<N>
+with them against<N>
+Durhua.<A>
+Why are you here<N>
+teacher?<ChangeRecruitment><$1B><N>
+Hm...<N>
+Khadein fell.<N>
+Now it's under<N>
+control of the<N>
+evil king Garnef<N>
+and it became<N>
+the capital of<N>
+darkness.<A>
+So I escaped.<ChangeRecruitment><$1C><N>
+I see.<N>
+Then will you<N>
+lend us your<N>
+hand teacher?<A>
+We'll defeat<N>
+Garnef and take<N>
+back Khadein.<A>
+I'm sure the<N>
+prince will be<N>
+happy to have<N>
+such a great<N>
+priest at our<N>
+side.<ChangeRecruitment><$1D><N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #26 @ $1C897 - STRING #26 @ $1DD4A
+
+#W16($1C897)
+<N>
+Yes, I met<N>
+Aritia's prince:<N>
+Marth.<A>
+Now I'm fighting<N>
+with them against<N>
+Durhua.<A>
+Why are you here<N>
+teacher?<ChangeRecruitment><$1B><N>
+Hm...<N>
+Khadein fell.<N>
+Now it's under<N>
+control of the<N>
+evil king Garnef<N>
+and it became<N>
+the capital of<N>
+darkness.<A>
+So I escaped.<ChangeRecruitment><$1C><N>
+I see.<N>
+Then will you<N>
+lend us your<N>
+hand teacher?<A>
+We'll defeat<N>
+Garnef and take<N>
+back Khadein.<A>
+I'm sure the<N>
+prince will be<N>
+happy to have<N>
+such a great<N>
+priest at our<N>
+side.<ChangeRecruitment><$1D><N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #27 @ $1C899 - STRING #27 @ $1DDB4
+
+#W16($1C899)
+<N>
+Hm...<N>
+Khadein fell.<N>
+Now it's under<N>
+control of the<N>
+evil king Garnef<N>
+and it became<N>
+the capital of<N>
+darkness.<A>
+So I escaped.<ChangeRecruitment><$1C><N>
+I see.<N>
+Then will you<N>
+lend us your<N>
+hand teacher?<A>
+We'll defeat<N>
+Garnef and take<N>
+back Khadein.<A>
+I'm sure the<N>
+prince will be<N>
+happy to have<N>
+such a great<N>
+priest at our<N>
+side.<ChangeRecruitment><$1D><N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #28 @ $1C89B - STRING #28 @ $1DE2D
+
+#W16($1C89B)
+<N>
+I see.<N>
+Then will you<N>
+lend us your<N>
+hand teacher?<A>
+We'll defeat<N>
+Garnef and take<N>
+back Khadein.<A>
+I'm sure the<N>
+prince will be<N>
+happy to have<N>
+such a great<N>
+priest at our<N>
+side.<ChangeRecruitment><$1D><N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #29 @ $1C89D - STRING #29 @ $1DED6
+
+#W16($1C89D)
+<N>
+Hm...<N>
+I guess that's<N>
+the best option<N>
+for now.<A>
+I'll fight with<N>
+you.<A>
+Send my thanks<N>
+to Marth. <X>
+
+
+//POINTER #30 @ $1C89F - STRING #30 @ $1EA3B
+
+#W16($1C89F)
+ti<$00><lance><$D0><$20>fil<$20>in<$C3><Change>ioti<$00><lance><$20><lance><$D0><$A5><$20><$D0><$03>hioil<$20>j<SetPoin>h<$2B>il/ioN<$20>h<$C3>zilYil<$0D><$AB><$B8><$AB><$0A><$AC><$1E><$AC>hL<SetPoin>ti<$01>:alN:liN:<N>
+Mti<$00>:icN:leN:ioN:riN:ulN:ieN<A>
+ioN0<$20><tome>il<A>
+ioN0<$20><box><$C7><$20>io<$C2><$20><$2D><$C7><$20>J<$C7>ti<$03><lance><$01>ti<$02><lance><$03>ti<$00><lance><$00><lance><$02><$20><$25><$C2>ti/<lance><$01>tih<lance><$00>ti<$03><lance><$03>ti<$04><lance><$02>ti<$00><lance><$05>tiri<lance><$04><$20><$09><$C2><$20>T<$C7><$20>j<SetPoin><$29>"<$18>9<$01>:<$04><$03><$20>j<SetPoin><$29><$07><$18>9<$01>:<$05><$03>ti<$00>:<$02><$03><$20>j<SetPoin>d<$29>":<$22><$03>8<$29><$F0>ffff:<$23><$03><$A5>io<$29>":<$10><$03>:<$11><$03><$20>j<SetPoin><$29>-:"<$03><$20>j<SetPoin><$29>-:<$0E><$03>0/alN:<$06><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>icN<$B1><$00><$10><$19>ti<$00>:icN<A>
+alN/alN<$C9><$18><$D0><$03>hwilti<$01>:liN<$D0><$CE>:<$20><$03>/liN:<$07><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>leN<$B1><$00><$10><$19><A>
+liN/liN<$C9><$18><$D0><$08>ti<$01>:liN<A>
+icNti<$00>:leN<$F0><$CE>:<$21><$03><A>
+leN/<$20><$03>:laN/<$21><$03>:inN/<$06><$03>:icN/<$07><$03>:teNti<$00>:<$1E><$03>:<box><$03>:ldN<A>
+ioN0/<$02><$03>e<$01>:K<$03>h<$C7><$D2><$00><$00><$01><$00><$00><$00><$00><$01><$00><$01><$00><$01>/ldN<$C9><$04><$F0>-<$20><tome>il/laN:<$20><$03>/inN:<$21><$03>/icN:<$06><$03>/teN:<$07><$03>-1003492717N<$BD><$AC><$AB>:<$1E><$03><$BD><$B0><$AB>:<box><$03><$BD><$B4><$AB>:<$02><$03><$20><$A1><$AB><$B0>"<A>
+ldN/ldN<$C9><$04><$D0><$BA>ti<$00>:ioN<A>
+ldN<A>
+ioN0ti<$00>:<$01><$03><$20>il<$CA>ti<$01>:<N>
+<$05>:T<$04><A>
+ioN0ti<$02><lance>isti<$05><$20><$FA><$C9>/S<$04><$C9><box><$D0><$15>ti<$03>:ioNti<$00>:<$00><$B0>:<$00><SetPoin>:<$00><$D0>:<$00><$E0><lance>x0K<$AC>K<$AC>Y<$AC><$90><$AC>r<9E><$AC><$AC><$AC><$BA><$AC><$C3><$AC><$C9><$AC><$CF><$AC><$D7><$AC><$E0><$AC><Change><$AC><LoadVar><$AC><$F2><$AC><$F8><$AC><OpeningN>
+
+//POINTER #31 @ $1C8A1 - STRING #31 @ $1EA3B
+
+#W16($1C8A1)
+ti<$00><lance><$D0><$20>fil<$20>in<$C3><Change>ioti<$00><lance><$20><lance><$D0><$A5><$20><$D0><$03>hioil<$20>j<SetPoin>h<$2B>il/ioN<$20>h<$C3>zilYil<$0D><$AB><$B8><$AB><$0A><$AC><$1E><$AC>hL<SetPoin>ti<$01>:alN:liN:<N>
+Mti<$00>:icN:leN:ioN:riN:ulN:ieN<A>
+ioN0<$20><tome>il<A>
+ioN0<$20><box><$C7><$20>io<$C2><$20><$2D><$C7><$20>J<$C7>ti<$03><lance><$01>ti<$02><lance><$03>ti<$00><lance><$00><lance><$02><$20><$25><$C2>ti/<lance><$01>tih<lance><$00>ti<$03><lance><$03>ti<$04><lance><$02>ti<$00><lance><$05>tiri<lance><$04><$20><$09><$C2><$20>T<$C7><$20>j<SetPoin><$29>"<$18>9<$01>:<$04><$03><$20>j<SetPoin><$29><$07><$18>9<$01>:<$05><$03>ti<$00>:<$02><$03><$20>j<SetPoin>d<$29>":<$22><$03>8<$29><$F0>ffff:<$23><$03><$A5>io<$29>":<$10><$03>:<$11><$03><$20>j<SetPoin><$29>-:"<$03><$20>j<SetPoin><$29>-:<$0E><$03>0/alN:<$06><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>icN<$B1><$00><$10><$19>ti<$00>:icN<A>
+alN/alN<$C9><$18><$D0><$03>hwilti<$01>:liN<$D0><$CE>:<$20><$03>/liN:<$07><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>leN<$B1><$00><$10><$19><A>
+liN/liN<$C9><$18><$D0><$08>ti<$01>:liN<A>
+icNti<$00>:leN<$F0><$CE>:<$21><$03><A>
+leN/<$20><$03>:laN/<$21><$03>:inN/<$06><$03>:icN/<$07><$03>:teNti<$00>:<$1E><$03>:<box><$03>:ldN<A>
+ioN0/<$02><$03>e<$01>:K<$03>h<$C7><$D2><$00><$00><$01><$00><$00><$00><$00><$01><$00><$01><$00><$01>/ldN<$C9><$04><$F0>-<$20><tome>il/laN:<$20><$03>/inN:<$21><$03>/icN:<$06><$03>/teN:<$07><$03>-1003492717N<$BD><$AC><$AB>:<$1E><$03><$BD><$B0><$AB>:<box><$03><$BD><$B4><$AB>:<$02><$03><$20><$A1><$AB><$B0>"<A>
+ldN/ldN<$C9><$04><$D0><$BA>ti<$00>:ioN<A>
+ldN<A>
+ioN0ti<$00>:<$01><$03><$20>il<$CA>ti<$01>:<N>
+<$05>:T<$04><A>
+ioN0ti<$02><lance>isti<$05><$20><$FA><$C9>/S<$04><$C9><box><$D0><$15>ti<$03>:ioNti<$00>:<$00><$B0>:<$00><SetPoin>:<$00><$D0>:<$00><$E0><lance>x0K<$AC>K<$AC>Y<$AC><$90><$AC>r<9E><$AC><$AC><$AC><$BA><$AC><$C3><$AC><$C9><$AC><$CF><$AC><$D7><$AC><$E0><$AC><Change><$AC><LoadVar><$AC><$F2><$AC><$F8><$AC><OpeningN>
+
+//POINTER #32 @ $1C8A3 - STRING #32 @ $1EA3B
+
+#W16($1C8A3)
+ti<$00><lance><$D0><$20>fil<$20>in<$C3><Change>ioti<$00><lance><$20><lance><$D0><$A5><$20><$D0><$03>hioil<$20>j<SetPoin>h<$2B>il/ioN<$20>h<$C3>zilYil<$0D><$AB><$B8><$AB><$0A><$AC><$1E><$AC>hL<SetPoin>ti<$01>:alN:liN:<N>
+Mti<$00>:icN:leN:ioN:riN:ulN:ieN<A>
+ioN0<$20><tome>il<A>
+ioN0<$20><box><$C7><$20>io<$C2><$20><$2D><$C7><$20>J<$C7>ti<$03><lance><$01>ti<$02><lance><$03>ti<$00><lance><$00><lance><$02><$20><$25><$C2>ti/<lance><$01>tih<lance><$00>ti<$03><lance><$03>ti<$04><lance><$02>ti<$00><lance><$05>tiri<lance><$04><$20><$09><$C2><$20>T<$C7><$20>j<SetPoin><$29>"<$18>9<$01>:<$04><$03><$20>j<SetPoin><$29><$07><$18>9<$01>:<$05><$03>ti<$00>:<$02><$03><$20>j<SetPoin>d<$29>":<$22><$03>8<$29><$F0>ffff:<$23><$03><$A5>io<$29>":<$10><$03>:<$11><$03><$20>j<SetPoin><$29>-:"<$03><$20>j<SetPoin><$29>-:<$0E><$03>0/alN:<$06><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>icN<$B1><$00><$10><$19>ti<$00>:icN<A>
+alN/alN<$C9><$18><$D0><$03>hwilti<$01>:liN<$D0><$CE>:<$20><$03>/liN:<$07><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>leN<$B1><$00><$10><$19><A>
+liN/liN<$C9><$18><$D0><$08>ti<$01>:liN<A>
+icNti<$00>:leN<$F0><$CE>:<$21><$03><A>
+leN/<$20><$03>:laN/<$21><$03>:inN/<$06><$03>:icN/<$07><$03>:teNti<$00>:<$1E><$03>:<box><$03>:ldN<A>
+ioN0/<$02><$03>e<$01>:K<$03>h<$C7><$D2><$00><$00><$01><$00><$00><$00><$00><$01><$00><$01><$00><$01>/ldN<$C9><$04><$F0>-<$20><tome>il/laN:<$20><$03>/inN:<$21><$03>/icN:<$06><$03>/teN:<$07><$03>-1003492717N<$BD><$AC><$AB>:<$1E><$03><$BD><$B0><$AB>:<box><$03><$BD><$B4><$AB>:<$02><$03><$20><$A1><$AB><$B0>"<A>
+ldN/ldN<$C9><$04><$D0><$BA>ti<$00>:ioN<A>
+ldN<A>
+ioN0ti<$00>:<$01><$03><$20>il<$CA>ti<$01>:<N>
+<$05>:T<$04><A>
+ioN0ti<$02><lance>isti<$05><$20><$FA><$C9>/S<$04><$C9><box><$D0><$15>ti<$03>:ioNti<$00>:<$00><$B0>:<$00><SetPoin>:<$00><$D0>:<$00><$E0><lance>x0K<$AC>K<$AC>Y<$AC><$90><$AC>r<9E><$AC><$AC><$AC><$BA><$AC><$C3><$AC><$C9><$AC><$CF><$AC><$D7><$AC><$E0><$AC><Change><$AC><LoadVar><$AC><$F2><$AC><$F8><$AC><OpeningN>
+
+//POINTER #33 @ $1C8A5 - STRING #33 @ $1EA3B
+
+#W16($1C8A5)
+ti<$00><lance><$D0><$20>fil<$20>in<$C3><Change>ioti<$00><lance><$20><lance><$D0><$A5><$20><$D0><$03>hioil<$20>j<SetPoin>h<$2B>il/ioN<$20>h<$C3>zilYil<$0D><$AB><$B8><$AB><$0A><$AC><$1E><$AC>hL<SetPoin>ti<$01>:alN:liN:<N>
+Mti<$00>:icN:leN:ioN:riN:ulN:ieN<A>
+ioN0<$20><tome>il<A>
+ioN0<$20><box><$C7><$20>io<$C2><$20><$2D><$C7><$20>J<$C7>ti<$03><lance><$01>ti<$02><lance><$03>ti<$00><lance><$00><lance><$02><$20><$25><$C2>ti/<lance><$01>tih<lance><$00>ti<$03><lance><$03>ti<$04><lance><$02>ti<$00><lance><$05>tiri<lance><$04><$20><$09><$C2><$20>T<$C7><$20>j<SetPoin><$29>"<$18>9<$01>:<$04><$03><$20>j<SetPoin><$29><$07><$18>9<$01>:<$05><$03>ti<$00>:<$02><$03><$20>j<SetPoin>d<$29>":<$22><$03>8<$29><$F0>ffff:<$23><$03><$A5>io<$29>":<$10><$03>:<$11><$03><$20>j<SetPoin><$29>-:"<$03><$20>j<SetPoin><$29>-:<$0E><$03>0/alN:<$06><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>icN<$B1><$00><$10><$19>ti<$00>:icN<A>
+alN/alN<$C9><$18><$D0><$03>hwilti<$01>:liN<$D0><$CE>:<$20><$03>/liN:<$07><$03><$0A>il<$BD>is<$AC><lance><$00><$BD>a<$AC><lance><$01><$AC>leN<$B1><$00><$10><$19><A>
+liN/liN<$C9><$18><$D0><$08>ti<$01>:liN<A>
+icNti<$00>:leN<$F0><$CE>:<$21><$03><A>
+leN/<$20><$03>:laN/<$21><$03>:inN/<$06><$03>:icN/<$07><$03>:teNti<$00>:<$1E><$03>:<box><$03>:ldN<A>
+ioN0/<$02><$03>e<$01>:K<$03>h<$C7><$D2><$00><$00><$01><$00><$00><$00><$00><$01><$00><$01><$00><$01>/ldN<$C9><$04><$F0>-<$20><tome>il/laN:<$20><$03>/inN:<$21><$03>/icN:<$06><$03>/teN:<$07><$03>-1003492717N<$BD><$AC><$AB>:<$1E><$03><$BD><$B0><$AB>:<box><$03><$BD><$B4><$AB>:<$02><$03><$20><$A1><$AB><$B0>"<A>
+ldN/ldN<$C9><$04><$D0><$BA>ti<$00>:ioN<A>
+ldN<A>
+ioN0ti<$00>:<$01><$03><$20>il<$CA>ti<$01>:<N>
+<$05>:T<$04><A>
+ioN0ti<$02><lance>isti<$05><$20><$FA><$C9>/S<$04><$C9><box><$D0><$15>ti<$03>:ioNti<$00>:<$00><$B0>:<$00><SetPoin>:<$00><$D0>:<$00><$E0><lance>x0K<$AC>K<$AC>Y<$AC><$90><$AC>r<9E><$AC><$AC><$AC><$BA><$AC><$C3><$AC><$C9><$AC><$CF><$AC><$D7><$AC><$E0><$AC><Change><$AC><LoadVar><$AC><$F2><$AC><$F8><$AC><OpeningN>
+
+//POINTER #34 @ $1C8A7 - STRING #34 @ $1DAD5
+
+#W16($1C8A7)
+<LoadFace><$30><$30><$06><$06><$14><N>
+!<N>
+Who are you?<N>
+It's dangerous<N>
+to be here. <ChangeRecruitment><$24><N>
+People said<N>
+there are kind<N>
+people in the<N>
+Grunian Army.<A>
+You know Anna?  <ChangeRecruitment><$25><N>
+Huh, did Anna<N>
+say something<N>
+about me?<ChangeRecruitment><$26><N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #35 @ $1C8A9 - STRING #35 @ $1DB09
+
+#W16($1C8A9)
+<N>
+People said<N>
+there are kind<N>
+people in the<N>
+Grunian Army.<A>
+You know Anna?  <ChangeRecruitment><$25><N>
+Huh, did Anna<N>
+say something<N>
+about me?<ChangeRecruitment><$26><N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #36 @ $1C8AB - STRING #36 @ $1DB09
+
+#W16($1C8AB)
+<N>
+People said<N>
+there are kind<N>
+people in the<N>
+Grunian Army.<A>
+You know Anna?  <ChangeRecruitment><$25><N>
+Huh, did Anna<N>
+say something<N>
+about me?<ChangeRecruitment><$26><N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #37 @ $1C8AD - STRING #37 @ $1DB54
+
+#W16($1C8AD)
+<N>
+Huh, did Anna<N>
+say something<N>
+about me?<ChangeRecruitment><$26><N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #38 @ $1C8AF - STRING #38 @ $1DB7D
+
+#W16($1C8AF)
+<N>
+If you fight for<N>
+your country,<N>
+she'll stay with<N>
+you.<ChangeRecruitment><$27><N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #39 @ $1C8B1 - STRING #39 @ $1DBB3
+
+#W16($1C8B1)
+<N>
+Really?<N>
+I dislike doing<N>
+this to people<N>
+of other<N>
+countries.<A>
+For Anna and<N>
+your sake I'll<N>
+help you out.  <X>
+
+
+//POINTER #40 @ $1C8B3 - STRING #40 @ $1D8C3
+
+#W16($1C8B3)
+<LoadFace><$30><$30><$06><$06><$12><N>
+Ah, Sheeda!<N>
+Your father<N>
+truly helped me<N>
+long ago. <ChangeRecruitment><$29><N>
+You were against<N>
+alliance between<N>
+Durhua and<N>
+Grunia.<A>
+Why didn't you<N>
+stop it?<ChangeRecruitment><$2A><N>
+The king of<N>
+Grunia's weak and<N>
+was frightened by<N>
+Durhua's might.<ChangeRecruitment><$2B><N>
+Durhua's trying<N>
+to conquer all<N>
+humans using<N>
+their Mamkutes.<A>
+For Grunia and<N>
+all the humans in<N>
+the world we<N>
+must crush<N>
+Durhua's<N>
+ambitions.<A>
+Please, General,<N>
+join us.  <ChangeRecruitment><$2C><N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #41 @ $1C8B5 - STRING #41 @ $1D8FF
+
+#W16($1C8B5)
+<N>
+You were against<N>
+alliance between<N>
+Durhua and<N>
+Grunia.<A>
+Why didn't you<N>
+stop it?<ChangeRecruitment><$2A><N>
+The king of<N>
+Grunia's weak and<N>
+was frightened by<N>
+Durhua's might.<ChangeRecruitment><$2B><N>
+Durhua's trying<N>
+to conquer all<N>
+humans using<N>
+their Mamkutes.<A>
+For Grunia and<N>
+all the humans in<N>
+the world we<N>
+must crush<N>
+Durhua's<N>
+ambitions.<A>
+Please, General,<N>
+join us.  <ChangeRecruitment><$2C><N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #42 @ $1C8B7 - STRING #42 @ $1D94E
+
+#W16($1C8B7)
+<N>
+The king of<N>
+Grunia's weak and<N>
+was frightened by<N>
+Durhua's might.<ChangeRecruitment><$2B><N>
+Durhua's trying<N>
+to conquer all<N>
+humans using<N>
+their Mamkutes.<A>
+For Grunia and<N>
+all the humans in<N>
+the world we<N>
+must crush<N>
+Durhua's<N>
+ambitions.<A>
+Please, General,<N>
+join us.  <ChangeRecruitment><$2C><N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #43 @ $1C8B9 - STRING #43 @ $1D98E
+
+#W16($1C8B9)
+<N>
+Durhua's trying<N>
+to conquer all<N>
+humans using<N>
+their Mamkutes.<A>
+For Grunia and<N>
+all the humans in<N>
+the world we<N>
+must crush<N>
+Durhua's<N>
+ambitions.<A>
+Please, General,<N>
+join us.  <ChangeRecruitment><$2C><N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #44 @ $1C8BB - STRING #44 @ $1DA31
+
+#W16($1C8BB)
+<N>
+Although I was<N>
+ordered to fight<N>
+you, I'll not<N>
+follow that<N>
+order.<A>
+It's hard, but<N>
+I'll follow you<N>
+without regret. <X>
+
+
+//POINTER #45 @ $1C8BD - STRING #45 @ $1D6DA
+
+#W16($1C8BD)
+<LoadFace><$90><$30><$06><$06><$16><N>
+Julian, it's been<N>
+a while.<A>
+Embarrassingly,<N>
+I tried to steal<N>
+some treasures<N>
+but I got<N>
+caught.<A>
+Why are you<N>
+here?<ChangeRecruitment><$2E><N>
+I quit being a<N>
+thief.<A>
+Now I'm an ally<N>
+of justice.<ChangeRecruitment><$2F><N>
+You got tricked<N>
+by a girl.<N>
+You're so weak<N>
+to beauty.<ChangeRecruitment><$30><N>
+I...idiot!<N>
+I really fight<N>
+for justice...<A>
+Well, that<N>
+doesn't matter.<N>
+Now you will be<N>
+our ally.<ChangeRecruitment><$31><N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #46 @ $1C8BF - STRING #46 @ $1D750
+
+#W16($1C8BF)
+<N>
+I quit being a<N>
+thief.<A>
+Now I'm an ally<N>
+of justice.<ChangeRecruitment><$2F><N>
+You got tricked<N>
+by a girl.<N>
+You're so weak<N>
+to beauty.<ChangeRecruitment><$30><N>
+I...idiot!<N>
+I really fight<N>
+for justice...<A>
+Well, that<N>
+doesn't matter.<N>
+Now you will be<N>
+our ally.<ChangeRecruitment><$31><N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #47 @ $1C8C1 - STRING #47 @ $1D784
+
+#W16($1C8C1)
+<N>
+You got tricked<N>
+by a girl.<N>
+You're so weak<N>
+to beauty.<ChangeRecruitment><$30><N>
+I...idiot!<N>
+I really fight<N>
+for justice...<A>
+Well, that<N>
+doesn't matter.<N>
+Now you will be<N>
+our ally.<ChangeRecruitment><$31><N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #48 @ $1C8C3 - STRING #48 @ $1D7BB
+
+#W16($1C8C3)
+<N>
+I...idiot!<N>
+I really fight<N>
+for justice...<A>
+Well, that<N>
+doesn't matter.<N>
+Now you will be<N>
+our ally.<ChangeRecruitment><$31><N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #49 @ $1C8C5 - STRING #49 @ $1D81C
+
+#W16($1C8C5)
+<N>
+Where's my say<N>
+in this...<A>
+Alright, I have<N>
+the time and I<N>
+can't refuse<N>
+your plea.<N>
+But I want<N>
+rewards!<X>
+
+
+//POINTER #50 @ $1C8C7 - STRING #50 @ $1D59D
+
+#W16($1C8C7)
+<LoadFace><$30><$30><$06><$06><$29><N>
+Uh... Ah...!<N>
+Grandpa...<N>
+What...<N>
+Happens?   <ChangeRecruitment><$33><N>
+You awakened!<N>
+Are you fine? <ChangeRecruitment><$34><N>
+What happened?<N>
+It was so scary,<N>
+like a bad dream.<ChangeRecruitment><$35><N>
+I'm sorry for<N>
+making you<N>
+suffer...<A>
+But don't worry,<N>
+from now on<N>
+we'll be<N>
+together. <ChangeRecruitment><$36><N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #51 @ $1C8C9 - STRING #51 @ $1D5D2
+
+#W16($1C8C9)
+<N>
+You awakened!<N>
+Are you fine? <ChangeRecruitment><$34><N>
+What happened?<N>
+It was so scary,<N>
+like a bad dream.<ChangeRecruitment><$35><N>
+I'm sorry for<N>
+making you<N>
+suffer...<A>
+But don't worry,<N>
+from now on<N>
+we'll be<N>
+together. <ChangeRecruitment><$36><N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #52 @ $1C8CB - STRING #52 @ $1D5F2
+
+#W16($1C8CB)
+<N>
+What happened?<N>
+It was so scary,<N>
+like a bad dream.<ChangeRecruitment><$35><N>
+I'm sorry for<N>
+making you<N>
+suffer...<A>
+But don't worry,<N>
+from now on<N>
+we'll be<N>
+together. <ChangeRecruitment><$36><N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #53 @ $1C8CD - STRING #53 @ $1D626
+
+#W16($1C8CD)
+<N>
+I'm sorry for<N>
+making you<N>
+suffer...<A>
+But don't worry,<N>
+from now on<N>
+we'll be<N>
+together. <ChangeRecruitment><$36><N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #54 @ $1C8CF - STRING #54 @ $1D67D
+
+#W16($1C8CF)
+<N>
+Promised?<N>
+I don't want to<N>
+be alone ever<N>
+again.<X>
+
+
+//POINTER #55 @ $1C8D1 - STRING #55 @ $1D41C
+
+#W16($1C8D1)
+<LoadFace><$90><$30><$06><$06><$1D><N>
+Oh...<A>
+I'm sorry<N>
+princess. My<N>
+mother's ill and<N>
+I needed<N>
+money...<ChangeRecruitment><$38><N>
+So you joined the<N>
+pirates.<A>
+I see. I have<N>
+some money.<A>
+Take this to<N>
+your mother.   <ChangeRecruitment><$39><N>
+!... Even though<N>
+I betrayed Talis,<N>
+you still treat<N>
+me nice.<A>
+Forgive me!<N>
+My life is<N>
+yours!    <X>
+
+
+//POINTER #56 @ $1C8D3 - STRING #56 @ $1D465
+
+#W16($1C8D3)
+<N>
+So you joined the<N>
+pirates.<A>
+I see. I have<N>
+some money.<A>
+Take this to<N>
+your mother.   <ChangeRecruitment><$39><N>
+!... Even though<N>
+I betrayed Talis,<N>
+you still treat<N>
+me nice.<A>
+Forgive me!<N>
+My life is<N>
+yours!    <X>
+
+
+//POINTER #57 @ $1C8D5 - STRING #57 @ $1D4B9
+
+#W16($1C8D5)
+<N>
+!... Even though<N>
+I betrayed Talis,<N>
+you still treat<N>
+me nice.<A>
+Forgive me!<N>
+My life is<N>
+yours!    <X>
+
+
+//POINTER #58 @ $1C8D7 - STRING #58 @ $1D2F0
+
+#W16($1C8D7)
+<LoadFace><$30><$30><$06><$06><$4C><N>
+!?...<N>
+Who are you?<N>
+I've no<N>
+business with<N>
+you! <ChangeRecruitment><$3C><N>
+Please stop this<N>
+pointless fight<N>
+and join us.<A>
+If you can't<N>
+say yes,<N>
+do what you<N>
+want to me!<N>
+   <ChangeRecruitment><$3B><N>
+....<N>
+My sword won't<N>
+harm a woman.<A>
+If you risk<N>
+your life to<N>
+recruit me,<N>
+I have no<N>
+choice...<X>
+
+
+//POINTER #59 @ $1C8D9 - STRING #59 @ $1D38D
+
+#W16($1C8D9)
+..<N>
+My sword won't<N>
+harm a woman.<A>
+If you risk<N>
+your life to<N>
+recruit me,<N>
+I have no<N>
+choice...<X>
+
+
+//POINTER #60 @ $1C8DB - STRING #60 @ $1D327
+
+#W16($1C8DB)
+<N>
+Please stop this<N>
+pointless fight<N>
+and join us.<A>
+If you can't<N>
+say yes,<N>
+do what you<N>
+want to me!<N>
+   <ChangeRecruitment><$3B><N>
+....<N>
+My sword won't<N>
+harm a woman.<A>
+If you risk<N>
+your life to<N>
+recruit me,<N>
+I have no<N>
+choice...<X>
+
+
+//POINTER #61 @ $1C8DD - STRING #61 @ $1CF1C
+
+#W16($1C8DD)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$4B><SetSpeed><$03>Hey Aritian<N>
+prince. Thanks<N>
+to you I'm free.<A>
+I'm Chainy and I<N>
+come from a<N>
+faraway land. I<N>
+can transform<N>
+into anyone,<N>
+because of this<N>
+Durhua forced me<N>
+to join their<N>
+army, but I<N>
+didn't want to.<A>
+I'd rather join<N>
+and help you!<X>
+
+
+//POINTER #62 @ $1C8DF - STRING #62 @ $1D515
+
+#W16($1C8DF)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$29><SetSpeed><$05>St...Stop...<N>
+Don't... come...<N>
+closer...<BossQuote?><$08><X>
+
+
+//POINTER #63 @ $1C8E1 - STRING #63 @ $1D271
+
+#W16($1C8E1)
+<StandardDialogue2>
+<LoadFace><$70><$20><$06><$06><$1C><SetSpeed><$05>So you finally<N>
+came.<A>
+Take this!<N>
+Elephant! <BossQuote?><$08><X>
+
+
+//POINTER #64 @ $1C8E3 - STRING #64 @ $1DF34
+
+#W16($1C8E3)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$1B><SetSpeed><$03>Astria!<N>
+Is that you?  <ChangeRecruitment><$41><LoadFace><$90><$10><$06><$06><$1E><N>
+Midia! So you<N>
+were safe.<A>
+I wanted to see<N>
+you.<ChangeRecruitment><$42><N>
+You weren't<N>
+informed? The<N>
+Aritian army<N>
+liberated Pales.<A>
+Every hostage<N>
+survived.<A>
+Right now, I<N>
+fight for them,<N>
+so you don't have<N>
+to work with the<N>
+enemy.<ChangeRecruitment><$44><N>
+That's good.<A>
+Now I can fight<N>
+against Durhua. <ChangeRecruitment><$45><N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #65 @ $1C8E5 - STRING #65 @ $1DF59
+
+#W16($1C8E5)
+<LoadFace><$90><$10><$06><$06><$1E><N>
+Midia! So you<N>
+were safe.<A>
+I wanted to see<N>
+you.<ChangeRecruitment><$42><N>
+You weren't<N>
+informed? The<N>
+Aritian army<N>
+liberated Pales.<A>
+Every hostage<N>
+survived.<A>
+Right now, I<N>
+fight for them,<N>
+so you don't have<N>
+to work with the<N>
+enemy.<ChangeRecruitment><$44><N>
+That's good.<A>
+Now I can fight<N>
+against Durhua. <ChangeRecruitment><$45><N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #66 @ $1C8E7 - STRING #66 @ $1DF90
+
+#W16($1C8E7)
+<N>
+You weren't<N>
+informed? The<N>
+Aritian army<N>
+liberated Pales.<A>
+Every hostage<N>
+survived.<A>
+Right now, I<N>
+fight for them,<N>
+so you don't have<N>
+to work with the<N>
+enemy.<ChangeRecruitment><$44><N>
+That's good.<A>
+Now I can fight<N>
+against Durhua. <ChangeRecruitment><$45><N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #67 @ $1C8E9 - STRING #67 @ $1DFCD
+
+#W16($1C8E9)
+hostage<N>
+survived.<A>
+Right now, I<N>
+fight for them,<N>
+so you don't have<N>
+to work with the<N>
+enemy.<ChangeRecruitment><$44><N>
+That's good.<A>
+Now I can fight<N>
+against Durhua. <ChangeRecruitment><$45><N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #68 @ $1C8EB - STRING #68 @ $1E026
+
+#W16($1C8EB)
+<N>
+That's good.<A>
+Now I can fight<N>
+against Durhua. <ChangeRecruitment><$45><N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #69 @ $1C8ED - STRING #69 @ $1E056
+
+#W16($1C8ED)
+<N>
+Yes, we'll stay<N>
+together.<A>
+I won't leave you<N>
+ever again.<ChangeRecruitment><$46><N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #70 @ $1C8EF - STRING #70 @ $1E08D
+
+#W16($1C8EF)
+<N>
+Midia... You've<N>
+become so...  <ChangeRecruitment><$47><N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #71 @ $1C8F1 - STRING #71 @ $1E0AF
+
+#W16($1C8F1)
+<N>
+Huh? What?      <ChangeRecruitment><$48><N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #72 @ $1C8F3 - STRING #72 @ $1E0C3
+
+#W16($1C8F3)
+<N>
+Haha... You've<N>
+become... so<N>
+womanly.<X>
+
+
+//POINTER #73 @ $1C8F5 - STRING #73 @ $1E0E9
+
+#W16($1C8F5)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$2B><SetSpeed><$03>Brother!<N>
+Aren't you<N>
+Machis?<A>
+It's me!<ChangeRecruitment><$4A><LoadFace><$90><$10><$06><$06><$45><N>
+Rena!?<N>
+Why are you<N>
+here?      <ChangeRecruitment><$4B><N>
+The Aritian<N>
+people saved me<N>
+from bandits<N>
+on Devil's Mount.<A>
+Why are you<N>
+with the army?<ChangeRecruitment><$4C><N>
+After you<N>
+betrayed the<N>
+king,<N>
+Macedonia became<N>
+worse and worse.<A>
+I was forced<N>
+into the army<N>
+and was brought<N>
+here.<A>
+I don't like war<N>
+but it's<N>
+hopeless.<ChangeRecruitment><$4D><N>
+Don't say that <N>
+brother!<A>
+If you're not<N>
+brave and won't<N>
+follow the right<N>
+path, Macedonia<N>
+will help Durhua<N>
+making people<N>
+suffer.<A>
+Join the<N>
+Aritian army.<A>
+Everyone will<N>
+welcome you.<N>
+They are great<N>
+people.<ChangeRecruitment><$4E><N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #74 @ $1C8F7 - STRING #74 @ $1E11B
+
+#W16($1C8F7)
+<LoadFace><$90><$10><$06><$06><$45><N>
+Rena!?<N>
+Why are you<N>
+here?      <ChangeRecruitment><$4B><N>
+The Aritian<N>
+people saved me<N>
+from bandits<N>
+on Devil's Mount.<A>
+Why are you<N>
+with the army?<ChangeRecruitment><$4C><N>
+After you<N>
+betrayed the<N>
+king,<N>
+Macedonia became<N>
+worse and worse.<A>
+I was forced<N>
+into the army<N>
+and was brought<N>
+here.<A>
+I don't like war<N>
+but it's<N>
+hopeless.<ChangeRecruitment><$4D><N>
+Don't say that <N>
+brother!<A>
+If you're not<N>
+brave and won't<N>
+follow the right<N>
+path, Macedonia<N>
+will help Durhua<N>
+making people<N>
+suffer.<A>
+Join the<N>
+Aritian army.<A>
+Everyone will<N>
+welcome you.<N>
+They are great<N>
+people.<ChangeRecruitment><$4E><N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #75 @ $1C8F9 - STRING #75 @ $1E143
+
+#W16($1C8F9)
+<N>
+The Aritian<N>
+people saved me<N>
+from bandits<N>
+on Devil's Mount.<A>
+Why are you<N>
+with the army?<ChangeRecruitment><$4C><N>
+After you<N>
+betrayed the<N>
+king,<N>
+Macedonia became<N>
+worse and worse.<A>
+I was forced<N>
+into the army<N>
+and was brought<N>
+here.<A>
+I don't like war<N>
+but it's<N>
+hopeless.<ChangeRecruitment><$4D><N>
+Don't say that <N>
+brother!<A>
+If you're not<N>
+brave and won't<N>
+follow the right<N>
+path, Macedonia<N>
+will help Durhua<N>
+making people<N>
+suffer.<A>
+Join the<N>
+Aritian army.<A>
+Everyone will<N>
+welcome you.<N>
+They are great<N>
+people.<ChangeRecruitment><$4E><N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #76 @ $1C8FB - STRING #76 @ $1E198
+
+#W16($1C8FB)
+<N>
+After you<N>
+betrayed the<N>
+king,<N>
+Macedonia became<N>
+worse and worse.<A>
+I was forced<N>
+into the army<N>
+and was brought<N>
+here.<A>
+I don't like war<N>
+but it's<N>
+hopeless.<ChangeRecruitment><$4D><N>
+Don't say that <N>
+brother!<A>
+If you're not<N>
+brave and won't<N>
+follow the right<N>
+path, Macedonia<N>
+will help Durhua<N>
+making people<N>
+suffer.<A>
+Join the<N>
+Aritian army.<A>
+Everyone will<N>
+welcome you.<N>
+They are great<N>
+people.<ChangeRecruitment><$4E><N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #77 @ $1C8FD - STRING #77 @ $1E22B
+
+#W16($1C8FD)
+<N>
+Don't say that <N>
+brother!<A>
+If you're not<N>
+brave and won't<N>
+follow the right<N>
+path, Macedonia<N>
+will help Durhua<N>
+making people<N>
+suffer.<A>
+Join the<N>
+Aritian army.<A>
+Everyone will<N>
+welcome you.<N>
+They are great<N>
+people.<ChangeRecruitment><$4E><N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #78 @ $1C8FF - STRING #78 @ $1E2F5
+
+#W16($1C8FF)
+<N>
+...<A>
+I see.<A>
+If I'm about<N>
+to die,<N>
+I might as<N>
+well look cool<N>
+doing it.<A>
+But it's tough<N>
+looking after<N>
+a betrayer.<A>
+By the way,<N>
+have you found<N>
+a man you<N>
+love? <ChangeRecruitment><$4F><N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #79 @ $1C901 - STRING #79 @ $1E38F
+
+#W16($1C901)
+<N>
+Um...<N>
+There's no one.<ChangeRecruitment><$50><N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #80 @ $1C903 - STRING #80 @ $1E3A7
+
+#W16($1C903)
+<N>
+Looks like <N>
+there is.<A>
+But I don't<N>
+mind, as<N>
+long as it's<N>
+no thief.<X>
+
+
+//POINTER #81 @ $1C905 - STRING #81 @ $1E3EA
+
+#W16($1C905)
+<N>
+<*>!<N>
+tetetetete<$02>rstete<$13>"<$24><$18>tetete<ChangeRecruitment><$52><*>tetete<$20><dragonstone><$01><$01><$25> <$0E><$2B><$0B>"<sword>va<N>
+<$00><$20><$29> <$22><$11><sword><$0C><$2A><$15><$27><N>
+<$04><$2B><$1A> kteis"bio<$07>"rs<$16><N>
+<$11><axe><lance><$07><$28> <$00><$01><$0A><$12><$0B><$13><$07><$2A><$27><X>
+
+
+//POINTER #82 @ $1C907 - STRING #82 @ $1E401
+
+#W16($1C907)
+<*>tetete<$20><dragonstone><$01><$01><$25> <$0E><$2B><$0B>"<sword>va<N>
+<$00><$20><$29> <$22><$11><sword><$0C><$2A><$15><$27><N>
+<$04><$2B><$1A> kteis"bio<$07>"rs<$16><N>
+<$11><axe><lance><$07><$28> <$00><$01><$0A><$12><$0B><$13><$07><$2A><$27><X>
+
+
+//POINTER #83 @ $1C909 - STRING #83 @ $1E43E
+
+#W16($1C909)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$06><$31><SetSpeed><$03>Hi, I am Sheeda<N>
+of Talis. I won't<N>
+fight.<ChangeRecruitment><$54><LoadFace><$90><$10><$06><$06><$46><N>
+!<N>
+You surprised me!<N>
+Was it on<N>
+purpose?<ChangeRecruitment><$55><N>
+You believe in<N>
+love? You love<N>
+someone?<ChangeRecruitment><$56><N>
+W...What?<N>
+Are you<N>
+alright?  <ChangeRecruitment><$57><N>
+I'm sorry.<N>
+I just wanted to<N>
+speak with you.<A>
+You looked so<N>
+nice. What's your<N>
+name?<ChangeRecruitment><$58><N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #84 @ $1C90B - STRING #84 @ $1E474
+
+#W16($1C90B)
+<LoadFace><$90><$10><$06><$06><$46><N>
+!<N>
+You surprised me!<N>
+Was it on<N>
+purpose?<ChangeRecruitment><$55><N>
+You believe in<N>
+love? You love<N>
+someone?<ChangeRecruitment><$56><N>
+W...What?<N>
+Are you<N>
+alright?  <ChangeRecruitment><$57><N>
+I'm sorry.<N>
+I just wanted to<N>
+speak with you.<A>
+You looked so<N>
+nice. What's your<N>
+name?<ChangeRecruitment><$58><N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #85 @ $1C90D - STRING #85 @ $1E4A3
+
+#W16($1C90D)
+<N>
+You believe in<N>
+love? You love<N>
+someone?<ChangeRecruitment><$56><N>
+W...What?<N>
+Are you<N>
+alright?  <ChangeRecruitment><$57><N>
+I'm sorry.<N>
+I just wanted to<N>
+speak with you.<A>
+You looked so<N>
+nice. What's your<N>
+name?<ChangeRecruitment><$58><N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #86 @ $1C90F - STRING #86 @ $1E4CB
+
+#W16($1C90F)
+<N>
+W...What?<N>
+Are you<N>
+alright?  <ChangeRecruitment><$57><N>
+I'm sorry.<N>
+I just wanted to<N>
+speak with you.<A>
+You looked so<N>
+nice. What's your<N>
+name?<ChangeRecruitment><$58><N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #87 @ $1C911 - STRING #87 @ $1E4EB
+
+#W16($1C911)
+<N>
+I'm sorry.<N>
+I just wanted to<N>
+speak with you.<A>
+You looked so<N>
+nice. What's your<N>
+name?<ChangeRecruitment><$58><N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #88 @ $1C913 - STRING #88 @ $1E53E
+
+#W16($1C913)
+<N>
+Eh?<N>
+Um...I...I'm..<N>
+Roger of Grunia.<ChangeRecruitment><$59><N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #89 @ $1C915 - STRING #89 @ $1E565
+
+#W16($1C915)
+<N>
+Roger, in war,<N>
+women and<N>
+children cry.<A>
+My group's trying<N>
+to end this<N>
+useless<N>
+fighting.<N>
+Do you<N>
+understand? <ChangeRecruitment><$5A><N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #90 @ $1C917 - STRING #90 @ $1E5D2
+
+#W16($1C917)
+<N>
+I do.<N>
+I don't fight<N>
+because I want<N>
+to, but I can't<N>
+betray them.<ChangeRecruitment><$5B><N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #91 @ $1C919 - STRING #91 @ $1E613
+
+#W16($1C919)
+<N>
+You care for<N>
+someone in<N>
+Grunia? <ChangeRecruitment><$5C><N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #92 @ $1C91B - STRING #92 @ $1E637
+
+#W16($1C91B)
+<N>
+My parents died<N>
+and I have no<N>
+lover, but I<N>
+can't betray<N>
+Grunia..<ChangeRecruitment><$5D><N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #93 @ $1C91D - STRING #93 @ $1E679
+
+#W16($1C91D)
+<N>
+No matter what?<ChangeRecruitment><$5E><N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #94 @ $1C91F - STRING #94 @ $1E68C
+
+#W16($1C91F)
+<N>
+Yeah, sorry... <ChangeRecruitment><$5F><N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #95 @ $1C921 - STRING #95 @ $1E69F
+
+#W16($1C921)
+<N>
+I see, but you<N>
+are really a nice<N>
+person. I'm glad<N>
+we got to chat.<ChangeRecruitment><$60><N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #96 @ $1C923 - STRING #96 @ $1E6E2
+
+#W16($1C923)
+<N>
+You're leaving?<ChangeRecruitment><$61><N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #97 @ $1C925 - STRING #97 @ $1E6F3
+
+#W16($1C925)
+<N>
+If I stay any<N>
+longer, I will<N>
+cause problems<N>
+for you.  <ChangeRecruitment><$62><N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #98 @ $1C927 - STRING #98 @ $1E72D
+
+#W16($1C927)
+<N>
+You're a nice<N>
+person... There<N>
+are no women<N>
+like you in<N>
+Grunia...<A>
+Hey! Don't<N>
+leave yet...I...<N>
+I'll go with<N>
+you!<X>
+
+
+//POINTER #99 @ $1C929 - STRING #99 @ $1E79D
+
+#W16($1C929)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$4E><SetSpeed><$05>You seem to have<N>
+a lot of fun.<A>
+Take this:<N>
+my <sword>Silver!<BossQuote?><$08><X>
+
+
+//POINTER #100 @ $1C92B - STRING #100 @ $1E7E1
+
+#W16($1C92B)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$4D><SetSpeed><$05>Damn Minerva!<N>
+Even if you<N>
+betray you'll<N>
+lead yourself to<N>
+hell.<BossQuote?><$08><X>
+
+
+//POINTER #101 @ $1C92D - STRING #101 @ $1E82B
+
+#W16($1C92D)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$46><SetSpeed><$05>Sorry, I don't<N>
+want to fight,<N>
+but I can't just<N>
+quit.<BossQuote?><$08><X>
+
+
+//POINTER #102 @ $1C92F - STRING #102 @ $1E86C
+
+#W16($1C92F)
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$14><SetSpeed><$05>I shouldn't be a<N>
+soldier.<N>
+If only there<N>
+was a cute<N>
+girl...<BossQuote?><$08><X>
+
+
+//POINTER #103 @ $1C931 - STRING #103 @ $1E8B3
+
+#W16($1C931)
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$1D><SetSpeed><$05>Princess,<N>
+forgive me...<A>
+I really need<N>
+the money...<BossQuote?><$08><X>
+
+
+//POINTER #104 @ $1C933 - STRING #104 @ $1E8F4
+
+#W16($1C933)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$12><SetSpeed><$05>The Grunia<N>
+Empire is at its<N>
+end.<A>
+My king, you're<N>
+a weak man.<BossQuote?><$08><X>
+
+
+//POINTER #105 @ $1C935 - STRING #105 @ $1E93E
+
+#W16($1C935)
+<StandardDialogue2>
+<LoadFace><$90><$20><$06><$06><$45><SetSpeed><$05>Rena...<N>
+If only I could<N>
+see you once<N>
+more before<N>
+I die.<BossQuote?><$08><X>
+
+
+//POINTER #106 @ $1C937 - STRING #106 @ $1E982
+
+#W16($1C937)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$4E><SetSpeed><$05>The Aritian<N>
+rebel scum...<A>
+I should have<N>
+destroyed all of<N>
+you!  <BossQuote?><$08><X>
+
+
+//POINTER #107 @ $1C939 - STRING #107 @ $1E9D0
+
+#W16($1C939)
+<StandardDialogue2>
+<LoadFace><$30><$20><$06><$06><$4A><SetSpeed><$05>Damn Minerva...<N>
+But I haven't<N>
+lost!<A>
+I'll show the<N>
+Dragon Knight<N>
+power! <BossQuote?><$08><X>
+
+
+//POINTER #108 @ $1C93B - STRING #108 @ $1EA24
+
+#W16($1C93B)
+lcW<$10><$02><SetSpeed><$01>Chest emptied!<BossQuote?><$08><X>
+

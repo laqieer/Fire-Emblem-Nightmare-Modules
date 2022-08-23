@@ -1,0 +1,67 @@
+1
+FE1 Item Editor by Darrman
+0x3d667
+92
+1
+Item_list.txt
+NULL
+
+Might
+0
+1
+NEDU
+NULL
+
+Weapon Level
+92
+1
+NDHU
+weapon_level.txt
+
+Weight
+184
+1
+NEDU
+NULL
+
+Accuracy
+276
+1
+NEDU
+NULL
+
+Critical
+368
+1
+NEDU
+NULL
+
+Price (add a zero.)
+460
+1
+NEDU
+NULL
+
+Durability
+552
+1
+NEDU
+NULL
+
+Weapon Effective Damage
+644
+1
+NDHU
+effectiveness.txt
+
+Weapon Effect
+784
+1
+NDHU
+weapon_effects.txt
+
+Range, Item Usablity
+876
+1
+NDHU
+range.txt

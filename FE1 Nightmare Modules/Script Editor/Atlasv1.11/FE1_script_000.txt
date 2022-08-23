@@ -1,0 +1,960 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #000 NAME:		Chapter Openings
+
+//POINTER #0 @ $21F3D - STRING #0 @ $23C91
+//Chapter 1
+
+#W16($21F3D)
+<ChapTitle><ChapTitleBox><$00><StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$08>
+<SetSpeed><$03>
+//Jeigan
+Prince Marth,<N>
+Princess Sheeda<N>
+has arrived from<N>
+Talis Castle.<ChangeChOpening><$02>
+
+
+//POINTER #1 @ $21F3F - STRING #1 @ $23CE2
+
+#W16($21F3F)
+<LoadFace><$90><$30><$06><$06><$26><N>
+//Marth
+What's wrong<N>
+Sheeda? Has<N>
+something<N>
+happened at the<N>
+castle?<ChangeChOpening><$03>
+
+//POINTER #2 @ $21F41 - STRING #2 @ $23D26
+
+#W16($21F41)
+<LoadFace><$30><$30><$06><$06><$31><N>
+//Sheeda
+Prince Marth,<N>
+I'm so happy to<N>
+see you.<A>
+The pirates of<N>
+Garda suddenly<N>
+attacked us.<A>
+The castle has<N>
+been taken and<N>
+many people have<N>
+been killed.<A>
+Please, save my<N>
+father!<ChangeChOpening><$04>
+
+//POINTER #3 @ $21F43 - STRING #3 @ $23DDA
+
+#W16($21F43)
+<N>
+//Marth
+It'll be alright<N>
+Sheeda. Aritia's<N>
+courageous<N>
+knights are<N>
+inside this<N>
+fortress.<A>
+We won't lose to<N>
+a gang of<N>
+pirates. Now,<N>
+come with me to<N>
+Talis Castle!<X>
+
+
+//POINTER #4 @ $21F45 - STRING #4 @ $220C3
+//Chapter 2
+
+#W16($21F45)
+<ChapTitle><ChapTitleBox><$01><StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$2F>
+<SetSpeed><$03>
+//Oguma
+Sire, I'm<N>
+mercenary Oguma.<A>
+By the king's<N>
+request, we'll<N>
+be joining<N>
+your army.<A>
+This place's<N>
+filled with<N>
+pirates and<N>
+soldiers who<N>
+wish to kill<N>
+you.<A>
+Be careful.<X>
+
+
+//POINTER #5 @ $21F47 - STRING #5 @ $22262
+//Chapter 3
+
+#W16($21F47)
+<ChapTitle><ChapTitleBox><$02><StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$2A>
+<SetSpeed><$03>
+//Julian
+Miss Rena!<N>
+We must<N>
+escape faster<N>
+or we'll be in<N>
+trouble.<A>
+I heard Aritian<N>
+men are here.<A>
+That's our<N>
+chance!<ChangeChOpening><$07>
+
+
+//POINTER #6 @ $21F49 - STRING #6 @ $222E1
+
+#W16($21F49)
+<LoadFace><$30><$30><$06><$06><$2B><N>
+//Rena
+I'm sorry...<N>
+But I left my<N>
+<staff>Relieve behind.<A>
+I need to get it<N>
+back...<A>
+Forget about me<N>
+and save<N>
+yourself.<A>
+I can warp you<N>
+to a different<N>
+location! <ChangeChOpening><$08>
+
+
+//POINTER #7 @ $21F4B - STRING #7 @ $22379
+
+#W16($21F4B)
+//Julian
+<N>
+No way.<A>
+If you do that<N>
+I won't know why<N>
+I betrayed<N>
+them...<A>
+I will get the<N>
+staff later.<A>
+Just focus on<N>
+running away.<A>
+Let's go!<X>
+
+
+//POINTER #8 @ $21F4D - STRING #8 @ $223F7
+//Chapter 4
+
+#W16($21F4D)
+<ChapTitle><ChapTitleBox><$03>
+<Narration><SetSpeed><$03>
+After a fierce<N>
+battle, Marth<N>
+has set foot<N>
+in Orleans.<A>
+To meet the<N>
+Orleans army,<N>
+the enemies<N>
+protecting the<N>
+fort must be<N>
+defeated.<A>
+From far away<N>
+the sound<N>
+of horses<N>
+is heard...<X>
+
+
+//POINTER #9 @ $21F4F - STRING #9 @ $224B1
+//Chapter 5
+
+#W16($21F4F)
+<ChapTitle><ChapTitleBox><$04>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$0D>
+<SetSpeed><$03>
+//Hardin
+Sire, the Aritian<N>
+army has<N>
+arrived.<ChangeChOpening><$0B>
+
+//POINTER #10 @ $21F51 - STRING #10 @ $224E8
+
+#W16($21F51)
+<LoadFace><$90><$30><$06><$06><$20><N>
+//Nina
+Really?<N>
+Then Prince<N>
+Marth has<N>
+finally come...<ChangeChOpening><$0C>
+
+
+//POINTER #11 @ $21F53 - STRING #11 @ $2251F
+
+#W16($21F53)
+<N>
+//Hardin
+It seems we can<N>
+rebuild our<N>
+military<N>
+strength.<A>
+We'll join<N>
+Aritia,<N>
+you better wait<N>
+inside the<N>
+castle.<X>
+
+
+//POINTER #12 @ $21F55 - STRING #12 @ $22587
+//Chapter 6
+
+#W16($21F55)
+<ChapTitle><ChapTitleBox><$05>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$4E>
+<SetSpeed><$03>
+//Boss, Mariones
+What! The rebels<N>
+entered the<N>
+castle?<A>
+Armor Knights,<N>
+meet the enemy!<A>
+Archers, protect<N>
+the throne.<A>
+Thieves, gather<N>
+treasures and<N>
+escape!<A>
+Everyone<N>
+understood?!<X>
+
+
+//POINTER #13 @ $21F57 - STRING #13 @ $22638
+//Chapter 7
+
+#W16($21F57)
+<ChapTitle><ChapTitleBox><$06>
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$32>
+<SetSpeed><$03>
+//Minerva
+General Hermine,<N>
+I don't agree with<N>
+your plan.<A>
+As a Macedonia<N>
+Knight I'd like to<N>
+fight fairly.<ChangeChOpening><$0F>
+
+
+//POINTER #14 @ $21F59 - STRING #14 @ $226A4
+
+#W16($21F59)
+<LoadFace><$30><$30><$06><$06><$4D><N>
+//Boss, Hermine
+Princess, your<N>
+army's lost many<N>
+in the Orleans<N>
+battles.<A>
+We must stay in<N>
+the castle and<N>
+stall the enemy.<A>
+I've been placed<N>
+here by my king<N>
+and I want you<N>
+to obey, or<N>
+I can't assure<N>
+your sister's<N>
+safety.<ChangeChOpening><$10>
+
+//POINTER #15 @ $21F5B - STRING #15 @ $22776
+
+#W16($21F5B)
+<N>
+//Minerva
+...Fine,<N>
+but I don't<N>
+believe we'll be<N>
+able to defeat<N>
+Aritia's Knights<N>
+with these<N>
+plans.<A>
+You'll regret<N>
+this.<X>
+
+
+//POINTER #16 @ $21F5D - STRING #16 @ $227E1
+//Chapter 8
+
+#W16($21F5D)
+<ChapTitle><ChapTitleBox><$07>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$13>
+<SetSpeed><$03>
+//Caesar
+Sire, we're <N>
+mercenaries<N>
+protecting<N>
+Warren.<A>
+The west<N>
+castle's used by<N>
+the Grunian<N>
+army.<A>
+We're surrounded<N>
+by them.<A>
+The eastern<N>
+castle's used as<N>
+their base. It'd<N>
+be best to take<N>
+that down.<N>
+Please help!<X>
+
+
+//POINTER #17 @ $21F5F - STRING #17 @ $228BA
+//Chapter 9
+
+#W16($21F5F)
+<ChapTitle><ChapTitleBox><$08>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$24>
+<SetSpeed><$03>
+//Boss, Manuu
+Men who step on<N>
+the land of<N>
+Peraty.<A>
+No one will<N>
+escape alive.<A>
+Burn and become<N>
+sacrifices to<N>
+the Salamander<N>
+Tribe.<X>
+
+
+//POINTER #18 @ $21F61 - STRING #18 @ $2293F
+//Chapter 10
+
+#W16($21F61)
+<ChapTitle><ChapTitleBox><$09>
+<Narration>
+<SetSpeed><$03>
+To fulfill<N>
+Katua's wish,<N>
+Marth travelled<N>
+to Deal Prison<N>
+to rescue Maria.<A>
+But many Grunian<N>
+soldiers<N>
+gathered there.<A>
+Hurry Marth!<N>
+Rescue Maria!<X>
+
+
+//POINTER #19 @ $21F63 - STRING #19 @ $229D8
+//Chapter 11
+
+#W16($21F63)
+<ChapTitle><ChapTitleBox><$0A>
+<Narration>
+<SetSpeed><$03>
+After many long<N>
+battles, Marth's<N>
+army finally sees<N>
+Nina's homeland<N>
+Akaneia.<A>
+Pales castle lies<N>
+beyond this hill.<A>
+How many<N>
+treasures and<N>
+trapped allies<N>
+are inside...<A>
+Marth's arrived<N>
+at one of his<N>
+destinations.<X>
+
+
+//POINTER #20 @ $21F65 - STRING #20 @ $22AAA
+//Chapter 12
+
+#W16($21F65)
+<ChapTitle><ChapTitleBox><$0B>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$1B>
+<SetSpeed><$03>
+//Midia
+Master Boa, why<N>
+are the soldiers<N>
+panicking?<ChangeChOpening><$2C>
+
+//POINTER #21 @ $21F67 - STRING #21 @ $22CB8
+//Chapter 13
+
+#W16($21F67)
+<ChapTitle><ChapTitleBox><$0C>
+<Narration>
+<SetSpeed><$03>
+As Marth's army<N>
+rushes to<N>
+Aritia, many<N>
+Grunian shooters<N>
+block Marth's<N>
+path.<A>
+The so-called<N>
+"Wooden Horse<N>
+Division",<N>
+Grunian soldiers<N>
+which use<N>
+machines to<N>
+fight.<A>
+While creating<N>
+noises, metal<N>
+boxes start to<N>
+move.<A>
+Can Marth win?<X>
+
+
+//POINTER #22 @ $21F69 - STRING #22 @ $22DA4
+//Chapter 14
+
+#W16($21F69)
+<ChapTitle><ChapTitleBox><$0D>
+<Narration>
+<SetSpeed><$03>
+Gra was Aritia's<N>
+ally until it<N>
+suddenly<N>
+betrayed them<N>
+and attacked<N>
+Aritia.<A>
+Aritia was<N>
+obliterated and<N>
+King Cornelius<N>
+was killed.<A>
+Now, two years<N>
+later, Marth's<N>
+entered the<N>
+castle where<N>
+the murderer of<N>
+his father<N>
+hides.<X>
+
+
+//POINTER #23 @ $21F6B - STRING #23 @ $22E87
+//Chapter 15
+
+#W16($21F6B)
+<ChapTitle><ChapTitleBox><$0E>
+<Narration>
+<SetSpeed><$03>
+The Magic<N>
+Country:<N>
+Khadein.<A>
+It's the land in<N>
+which the mages<N>
+under Garnef's<N>
+control live.<A>
+Against their<N>
+spells, even the<N>
+strongest<N>
+warriors can't<N>
+protect<N>
+themselves.<A>
+Is it a cursed<N>
+country?<X>
+
+
+//POINTER #24 @ $21F6D - STRING #24 @ $22F4B
+//Chapter 16
+
+#W16($21F6D)
+<ChapTitle><ChapTitleBox><$0F>
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$20>
+<SetSpeed><$03>
+//Nina
+Prince Marth,<N>
+is this Aritia?<ChangeChOpening><$26>
+
+//POINTER #25 @ $21F6F - STRING #25 @ $2306D
+//Chapter 17
+
+#W16($21F6F)
+<ChapTitle><ChapTitleBox><$10>
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$24>
+<SetSpeed><$03>
+//Boss, Moses
+Haha... You came<N>
+back just to<N>
+die?<A>
+I'm the most<N>
+powerful servant<N>
+of Mediuth:<N>
+Moses of the<N>
+Basilisk.<A>
+But you're too<N>
+late. I already<N>
+killed your<N>
+mother and gave<N>
+your sister to<N>
+Garnef.<A>
+If you are<N>
+angry, face me!<X>
+
+
+//POINTER #26 @ $21F71 - STRING #26 @ $23151
+//Chapter 18
+
+#W16($21F71)
+<ChapTitle><ChapTitleBox><$11>
+<Narration>
+<SetSpeed><$03>
+To obtain the<N>
+Light Orb and<N>
+Star Orb for<N>
+Gato, Marth's<N>
+army must<N>
+cross the<N>
+Cashmere bridge<N>
+to get to Raman.<A>
+But the Grunian<N>
+Black Knights<N>
+block the<N>
+bridge.<A>
+A battle's about<N>
+to begin!<X>
+
+
+//POINTER #27 @ $21F73 - STRING #27 @ $2320E
+//Chapter 19
+
+#W16($21F73)
+<ChapTitle><ChapTitleBox><$12>
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$17>
+<SetSpeed><$03>
+//Garnef
+Chiki...<N>
+Princess of the<N>
+Narga clan.<A>
+Burn the<N>
+trespassers of<N>
+this temple with<N>
+your power.<A>
+Remember, I<N>
+saved you from<N>
+Mediuth when you<N>
+were seperated<N>
+from Banutu.<A>
+Don't forget! <X>
+
+
+//POINTER #28 @ $21F75 - STRING #28 @ $232D0
+//Chapter 20
+
+#W16($21F75)
+<ChapTitle><ChapTitleBox><$13>
+<StandardDialogue2>
+<LoadFace><$90><$30><$06><$06><$0B>
+<SetSpeed><$03>
+//Marth
+General Camus, I<N>
+don't wish to fight<N>
+you.<A>
+I'm sure you<N>
+know how useless<N>
+this is.<A>
+Nina also wishes<N>
+to see you.<A>
+Please lay down<N>
+your weapon. <ChangeChOpening><$1E>
+
+
+//POINTER #29 @ $21F77 - STRING #29 @ $2336A
+
+#W16($21F77)
+<LoadFace><$30><$30><$06><$06><$1F><N>
+//Camus
+Prince Marth...<N>
+It's too late.<N>
+Grunia joined<N>
+forces with<N>
+Durhua.<A>
+I'm a proud<N>
+knight of Grunia<N>
+and I made a vow<N>
+to fight till the<N>
+end.<A>
+Come and fight<N>
+me to avenge<N>
+your father.<ChangeChOpening><$1F>
+
+//POINTER #30 @ $21F79 - STRING #30 @ $23421
+
+#W16($21F79)
+<LoadFace><$90><$30><$06><$06><$20><N>
+//Nina
+Camus, wait!<N>
+I can't stand to<N>
+see you fight<N>
+Prince Marth.<A>
+Please... lend<N>
+us... no, lend me<N>
+your strength.<ChangeChOpening><$20>
+
+
+//POINTER #31 @ $21F7B - STRING #31 @ $23490
+
+#W16($21F7B)
+<N>
+//Camus
+Sorry... If I<N>
+could, I would<N>
+do that.<A>
+But I can't<N>
+abandon my<N>
+homeland as it's<N>
+being destroyed.<A>
+Princess Nina,<N>
+goodbye. Please<N>
+find happiness.<X>
+
+
+//POINTER #32 @ $21F7D - STRING #32 @ $2351A
+//Chapter 21
+
+#W16($21F7D)
+<ChapTitle><ChapTitleBox><$14>
+<StandardDialogue2>
+<SetSpeed><$04>
+//Narration
+After defeating<N>
+Grunia, Marth's<N>
+army finally heads<N>
+to Macedonia.<A>
+Macedonia's D<N>
+Knights are<N>
+waiting.<A>
+It's said that<N>
+countless<N>
+reinforcements<N>
+are waiting<N>
+inside the<N>
+fortresses.<A>
+Will Marth's army<N>
+break through<N>
+them?<X>
+
+
+//POINTER #33 @ $21F7F - STRING #33 @ $235F3
+//Chapter 22
+
+#W16($21F7F)
+<ChapTitle><ChapTitleBox><$15>
+<Narration>
+<SetSpeed><$04>
+Minerva and<N>
+Maria's homeland,<N>
+Macedonia, was<N>
+peaceful known<N>
+for its freely<N>
+roaming dragons.<A>
+But King<N>
+Misheil, against<N>
+his sisters'<N>
+wishes, joined<N>
+with Durhua.<A>
+With the Dragon<N>
+Knights he<N>
+attacked various<N>
+countries and<N>
+spread fear.<A>
+Will Marth be<N>
+able to free this<N>
+land?<X>
+
+
+//POINTER #34 @ $21F81 - STRING #34 @ $23707
+//Chapter 23
+
+#W16($21F81)
+<ChapTitle><ChapTitleBox><$16>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$17>
+<SetSpeed><$03>
+//Garnef
+Marth, you've<N>
+finally arrived.<A>
+I'm Garnef, I've<N>
+waited for you.<A>
+In order for me<N>
+to own the world,<N>
+I have to kill <N>
+you.<A>
+I'm not under<N>
+Mediuth's control.<N>
+With the<N>
+Falchion and<N>
+Maph, I can<N>
+control Mediuth!<A>
+Go Marth! Defeat<N>
+me if you want<N>
+the Falchion!<X>
+
+
+//POINTER #35 @ $21F83 - STRING #35 @ $23810
+//Chapter 24
+
+#W16($21F83)
+<ChapTitle><ChapTitleBox><$17>
+<Narration>
+<SetSpeed><$03>
+Durhua...<N>
+A land<N>
+surrounded by<N>
+mystery, the<N>
+Mamkute Kingdom.<A>
+It started when<N>
+the Earth Dragon<N>
+Mediuth<N>
+resurrected<N>
+here.<A>
+The Akaneia<N>
+continent was<N>
+involved in a<N>
+long war.<A>
+But Mediuth's<N>
+dream to rule the<N>
+world slowly<N>
+becomes<N>
+impossible.<A>
+Thanks through<N>
+Marth!<X>
+
+
+//POINTER #36 @ $21F85 - STRING #36 @ $2391B
+//Chapter 25
+
+#W16($21F85)
+<ChapTitle><ChapTitleBox><$18>
+<StandardDialogue2>
+<LoadFace><$30><$30><$06><$06><$23>
+<SetSpeed><$03>
+//Gato
+Marth, you've<N>
+done well.<N>
+You are truly a<N>
+hero.<ChangeChOpening><$2A>
+
+//POINTER #37 @ $21F87 - STRING #37 @ $22F7C
+//Chapter 16
+
+#W16($21F87)
+<LoadFace><$30><$30><$06><$06><$07><N>
+//Marth
+Yes, it's been<N>
+two years since<N>
+Durhua took it<N>
+over.<A>
+Thay day my<N>
+sister Ellis<N>
+helped me to<N>
+escape to Talis<N>
+by acting as a<N>
+decoy and getting<N>
+caught by<N>
+Durhua.<A>
+Now I don't know<N>
+where she is.<N>
+But I'll rescue<N>
+her!<A>
+Let's go free my<N>
+homeland Aritia!<X>
+
+
+//POINTER #38 @ $21F89 - STRING #38 @ $235F3
+//Chapter 22 Duplicate
+
+#W16($21F89)
+<ChapTitle><ChapTitleBox><$15><Narration>
+<SetSpeed><$04>Minerva and<N>
+Maria's homeland,<N>
+Macedonia, was<N>
+peaceful known<N>
+for its freely<N>
+roaming dragons.<A>
+But King<N>
+Misheil, against<N>
+his sisters'<N>
+wishes, joined<N>
+with Durhua.<A>
+With the Dragon<N>
+Knights he<N>
+attacked various<N>
+countries and<N>
+spread fear.<A>
+Will Marth be<N>
+able to free this<N>
+land?<X>
+
+
+//POINTER #39 @ $21F8B - STRING #39 @ $235F3
+//Chapter 22 Duplicate
+
+#W16($21F8B)
+<ChapTitle><ChapTitleBox><$15><Narration>
+<SetSpeed><$04>Minerva and<N>
+Maria's homeland,<N>
+Macedonia, was<N>
+peaceful known<N>
+for its freely<N>
+roaming dragons.<A>
+But King<N>
+Misheil, against<N>
+his sisters'<N>
+wishes, joined<N>
+with Durhua.<A>
+With the Dragon<N>
+Knights he<N>
+attacked various<N>
+countries and<N>
+spread fear.<A>
+Will Marth be<N>
+able to free this<N>
+land?<X>
+
+
+//POINTER #40 @ $21F8D - STRING #40 @ $235F3
+//Chapter 22 Duplicate
+
+#W16($21F8D)
+<ChapTitle><ChapTitleBox><$15><Narration>
+<SetSpeed><$04>Minerva and<N>
+Maria's homeland,<N>
+Macedonia, was<N>
+peaceful known<N>
+for its freely<N>
+roaming dragons.<A>
+But King<N>
+Misheil, against<N>
+his sisters'<N>
+wishes, joined<N>
+with Durhua.<A>
+With the Dragon<N>
+Knights he<N>
+attacked various<N>
+countries and<N>
+spread fear.<A>
+Will Marth be<N>
+able to free this<N>
+land?<X>
+
+
+//POINTER #41 @ $21F8F - STRING #41 @ $2395E
+//Chapter 25
+
+#W16($21F8F)
+<LoadFace><$90><$30><$06><$06><$0B><N>
+Huh? Gato? But<N>
+why...<ChangeChOpening><$2B>
+
+
+//POINTER #42 @ $21F91 - STRING #42 @ $2397D
+
+#W16($21F91)
+<N>
+Long ago I vowed<N>
+to never speak<N>
+to the foolish<N>
+humans, but as I<N>
+watched you, I<N>
+began to think<N>
+humans are not<N>
+as terrible as<N>
+I thought.<N>
+My power isn't<N>
+comparable to<N>
+Mediuth's, but<N>
+this old man can<N>
+surely take on<N>
+his soldiers.<A>
+It's time!<N>
+Send Mediuth back<N>
+into the<N>
+darkness!<X>
+
+
+//POINTER #43 @ $21F93 - STRING #43 @ $22AE9
+//Chapter 12
+
+#W16($21F93)
+//Boa
+<LoadFace><$90><$30><$06><$06><$2D><N>
+I think Nina<N>
+brought the<N>
+liberation<N>
+army. <ChangeChOpening><$2D>
+
+//POINTER #44 @ $21F95 - STRING #44 @ $22B1D
+
+#W16($21F95)
+<N>
+//Midia
+Is that true?<N>
+Then we'll be<N>
+saved!<ChangeChOpening><$2E>
+
+//POINTER #45 @ $21F97 - STRING #45 @ $22B43
+
+#W16($21F97)
+<N>
+//Boa
+Midia, we can't<N>
+celebrate yet.<A>
+They have no use<N>
+for us anymore,<N>
+so they will<N>
+likely kill us.<ChangeChOpening><$2F>
+
+
+//POINTER #46 @ $21F99 - STRING #46 @ $22BA1
+
+#W16($21F99)
+<N>
+//Midia
+But because of<N>
+this, the enemy<N>
+will be chased<N>
+away.<A>
+I'll have no<N>
+regrets if I<N>
+fall here.<ChangeChOpening><$30>
+
+//POINTER #47 @ $21F9B - STRING #47 @ $22BFE
+
+#W16($21F9B)
+<N>
+//Boa
+Haha... That's<N>
+brave.<A>
+But if you die,<N>
+Astria'll be sad.<ChangeChOpening><$31>
+
+
+//POINTER #48 @ $21F9D - STRING #48 @ $22C36
+
+#W16($21F9D)
+<N>
+//Midia
+...Yes... I<N>
+wanted to see<N>
+him once more.<A>
+That's my last<N>
+wish.<ChangeChOpening><$32>
+
+
+//POINTER #49 @ $21F9F - STRING #49 @ $22C76
+
+#W16($21F9F)
+<N>
+//Boa
+Hold onto that<N>
+wish and hold on<N>
+till the very<N>
+end.<A>
+Never give up!<X>
+

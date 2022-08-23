@@ -1,0 +1,611 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #001 NAME:		Houses
+
+//POINTER #0 @ $E477 - STRING #0 @ $E4DB
+
+#W16($E477)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>Be careful<N>
+of mercenaries.<N>
+They are very<N>
+skilled.<N>
+    <X>
+
+
+//POINTER #1 @ $E479 - STRING #1 @ $E51E
+
+#W16($E479)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>Hammers are<N>
+good against<N>
+A Knights.<X>
+
+
+//POINTER #2 @ $E47B - STRING #2 @ $E54D
+
+#W16($E47B)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Armor killers<N>
+are good<N>
+against<N>
+A Knights<N>
+and Generals.<A>
+Knight killers<N>
+are good against<N>
+knights, but<N>
+only knights<N>
+can wield them.<A>
+The rapier is<N>
+effective<N>
+against both,<N>
+but only the<N>
+prince can wield<N>
+it.         <X>
+
+
+//POINTER #3 @ $E47D - STRING #3 @ $E62B
+
+#W16($E47D)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>When a priest's<N>
+attacked he gets<N>
+Exp.<X>
+
+
+//POINTER #4 @ $E47F - STRING #4 @ $E65A
+
+#W16($E47F)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>To protect you<N>
+from magic, you<N>
+should use a<N>
+<staff>M Shield.<X>
+
+
+//POINTER #5 @ $E481 - STRING #5 @ $E69C
+
+#W16($E481)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Watch out for<N>
+D Knights.<A>
+They are<N>
+very strong.<X>
+
+
+//POINTER #6 @ $E483 - STRING #6 @ $E6D6
+
+#W16($E483)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Many treasures<N>
+are in the<N>
+castle.<A>
+Only thieves can<N>
+open them.<X>
+
+
+//POINTER #7 @ $E485 - STRING #7 @ $E71E
+
+#W16($E485)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>On level 10 one<N>
+can change his<N>
+class.<A>
+S Knights become<N>
+Paladins for<N>
+example. <X>
+
+
+//POINTER #8 @ $E487 - STRING #8 @ $E778
+
+#W16($E487)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>The more skill,<N>
+the more<N>
+criticals.<A>
+The more speed,<N>
+the more<N>
+dodging.<X>
+
+
+//POINTER #9 @ $E489 - STRING #9 @ $E7C7
+
+#W16($E489)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>Hunters are<N>
+stronger than<N>
+archers but have<N>
+less protection.<X>
+
+
+//POINTER #10 @ $E48B - STRING #10 @ $E80E
+
+#W16($E48B)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>There are three<N>
+great sages:<N>
+Archbishop Miroa,<N>
+Darkness King<N>
+Garnef<N>
+and legendary<N>
+Archsage Gato.<A>
+But Miroa's dead<N>
+now.<X>
+
+
+//POINTER #11 @ $E48D - STRING #11 @ $E88E
+
+#W16($E48D)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01><*>is"u-io<$05><$28><N>
+<$0E>"<$02><$03>rs<$1C>"<$10><$01><$05>"<N>
+<$1A><$08>rs<$0A><$2B><$10><$28><$0B><$01><A>
+<*><$24><$02><$0C><$07>" <$00><$28><$2D><$2B><$2A><$05><$28><N>
+<$06>iu<$12><$08><$15><$27><X>
+
+
+//POINTER #12 @ $E48F - STRING #12 @ $E8CF
+
+#W16($E48F)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>Inside the<N>
+fortresses many<N>
+soldiers stand<N>
+ready to fight.<N>
+Be careful.<X>
+
+
+//POINTER #13 @ $E491 - STRING #13 @ $E920
+
+#W16($E491)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>Port town Warren<N>
+sells many rare<N>
+items.<A>
+You should go<N>
+there to buy<N>
+some!  <X>
+
+
+//POINTER #14 @ $E493 - STRING #14 @ $E975
+
+#W16($E493)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>Stronger weapons<N>
+require higher<N>
+WpnLvl.<A>
+Watch out<N>
+for arrows.<X>
+
+
+//POINTER #15 @ $E495 - STRING #15 @ $E9BF
+
+#W16($E495)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>Garda's a port<N>
+town west of<N>
+Talis.<A>
+A man named<N>
+Gomes turned<N>
+it into a<N>
+pirate base.<X>
+
+
+//POINTER #16 @ $E497 - STRING #16 @ $EA1B
+
+#W16($E497)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>South of the<N>
+castle in<N>
+a village<N>
+lives Riff.<X>
+
+
+//POINTER #17 @ $E499 - STRING #17 @ $EA52
+
+#W16($E499)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>rince<X>
+
+
+//POINTER #18 @ $E49B - STRING #18 @ $EAAC
+
+#W16($E49B)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Villagers opened<N>
+their gates<N>
+for the prince.<A>
+Visit them<N>
+before<N>
+bandits do.<X>
+
+
+//POINTER #19 @ $E49D - STRING #19 @ $EB06
+
+#W16($E49D)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>Minerva's the<N>
+princess of<N>
+Macedonia. But<N>
+her little sister's<N>
+been captured so<N>
+she has no choice<N>
+but to fight.<A>
+Is there<N>
+something that<N>
+could help her?<X>
+
+
+//POINTER #20 @ $E49F - STRING #20 @ $EB9E
+
+#W16($E49F)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>A pirate named<N>
+Daros wants to<N>
+meet the prince<N>
+and join him.<A>
+You should<N>
+listen to him.<X>
+
+
+//POINTER #21 @ $E4A1 - STRING #21 @ $EC02
+
+#W16($E4A1)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>After Akaneia<N>
+fell, this town<N>
+became terrible.<A>
+We can't even walk<N>
+outside safely.<X>
+
+
+//POINTER #22 @ $E4A3 - STRING #22 @ $F074
+
+#W16($E4A3)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>Weapons are<N>
+separated in<N>
+iron, steel,<N>
+and silver<N>
+classes.<A>
+Each is stronger.<X>
+
+
+//POINTER #23 @ $E4A5 - STRING #23 @ $EC5A
+
+#W16($E4A5)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>The slave<N>
+traders their<N>
+headquarters are<N>
+on the edge of<N>
+town.<X>
+
+
+//POINTER #24 @ $E4A7 - STRING #24 @ $ECA3
+
+#W16($E4A7)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$49><SetSpeed><$01>There are kind<N>
+people in the<N>
+Grunian army. My<N>
+lover, Jake, is<N>
+a nice man.<A>
+If you see him,<N>
+tell Anna's worried<N>
+about him.<A>
+But he'll<N>
+probably only<N>
+talk to girls.<X>
+
+
+//POINTER #25 @ $E4A9 - STRING #25 @ $ED4B
+
+#W16($E4A9)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>This is Norda<N>
+City. The shops<N>
+and armories<N>
+sell rare<N>
+items!  <X>
+
+
+//POINTER #26 @ $E4AB - STRING #26 @ $ED95
+
+#W16($E4AB)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>I hate war.<A>
+Women and<N>
+children cry<N>
+endlessly.<A>
+One shouldn't<N>
+fight<N>
+constantly.     <X>
+
+
+//POINTER #27 @ $E4AD - STRING #27 @ $EDF3
+
+#W16($E4AD)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>The Akaneia<N>
+royals hold<N>
+three ancient<N>
+weapons.<A>
+the bow of fire,<N>
+Partia.<N>
+The rock<N>
+piercing lance,<N>
+Gradius<N>
+and the<N>
+legendary sword<N>
+Miracle.      <X>
+
+
+//POINTER #28 @ $E4AF - STRING #28 @ $EE8F
+
+#W16($E4AF)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>The <ballista>Thunder is<N>
+good against<N>
+shooters.<A>
+So use it wisely!<X>
+
+
+//POINTER #29 @ $E4B1 - STRING #29 @ $EED3
+
+#W16($E4B1)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>This country<N>
+fought alongside<N>
+Akaneia.<A>
+But General Camus<N>
+broke our<N>
+defense and<N>
+Grunia took us<N>
+over.<X>
+
+
+//POINTER #30 @ $E4B3 - STRING #30 @ $EF41
+
+#W16($E4B3)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Listen, there<N>
+are two villages<N>
+near here.<A>
+In the western<N>
+lives Alan, a<N>
+Paladin.<A>
+In the eastern<N>
+lives a Hero:<N>
+Samson.<A>
+But the villages<N>
+aren't friendly<N>
+with each other.<N>
+Because of that,<N>
+you can only<N>
+visit one of<N>
+them.<X>
+
+
+//POINTER #31 @ $E4B5 - STRING #31 @ $F01D
+
+#W16($E4B5)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>General Benson<N>
+owns a<N>
+knight killer.<A>
+S knights<N>
+better don't<N>
+get near him. <X>
+
+
+//POINTER #32 @ $E4B7 - STRING #32 @ $F0C9
+
+#W16($E4B7)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Use keys for<N>
+doors and<N>
+bridges and<N>
+you can pass.<X>
+
+
+//POINTER #33 @ $E4B9 - STRING #33 @ $F106
+
+#W16($E4B9)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01><*><$14><$02><$06>"<$0B>"<axe><$02><$13>"<$1A><N>
+<$0B><axe><$02><$06>rs<$05><$0D><$06>"<$05>"<$13>"<$06><$2A><$27><A>
+<*><$10>"<$08><$14>"<N>
+<$01><$19><$11><$05>"<$08><$10>"<lance><$13><$09><$14>iu<N>
+<$2D><$0C><$2B><$0C>"<$16><$18><X>
+
+
+//POINTER #34 @ $E4BB - STRING #34 @ $F14D
+
+#W16($E4BB)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01><*>vhlaz't"<falchion><$19><$21><$15><$14><$16><sword><N>
+<$09><$02><$05><$15> <$06><$0C>"<$07>"<$0C><$29><$05>"<N>
+<$02><lance><$13><$2A><$28><$0B><$01><A>
+<*><$0E><$2B><$0A><$03><$00><$2B><$1A>"<N>
+<$14>"rs<$15><$08><$05>"<$10>"<lance><$13><N>
+<$15><$04><$0D><$2A><lance><$13><$01><$02><$0D>"<X>
+
+
+//POINTER #35 @ $E4BD - STRING #35 @ $F1A0
+
+#W16($E4BD)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01><*>inuol-is"<lance><$13><$0B><lance><$13><$2A><$05><$01><N>
+<$14><$07><$0B><bow><$15> <$1A><$05>"<$18><$13>"<$12><$07><lance><$10><N>
+<$14><$13><$24><$27><$07><$06><$2B><$2A> <$12><$2A><$06>"<$0A><A>
+<*><$27><$02><$1D><$01><$15>rs<$05><$05>"<$05>"<$12><$05><$02><$14><N>
+<$1B><lance><$0A><$12><$19><$01><$11><$08>"<$06><$05>"<N>
+<$2B>rs<$1A><box><$12><$13>"<$06><$2A><$0D>"<X>
+
+
+//POINTER #36 @ $E4BF - STRING #36 @ $F206
+
+#W16($E4BF)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>I heard<N>
+Macedonia's<N>
+princess is held<N>
+captive in<N>
+Dale's castle.<X>
+
+
+//POINTER #37 @ $E4C1 - STRING #37 @ $F250
+
+#W16($E4C1)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>To defeat a<N>
+Mamkute, you'll<N>
+need a <sword>Dragon.<A>
+I heard one is<N>
+in the eastern<N>
+castle.<X>
+
+
+//POINTER #38 @ $E4C3 - STRING #38 @ $F2AD
+
+#W16($E4C3)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>The <sword>Thunder...<A>
+Who wields it<N>
+can pierce heavy<N>
+armors!  <X>
+
+
+//POINTER #39 @ $E4C5 - STRING #39 @ $F2F2
+
+#W16($E4C5)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>Rest at a fort<N>
+if you're hurt<N>
+to recover HP. <X>
+
+
+//POINTER #40 @ $E4C7 - STRING #40 @ $F385
+
+#W16($E4C7)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>With a <card>Silver,<N>
+every item in<N>
+the stores will<N>
+become cheaper.<X>
+
+
+//POINTER #41 @ $E4C9 - STRING #41 @ $F32C
+
+#W16($E4C9)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>I heard you can<N>
+enter secret<N>
+shops with a<N>
+<card>Member.<A>
+But where are<N>
+those shops?<X>
+
+
+//POINTER #42 @ $E4CB - STRING #42 @ $F3CE
+
+#W16($E4CB)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>Oh, the Aritian<N>
+Knights!<A>
+Now this country<N>
+will be peaceful<N>
+again! <X>
+
+
+//POINTER #43 @ $E4CD - STRING #43 @ $F41D
+
+#W16($E4CD)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$38><SetSpeed><$01>Princess Ellis<N>
+was taken away<N>
+by Garnef.<A>
+Oh... poor<N>
+princess... I<N>
+hope you are<N>
+unharmed... <X>
+
+
+//POINTER #44 @ $E4CF - STRING #44 @ $F485
+
+#W16($E4CF)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>I heard a<N>
+foreigner named<N>
+Chainy's in the<N>
+jail.<A>
+He seems to have<N>
+an amazing<N>
+ability.<X>
+
+
+//POINTER #45 @ $E4D1 - STRING #45 @ $F4E1
+
+#W16($E4D1)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>You can't win<N>
+against Garnef.<A>
+He's protected by<N>
+the spell Maph.<N>
+Only Lord Gato's<N>
+Starlight can<N>
+break through<N>
+it.   <X>
+
+
+//POINTER #46 @ $E4D3 - STRING #46 @ $F55C
+
+#W16($E4D3)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$36><SetSpeed><$01>I heard an old<N>
+priest lives in<N>
+the village. But<N>
+he doesn't like<N>
+humans...<X>
+
+
+//POINTER #47 @ $E4D5 - STRING #47 @ $F5B0
+
+#W16($E4D5)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$06><SetSpeed><$01>Be careful of<N>
+<sword>Devil!<A>
+One mistake and<N>
+your head will<N>
+fly off.<X>
+
+
+//POINTER #48 @ $E4D7 - STRING #48 @ $F5F9
+
+#W16($E4D7)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>Inside the Raman<N>
+Temple are three<N>
+orbs.<A>
+<orb>Light, <orb>Star<N>
+and <orb>Earth.<A>
+Only the holder<N>
+knows their<N>
+power!<X>
+
+
+//POINTER #49 @ $E4D9 - STRING #49 @ $F669
+
+#W16($E4D9)
+<StandardDialogue1>
+<LoadFace><$30><$10><$06><$08><$04><SetSpeed><$01>There's a holy<N>
+temple on the<N>
+tip of the<N>
+southern<N>
+mountain.<A>
+If you use <staff>Oum<N>
+there, you can<N>
+resurrect an<N>
+ally.<X>
+

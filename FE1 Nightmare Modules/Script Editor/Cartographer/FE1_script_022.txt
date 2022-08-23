@@ -1,0 +1,128 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #022 NAME:		Chapter Names
+
+//POINTER #0 @ $3EE18 - STRING #0 @ $3F749
+
+#W16($3EE18)
+1 Marth's Quest<N>
+
+//POINTER #1 @ $3EE1A - STRING #1 @ $3EE59
+
+#W16($3EE1A)
+2 Garda Pirates<N>
+
+//POINTER #2 @ $3EE1C - STRING #2 @ $3F78B
+
+#W16($3EE1C)
+3 Devil Mountain<N>
+
+//POINTER #3 @ $3EE1E - STRING #3 @ $3F759
+
+#W16($3EE1E)
+4 Prarie Battle<N>
+
+//POINTER #4 @ $3EE20 - STRING #4 @ $3F769
+
+#W16($3EE20)
+5 Orleans Soldiers<N>
+
+//POINTER #5 @ $3EE22 - STRING #5 @ $3EE95
+
+#W16($3EE22)
+6 Fire Emblem <N>
+
+//POINTER #6 @ $3EE24 - STRING #6 @ $3F77B
+
+#W16($3EE24)
+7 Lefcandy Trap<N>
+
+//POINTER #7 @ $3EE26 - STRING #7 @ $3EEB3
+
+#W16($3EE26)
+8 Port Warren<N>
+
+//POINTER #8 @ $3EE28 - STRING #8 @ $3F79C
+
+#W16($3EE28)
+9 Peraty Dragon<N>
+
+//POINTER #9 @ $3EE2A - STRING #9 @ $3EED0
+
+#W16($3EE2A)
+10 Sire Minerva<N>
+
+//POINTER #10 @ $3EE2C - STRING #10 @ $3EEE0
+
+#W16($3EE2C)
+11 Slave Market <N>
+
+//POINTER #11 @ $3EE2E - STRING #11 @ $3F7BE
+
+#W16($3EE2E)
+12 Akaneia Pales<N>
+
+//POINTER #12 @ $3EE30 - STRING #12 @ $3F7CF
+
+#W16($3EE30)
+13 Wooden Horse<N>
+
+//POINTER #13 @ $3EE32 - STRING #13 @ $3F7AC
+
+#W16($3EE32)
+14 Sorrow land   <N>
+
+//POINTER #14 @ $3EE34 - STRING #14 @ $3F7DF
+
+#W16($3EE34)
+15 Magic Khadein<N>
+
+//POINTER #15 @ $3EE36 - STRING #15 @ $3F7F0
+
+#W16($3EE36)
+16 Aritia Battle<N>
+
+//POINTER #16 @ $3EE38 - STRING #16 @ $3F801
+
+#W16($3EE38)
+17 Starlord Marth<N>
+
+//POINTER #17 @ $3EE3A - STRING #17 @ $3EF4D
+
+#W16($3EE3A)
+18 Black Knights<N>
+
+//POINTER #18 @ $3EE3C - STRING #18 @ $3EEF1
+
+#W16($3EE3C)
+19 Divine Princess <N>
+
+//POINTER #19 @ $3EE3E - STRING #19 @ $3EF03
+
+#W16($3EE3E)
+20 General Camus<N>
+
+//POINTER #20 @ $3EE40 - STRING #20 @ $3EF14
+
+#W16($3EE40)
+21 Macedonia Fight<N>
+
+//POINTER #21 @ $3EE42 - STRING #21 @ $3EF26
+
+#W16($3EE42)
+22 Heaven Knights<N>
+
+//POINTER #22 @ $3EE44 - STRING #22 @ $3EF38
+
+#W16($3EE44)
+23 Dark Priest   <N>
+
+//POINTER #23 @ $3EE46 - STRING #23 @ $3EF5E
+
+#W16($3EE46)
+24 Mamkute Land  <N>
+
+//POINTER #24 @ $3EE48 - STRING #24 @ $3EF70
+
+#W16($3EE48)
+25 Chosen Ones<N>

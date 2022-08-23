@@ -1,0 +1,215 @@
+HOUSES:
+e4e7=house text begins here;
+pointer table is e477 - e4da
+the header for first house is at e4db. Pointer is CBA4. 
+42AA 7EA8 F6B0 3DB1 90B1: unused house pointers?
+
+As it turns out, houses use a different set of text IDs.
+00=Beware of mercs!
+01=Hammers beat armours!
+02=Armourslayers beat armours, horseslayers beat horses, rapiers beat both!
+03=Clerics level with axes to the head!
+04=Barrier makes magic not hurt!
+05=Beware dracoknights!
+06=Thieves open treasure!
+07=You can promote at lv. 10!
+08=Skill = crits! Speed = avoid!
+09=Hunters beat archers!
+0A=Three sages: Miroa, Garnef, Gato. But Miroa's dead now!
+0B=Untranslated.
+0C=Reinforcements are in forts!
+0D=Warren sells rare items!
+0E=Strong weapons need WpnLvl. Watch out for arrows.
+0F=Garda's west of Talis. Gomes made it a pirate base.
+10=Riff lives south of the castle.
+11="rince". Suspect bad pointer in trans.
+12=Visit villages before bandits!
+13=Minerva's the princess of Macedonia! But her sister's been captured!
+14=You can recruit Daros!
+15=Norda's terrible now. Can't even walk outside safely!
+16=Weapons come in iron, steel, silver!
+17=Slaver's HQ is at the edge of town.
+18=Jake's a nice guy. But he'll only talk to girls.
+19=This is Norda. The shops have rare items!
+1A=I hate wars. Women and children cry constantly.
+1B=There's three legendary weapons. Miracle, Gradius, Partia!
+1C=Thunderbolt beats ballistas!
+1D=We were with Akaneia but Camus beat us.
+1E=Alan or Samson, take your pick.
+1F=Benson has a horseslayer. Cavaliers beware.
+20=Doors can be opened!
+21=Untranslated.
+22=Untranslated.
+23=Untranslated.
+24=Heard Maria's a captive.
+25=Dragon killers beat Mamkutes!
+26=Thunder Sword pierces defence!
+27=Forts heal HP!
+28=Silver Card makes stuff cheaper!
+29=Secret shops can be entered with Member Card! But where are the shops?
+2A=Aritian Knights! We're safe!
+2B=Ellis was taken by Garnef. I hope she's safe...
+2C=Heard Chainy's in jail. He has an amazing ability.
+2D=You can't win against Garnef.
+2E=Heard Gato lives nearby. But he doesn't like humans...
+2F=Beware the Devil Sword! One mistake and your head will fly off.
+30=Raman Temple has three orbs!
+31=Use Aum to revive people!
+
+CHAPTER OPENINGS:
+
+21f3d: Ch1 opening pointer; 81 BC. 91 9F in Japanese rom.
+"Chapter 1 Opening text
+ -$21FB4" - Celice (the old location, patch repoints)
+
+Chapter opening pointer table: 21f3d - 21fa6
+
+VILLAGES, CHAPTER ENDINGS
+
+The bank of 0x30000-0x34000 starts with a pointer table right off the bat. The second pointer is pointing to unused text.
+
+Villages/Chapter endings: 30010 - 300cb
+
+00=Marth, take 10k gold, buy weapons, save country
+01=Untranslated.
+02=take me with you and you'll be very glad you did (Recruiting Riff)
+03=Ch1 ending
+04=aritian man, save rena
+05=Gate's closed.
+06=Ch2 ending
+07=suck blood, eat flesh, devil axe
+08=Ch3 ending
+09=Recruiting marich
+0a=invalid
+0b=crash
+0c=crash
+0d=invalid
+0e=ch4 ending
+0f=duplicate of above
+10=is a rural town rare? mamkutes exist! take firestone!
+11=the other ch4 village (5k gold, I think)
+12=ch5 ending
+13=ch6 ending
+14=Chest message.
+15=Chest message.
+16=Untranslated.
+17=Recruiting Banutu
+18=Ch7 ending
+19=Ch8 ending
+1A=Ch9 ending
+1B=Recruiting George
+1C=Ch11 ending
+1D=Invalid
+1E=Fancy looking invalid
+1F=the same fail as above
+20=Crash
+21=The slave market
+22=Invalid
+23=Glitched dialogue loads, resets game
+24=Invalid
+25=Invalid, A causes crash
+26=yep
+27=uh-huh
+28=there's more game, ya know
+29=the usual
+2A=Ch12 ending
+2b=back to the usual invalids
+2c=maybe villages can't handle houses. of course, that needs further testing to see what houses are
+2d=yep
+2e=yawn
+2F=Ch13 ending
+30=Ch14 ending
+31=Recruiting Alan
+32=Recruiting Samson
+33=Meeting Camus, getting Thoron
+34=Recruiting Beck
+35=regularly scheduled invalids
+36=business as usual
+37=Ch15 ending
+38=Ch16 ending
+39=Ch17 ending
+3A=Ch13 ending... again
+3B=Ch18 ending
+3C=it was nice when it lasted
+3D=Ch19 ending
+3E=Ch19 ending again
+3F=Ch20 ending
+40=invalid
+41=Ch21 ending
+42=Ch22 ending
+43=invalid
+44=Starlight time!
+45=Ch23 ending
+46=invalid
+47=invalid
+48=Ch24 ending. Hardcoded to play boss theme, as it is not on the list of selectable songs.
+49=Good ending. Ending theme starts when Sheeda appears.
+4A=invalid
+4B=here we go again
+4C=as normal
+4D=Invalid.
+4E=If the bad ending was done, I'd accept passing end of index.
+4F=But it hasn't been done.
+50=I should look at the houses.
+51=Bad ending.
+52=Invalid.
+53=Invalid.
+54=Invalid.
+55=Invalid.
+56=Ch10 ending.
+57=nope
+58=invalid
+59=it's a common sight
+5A=How's Rena? Take Hammerne!
+5B=This invalid has ending music.
+5C=This one uses Gato's Theme.
+5D=No Orbs? No Starlight...
+
+RECRUITMENTS
+
+0x1c863: pointer table to recruitment text. FC8D appears to point to unused text. Editing a pointer to AE9B leads to text hidden in between the villages... except the text box is a broken mess. Better hack it to normality.
+
+Recruitments/Boss quotes: 1c863 - 1c93c
+
+ENDING
+0x3efc7: Pointer table to the chapter names used when a unit has fallen.
+
+Credits pointers: 12687 - 12696
+Character ending pointers: 12dfd - 12e80
+Character ending format:
+Uses Marth as an example.
+ 40 - Box location X.
+ 80 - Box location Y.
+ 12 - Width of box.
+ 05 - Height of box.
+ E8 - Control code.
+ B0 - Portrait location X.
+ 40 - Portrait location Y.
+ 06 - Portrait width.
+ 06 - Portrait height.
+ 07 - Portrait to load.
+ E2 - Surpresses mouth movement. E3 will reenable it. Other bytes mess name up.
+ E9 - Part of text speed control code.
+ 05 - Text speed.
+ EC - Loads variable code...
+ 00 - Gets name.
+ ED - Ends processing and prints ending.
+
+Class roll names: 34ca8 - 34cd3.
+Class roll descs: 34ddc - 34e07.
+
+FINAL BANK TEXT:
+Class pointers: 3da2f - 3da5e.
+Item pointers: 3dae5 - 3db9c.
+Character pointers: 3de3b - 3dea4.
+Enemy pointers: 3dfb4 - 3e03d.
+Terrain pointers: 3e601 - 3e620.
+Chapter titles: 3ee18 - 3ee49.
+Unit death chapters: 3efc7 - 3eff8.
+
+2C000-30000 SYSTEM MESSAGES:
+Blank tile menu: 2c1b5 - 2c1bf.
+Battle Preperations: 2c201 - 2c20c.
+Menu options, stat screen: 2cfd2 - 2d061
+End of chapter prompts: 2dd95 - 2ddaa.
+Shops, item usages: 2e776 - 2e825.

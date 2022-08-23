@@ -1,0 +1,52 @@
+1
+FE1 Growth Rates Editor by Darrman
+0x3E25A
+51
+7
+Character Growths List.txt
+NULL
+
+#All growths have a zero added to them for the final growth data!
+
+Strength Growth
+0
+1
+NEDU
+NULL
+
+Skill Growth
+1
+1
+NEDU
+NULL
+
+Wpn Lvl Growth
+2
+1
+NEDU
+NULL
+
+Speed Growth
+3
+1
+NEDU
+NULL
+
+Luck Growth
+4
+1
+NEDU
+NULL
+
+Defense Growth
+5
+1
+NEDU
+NULL
+
+HP Growth
+6
+1
+NEDU
+NULL
+#No data is allocated for Res growth.

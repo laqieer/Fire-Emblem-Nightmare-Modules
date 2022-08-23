@@ -1,0 +1,567 @@
+DARRMAN'S FE1 NOTES
+There's no real rhyme or reason to these. Just roll with it. As a rule of thumb, *Y coordinates come before X coordinates when it comes to grid locations.*
+
+3da2f: pointer to cavalier and class table, e3f5
+3ec40: cavalier bases!
+STR-SKL-WLV-SPD-LUK-DEF-MOV-HP-EXP
+3d9f5: hmmm..
+
+NOT-WORKING ITEM COMBOS:
+	wt-hit
+mt-use-wlvl
+uses-mt-hit
+wlvl-price
+
+
+20c10: a mt-wt-uses match.
+It was a false positive.
+
+POTENTIAL GROWTH DATA: 3E25A
+2e6fa: likely shop data
+0x2e541: coordinates for ch1 armory. Next byte determines what kind of shop you're in.
+00=none,
+01=armoury,
+02=vendor,
+03=arena,
+04=storage,
+05=secret.
+A garbled text value appears when set to 6, but game just crashes. Text for it is at 2d164.
+After that seems to pick a shop list. 14 is last valid value.
+The shop pointers by chapter range from 2e50f - 2e540. 25 pointers for 25 chapters. Each chapter's shop data is terminated with 0xF0.
+
+3d6c3: wpnlvl table??? 2
+3d833: price table? 6
+3d71f: weight table 3
+3d667: might table 1
+3d7d7: crit table 5
+3d88f: durablity table 7
+3d77b: accuracy table 4
+3d8eb: effectivness? 8
+3d977: weapon effects? 9
+
+Effectivness
+01: cavs/armours (Rapier)
+02: fliers (Bows)
+03: Dracoknights only (None)
+04: armours (Armourslayer)
+05: cavs (Horseslayer)
+06: Mamkutes (Divinestone)
+07: dragons+dracokt (Wyrmslayer)
+08: Mediuth only (Falchion)
+09: Mages (None)
+0A: Ballisticians (Thunderbolt)
+
+Weapon Effects:
+00: None
+01: Heal, Physic
+02: Mend
+03: Recover
+04: ----
+05: Magestone: immune to magic
+06: Falchion - immune to 1-range non-manakete attack
+07: Warp
+08: Hammerne
+09: Aum
+0A: Fortify
+0B: Imhullu - makes user invincible to non-Starlight
+0C: Barrier
+0D: "Helarn" - makes weapons indestructible
+0E: Earthstone - immune to 2-range
+
+13d96-expt
+e4e7=house text begins here; pointer table is e477 - e4da
+the header for first house is at e4db. Pointer is CBA4. 
+42AA 7EA8 F6B0 3DB1 90B1: unused house pointers?
+
+Map locations! Headers not included.
+Subtract 4 for the header.
+Header data goes Y-size X-size Y-camera start X-camera start.
+802e: ch1 map
+8212: ch2 map
+83f6: ch3
+86ba: ch4
+897e: ch5
+8c42: ch6
+8f20: ch7
+910b: ch8
+94ce: ch9
+9892: ch10
+9c56: ch11
+9f7a: ch12
+a33e: ch13
+
+2402c: ch14
+243f0: ch15
+247b0: ch16
+24b79: ch17
+24f3c: ch18
+25300: ch19
+254e4: ch20
+258a9: ch21
+25c6b: ch22
+26030: ch23
+263f4: ch24
+267b8: ch25
+
+I feel I should add that the top left tile on a map is 1,1. 0,0 is the inaccessible border tile.
+
+CORRUPTION EXPERIMENTS:
+Replace 1B with 1C...
+28000-30000: Breaks Ch1 to pieces.
+30000-3A000: There goes the music.
+10000-20000: 1st pirate causes reset.
+0-10000    : Game resets on EP.
+3A000-40000: BRICK.
+3A000-3B000: One note of music messes up.
+3B000-3C000: Nothing seems to change...
+3C000-3D000: Two bytes and one of 'em bricks the rom.
+3D000-3E000: No changes... 
+3E000-3F000: LITERALLY NOTHING.
+3F000-40000: A "breaks every enemy" lurks here.
+Graphics   : The hunter map sprite messes up?
+EVERYTHING!: Still doesn't change.
+
+---IMPORTANT FEU STUFF---
+
+:Zahlman: :yourwaifu: :Teq: :roi: :Noyce: :marf: :Lilina: :Kent: :IntSys: :Florina: :FEU: :Eliwood: :Elise: :Elbert: :EA: :donate: :Colorz: :cam: :betaoona: :BBQ: :ArchMini: :Arch:
+
+One day, a group of wizards (:Zahlman: :Teq: :Cam: :Arch: :ArchMini: :Colorz:) from :FEU: went to make a romhack using :EA:. However, :IntSys: decided that was stupid, and sent an army of annoying guys with :donate: signs to annoy the wizards. After throwing them to :yourwaifu:, everyone said :Noyce:. Unfortunately, the :yourwaifu: showed up again and started a waifu war, forcing people to choose from :Florina: :Elise: :Lilina: :betaoona:. However, two kids nearby :marf: :roi: saw this and decided to make a :BBQ: for the waifu war. :roi:'s family was with him and they went :Eliwood: :Elbert: to this mess. The :FEU: chat collectively sighed at them.
+
+
+---END IMPORTANT FEU STUFF---
+
+20AF0=pirates? Yep, that's a pirate alright. Well, *was* a pirate, he's a 20/20 paladin now. (5,6)
+
+The pointers to enemy data range from 20AB3 - 20AE4.
+
+85 08 01 1b 00 07 06 35 00 02 09
+
+85-character - Garda Pirate
+08-class - pirate
+01-level. stats autolevel
+1b-item. - iron axe
+00-droppable item. This guy has none. If recruitable, this is their second item slot.
+07-Y position
+06-X position
+35-
+00-
+02-Editing this on Gazzak changed the Y-tile he stood on.
+09-Same, but for X. Perhaps they're AI settings.
+
+99 04 0E 10 10 05 08 1D 00 05 08=Camus. 21A0D.
+81 08 05 1C 40 03 05 1D 00 05 05=Gazak. 20AE5.
+87 06 03 07 00 06 15 35 00 09 05=Navarre. 20C47.
+9F 0F 0A 14 00 0C 13 1D 00 0C 13=generic Ch25 sniper. Attack in range yet returns to position when no-one around? *shrugs*
+AF 01 01 0C 00 01 0F 15 8A 07 05
+=reinforcement cavalier in Ch5. D5EC, far away from everyone else.
+A5 05 01 0F 09 01 03 04 00 01 01=Ch10 Minerva. 2127E
+
+1D 00=guard AI?
+
+0x8e=y and 0x8f=x in ram are cursor locations.
+7675=turn count
+7678=gold in ram, low
+7679=gold in ram, high
+The byte at 3e3c0 seems to be called for new game gold.
+
+Trying to find chapter opening pointer table...
+Searching 20000-24000 bank. Not beyond the text, must be before ~22000.
+
+21f3d: Ch1 opening pointer; 81 BC. 91 9F in Japanese rom.
+"Chapter 1 Opening text
+ -$21FB4" - Celice (the old location, patch repoints)
+
+Chapter opening pointer table: 21f3d - 21fa6?
+
+b3a0; 0x21f45=ch2 pointer. ch2 is at 220c3. 2 20c3=20b3=b320. Return of the SNES Pointer Nightmares? 
+23c91 starts data.
+
+EDIT POINTER TO 63A1=UNUSED OPENING???!!!
+
+Let's try to document the character data in ram. This is Ch1 Marth.
+The struct is 0x1c bytes long.
+6a90=character number.
+6a91=current class.
+6a92=current level.
+6a93=stats. Located in the order of:
+CHP, MHP, EXP, current map tile?, STR, SKL, WLV, SPD, LUK, DEF, MOV, "VIS", RES
+The vision byte goes up when using the unused telescope. Remmants of the stat do still exist! ... no sign of fog.
+6aa0=location. Y, X.
+6aa2=selectable? 0=yes, 1=no. You know where to look, cheats.
+6aa3=current items. 4 bytes for stuff, 4 bytes for uses.
+
+At 0x198ad is the promotion table. Two tables of five bytes to show who promotes from each item, and a third showing what they promote into.
+
+98ad-989d-9d98-? 9d98 turns up near the promo table.
+
+0x3d95D=effective damage lists. Pointers appear to precede the list; starts at 3D949. You've got ten lists to mess with.
+
+The bank of 0x30000-0x34000 starts with a pointer table right off the bat. The second pointer is pointing to unused text.
+
+Villages/Chapter endings: 30010 - 300cb
+
+0x1c863: pointer table to recruitment text. FC8D appears to point to unused text. Editing a pointer to AE9B leads to text hidden in between the villages... except the text box is a broken mess. Better hack it to normality.
+
+Recruitments/Boss quotes: 1c863 - 1c93c
+
+0x3eddd=Changing this byte stops Daros from being talked to. It looks like a recruitment table. The table seems to start at 0x3edd4, and looks like it relates to a similar table at 0x3edc5, controlling recruiters. Studying the debugger shows there is a command converting Daros's enemy ID to his player ID, 0x0F, at 0x3EDF9. That table starts at 0x3edf0.
+
+0x3EDFE=Boss music table. These IDs play the boss theme.
+
+0xdd0d: Values of money are listed here. They do not influence money given, but they do change dialouge.
+
+7709 seems important in the ram. Perhaps it controls which item is given when village visited?
+0xe133 seems to be the 10000G village and the start of the Ch1 events. Events appear to be five bytes long.
+0xe138=Riff village. 09 04 80 02 04. 09 04 are co-ordinates. No prizes for knowing the order. 80 is reward. Generally item. Since a character is obtained here, you get 80 for Riff. There's an 80 for Marich as well; 80 seems to be the code for "give character". 02 selects convo. 04 selects music.
+0xE17D=DEVIL AXE VILLAGE ITEM
+0xe1bb=firestone village item. Previous bytes are coordinates of village? 03,16.
+0xe195: location of marich village
+0xe1a1=the silver sword after ch4; location is set to the gate.
+0xe1da=the ch6 physic; chests and villages go close together.
+
+The village code does appear to use some form of text ID system. So that means I must describe what each ID results in.
+
+00=Marth, take 10k gold, buy weapons, save country
+01=Untranslated.
+02=take me with you and you'll be very glad you did (Recruiting Riff)
+03=Ch1 ending
+04=aritian man, save rena
+05=Gate's closed.
+06=Ch2 ending
+07=suck blood, eat flesh, devil axe
+08=Ch3 ending
+09=Recruiting marich
+0a=invalid
+0b=crash
+0c=crash
+0d=invalid
+0e=ch4 ending
+0f=duplicate of above
+10=is a rural town rare? mamkutes exist! take firestone!
+11=the other ch4 village (5k gold, I think)
+12=ch5 ending
+13=ch6 ending
+14=Chest message.
+15=Chest message.
+16=Untranslated.
+17=Recruiting Banutu
+18=Ch7 ending
+19=Ch8 ending
+1A=Ch9 ending
+1B=Recruiting George
+1C=Ch11 ending
+1D=Invalid
+1E=Fancy looking invalid
+1F=the same fail as above
+20=Crash
+21=The slave market
+22=Invalid
+23=Glitched dialogue loads, resets game
+24=Invalid
+25=Invalid, A causes crash
+26=yep
+27=uh-huh
+28=there's more game, ya know
+29=the usual
+2A=Ch12 ending
+2b=back to the usual invalids
+2c=maybe villages can't handle houses. of course, that needs further testing to see what houses are
+2d=yep
+2e=yawn
+2F=Ch13 ending
+30=Ch14 ending
+31=Recruiting Alan
+32=Recruiting Samson
+33=Meeting Camus, getting Thoron
+34=Recruiting Beck
+35=regularly scheduled invalids
+36=business as usual
+37=Ch15 ending
+38=Ch16 ending
+39=Ch17 ending
+3A=Ch13 ending... again
+3B=Ch18 ending
+3C=it was nice when it lasted
+3D=Ch19 ending
+3E=Ch19 ending again
+3F=Ch20 ending
+40=invalid
+41=Ch21 ending
+42=Ch22 ending
+43=invalid
+44=Starlight time!
+45=Ch23 ending
+46=invalid
+47=invalid
+48=Ch24 ending. Hardcoded to play boss theme, as it is not on the list of selectable songs.
+49=Good ending. Ending theme starts when Sheeda appears.
+4A=invalid
+4B=here we go again
+4C=as normal
+4D=Invalid.
+4E=If the bad ending was done, I'd accept passing end of index.
+4F=But it hasn't been done.
+50=I should look at the houses.
+51=Bad ending.
+52=Invalid.
+53=Invalid.
+54=Invalid.
+55=Invalid.
+56=Ch10 ending.
+57=nope
+58=invalid
+59=it's a common sight
+5A=How's Rena? Take Hammerne!
+5B=This invalid has ending music.
+5C=This one uses Gato's Theme.
+5D=No Orbs? No Starlight...
+
+As it turns out, houses use a different set of text IDs.
+00=Beware of mercs!
+01=Hammers beat armours!
+02=Armourslayers beat armours, horseslayers beat horses, rapiers beat both!
+03=Clerics level with axes to the head!
+04=Barrier makes magic not hurt!
+05=Beware dracoknights!
+06=Thieves open treasure!
+07=You can promote at lv. 10!
+08=Skill = crits! Speed = avoid!
+09=Hunters beat archers!
+0A=Three sages: Miroa, Garnef, Gato. But Miroa's dead now!
+0B=Untranslated.
+0C=Reinforcements are in forts!
+0D=Warren sells rare items!
+0E=Strong weapons need WpnLvl. Watch out for arrows.
+0F=Garda's west of Talis. Gomes made it a pirate base.
+10=Riff lives south of the castle.
+11="rince". Suspect bad pointer in trans.
+12=Visit villages before bandits!
+13=Minerva's the princess of Macedonia! But her sister's been captured!
+14=You can recruit Daros!
+15=Norda's terrible now. Can't even walk outside safely!
+16=Weapons come in iron, steel, silver!
+17=Slaver's HQ is at the edge of town.
+18=Jake's a nice guy. But he'll only talk to girls.
+19=This is Norda. The shops have rare items!
+1A=I hate wars. Women and children cry constantly.
+1B=There's three legendary weapons. Miracle, Gradius, Partia!
+1C=Thunderbolt beats ballistas!
+1D=We were with Akaneia but Camus beat us.
+1E=Alan or Samson, take your pick.
+1F=Benson has a horseslayer. Cavaliers beware.
+20=Doors can be opened!
+21=Untranslated.
+22=Untranslated.
+23=Untranslated.
+24=Heard Maria's a captive.
+25=Dragon killers beat Mamkutes!
+26=Thunder Sword pierces defence!
+27=Forts heal HP!
+28=Silver Card makes stuff cheaper!
+29=Secret shops can be entered with Member Card! But where are the shops?
+2A=Aritian Knights! We're safe!
+2B=Ellis was taken by Garnef. I hope she's safe...
+2C=Heard Chainy's in jail. He has an amazing ability.
+2D=You can't win against Garnef.
+2E=Heard Gato lives nearby. But he doesn't like humans...
+2F=Beware the Devil Sword! One mistake and your head will fly off.
+30=Raman Temple has three orbs!
+31=Use Aum to revive people!
+
+The game has a system of control codes present to control how text is displayed. There aren't too many from what I've seen, but they're there.
+E5=Draw text boxes.
+E8=Load portrait.
+E9 XX=Controls text speed.
+ED=New line.
+EE=Press A to continue.
+EF=End of text block.
+FF=Space.
+
+0x37149: Edit the Nintendo presents... No anti-piracy seems to have activated.
+0x3689c: Edit this byte, and the amount of lines printed for the opening will change. Set it high enough and the unused ACRNEAR ERA text will be restored to viewing!
+
+0x3efc7: Pointer table to the chapter names used when a unit has fallen.
+
+Credits pointers: 12687 - 12696
+Character ending pointers: 12dfd - 12e80
+Character ending format:
+Uses Marth as an example.
+ 40 - Box location X.
+ 80 - Box location Y.
+ 12 - Width of box.
+ 05 - Height of box.
+ E8 - Control code.
+ B0 - Portrait location X.
+ 40 - Portrait location Y.
+ 06 - Portrait width.
+ 06 - Portrait height.
+ 07 - Portrait to load.
+ E2 - Surpresses mouth movement. E3 will reenable it. Other bytes mess name up.
+ E9 - Part of text speed control code.
+ 05 - Text speed.
+ EC - Loads variable code...
+ 00 - Gets name.
+ ED - Ends processing and prints ending.
+
+endgame unit position slot locations: 18,10; 1a,0e; 1a,0f 06,03 04,04 04,05 05,07 17,05, 17,06, 17,07 04,1a 04,1b 05,1a 05,1b 0x20a92 is position of unit 1 coordinates; byte before suspected to be units deployable... suspicion confirmed. table starts with chapter 2 deployment limit of 8 at 207d2. Pointer table ranges from 207A0 - 207D1.
+Unit placement pointers seem to range from 204A0 - 204D1. Chapters without any units starting on the field just point to some other chapter's terminating zero.
+
+random fact: ogma recruits saber... but it plays wendell's marth recruitment convo
+
+0x360 in ram is attack value, 0x349 is might. Comparisons seem to point to CCBF being an important pointer in making magic ignore strength. The checks start at 3CC7C. First check is to see if register X is equal to 0x08 and branch off if so. For whatever reason, the index counts from 0x00 in this routine; doing so places that number squarely at thunder sword. It branches to CCBF; this routine deals with fixed damage. Afterwards it checks if X is greater than 0x2A; following the same rules as last time means if ID is greater then Fire, before branching to the same routine. NOP this out and et voila, mages can use their magic stats! It tacks on a point more damage for some odd reason; run a SBC 0x01 in place of the  BPL branch to get rid of the extra point.
+
+[This stuff is in RAM.]
+
+0x76f4 appears to be current character.
+
+0x7FF4 seems like the current menu option.
+0x775C has the current sound room track.
+
+[RAM data end.]
+
+E5 30 10 14 04 02 30 70 12 05 E8 90 30 06 06 2A E9 03 - A sample string of dialogue header. This is Ch3 opening. 
+E5: Judging by a look at script dump, seems to start drawing text boxes.
+30 10 look like chapter title box.
+14 04 would be width/height.
+02 would likely load chapter number?
+30 70 control main text box location. 30 is X, 70 is Y.
+12 05 control its size. 12 is width and 05 is height. Expanding dialouge down actually saves the extra lines in the box.
+I don't know what the E8 does exactly, seems to be pointers or something. 
+The 90 30 control where the portrait is loaded. X actually comes first here. The first 06 controls width, next controls height. Don't set it to 1, that outright crashes the game.
+2A controls what face is loaded. This example loads Julian.
+Below I'm gonna put a list of portraits. The E9 03 ~~just seem to be remmants of the dot every line started with in Japan.~~
+Actually, it appears to be the text speed.
+
+00-Armoury man
+01-Vendor woman
+02-Arena man
+03-Moustache man
+04-Old villager
+05-King
+06-"You can't win against Garnef" villager
+07-Right Marth
+08-Jeigan
+09-Sad Sheeda
+0A-Happy Sheeda
+0B-Left Marth
+0C-Marich
+0D-Hardin
+0E-Minerva
+0F-Est
+10-Paola
+11-Katua
+12-Lawrence
+13-Caesar
+14-Jake
+15-Storage man
+16-Ricardo
+17-Garnef
+18-Banutu
+19-Daros
+1A-Alan
+1B-Midia
+1C-Generic boss
+1D-Kashim
+1E-Astria
+1F-Camus
+20-Nina
+21-Ellis
+22-Linda
+23-Gato
+24-Mamkute
+25-Slaver
+26-Another Marth?
+27-Kain
+28-Abel
+29-Chiki
+2A-Julian
+2B-Rena
+2C-Maria
+2D-Boa
+2E-Wendel
+2F-Oguma
+30-Mediuth
+31-More Sheeda, I think she's looking the other way	
+32-Minerva with closed eyes
+33-Morodof
+34-Gordon, etc
+35-Riff
+36-Villager pointing at thing
+37-Boss bishop
+38-Villager with food
+39-Saji and/or Maji
+3A-George
+3B-Doga
+3C-TOMTH/MISHELAN
+3D-Samson
+3E-Linda in "boy clothing"
+3F-Zagaro
+40-Red Kashim
+41-Yellow Kashim
+42-Wolf
+43-Barts
+44-Roshe
+45-Machis and/or Biraku
+46-Roger
+47-Raddy
+48-Beck
+49-Anna
+4A-Mishiel
+4B-Chainy
+4C-Navarre
+4D-Generic boss 2
+4E-The same, with mohawk
+4F-Glitches, end of mugs
+
+The portrait table seems to be at 0x2BD80. It lasts until 0x2BDF9, following index order. FF=no portrait.
+
+TSA, TSA, TSA. The portraits in FE1 are typically 48x48, or 6x6 tiles. Except for the occasional 48x64 or 6x8 tile one. So what goes where?
+
+Marth - 293c1 for tilemap, pointer 293bf. This pointer points to some other table starting at 2a7dc. This appears to control the palettes and a bunch of other stuff. Each tile has three bytes for it.
+
+Palette. 00-03. Loops afterwards. Multiples of 40 rotate the tile in various directions.
+Y location. Determined to the pixel.
+X location. 0,0 is top left of portrait.
+
+The tilemap seems to just run one tile at a time, but the speaking frames are skipped and left until the end. These tiles are dealt with seperately in between F0 bytes in the palette table. Every frame of mouth animation is preceded by 30 A8.
+ 
+Three copies of his palette are used for the three Marth portraits, but his statscreen portrait palettes are at 2bac8. The pointer to these is at 2b778.
+
+Camus - 2929d tilemap. The tiles on his portrait that would be blank seem to be skipped over in the TSA.
+
+I used to have more detailed graphical notes here, but a hard drive crash means they aren't here anymore.
+
+Right, make sure to actually *save* the data this time...
+
+"Blah attacks" TSA: 1C05F - 1C0E7.
+HP bar TSA: 1554F - 1559C.
+Terrain window TSA: 145A6 - 145B4.
+Class roll frame TSA: 343C2 - 34436.
+Battle window TSA: 148CA - 14955.
+Combat frame palette: 17d12 - 17d14.
+
+Menus seem to be controlled by a block of code ranging from 2CE1F to 2CFD1.
+
+Relative cursor locations for each menu choice are located at 2d3e8 - 2d3ef.
+
+2CE62's value sets the tile for where the menu dot lies.
+
+Changing 2CE35 changes the starting number for storage items. It doesn't seem to affect the true cap, though. If reduced, it simply overflows to 255 items remaining.
+
+Music list, going by the village music byte.
+Duplicates ignored.
+00-Continues playing map theme.
+01-Enemy phase combat.
+02-LEVEL UP!!
+04-Standard village music.
+08-Chapter opening theme.
+10-Gato's theme.
+20-Victory music!
+40-Player phase combat.
+80-Save your game?
+
+0x10479: part of pointer table to death quotes, I think. 9B 85 points to old Jeigan... and probably some other guys too. 08 13 10 04 come before the quote. In fact, they seem to come before every quote.
+08=Horizontal position
+13=Vertical position
+10=Controls how many characters are used before a line break is forced.
+04=Setting to 00/01 crashes. Amount of lines used before text scrolls up.

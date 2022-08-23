@@ -1,0 +1,62 @@
+1
+Class Weapon Usablity Pointer Editor by Darrman
+0x1A3EA
+1
+9
+NULL
+NULL
+
+Sword Pointer
+0
+2
+NEHU
+NULL
+
+Lance Pointer
+2
+2
+NEHU
+NULL
+
+Bow Pointer
+4
+2
+NEHU
+NULL
+
+
+Ballista Pointer
+6
+2
+NEHU
+NULL
+
+Axe Pointer
+8
+2
+NEHU
+NULL
+
+Dragonstone Pointer
+10
+2
+NEHU
+NULL
+
+Tome Pointer
+12
+2
+NEHU
+NULL
+
+Staff A Pointer
+14
+2
+NEHU
+NULL
+
+Staff B Pointer
+16
+2
+NEHU
+NULL

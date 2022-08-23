@@ -1,0 +1,555 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #006 NAME:		Item Names
+
+//POINTER #0 @ $3DAE5 - STRING #0 @ $3DB9D
+
+#W16($3DAE5)
+<sword>Silver<X>
+
+
+//POINTER #1 @ $3DAE7 - STRING #1 @ $3DBA6
+
+#W16($3DAE7)
+<sword>Iron<X>
+
+
+//POINTER #2 @ $3DAE9 - STRING #2 @ $3DBAE
+
+#W16($3DAE9)
+<sword>Steel<X>
+
+
+//POINTER #3 @ $3DAEB - STRING #3 @ $3F367
+
+#W16($3DAEB)
+<sword>Armor<X>
+
+
+//POINTER #4 @ $3DAED - STRING #4 @ $3F351
+
+#W16($3DAED)
+<sword>Rapier<X>
+
+
+//POINTER #5 @ $3DAEF - STRING #5 @ $3DBC6
+
+#W16($3DAEF)
+<sword>Dragon<X>
+
+
+//POINTER #6 @ $3DAF1 - STRING #6 @ $3DBD0
+
+#W16($3DAF1)
+<sword>Kill<X>
+
+
+//POINTER #7 @ $3DAF3 - STRING #7 @ $3F36F
+
+#W16($3DAF3)
+<sword>Miracle<X>
+
+
+//POINTER #8 @ $3DAF5 - STRING #8 @ $3DBDC
+
+#W16($3DAF5)
+<sword>Thunder<X>
+
+
+//POINTER #9 @ $3DAF7 - STRING #9 @ $3DBE7
+
+#W16($3DAF7)
+<sword>Devil<X>
+
+
+//POINTER #10 @ $3DAF9 - STRING #10 @ $3F359
+
+#W16($3DAF9)
+<falchion>Falchion<X>
+
+
+//POINTER #11 @ $3DAFB - STRING #11 @ $3F381
+
+#W16($3DAFB)
+<lance>Iron<X>
+
+
+//POINTER #12 @ $3DAFD - STRING #12 @ $3F390
+
+#W16($3DAFD)
+<lance>Knight<X>
+
+
+//POINTER #13 @ $3DAFF - STRING #13 @ $3F399
+
+#W16($3DAFF)
+<lance>Silver<X>
+
+
+//POINTER #14 @ $3DB01 - STRING #14 @ $3F387
+
+#W16($3DB01)
+<lance>Javelin<X>
+
+
+//POINTER #15 @ $3DB03 - STRING #15 @ $3DC0C
+
+#W16($3DB03)
+<lance>Gradius<X>
+
+
+//POINTER #16 @ $3DB05 - STRING #16 @ $3DBBF
+
+#W16($3DB05)
+<bow>Iron<X>
+
+
+//POINTER #17 @ $3DB07 - STRING #17 @ $3DC19
+
+#W16($3DB07)
+<bow>Steel<X>
+
+
+//POINTER #18 @ $3DB09 - STRING #18 @ $3F3A9
+
+#W16($3DB09)
+<bow>Bowgun<X>
+
+
+//POINTER #19 @ $3DB0B - STRING #19 @ $3F3B1
+
+#W16($3DB0B)
+<bow>Silver<X>
+
+
+//POINTER #20 @ $3DB0D - STRING #20 @ $3DC2E
+
+#W16($3DB0D)
+<bow>Partia<X>
+
+
+//POINTER #21 @ $3DB0F - STRING #21 @ $3DC36
+
+#W16($3DB0F)
+<ballista>Quick<X>
+
+
+//POINTER #22 @ $3DB11 - STRING #22 @ $3DC3E
+
+#W16($3DB11)
+<ballista>Stone<X>
+
+
+//POINTER #23 @ $3DB13 - STRING #23 @ $3DC47
+
+#W16($3DB13)
+<ballista>Fire<X>
+
+
+//POINTER #24 @ $3DB15 - STRING #24 @ $3DC50
+
+#W16($3DB15)
+<ballista>Thunder<X>
+
+
+//POINTER #25 @ $3DB17 - STRING #25 @ $3F3BA
+
+#W16($3DB17)
+<ballista>Elephant<X>
+
+
+//POINTER #26 @ $3DB19 - STRING #26 @ $3F3A2
+
+#W16($3DB19)
+<axe>Iron<X>
+
+
+//POINTER #27 @ $3DB1B - STRING #27 @ $3DC64
+
+#W16($3DB1B)
+<axe>Steel<X>
+
+
+//POINTER #28 @ $3DB1D - STRING #28 @ $3DC01
+
+#W16($3DB1D)
+<axe>Hammer<X>
+
+
+//POINTER #29 @ $3DB1F - STRING #29 @ $3DC71
+
+#W16($3DB1F)
+<axe>Devil<X>
+
+
+//POINTER #30 @ $3DB21 - STRING #30 @ $3DBB8
+
+#W16($3DB21)
+<axe>Hand<X>
+
+
+//POINTER #31 @ $3DB23 - STRING #31 @ $3DC7E
+
+#W16($3DB23)
+lialf"-z<X>
+
+
+//POINTER #32 @ $3DB25 - STRING #32 @ $3DC85
+
+#W16($3DB25)
+la"-ri"alu<X>
+
+
+//POINTER #33 @ $3DB27 - STRING #33 @ $3F3D5
+
+#W16($3DB27)
+<dragonstone>Demon<X>
+
+
+//POINTER #34 @ $3DB29 - STRING #34 @ $3F3C3
+
+#W16($3DB29)
+<dragonstone>Divine<X>
+
+
+//POINTER #35 @ $3DB2B - STRING #35 @ $3F3CC
+
+#W16($3DB2B)
+<dragonstone>Fire<X>
+
+
+//POINTER #36 @ $3DB2D - STRING #36 @ $3DCA3
+
+#W16($3DB2D)
+ulskzlc"-<X>
+
+
+//POINTER #37 @ $3DB2F - STRING #37 @ $3F3DE
+
+#W16($3DB2F)
+<dragonstone>Earth<X>
+
+
+//POINTER #38 @ $3DB31 - STRING #38 @ $3DCB2
+
+#W16($3DB31)
+ldtizwz<X>
+
+
+//POINTER #39 @ $3DB33 - STRING #39 @ $3DCB8
+
+#W16($3DB33)
+dh<box>ig<staff>-z<X>
+
+
+//POINTER #40 @ $3DB35 - STRING #40 @ $3DCC0
+
+#W16($3DB35)
+lc"-icis"sri<tome>Thunder<X>
+
+
+//POINTER #41 @ $3DB37 - STRING #41 @ $3DCCB
+
+#W16($3DB37)
+under<X>
+
+
+//POINTER #42 @ $3DB39 - STRING #42 @ $3DCD2
+
+#W16($3DB39)
+<tome>Fire<X>
+
+
+//POINTER #43 @ $3DB3B - STRING #43 @ $3DCC8
+
+#W16($3DB3B)
+<tome>Thunder<X>
+
+
+//POINTER #44 @ $3DB3D - STRING #44 @ $3DCDD
+
+#W16($3DB3D)
+<tome>Freeze<X>
+
+
+//POINTER #45 @ $3DB3F - STRING #45 @ $3DCE5
+
+#W16($3DB3F)
+<tome>Elfire<X>
+
+
+//POINTER #46 @ $3DB41 - STRING #46 @ $3F3ED
+
+#W16($3DB41)
+<tome>Volcannon<X>
+
+
+//POINTER #47 @ $3DB43 - STRING #47 @ $3F3F7
+
+#W16($3DB43)
+<tome>Torron<X>
+
+
+//POINTER #48 @ $3DB45 - STRING #48 @ $3DCF7
+
+#W16($3DB45)
+<tome>Worm<X>
+
+
+//POINTER #49 @ $3DB47 - STRING #49 @ $3F3E7
+
+#W16($3DB47)
+<tome>Aura<X>
+
+
+//POINTER #50 @ $3DB49 - STRING #50 @ $3DD01
+
+#W16($3DB49)
+<tome>Excalibur<X>
+
+
+//POINTER #51 @ $3DB4B - STRING #51 @ $3F403
+
+#W16($3DB4B)
+<tome>Maph<X>
+
+
+//POINTER #52 @ $3DB4D - STRING #52 @ $3F409
+
+#W16($3DB4D)
+<tome>Starlight<X>
+
+
+//POINTER #53 @ $3DB4F - STRING #53 @ $3DD14
+
+#W16($3DB4F)
+<staff>Live<X>
+
+
+//POINTER #54 @ $3DB51 - STRING #54 @ $3DD1A
+
+#W16($3DB51)
+<staff>Relieve<X>
+
+
+//POINTER #55 @ $3DB53 - STRING #55 @ $3DD31
+
+#W16($3DB53)
+<staff>Recover<X>
+
+
+//POINTER #56 @ $3DB55 - STRING #56 @ $3DD26
+
+#W16($3DB55)
+is-z<X>
+
+
+//POINTER #57 @ $3DB57 - STRING #57 @ $3DD2B
+
+#W16($3DB57)
+<staff>Warp<X>
+
+
+//POINTER #58 @ $3DB59 - STRING #58 @ $3F432
+
+#W16($3DB59)
+<staff>Hammerne<X>
+
+
+//POINTER #59 @ $3DB5B - STRING #59 @ $3F412
+
+#W16($3DB5B)
+<staff>Reblow<X>
+
+
+//POINTER #60 @ $3DB5D - STRING #60 @ $3F423
+
+#W16($3DB5D)
+<staff>M Shield<X>
+
+
+//POINTER #61 @ $3DB5F - STRING #61 @ $3F41A
+
+#W16($3DB5F)
+<staff>Reserve<X>
+
+
+//POINTER #62 @ $3DB61 - STRING #62 @ $3DD4A
+
+#W16($3DB61)
+<staff>Oum<X>
+
+
+//POINTER #63 @ $3DB63 - STRING #63 @ $3F505
+
+#W16($3DB63)
+<wineglass>Vulnenary<X>
+
+
+//POINTER #64 @ $3DB65 - STRING #64 @ $3F50E
+
+#W16($3DB65)
+<wineglass>PureWtr<X>
+
+
+//POINTER #65 @ $3DB67 - STRING #65 @ $3DD5B
+
+#W16($3DB67)
+<key>Door<X>
+
+
+//POINTER #66 @ $3DB69 - STRING #66 @ $3F4C8
+
+#W16($3DB69)
+<key>Bridge<X>
+
+
+//POINTER #67 @ $3DB6B - STRING #67 @ $3DD6E
+
+#W16($3DB6B)
+<key>Thief<X>
+
+
+//POINTER #68 @ $3DB6D - STRING #68 @ $3DD78
+
+#W16($3DB6D)
+No item<X>
+
+
+//POINTER #69 @ $3DB6F - STRING #69 @ $3F4B0
+
+#W16($3DB6F)
+<ring>Dragon<X>
+
+
+//POINTER #70 @ $3DB71 - STRING #70 @ $3F4C0
+
+#W16($3DB71)
+<ring>Amulet<X>
+
+
+//POINTER #71 @ $3DB73 - STRING #71 @ $3F4B8
+
+#W16($3DB73)
+<ring>Boots<X>
+
+
+//POINTER #72 @ $3DB75 - STRING #72 @ $3F492
+
+#W16($3DB75)
+<ring>Manual<X>
+
+
+//POINTER #73 @ $3DB77 - STRING #73 @ $3F488
+
+#W16($3DB77)
+<ring>Secret<X>
+
+
+//POINTER #74 @ $3DB79 - STRING #74 @ $3F47D
+
+#W16($3DB79)
+<ring>Power<X>
+
+
+//POINTER #75 @ $3DB7B - STRING #75 @ $3DDA6
+
+#W16($3DB7B)
+islenla"d<X>
+
+
+//POINTER #76 @ $3DB7D - STRING #76 @ $3DDAD
+
+#W16($3DB7D)
+<ring>Speed<X>
+
+
+//POINTER #77 @ $3DB7F - STRING #77 @ $3F4A5
+
+#W16($3DB7F)
+<ring>Goddess<X>
+
+
+//POINTER #78 @ $3DB81 - STRING #78 @ $3F472
+
+#W16($3DB81)
+<ring>Angel<X>
+
+
+//POINTER #79 @ $3DB83 - STRING #79 @ $3F43B
+
+#W16($3DB83)
+<promotion>Knight<X>
+
+
+//POINTER #80 @ $3DB85 - STRING #80 @ $3F451
+
+#W16($3DB85)
+<promotion>Hero<X>
+
+
+//POINTER #81 @ $3DB87 - STRING #81 @ $3F467
+
+#W16($3DB87)
+<promotion>Bishop<X>
+
+
+//POINTER #82 @ $3DB89 - STRING #82 @ $3F45C
+
+#W16($3DB89)
+<promotion>Orion<X>
+
+
+//POINTER #83 @ $3DB8B - STRING #83 @ $3F446
+
+#W16($3DB8B)
+<promotion>Dragon<X>
+
+
+//POINTER #84 @ $3DB8D - STRING #84 @ $3F4D3
+
+#W16($3DB8D)
+<orb>Earth<X>
+
+
+//POINTER #85 @ $3DB8F - STRING #85 @ $3DDFD
+
+#W16($3DB8F)
+<$14><$06><$19>le-h"<X>
+
+
+//POINTER #86 @ $3DB91 - STRING #86 @ $3DE05
+
+#W16($3DB91)
+<$25><$21><$19>le-h"<X>
+
+
+//POINTER #87 @ $3DB93 - STRING #87 @ $3F4DC
+
+#W16($3DB93)
+<orb>Star<X>
+
+
+//POINTER #88 @ $3DB95 - STRING #88 @ $3F4EF
+
+#W16($3DB95)
+<card>Member<X>
+
+
+//POINTER #89 @ $3DB97 - STRING #89 @ $3F4FA
+
+#W16($3DB97)
+<card>Silver<X>
+
+
+//POINTER #90 @ $3DB99 - STRING #90 @ $3F4E5
+
+#W16($3DB99)
+<orb>Light<X>
+
+
+//POINTER #91 @ $3DB9B - STRING #91 @ $3DE32
+
+#W16($3DB9B)
+Fteiczh"vm<X>
+

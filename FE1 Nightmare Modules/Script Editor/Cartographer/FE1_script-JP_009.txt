@@ -1,0 +1,99 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #009 NAME:		Terrain Names
+
+//POINTER #0 @ $3E601 - STRING #0 @ $3E621
+
+#W16($3E601)
+そうけ"ん<X>
+
+
+//POINTER #1 @ $3E603 - STRING #1 @ $3E627
+
+#W16($3E603)
+はしら<X>
+
+
+//POINTER #2 @ $3E605 - STRING #2 @ $3E62B
+
+#W16($3E605)
+はやし<X>
+
+
+//POINTER #3 @ $3E607 - STRING #3 @ $3E62F
+
+#W16($3E607)
+さは"く<X>
+
+
+//POINTER #4 @ $3E609 - STRING #4 @ $3E634
+
+#W16($3E609)
+や ま<X>
+
+
+//POINTER #5 @ $3E60B - STRING #5 @ $3E638
+
+#W16($3E60B)
+は し<X>
+
+
+//POINTER #6 @ $3E60D - STRING #6 @ $3E63C
+
+#W16($3E60D)
+ま ち<X>
+
+
+//POINTER #7 @ $3E60F - STRING #7 @ $3E640
+
+#W16($3E60F)
+とりて"<X>
+
+
+//POINTER #8 @ $3E611 - STRING #8 @ $3E645
+
+#W16($3E611)
+し ろ<X>
+
+
+//POINTER #9 @ $3E613 - STRING #9 @ $3E649
+
+#W16($3E613)
+か わ<X>
+
+
+//POINTER #10 @ $3E615 - STRING #10 @ $3E64D
+
+#W16($3E615)
+そ ら<X>
+
+
+//POINTER #11 @ $3E617 - STRING #11 @ $3E651
+
+#W16($3E617)
+う み<X>
+
+
+//POINTER #12 @ $3E619 - STRING #12 @ $3E655
+
+#W16($3E619)
+ゆ か<X>
+
+
+//POINTER #13 @ $3E61B - STRING #13 @ $3E659
+
+#W16($3E61B)
+かいた"ん<X>
+
+
+//POINTER #14 @ $3E61D - STRING #14 @ $3E65F
+
+#W16($3E61D)
+スタシ"アム<X>
+
+
+//POINTER #15 @ $3E61F - STRING #15 @ $3E666
+
+#W16($3E61F)
+いしか"き<X>
+

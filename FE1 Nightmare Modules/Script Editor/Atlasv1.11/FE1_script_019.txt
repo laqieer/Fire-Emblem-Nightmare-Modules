@@ -1,0 +1,596 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #019 NAME:		Character Endings
+
+//POINTER #0 @ $12DFD - STRING #0 @ $12E82
+
+#W16($12DFD)
+<LoadVar><$01><$19><$10><$10><$05><$01><N>
+<$16><$04><$01><$13> <$10><$04><$2B><$2A><BossQuote?><$01><YesNo?>
+
+
+//POINTER #1 @ $12DFF - STRING #1 @ $12E96
+
+#W16($12DFF)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$07><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He's busy<N>
+restoring his<N>
+country.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #2 @ $12E01 - STRING #2 @ $1302D
+
+#W16($12E01)
+lcW<$12><$05><LoadFace><$A0><$40><$06><$06><$0A><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She stays by<N>
+Marth. It's said<N>
+they'll wed<N>
+soon. <BossQuote?><$01><YesNo?>
+
+
+//POINTER #3 @ $12E03 - STRING #3 @ $12EC6
+
+#W16($12E03)
+lcW<$12><$05><LoadFace><$50><$40><$06><$06><$08><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He looks after<N>
+Marth his whole<N>
+life.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #4 @ $12E05 - STRING #4 @ $12EFA
+
+#W16($12E05)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$27><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He trains<N>
+everyday as a<N>
+Temple Knight.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #5 @ $12E07 - STRING #5 @ $12F32
+
+#W16($12E07)
+lcW<$12><$05><LoadFace><$50><$40><$06><$06><$28><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He lives with his<N>
+wife and plans on<N>
+being father.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #6 @ $12E09 - STRING #6 @ $12F72
+
+#W16($12E09)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$3B><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He trains hard<N>
+for future<N>
+battles.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #7 @ $12E0B - STRING #7 @ $12FA6
+
+#W16($12E0B)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$34><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He built an<N>
+orphanage for<N>
+parentless<N>
+children.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #8 @ $12E0D - STRING #8 @ $12FE5
+
+#W16($12E0D)
+lcW<$12><$05><LoadFace><$A0><$40><$06><$06><$16><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$40><$40><$06><$06><$35><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He built a<N>
+monastery in his<N>
+hometown.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #9 @ $12E0F - STRING #9 @ $12FF7
+
+#W16($12E0F)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$35><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He built a<N>
+monastery in his<N>
+hometown.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #10 @ $12E11 - STRING #10 @ $1306E
+
+#W16($12E11)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$39><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He's busy cutting<N>
+wood.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #11 @ $12E13 - STRING #11 @ $13096
+
+#W16($12E13)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$39><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He spends his<N>
+days fishing and<N>
+hunting.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #12 @ $12E15 - STRING #12 @ $130CF
+
+#W16($12E15)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$43><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He's restoring<N>
+Akaneia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #13 @ $12E17 - STRING #13 @ $130F7
+
+#W16($12E17)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$1D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He returned to<N>
+his mother. <BossQuote?><$01><YesNo?>
+
+
+//POINTER #14 @ $12E19 - STRING #14 @ $13125
+
+#W16($12E19)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$2F><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He went to Talis<N>
+to serve his king.<N>
+There are no<N>
+rumors of him.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #15 @ $12E1B - STRING #15 @ $13174
+
+#W16($12E1B)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$19><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He became sailor<N>
+once again and<N>
+disappeared.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #16 @ $12E1D - STRING #16 @ $131B3
+
+#W16($12E1D)
+lcW<$12><$05><LoadFace><$B0><$40><$06><$06><$2A><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He quit as a<N>
+thief and opened<N>
+a store. It's<N>
+said he's also<N>
+father...<BossQuote?><$01><YesNo?>
+
+
+//POINTER #17 @ $12E1F - STRING #17 @ $13208
+
+#W16($12E1F)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$2B><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lclclcW<$12><$05><LoadFace><$40><$40><$06><$06><$0C><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He returned home<N>
+and buried his<N>
+feelings for<N>
+Ellis.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #18 @ $12E21 - STRING #18 @ $1321A
+
+#W16($12E21)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$0C><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He returned home<N>
+and buried his<N>
+feelings for<N>
+Ellis.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #19 @ $12E23 - STRING #19 @ $1325D
+
+#W16($12E23)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$4C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciglcW<$12><$05><LoadFace><$60><$40><$06><$06><$0D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He helped<N>
+rebuild the<N>
+kingdom, wed Nina<N>
+and became King<N>
+of Akaneia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #20 @ $12E25 - STRING #20 @ $1326F
+
+#W16($12E25)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$0D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He helped<N>
+rebuild the<N>
+kingdom, wed Nina<N>
+and became King<N>
+of Akaneia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #21 @ $12E27 - STRING #21 @ $132C1
+
+#W16($12E27)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$42><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He joins the<N>
+Akaneia army and<N>
+is an important<N>
+member.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #22 @ $12E29 - STRING #22 @ $13308
+
+#W16($12E29)
+lcW<$12><$05><LoadFace><$70><$40><$06><$06><$3F><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He Rebuilds the<N>
+Orleans army.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #23 @ $12E2B - STRING #23 @ $13335
+
+#W16($12E2B)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$44><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He resigned as a<N>
+knight. No one<N>
+knows where<N>
+he is.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #24 @ $12E2D - STRING #24 @ $13379
+
+#W16($12E2D)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$45><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He rebuilds the<N>
+Orleans army.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #25 @ $12E2F - STRING #25 @ $133A6
+
+#W16($12E2F)
+lcW<$12><$05><LoadFace><$30><$40><$06><$06><$18><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He sealed his<N>
+stone and lives<N>
+in Durhua. <BossQuote?><$01><YesNo?>
+
+
+//POINTER #26 @ $12E31 - STRING #26 @ $133E2
+
+#W16($12E31)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$13><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcinlcW<$12><$05><LoadFace><$60><$40><$06><$06><$47><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He fell in love<N>
+and put down his<N>
+sword. He tells<N>
+he's happy.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #27 @ $12E33 - STRING #27 @ $133F4
+
+#W16($12E33)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$47><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He fell in love<N>
+and put down his<N>
+sword. He tells<N>
+he's happy.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #28 @ $12E35 - STRING #28 @ $13440
+
+#W16($12E35)
+lcW<$12><$05><LoadFace><$70><$40><$06><$06><$1B><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Wearing a dress,<N>
+no one could<N>
+recognize her as<N>
+the brave knight<N>
+Midia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #29 @ $12E37 - STRING #29 @ $13498
+
+#W16($12E37)
+lcW<$12><$05><LoadFace><$30><$40><$06><$06><$11><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$40><$40><$06><$06><$2C><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She still gladly<N>
+follows Marth.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #30 @ $12E39 - STRING #30 @ $134AA
+
+#W16($12E39)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$2C><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She still gladly<N>
+follows Marth.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #31 @ $12E3B - STRING #31 @ $134D9
+
+#W16($12E3B)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$0E><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+As Macedonia's<N>
+princess, she's<N>
+busy rebuilding<N>
+it.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #32 @ $12E3D - STRING #32 @ $13519
+
+#W16($12E3D)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$22><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She sealed <tome>Aura<N>
+and lived<N>
+peacefully.  <BossQuote?><$01><YesNo?>
+
+
+//POINTER #33 @ $12E3F - STRING #33 @ $13554
+
+#W16($12E3F)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$3A><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lctelcW<$12><$05><LoadFace><$30><$40><$06><$06><$3C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$60><$40><$06><$06><$3C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$70><$40><$06><$06><$34><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$50><$40><$06><$06><$2D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Is priest in<N>
+the royal church.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #34 @ $12E41 - STRING #34 @ $13566
+
+#W16($12E41)
+lcW<$12><$05><LoadFace><$30><$40><$06><$06><$3C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$60><$40><$06><$06><$3C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$70><$40><$06><$06><$34><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$50><$40><$06><$06><$2D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Is priest in<N>
+the royal church.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #35 @ $12E43 - STRING #35 @ $13578
+
+#W16($12E43)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$3C><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$70><$40><$06><$06><$34><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$50><$40><$06><$06><$2D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Is priest in<N>
+the royal church.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #36 @ $12E45 - STRING #36 @ $1358A
+
+#W16($12E45)
+lcW<$12><$05><LoadFace><$70><$40><$06><$06><$34><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$50><$40><$06><$06><$2D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Is priest in<N>
+the royal church.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #37 @ $12E47 - STRING #37 @ $1359C
+
+#W16($12E47)
+lcW<$12><$05><LoadFace><$50><$40><$06><$06><$2D><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+Is priest in<N>
+the royal church.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #38 @ $12E49 - STRING #38 @ $135C9
+
+#W16($12E49)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$1A><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$40><$40><$06><$06><$3D><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciolcW<$12><$05><LoadFace><$40><$40><$06><$06><$14><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He fights off<N>
+bandits on the<N>
+battlefield.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #39 @ $12E4B - STRING #39 @ $135DB
+
+#W16($12E4B)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$3D><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciolcW<$12><$05><LoadFace><$40><$40><$06><$06><$14><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He fights off<N>
+bandits on the<N>
+battlefield.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #40 @ $12E4D - STRING #40 @ $135ED
+
+#W16($12E4D)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$14><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He fights off<N>
+bandits on the<N>
+battlefield.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #41 @ $12E4F - STRING #41 @ $13628
+
+#W16($12E4F)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$4B><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciglcW<$12><$05><LoadFace><$40><$40><$06><$06><$2E><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcielcW<$12><$05><LoadFace><$40><$40><$06><$06><$0F><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She fell in love<N>
+with an Aritian<N>
+knight and lives a<N>
+happy life.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #42 @ $12E51 - STRING #42 @ $1363A
+
+#W16($12E51)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$2E><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcielcW<$12><$05><LoadFace><$40><$40><$06><$06><$0F><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She fell in love<N>
+with an Aritian<N>
+knight and lives a<N>
+happy life.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #43 @ $12E53 - STRING #43 @ $1364C
+
+#W16($12E53)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$0F><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She fell in love<N>
+with an Aritian<N>
+knight and lives a<N>
+happy life.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #44 @ $12E55 - STRING #44 @ $13697
+
+#W16($12E55)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$1E><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lctelcW<$12><$05><LoadFace><$40><$40><$06><$06><$45><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$60><$40><$06><$06><$46><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$80><$40><$06><$06><$48><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$30><$40><$06><$06><$10><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She's busy<N>
+everyday<N>
+restoring<N>
+Macedonia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #45 @ $12E57 - STRING #45 @ $136A9
+
+#W16($12E57)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$45><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciclcW<$12><$05><LoadFace><$60><$40><$06><$06><$46><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$80><$40><$06><$06><$48><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$30><$40><$06><$06><$10><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She's busy<N>
+everyday<N>
+restoring<N>
+Macedonia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #46 @ $12E59 - STRING #46 @ $136BB
+
+#W16($12E59)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$46><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcldlcW<$12><$05><LoadFace><$80><$40><$06><$06><$48><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$30><$40><$06><$06><$10><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She's busy<N>
+everyday<N>
+restoring<N>
+Macedonia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #47 @ $12E5B - STRING #47 @ $136CD
+
+#W16($12E5B)
+lcW<$12><$05><LoadFace><$80><$40><$06><$06><$48><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcrilcW<$12><$05><LoadFace><$30><$40><$06><$06><$10><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She's busy<N>
+everyday<N>
+restoring<N>
+Macedonia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #48 @ $12E5D - STRING #48 @ $136DF
+
+#W16($12E5D)
+lcW<$12><$05><LoadFace><$30><$40><$06><$06><$10><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She's busy<N>
+everyday<N>
+restoring<N>
+Macedonia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #49 @ $12E5F - STRING #49 @ $13718
+
+#W16($12E5F)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$29><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+She became more<N>
+womanly... she<N>
+says herself.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #50 @ $12E61 - STRING #50 @ $13757
+
+#W16($12E61)
+lcW<$12><$05><LoadFace><$50><$40><$06><$06><$12><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lciolcW<$12><$05><LoadFace><$60><$40><$06><$06><$21><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+As Marth's<N>
+sister, she<N>
+watches over the<N>
+new king. <BossQuote?><$01><YesNo?>
+
+
+//POINTER #51 @ $12E63 - STRING #51 @ $13769
+
+#W16($12E63)
+lcW<$12><$05><LoadFace><$60><$40><$06><$06><$21><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+As Marth's<N>
+sister, she<N>
+watches over the<N>
+new king. <BossQuote?><$01><YesNo?>
+
+
+//POINTER #52 @ $12E65 - STRING #52 @ $137AD
+
+#W16($12E65)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$4A><MouthOff><SetSpeed><$05><LoadVar><$00><ShopPoin?>lcielcW<$12><$05><LoadFace><$40><$40><$06><$06><$23><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He became<N>
+Archbishop of<N>
+Akaneia. Many<N>
+people ask for<N>
+his help.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #53 @ $12E67 - STRING #53 @ $137BF
+
+#W16($12E67)
+lcW<$12><$05><LoadFace><$40><$40><$06><$06><$23><MouthOff><SetSpeed><$05><LoadVar><$00><N>
+He became<N>
+Archbishop of<N>
+Akaneia. Many<N>
+people ask for<N>
+his help.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #54 @ $12E69 - STRING #54 @ $13810
+
+#W16($12E69)
+He disappeared.<N>
+ <BossQuote?><$01><YesNo?>
+
+
+//POINTER #55 @ $12E6B - STRING #55 @ $13824
+
+#W16($12E6B)
+Lived his life<N>
+in peace.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #56 @ $12E6D - STRING #56 @ $1383D
+
+#W16($12E6D)
+He's restoring<N>
+Akaneia.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #57 @ $12E6F - STRING #57 @ $13856
+
+#W16($12E6F)
+Helps in<N>
+rebuilding burnt<N>
+villages.  <BossQuote?><$01><YesNo?>
+
+
+//POINTER #58 @ $12E71 - STRING #58 @ $1387E
+
+#W16($12E71)
+'tzh<box>uaal's<$19><N>
+<$01><$11><$01>rs<$14><$15><$29><N>
+<$09><$02><$0D><$06>iu <$19><$09><$0C><BossQuote?><$01><YesNo?>
+
+
+//POINTER #59 @ $12E73 - STRING #59 @ $1389C
+
+#W16($12E73)
+He helps<N>
+rebuilding<N>
+villages.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #60 @ $12E75 - STRING #60 @ $138BC
+
+#W16($12E75)
+He's travelling<N>
+across the lands.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #61 @ $12E77 - STRING #61 @ $138DB
+
+#W16($12E77)
+He became leader<N>
+of a ravaged<N>
+village.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #62 @ $12E79 - STRING #62 @ $13902
+
+#W16($12E79)
+<$21>iu<$20><$24><$2A><$0B><bow><$10>"rsiu <$24><$10><$15><$01><N>
+<$1B><$14><$1B>"<$14><$19> iu<$20><$24><$2A><$10><$23> <N>
+<$1A><$10><$28><$01><$13><$01><$2A><BossQuote?><$01><YesNo?>
+
+
+//POINTER #63 @ $12E7B - STRING #63 @ $12E81
+
+#W16($12E7B)
+<X>
+
+
+//POINTER #64 @ $12E7D - STRING #64 @ $1392C
+
+#W16($12E7D)
+She returned to<N>
+help who've lost<N>
+their home.<BossQuote?><$01><YesNo?>
+
+
+//POINTER #65 @ $12E7F - STRING #65 @ $13959
+
+#W16($12E7F)
+After the war he<N>
+disappeared.   <BossQuote?><$01><YesNo?>
+

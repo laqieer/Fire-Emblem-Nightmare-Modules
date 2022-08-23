@@ -1,0 +1,667 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #013 NAME:		Shops, Item Usage Messages
+
+//POINTER #0 @ $2E776 - STRING #0 @ $2F749
+
+#W16($2E776)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$00>
+<SetSpeed><$01><SetMusic><$55>
+Welcome, how<N>
+may I help you?<YesNo?>
+
+
+//POINTER #1 @ $2E778 - STRING #1 @ $2F774
+
+#W16($2E778)
+You want the<N>
+<LoadVar><$00>?<YesNo?>
+
+
+//POINTER #2 @ $2E77A - STRING #2 @ $2E854
+
+#W16($2E77A)
+You cannot afford<N>
+this weapon.<ShopPoin><$36>
+
+
+//POINTER #3 @ $2E77C - STRING #3 @ $2F7E0
+
+#W16($2E77C)
+Looks like you<N>
+can't hold<N>
+anymore.<ShopPoin><$06>
+
+
+//POINTER #4 @ $2E77E - STRING #4 @ $2F785
+
+#W16($2E77E)
+You can't use<N>
+this. Do you<N>
+still want it?<YesNo?>
+
+
+//POINTER #5 @ $2E780 - STRING #5 @ $2E8A1
+
+#W16($2E780)
+Thank you!<ShopPoin><$06>
+
+
+//POINTER #6 @ $2E782 - STRING #6 @ $2F7D4
+
+#W16($2E782)
+Come again!<X>
+
+
+//POINTER #7 @ $2E784 - STRING #7 @ $2E8B7
+//Music control code got deleted in the fan translation. Will restore it.
+
+#W16($2E784)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$01>
+<SetSpeed><$01><SetMusic><$91>
+Welcome to<N>
+Lalabel's shop.<heart><N>
+<YesNo?>
+
+
+//POINTER #8 @ $2E786 - STRING #8 @ $2E8E4
+
+#W16($2E786)
+You want the<N>
+<LoadVar><$00>?<YesNo?>
+
+
+//POINTER #9 @ $2E788 - STRING #9 @ $2E8F9
+
+#W16($2E788)
+Oh! You can't<N>
+afford this!<ShopPoin><$37>
+
+
+//POINTER #10 @ $2E78A - STRING #10 @ $2E90E
+
+#W16($2E78A)
+You can't carry it!<ShopPoin><$0D>
+
+
+//POINTER #11 @ $2E78C - STRING #11 @ $2E921
+
+#W16($2E78C)
+You can't use<N>
+that item, okay?<YesNo?>
+
+
+//POINTER #12 @ $2E78E - STRING #12 @ $2E93F
+
+#W16($2E78E)
+Thank you!<heart><ShopPoin><$0D>
+
+
+//POINTER #13 @ $2E790 - STRING #13 @ $2E94F
+
+#W16($2E790)
+Come again!<heart><X>
+
+
+//POINTER #14 @ $2E792 - STRING #14 @ $2E95E
+
+#W16($2E792)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$02>
+<SetSpeed><$02><SetMusic><$90>
+This is the<N>
+arena. Do you<N>
+want to fight?<YesNo?>
+
+
+//POINTER #15 @ $2E794 - STRING #15 @ $2E995
+
+#W16($2E794)
+The bet<N>
+is <LoadVar><$01> gold.<A>
+Is that alright?<YesNo?>
+
+
+//POINTER #16 @ $2E796 - STRING #16 @ $2E9BA
+
+#W16($2E796)
+Why are you<N>
+quitting?<N>
+Are you afraid?<X>
+
+
+//POINTER #17 @ $2E798 - STRING #17 @ $2E9E3
+
+#W16($2E798)
+//Hey x6, "make it the day before yesterday?" Oh, Google.
+Hey, come on.<N>
+Make it quick!<X>
+
+
+//POINTER #18 @ $2E79A - STRING #18 @ $2EA01
+
+#W16($2E79A)
+You'll fight<N>
+without weapon?!<A>
+Do you want<N>
+to die?!<X>
+
+
+//POINTER #19 @ $2E79C - STRING #19 @ $2EA32
+
+#W16($2E79C)
+Fight to stay<N>
+alive!<YesNo?>
+
+
+//POINTER #20 @ $2E79E - STRING #20 @ $2EA49
+
+#W16($2E79E)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$02>
+<SetSpeed><$02>.<SetMusic><$90>
+...<YesNo?>
+
+
+//POINTER #21 @ $2E7A0 - STRING #21 @ $2EA5C
+
+#W16($2E7A0)
+You're quite<N>
+good. You won<N>
+<LoadVar><$01>0 gold.<$E3><ShopPoin><$18>
+
+//POINTER #22 @ $2E7A2 - STRING #22 @ $2EA82
+
+#W16($2E7A2)
+You won't<N>
+return...<X>
+
+
+//POINTER #23 @ $2E7A4 - STRING #23 @ $2EA98
+
+#W16($2E7A4)
+Be happy it's<N>
+a draw.<ShopPoin><$18>
+
+
+//POINTER #24 @ $2E7A6 - STRING #24 @ $2EAAE
+
+#W16($2E7A6)
+Come again!<X>
+
+
+//POINTER #25 @ $2E7A8 - STRING #25 @ $2EABC
+
+#W16($2E7A8)
+io<$90><$12><$04>
+<SetSpeed><$01>
+<$E0><LoadVar><$00> equipped<N>
+<LoadVar><$01>.<X>
+
+
+//POINTER #26 @ $2E7AA - STRING #26 @ $2EAD3
+
+#W16($2E7AA)
+lc<$90><$12><$04>
+<SetSpeed><$01>
+<$E0><LoadVar><$00> used<N>
+the <LoadVar><$01><YesNo?>
+
+
+//POINTER #27 @ $2E7AC - STRING #27 @ $2EAE8
+
+#W16($2E7AC)
+lc<$90><$12><$04>
+<SetSpeed><$01>
+<$E0><LoadVar><$00> gave<N>
+<LoadVar><$01><N>
+to <LoadVar><$02>.<X>
+
+
+//POINTER #28 @ $2E7AE - STRING #28 @ $2F733
+
+#W16($2E7AE)
+lc<$90><$12><$04>
+<SetSpeed><$01>
+<$E0><LoadVar><$00> dropped<N>
+<LoadVar><$01>.<X>
+
+
+//POINTER #29 @ $2E7B0 - STRING #29 @ $2EB16
+
+#W16($2E7B0)
+to restore <LoadVar><$02> HP.<X>
+
+
+//POINTER #30 @ $2E7B2 - STRING #30 @ $2F855
+
+#W16($2E7B2)
+to increase<N>
+defense by <LoadVar><$02>.<X>
+
+
+//POINTER #31 @ $2E7B4 - STRING #31 @ $2F870
+
+#W16($2E7B4)
+to increase<N>
+resistance by 7.<X>
+
+
+//POINTER #32 @ $2E7B6 - STRING #32 @ $2EB4A
+
+#W16($2E7B6)
+to increase
+movement by <LoadVar><$02>.<X>
+
+
+//POINTER #33 @ $2E7B8 - STRING #33 @ $2EB5B
+
+#W16($2E7B8)
+to increase<N>
+weapon level<N>
+by <LoadVar><$02> points.<X>
+
+
+//POINTER #34 @ $2E7BA - STRING #34 @ $2F88D
+
+#W16($2E7BA)
+to increase<N>
+skill by <LoadVar><$02>.<X>
+
+
+//POINTER #35 @ $2E7BC - STRING #35 @ $2F820
+
+#W16($2E7BC)
+to increase<N>
+strength by <LoadVar><$02>.<X>
+
+
+//POINTER #36 @ $2E7BE - STRING #36 @ $2EB86
+//Vision up?
+
+#W16($2E7BE)
+to increase<N>
+vision by <LoadVar><$02>.<X>
+
+
+//POINTER #37 @ $2E7C0 - STRING #37 @ $2F83C
+
+#W16($2E7C0)
+to increase<N>
+speed by <LoadVar><$02>.<X>
+
+
+//POINTER #38 @ $2E7C2 - STRING #38 @ $2EBA3
+
+#W16($2E7C2)
+to increase luck<N>
+by <LoadVar><$02> points.<X>
+
+
+//POINTER #39 @ $2E7C4 - STRING #39 @ $2EBAF
+
+#W16($2E7C4)
+to increase<N>
+Max HP by <LoadVar><$02>.<X>
+
+
+//POINTER #40 @ $2E7C6 - STRING #40 @ $2EBC1
+
+#W16($2E7C6)
+ by <LoadVar><$02>.<X>
+
+
+//POINTER #41 @ $2E7C8 - STRING #41 @ $2EBC9
+
+#W16($2E7C8)
+lc<$A0><$12><$03>
+<LoadFace><$B0><$40><$06><$08><$15>
+<SetSpeed><$02><SetMusic><$55>
+This is the<N>
+storage. If you<N>
+bring items here,<N>
+you can retrieve<N>
+them from<N>
+storages.<YesNo?>
+
+
+//POINTER #42 @ $2E7CA - STRING #42 @ $2EC26
+
+#W16($2E7CA)
+It's 10 gold<N>
+per deposit.<A>
+There's <LoadVar><$00><N>
+space.<A>
+What'll it be?<YesNo?>
+
+
+//POINTER #43 @ $2E7CC - STRING #43 @ $2EC60
+
+#W16($2E7CC)
+You've stored<N>
+nothing yet.<ShopPoin><$2D>
+
+//POINTER #44 @ $2E7CE - STRING #44 @ $2EC7D
+
+#W16($2E7CE)
+What'll it be?<YesNo?>
+
+
+//POINTER #45 @ $2E7D0 - STRING #45 @ $2EC8C
+
+#W16($2E7D0)
+Anything else?<YesNo?>
+
+
+//POINTER #46 @ $2E7D2 - STRING #46 @ $2EC9A
+
+#W16($2E7D2)
+Sorry,<N>
+there's no<N>
+room in the<N>
+storage.<ShopPoin><$2D>
+
+
+//POINTER #47 @ $2E7D4 - STRING #47 @ $2F870
+
+#W16($2E7D4)
+to increase<N>
+resistance by 7.<X>
+
+
+//POINTER #48 @ $2E7D6 - STRING #48 @ $2ECD7
+
+#W16($2E7D6)
+//Nothing happened?
+but it failed.<X>
+
+
+//POINTER #49 @ $2E7D8 - STRING #49 @ $2ECE5
+
+#W16($2E7D8)
+//Lower the drawbridge?
+to lower the<N>
+bridge.<X>
+
+
+//POINTER #50 @ $2E7DA - STRING #50 @ $2F810
+
+#W16($2E7DA)
+to open a door.<X>
+
+
+//POINTER #51 @ $2E7DC - STRING #51 @ $2ECFB
+
+#W16($2E7DC)
+//Surprised!
+//Earth Orb attack
+Surprising.<X>
+
+
+//POINTER #52 @ $2E7DE - STRING #52 @ $2F7AE
+
+#W16($2E7DE)
+Thank you!<N>
+Do you want<N>
+anything else?<YesNo?>
+
+
+//POINTER #53 @ $2E7E0 - STRING #53 @ $2ED22
+
+#W16($2E7E0)
+Thanks!<N>
+Anything else? <YesNo?>
+
+
+//POINTER #54 @ $2E7E2 - STRING #54 @ $2F7B9
+
+#W16($2E7E2)
+Do you want<N>
+anything else?<YesNo?>
+
+
+//POINTER #55 @ $2E7E4 - STRING #55 @ $2ED29
+
+#W16($2E7E4)
+Anything else?<YesNo?>
+
+
+//POINTER #56 @ $2E7E6 - STRING #56 @ $2ED39
+
+#W16($2E7E6)
+io<$90><$12><$02><SetSpeed><$02><BossQuote?><$03><$E0>
+Enemy heals.<X>
+
+
+//POINTER #57 @ $2E7E8 - STRING #57 @ $2ED4F
+
+#W16($2E7E8)
+io<$90><$12><$02>
+<SetSpeed><$02>
+<BossQuote?><$03><$E0>
+Enemy's healed.<X>
+
+
+//POINTER #58 @ $2E7EA - STRING #58 @ $2ED67
+
+#W16($2E7EA)
+io<$90><$12><$02>
+<SetSpeed><$02>
+<BossQuote?><$03><$E0>
+Enemy's healed.<X>
+
+
+//POINTER #59 @ $2E7EC - STRING #59 @ $2ED7E
+
+#W16($2E7EC)
+Okay,<N>
+I'll save it.<ShopPoin><$2D>
+
+//POINTER #60 @ $2E7EE - STRING #60 @ $2ED94
+
+#W16($2E7EE)
+Okay,<N>
+here you go!<ShopPoin><$2D>
+
+
+//POINTER #61 @ $2E7F0 - STRING #61 @ $2EDA9
+
+#W16($2E7F0)
+//Hey x5, cause why not?
+Hey hey hey.<ShopPoin><$2D>
+
+//POINTER #62 @ $2E7F2 - STRING #62 @ $2EDBB
+
+#W16($2E7F2)
+You can't<N>
+hold more!<ShopPoin><$2D>
+
+
+//POINTER #63 @ $2E7F4 - STRING #63 @ $2EDD3
+
+#W16($2E7F4)
+But you don't<N>
+have any items!<ShopPoin><$2D>
+
+
+//POINTER #64 @ $2E7F6 - STRING #64 @ $2EDF0
+
+#W16($2E7F6)
+lc<$90><$12><$04><$E0><SetSpeed><$02>
+What would you<N>
+like to do?<YesNo?>
+
+
+//POINTER #65 @ $2E7F8 - STRING #65 @ $2EE10
+
+
+#W16($2E7F8)
+<BossQuote?><$02>
+You don't have<N>
+the money...<ShopPoin><$44>
+
+//POINTER #66 @ $2E7FA - STRING #66 @ $2EE24
+
+#W16($2E7FA)
+<BossQuote?><$02>
+The storage is<N>
+full. You must<N>
+drop an item.<A>
+<ShopPoin><$44>
+
+
+//POINTER #67 @ $2E7FC - STRING #67 @ $2EE55
+
+#W16($2E7FC)
+<LoadVar><$00> sent<N>
+to storage.<X>
+
+
+//POINTER #68 @ $2E7FE - STRING #68 @ $2EE6B
+
+#W16($2E7FE)
+Drop which item?<YesNo?>
+
+
+//POINTER #69 @ $2E800 - STRING #69 @ $2EE77
+
+#W16($2E800)
+<LoadVar><$01> Drop<X>
+
+
+//POINTER #70 @ $2E802 - STRING #70 @ $2EE7F
+
+#W16($2E802)
+<LoadVar><$00> Away<X>
+
+
+//POINTER #71 @ $2E804 - STRING #71 @ $2EE87
+
+#W16($2E804)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$49>
+<SetSpeed><$01><SetMusic><$91>
+This is a secret<N>
+shop.<N>
+What'll it be?<YesNo?>
+
+
+//POINTER #72 @ $2E806 - STRING #72 @ $2EEB8
+
+#W16($2E806)
+Want <LoadVar><$00>?<YesNo?>
+
+
+//POINTER #73 @ $2E808 - STRING #73 @ $2EEC3
+
+#W16($2E808)
+You can't afford<N>
+this item.<ShopPoin><$4F>
+
+
+//POINTER #74 @ $2E80A - STRING #74 @ $2EED7
+
+#W16($2E80A)
+You can't hold<N>
+that item.<ShopPoin><$4D>
+
+
+//POINTER #75 @ $2E80C - STRING #75 @ $2EEF1
+
+#W16($2E80C)
+You can't use<N>
+this.<N>
+Still want it?<YesNo?>
+
+
+//POINTER #76 @ $2E80E - STRING #76 @ $2EF11
+
+#W16($2E80E)
+Thank you!<ShopPoin><$4D>
+
+
+//POINTER #77 @ $2E810 - STRING #77 @ $2EF22
+
+#W16($2E810)
+Please drop by<N>
+again!<X>
+
+
+//POINTER #78 @ $2E812 - STRING #78 @ $2EF39
+
+#W16($2E812)
+Thank you!<N>
+//Anything else?<YesNo?>
+
+
+//POINTER #79 @ $2E814 - STRING #79 @ $2EF48
+
+#W16($2E814)
+Anything else?<YesNo?>
+
+
+//POINTER #80 @ $2E816 - STRING #80 @ $2EF59
+
+#W16($2E816)
+to restore<N>
+all HP.<X>
+
+
+//POINTER #81 @ $2E818 - STRING #81 @ $2EF69
+
+#W16($2E818)
+lc<$90><$12><$03><SetSpeed><$02>
+Nobody to revive.<X>
+
+
+//POINTER #82 @ $2E81A - STRING #82 @ $2EF81
+
+#W16($2E81A)
+lc<$90><$12><$03><SetSpeed><$01><$E0>Select units<N>
+for this map.<X>
+
+
+//POINTER #83 @ $2E81C - STRING #83 @ $2EFA5
+
+#W16($2E81C)
+lc<$90><$12><$04><SetSpeed><$01>
+Are you sure?<YesNo?>
+
+
+//POINTER #84 @ $2E81E - STRING #84 @ $2EFBC
+
+#W16($2E81E)
+File deleted.<X>
+
+
+//POINTER #85 @ $2E820 - STRING #85 @ $2EFC7
+
+#W16($2E820)
+lc<$90><$12><$04><SetSpeed><$01>
+File copied.<X>
+
+
+//POINTER #86 @ $2E822 - STRING #86 @ $2EFD9
+
+#W16($2E822)
+//Data error! Unfortunately,  the recording can't be used.
+lc<$90><$12><$04>
+<SetSpeed><$03>
+Data error!<N>
+Can't use<N>
+recording.<X>
+
+
+//POINTER #87 @ $2E824 - STRING #87 @ $2F00A
+
+#W16($2E824)
+lc<$90><$12><$04>
+<LoadFace><$B0><$40><$06><$08><$49>
+<SetSpeed><$01>
+Please hold<N>
+reset before<N>
+turning the<N>
+power off.<YesNo?>
+

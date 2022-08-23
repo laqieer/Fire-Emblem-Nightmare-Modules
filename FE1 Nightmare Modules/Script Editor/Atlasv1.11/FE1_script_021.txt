@@ -1,0 +1,113 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #021 NAME:		Class Roll Names
+
+//POINTER #0 @ $34CA8 - STRING #0 @ $34CD4
+
+#W16($34CA8)
+ Social Knight<N>
+
+//POINTER #1 @ $34CAA - STRING #1 @ $34CE5
+
+#W16($34CAA)
+  Armor Knight<N>
+
+//POINTER #2 @ $34CAC - STRING #2 @ $34CF6
+
+#W16($34CAC)
+  Pegasus Knight<N>
+
+//POINTER #3 @ $34CAE - STRING #3 @ $34D09
+
+#W16($34CAE)
+   Paladin<N>
+
+//POINTER #4 @ $34CB0 - STRING #4 @ $34D16
+
+#W16($34CB0)
+   Dragon Knight<N>
+
+//POINTER #5 @ $34CB2 - STRING #5 @ $34D29
+
+#W16($34CB2)
+Mercenary<N>
+
+//POINTER #6 @ $34CB4 - STRING #6 @ $34D33
+
+#W16($34CB4)
+ Fighter<N>
+
+//POINTER #7 @ $34CB6 - STRING #7 @ $34D3C
+
+#W16($34CB6)
+    Pirate<N>
+
+//POINTER #8 @ $34CB8 - STRING #8 @ $34D47
+
+#W16($34CB8)
+     Thief<N>
+
+//POINTER #9 @ $34CBA - STRING #9 @ $34D52
+
+#W16($34CBA)
+     Hero<N>
+
+//POINTER #10 @ $34CBC - STRING #10 @ $34D5C
+
+#W16($34CBC)
+    Archer<N>
+
+//POINTER #11 @ $34CBE - STRING #11 @ $34D67
+
+#W16($34CBE)
+   Hunter<N>
+
+//POINTER #12 @ $34CC0 - STRING #12 @ $34D71
+
+#W16($34CC0)
+   Shooter<N>
+
+//POINTER #13 @ $34CC2 - STRING #13 @ $34D7C
+
+#W16($34CC2)
+  Horseman<N>
+
+//POINTER #14 @ $34CC4 - STRING #14 @ $34D87
+
+#W16($34CC4)
+     Sniper<N>
+
+//POINTER #15 @ $34CC6 - STRING #15 @ $34D93
+
+#W16($34CC6)
+  Commando<N>
+
+//POINTER #16 @ $34CC8 - STRING #16 @ $34D9E
+
+#W16($34CC8)
+   Mamkute<N>
+
+//POINTER #17 @ $34CCA - STRING #17 @ $34DA9
+
+#W16($34CCA)
+  Magician<N>
+
+//POINTER #18 @ $34CCC - STRING #18 @ $34DB4
+
+#W16($34CCC)
+   Cleric<N>
+
+//POINTER #19 @ $34CCE - STRING #19 @ $34DBE
+
+#W16($34CCE)
+  Priest<N>
+
+//POINTER #20 @ $34CD0 - STRING #20 @ $34DC7
+
+#W16($34CD0)
+     Lord<N>
+
+//POINTER #21 @ $34CD2 - STRING #21 @ $34DD1
+
+#W16($34CD2)
+   General<N>

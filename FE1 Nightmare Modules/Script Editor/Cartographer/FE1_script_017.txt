@@ -1,0 +1,45 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #017 NAME:		Level Up Screen
+
+//POINTER #0 @ $147B1 - STRING #0 @ $147BF
+
+#W16($147B1)
+power<X>
+
+
+//POINTER #1 @ $147B3 - STRING #1 @ $147C5
+
+#W16($147B3)
+skill<X>
+
+
+//POINTER #2 @ $147B5 - STRING #2 @ $147CB
+
+#W16($147B5)
+wpnlvl<X>
+
+
+//POINTER #3 @ $147B7 - STRING #3 @ $147D2
+
+#W16($147B7)
+speed<X>
+
+
+//POINTER #4 @ $147B9 - STRING #4 @ $147E3
+
+#W16($147B9)
+luck<X>
+
+
+//POINTER #5 @ $147BB - STRING #5 @ $147D8
+
+#W16($147BB)
+defense<X>
+
+
+//POINTER #6 @ $147BD - STRING #6 @ $147E0
+
+#W16($147BD)
+HP<X>
+

@@ -1,0 +1,429 @@
+//GAME NAME:		Fire Emblem: Dark Dragon and the Sword of Light
+
+//BLOCK #008 NAME:		Enemy Names
+
+//POINTER #0 @ $3DFB4 - STRING #0 @ $3E03E
+
+#W16($3DFB4)
+Gazack<X>
+
+
+//POINTER #1 @ $3DFB6 - STRING #1 @ $3E045
+
+#W16($3DFB6)
+//Wylar
+Wylar<X>
+
+
+//POINTER #2 @ $3DFB8 - STRING #2 @ $3E04A
+
+#W16($3DFB8)
+Grunia<X>
+
+
+//POINTER #3 @ $3DFBA - STRING #3 @ $3F67B
+
+#W16($3DFBA)
+Gomes<X>
+
+
+//POINTER #4 @ $3DFBC - STRING #4 @ $3E057
+
+#W16($3DFBC)
+Garda<X>
+
+
+//POINTER #5 @ $3DFBE - STRING #5 @ $3F710
+
+#W16($3DFBE)
+Bandit<X>
+
+
+//POINTER #6 @ $3DFC0 - STRING #6 @ $3F562
+
+#W16($3DFC0)
+Navarre<X>
+
+
+//POINTER #7 @ $3DFC2 - STRING #7 @ $3F68E
+
+#W16($3DFC2)
+Merak<X>
+
+
+//POINTER #8 @ $3DFC4 - STRING #8 @ $3F69B
+
+#W16($3DFC4)
+Hermine<X>
+
+
+//POINTER #9 @ $3DFC6 - STRING #9 @ $3E075
+
+#W16($3DFC6)
+Mariones<X>
+
+
+//POINTER #10 @ $3DFC8 - STRING #10 @ $3F687
+
+#W16($3DFC8)
+Benson<X>
+
+
+//POINTER #11 @ $3DFCA - STRING #11 @ $3F6A2
+
+#W16($3DFCA)
+Canaris<X>
+
+
+//POINTER #12 @ $3DFCC - STRING #12 @ $3F6A9
+
+#W16($3DFCC)
+Manuu<X>
+
+
+//POINTER #13 @ $3DFCE - STRING #13 @ $3E08A
+
+#W16($3DFCE)
+Zhukov<X>
+
+
+//POINTER #14 @ $3DFD0 - STRING #14 @ $3E091
+
+#W16($3DFD0)
+Shozen<X>
+
+
+//POINTER #15 @ $3DFD2 - STRING #15 @ $3F6AF
+
+#W16($3DFD2)
+Himmler<X>
+
+
+//POINTER #16 @ $3DFD4 - STRING #16 @ $3E09D
+
+#W16($3DFD4)
+Gigash<X>
+
+
+//POINTER #17 @ $3DFD6 - STRING #17 @ $3E0A5
+
+#W16($3DFD6)
+Jiol<X>
+
+
+//POINTER #18 @ $3DFD8 - STRING #18 @ $3E0AA
+
+#W16($3DFD8)
+Bozen<X>
+
+
+//POINTER #19 @ $3DFDA - STRING #19 @ $3F6BD
+
+#W16($3DFDA)
+Holsard<X>
+
+
+//POINTER #20 @ $3DFDC - STRING #20 @ $3E0B8
+
+#W16($3DFDC)
+Stallone<X>
+
+
+//POINTER #21 @ $3DFDE - STRING #21 @ $3F681
+
+#W16($3DFDE)
+Hyman<X>
+
+
+//POINTER #22 @ $3DFE0 - STRING #22 @ $3F6D8
+
+#W16($3DFE0)
+Zemsel<X>
+
+
+//POINTER #23 @ $3DFE2 - STRING #23 @ $3E0C9
+
+#W16($3DFE2)
+Ordyne<X>
+
+
+//POINTER #24 @ $3DFE4 - STRING #24 @ $3F6CB
+
+#W16($3DFE4)
+Camus<X>
+
+
+//POINTER #25 @ $3DFE6 - STRING #25 @ $3F6D1
+
+#W16($3DFE6)
+Misheil<X>
+
+
+//POINTER #26 @ $3DFE8 - STRING #26 @ $3E0DA
+
+#W16($3DFE8)
+Moses<X>
+
+
+//POINTER #27 @ $3DFEA - STRING #27 @ $3F6B6
+
+#W16($3DFEA)
+Garnef<X>
+
+
+//POINTER #28 @ $3DFEC - STRING #28 @ $3E0E6
+
+#W16($3DFEC)
+Mediuth<X>
+
+
+//POINTER #29 @ $3DFEE - STRING #29 @ $3F594
+
+#W16($3DFEE)
+Maria<X>
+
+
+//POINTER #30 @ $3DFF0 - STRING #30 @ $3E0F1
+
+#W16($3DFF0)
+Durhua<X>
+
+
+//POINTER #31 @ $3DFF2 - STRING #31 @ $3E0F9
+
+#W16($3DFF2)
+Gra<X>
+
+
+//POINTER #32 @ $3DFF4 - STRING #32 @ $3E0FF
+
+#W16($3DFF4)
+Peraty<X>
+
+
+//POINTER #33 @ $3DFF6 - STRING #33 @ $3E107
+
+#W16($3DFF6)
+//Cashmere Soldier
+Cashmere<X>
+
+
+//POINTER #34 @ $3DFF8 - STRING #34 @ $3F880
+
+#W16($3DFF8)
+BlackKnight<X>
+
+
+//POINTER #35 @ $3DFFA - STRING #35 @ $3E116
+
+#W16($3DFFA)
+Khadein<X>
+
+
+//POINTER #36 @ $3DFFC - STRING #36 @ $3F59A
+
+#W16($3DFFC)
+Minerva<X>
+
+
+//POINTER #37 @ $3DFFE - STRING #37 @ $3E126
+
+#W16($3DFFE)
+//Basilisk
+Basilisk<X>
+
+
+//POINTER #38 @ $3E000 - STRING #38 @ $3E12E
+
+#W16($3E000)
+//Salamander
+Salmander<X>
+
+
+//POINTER #39 @ $3E002 - STRING #39 @ $3E136
+
+#W16($3E002)
+//Narga
+Narga<X>
+
+
+//POINTER #40 @ $3E004 - STRING #40 @ $3E13B
+
+#W16($3E004)
+//Gaia
+Gaia<X>
+
+
+//POINTER #41 @ $3E006 - STRING #41 @ $3E140
+
+#W16($3E006)
+//Iron Knight
+IronKn<X>
+
+
+//POINTER #42 @ $3E008 - STRING #42 @ $3E148
+
+#W16($3E008)
+Dragon<X>
+
+
+//POINTER #43 @ $3E00A - STRING #43 @ $3F743
+
+#W16($3E00A)
+Enemy<X>
+
+
+//POINTER #44 @ $3E00C - STRING #44 @ $3F555
+
+#W16($3E00C)
+Daros<X>
+
+
+//POINTER #45 @ $3E00E - STRING #45 @ $3F587
+
+#W16($3E00E)
+Ricardo<X>
+
+
+//POINTER #46 @ $3E010 - STRING #46 @ $3F717
+
+#W16($3E010)
+Macedonia<X>
+
+
+//POINTER #47 @ $3E012 - STRING #47 @ $3F5C8
+
+#W16($3E012)
+Katua<X>
+
+
+//POINTER #48 @ $3E014 - STRING #48 @ $3F5C2
+
+#W16($3E014)
+Paola<X>
+
+
+//POINTER #49 @ $3E016 - STRING #49 @ $3DF7E
+
+#W16($3E016)
+Est<X>
+
+
+//POINTER #50 @ $3E018 - STRING #50 @ $3E176
+
+#W16($3E018)
+//White Knight
+WhiteKn<X>
+
+
+//POINTER #51 @ $3E01A - STRING #51 @ $3E17E
+
+#W16($3E01A)
+Gra<X>
+
+
+//POINTER #52 @ $3E01C - STRING #52 @ $3F708
+
+#W16($3E01C)
+Ruffian<X>
+
+
+//POINTER #53 @ $3E01E - STRING #53 @ $3DF77
+
+#W16($3E01E)
+Wendel<X>
+
+
+//POINTER #54 @ $3E020 - STRING #54 @ $3E192
+
+#W16($3E020)
+Raman<X>
+
+
+//POINTER #55 @ $3E022 - STRING #55 @ $3E199
+
+#W16($3E022)
+//Thebes Mages
+Thebes<X>
+
+
+//POINTER #56 @ $3E024 - STRING #56 @ $3E1A2
+
+#W16($3E024)
+//Priest Army
+Priest<X>
+
+
+//POINTER #57 @ $3E026 - STRING #57 @ $3F736
+
+#W16($3E026)
+Chiki<X>
+
+
+//POINTER #58 @ $3E028 - STRING #58 @ $3E1AD
+
+#W16($3E028)
+//King Grunia
+King<X>
+
+
+//POINTER #59 @ $3E02A - STRING #59 @ $3E1B5
+
+#W16($3E02A)
+Dragon<X>
+
+
+//POINTER #60 @ $3E02C - STRING #60 @ $3F55B
+
+#W16($3E02C)
+Kashim<X>
+
+
+//POINTER #61 @ $3E02E - STRING #61 @ $3E1C3
+
+#W16($3E02E)
+//Saber
+Saber<X>
+
+
+//POINTER #62 @ $3E030 - STRING #62 @ $3E1C9
+
+#W16($3E030)
+Jake<X>
+
+
+//POINTER #63 @ $3E032 - STRING #63 @ $3F5E6
+
+#W16($3E032)
+Lawrence<X>
+
+
+//POINTER #64 @ $3E034 - STRING #64 @ $3F5DA
+
+#W16($3E034)
+Chainy<X>
+
+
+//POINTER #65 @ $3E036 - STRING #65 @ $3F6B6
+
+#W16($3E036)
+Garnef<X>
+
+
+//POINTER #66 @ $3E038 - STRING #66 @ $3DF8E
+
+#W16($3E038)
+Roger<X>
+
+
+//POINTER #67 @ $3E03A - STRING #67 @ $3F73C
+
+#W16($3E03A)
+Machis<X>
+
+
+//POINTER #68 @ $3E03C - STRING #68 @ $3F5BB
+
+#W16($3E03C)
+Astria<X>
+
