@@ -36,6 +36,12 @@ To rip data tables using Nightmare modules, developed by boviex.
 
 ![image](https://user-images.githubusercontent.com/8841957/186296774-68ff8eea-84b5-4f04-b589-f3a504989817.png)
 
+- [HREditor](https://pan.baidu.com/share/link?shareid=1546342918&uk=1730727263)
+
+Nightmare on Android, developed by yami.
+
+![image](https://user-images.githubusercontent.com/8841957/189528694-64b8e68f-4b3b-4e6e-9765-1d33f679075e.png)
+
 ## Docs
 - [Nightmare Module Format Explained](https://feuniverse.us/t/nightmare-module-format-explained/267)
 - [Paragon Wiki](https://github.com/thane98/paragon/wiki)
