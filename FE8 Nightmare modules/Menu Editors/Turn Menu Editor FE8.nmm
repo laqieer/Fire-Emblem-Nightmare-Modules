@@ -1,0 +1,79 @@
+1
+Unit Menu table by jjl2357, edited by Crazycolorz5
+0x59CE6c
+8
+36
+Unit Menu FE8.txt
+NULL
+
+Unknown Pointer (not ASM code)
+0
+4
+NEHU
+NULL
+
+Text
+4
+2
+NEHU
+NULL
+
+Description
+6
+2
+NEHU
+NULL
+
+Text Color
+8
+1
+NDHU
+Menu Text Colors.txt
+
+Command ID? (No effect?)
+9
+1
+NEHU
+NULL
+
+Unknown (Always 0?)
+10
+2
+NEHU
+NULL
+
+Usability Pointer
+12
+4
+NEHU
+NULL
+
+Unknown (guide?)
+16
+4
+NEHU
+NULL
+
+Routine/Effect
+20
+4
+NEHU
+NULL
+
+Unknown (zero)
+24
+4
+NEHU
+NULL
+
+Unknown Pointer (weapon rank?)
+28
+4
+NEHU
+NULL
+
+Unknown Pointer (weapon rank?)
+32
+4
+NEHU
+NULL

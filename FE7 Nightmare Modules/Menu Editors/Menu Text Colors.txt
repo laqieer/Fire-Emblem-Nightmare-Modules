@@ -1,0 +1,7 @@
+5
+0x00 Normal Text
+0x01 Greyed Out (Does not prevent selecting)
+0x02 Blue Text
+0x03 Orange Text
+0x04 Flashing Green Text
+0x05 Black Text
