@@ -4,7 +4,7 @@ Nightmare editor modules for Fire Emblem series
 ## Tools
 - [Nightmare](https://www.romhacking.net/utilities/1307/)
 
-Original Nightmare editor, developed by Hextator.
+Original Nightmare editor, developed by Larry Kenny and Michael Cayer in 2005.
 
 ![image](https://user-images.githubusercontent.com/8841957/186288671-ad238396-dc79-4a06-9e20-4d229d146f01.png)
 
