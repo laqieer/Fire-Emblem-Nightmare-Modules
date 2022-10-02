@@ -14,6 +14,12 @@ Successor to Nightmare, developed by Hextator.
 
 ![image](https://user-images.githubusercontent.com/8841957/186292283-fdcf8f47-7a80-4722-a7a0-65b605c59e8d.png)
 
+- [Nightmare 3](https://laqieer.github.io/nightmare)
+
+Successor to Nightmare, developed by laqieer.
+
+![image](https://user-images.githubusercontent.com/8841957/193445097-2fe0d275-f6b8-4f0e-accc-3d4b2a49ac3d.png)
+
 - [FEFNightmare](https://github.com/thane98/FEFEditor)
 
 Successor to Nightmare 2, developed by thane98.
