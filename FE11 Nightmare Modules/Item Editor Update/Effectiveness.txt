@@ -1,0 +1,75 @@
+74
+0x00 None
+0x01 Unknown
+0x04 Unknown
+0x08 Unknown
+0x40 Unknown
+0x48 Aura (Unknown)
+0x2044 Excalibur (Unknown)
+0x4041 Divinestone (Unknown)
+0x100 Dragonkiller
+0x140 Dragonkiller; Unknown
+0x340 Falchion 
+0x400 Armorkiller
+0x440 Armorkiller; Unknown
+0x500 Armor,Dragonkiller
+0x540 Armor,Dragonkiller; Unknown
+0x800 Ballistakiller
+0x840 Ballistakiller; Unknown
+0x900 Ballista,Dragonkiller
+0x940 Ballista,Dragon,Armorkiller; Unknown
+0xC000 Ballista,Armorkiller
+0xC040 Ballista,Armorkiller; Unknown
+0xD000 Ballista,Dragon,Armorkiller
+0xD040 Ballista,Dragon,Armorkiller; Unknown
+0x1000 Riderkiller
+0x1040 Riderkiller; Unknown
+0x1100 Rider,Dragonkiller
+0x1140 Rider,Dragonkiller;Unknown
+0x1400 Rider,Armorkiller
+0x1440 Rider,Armorkiller; Unknown
+0x1500 Rider,Dragon,Armorkiller
+0x1540 Rider,Dragon,Armorkiller; Unknown
+0x1800 Rider,Ballistakiller
+0x1840 Rider,Ballistakiller; Unknown
+0x1900 Rider,Dragon,Ballistakiller; Unknown
+0x1940 Rider,Dragon,Ballistakiller; Unknown
+0x1C00 Rider,Armor,Ballistakiller
+0x1C40 Rider,Armor,Ballistakiller; Unknown
+0x1D00 Rider,Dragon,Armor,Ballistakiller
+0x1D40 Rider,Dragon,Armor,Ballistakiller; Unknown
+0x2000 Flierkiller
+0x2040 Flierkiller; Unknown
+0x2100 Flier,Dragonkiller
+0x2140 Flier,Dragonkiller; Unknown
+0x2400 Flier;Armorkiller
+0x2440 Flier;Armorkiller; Unknown
+0x2500 Flier Dragon,Armorkiller
+0x2540 Flier,Dragon,Armorkiller; Unknown
+0x2800 Flier,Ballistakiller
+0x2840 Flier,Ballistakiller; Unknown
+0x2900 Flier,Dragon,Ballistakiller
+0x2940 Flier,Dragon,Ballistakiller; Unknown
+0x2C00 Flier,Armor,Ballistakiller
+0x2C40 Flier,Armor,Ballistakiller; Unknown
+0x2D00 Flier,Dragon,Armor,Ballistakiller
+0x2D40 Flier,Dragon,Armor,Ballistakiller; Unknown
+0x3000 Flier,Riderkiller
+0x3040 Flier,Riderkiller; Unknown
+0x3100 Flier,Dragon,Riderkiller
+0x3140 Flier,Dragon,Riderkiller; Unknown
+0x3400 Flier,Armor,Riderkiller
+0x3440 Flier,Armor,Riderkiller; Unknown
+0x3500 Flier,Dragon,Armor,Riderkiller
+0x3540 Flier,Dragon,Armor,Riderkiller; Unknown
+0x3800 Flier,Ballista,Riderkiller
+0x3840 Flier,Ballista,Riderkiller; Unknown
+0x3900 Flier,Dragon,Ballista,Riderkiller
+0x3940 Flier,Dragon,Ballista,Riderkiller; Unknown
+0x3C00 Flier,Armor,Ballista,Riderkiller
+0x3C40 Flier,Armor,Ballista,Riderkiller; Unknown
+0x3D00 Flier,Dragon,Armor,Ballista,Riderkiller
+0x3D40 Flier,Dragon,Armor,Ballista,Riderkiller; Unknown;
+0x3D41 Flier,Dragon,Armor,Ballista,Riderkiller; Unknown,Unknown
+0x3D44 Flier,Dragon,Armor,Ballista,Riderkiller; Unknown,Unknown
+0x3D45 Flier,Dragon,Armor,Ballista,Riderkiller; Unknown;Unknown,Unknown

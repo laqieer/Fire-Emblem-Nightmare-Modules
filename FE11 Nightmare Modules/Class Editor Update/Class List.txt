@@ -1,0 +1,51 @@
+Lord (Marth)
+Pegasus Knight
+Pegasus Knight (Caeda)
+Falcon Knight
+Dracoknight
+Dracoknight (F)
+Cavalier
+Cavalier (F)
+Paladin
+Paladin (F)
+Knight
+General
+Archer
+Archer (F)
+Sniper
+Sniper (F)
+Mercenary
+Hero
+Myrmidon
+Myrmidon (F)
+Swordmaster
+Swordmaster (F)
+Fighter
+Warrior
+Hunter
+Horsemen
+Pirate
+Berserker
+Dark Mage
+Sorcerer
+Mage
+Mage (F)
+Curate
+Cleric
+Sage
+Sage (F)
+Bishop
+Bishop (F)
+Thief
+Manakete
+Manakete (F)
+Ballistician
+Chameleon
+Soldier
+Magic Dragon
+Earth Dragon
+Fire Dragon
+Divine Dragon
+Dismounted Knight
+Dismounted Knight (F)
+Empty (?)

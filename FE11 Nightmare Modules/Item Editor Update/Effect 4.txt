@@ -1,0 +1,4 @@
+Effect 4 Doc by Mariode
+
+0x08 : Settting this to 0x08 will make a weapon usable even if it has 0 Uses. Oddly enough, this doesn't seem to apply for dragonstones...
+0x200 : "You will take damage"-Code/Fake-Imhullu-Code. Even if Effext 3 is set to Invincible, this code overrides it an makes you vulnerable, although it will still say 0 damage in the battle prewiew.

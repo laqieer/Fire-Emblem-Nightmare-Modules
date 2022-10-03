@@ -1,0 +1,14 @@
+Effect 1 Documentation by Mariode
+
+0x00 None
+0x500 Torch
+0x800 Heal Effect (8 HP)
+0xA00 Vulnerary Effect (10 HP)
+0xF00 Mend Effect (15 HP)
+0x6300 Restore Effect (99 HP (You get the point, change value for custom heal))
+
+Read Stat Boosts.txt for more information:
+0x0X MOV +X (X = Stat increase value; Default: 2)
+0xX00 HP +X (X = Stat increase value; Default: 7)
+0xX0000 STR +X (X = Stat increase value; Default: 2)
+0xX000000 MAG +X (X = Stat increase value; Default: 2)

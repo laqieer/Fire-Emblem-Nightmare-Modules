@@ -1,0 +1,70 @@
+Just read through this... Any question should answer itself. And before you think "Oh but how to do this" or "How can I know which applies to which"... Just read to the end.
+-------------------------
+
+Stat Boosts can be assigned via Effect 1, 2 and 3.
+
+This is the Spirit Dust:
+Effect 1:		0x2000000 
+It boosts Magic by 2 Points when used(indicated by the 2)
+
+Break it down into bytes:
+Effect 1:		02 00 00 00 (0x2000000 is actually 0x02000000 as you need 4 bytes in total)
+--------------------------
+And this is the Searph Robe:
+Effect 1:       0x700
+
+Break it down:
+Effect 1:		00 00 07 00 (0x700 = 0x00000700)
+It bosts HP by 7 when used (indicated by the 7)
+--------------------------
+
+All of those permanent Stat Boosters have a 0x100 as Effect 3,
+which gives the Item the "Use"-Command. Vulnerarys, Stat Boosters, Potions, all of them use that code.
+
+So Seraph Robe is:
+Effect 1:		0x700
+Effect 2:		0x00
+Effect 3:		0x100
+
+And again:
+Effect 1:		00 00 07 00
+Effect 2:		00 00 00 00
+Effect 3:		00 00 01 00
+
+---------------------------
+
+This is the stat each byte affects:
+Effect 1		02 (MAG) 02 (STR) 00 (HP)  00 (MOV)
+Effect 2		02 (DEF) 02 (LCK) 02 (SPD) 02 (SKL)
+Effect 3		00 (---) 00 (---) 00 (---) 02 (RES)
+
+~~~
+[You see that RES overlaps with Effect 3, so having a stat booster for resistance requires to add the bytes.]
+[Talisman: Effect 3		0x102  (0x100 for "Use" and 02 for RES +2)]
+~~~
+
+Lets say I want my Item to boost my luck by 10, Movement by 1 and every other stat (except HP) by 4:
+I take this:
+Effect 1		02 (MAG) 02 (STR) 00 (HP)  00 (MOV)
+Effect 2		02 (DEF) 02 (LCK) 02 (SPD) 02 (SKL)
+Effect 3		00 (---) 00 (---) 00 (---) 02 (RES)
+
+Do my changes:
+Effect 1		04 (MAG) 04 (STR) 00 (HP)  02 (MOV)
+Effect 2		04 (DEF) 0A (LCK) 04 (SPD) 04 (SKL)
+Effect 3		00 (---) 00 (---) 00 (---) 04 (RES)
+
+0A for Luck because we are in Hex.
+
+Now puzzle it toghther.
+Effect 1		04 04 00 02
+Effect 2		04 0A 04 04
+Effect 3		00 00 00 04
+
+And:
+Effect 1		0x4040004
+Effect 2		0x40A0404
+Effect 3		0x4
+------------------------------------------------------------
+Everything should be clear now.
+If not then... search for some help... Although I think this doc is detaile enough.

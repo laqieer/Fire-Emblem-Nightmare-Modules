@@ -3,9 +3,9 @@
 #http://forums.feshrine.net
 
 1
-Chapter 1 Unit Editor by Blazer
-0x74
-23
+Chapter 25 Unit Editor by Blazer/Mariode
+0x98
+54
 80
 NULL
 NULL
@@ -123,12 +123,6 @@ Droppable Item Option
 1
 NDHU
 Droppable.txt
-
-Unit Flags?
-36
-4
-NEHU
-NULL
 
 AI Pointer 1
 40

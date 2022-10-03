@@ -1,0 +1,156 @@
+#Fire Emblem Shadow Dragon Item Editor
+#http://www.feshrine.net
+#http://forums.feshrine.net
+#Created by Blazer of FES (smashfire17@gmail.com)
+
+1
+FEDS Item Editor (U) by Blazer (Updated by Mariode)
+0x878c
+153
+60
+Item List.txt
+NULL
+
+Item Chrono-Byte
+0
+1
+NEHU
+NULL
+
+Item ID (?)
+4
+2
+NEHU
+NULL
+
+Name Pointer
+8
+2
+NEHU
+NULL
+
+Description Pointer
+12
+2
+NEHU
+NULL
+
+Weapon Icon
+16
+1
+NEHU
+NULL
+
+Price
+18
+1
+NEHU
+NULL
+
+Item Type
+20
+1
+NDDU
+Item Types.txt
+
+Weapon Level
+22
+1
+NDDU
+Weapon Levels.txt
+
+Weapon Experience
+23
+1
+NEDU
+NULL
+
+Uses (0=INF)
+24
+1
+NEDU
+NULL
+
+Might
+25
+1
+NEDU
+NULL
+
+Hit
+26
+1
+NEDU
+NULL
+
+Critical
+27
+1
+NEDU
+NULL
+
+Weight
+28
+1
+NEDU
+NULL
+
+Minimum Range
+29
+1
+NEDU
+NULL
+
+Max Range
+30
+1
+NEDU
+NULL
+
+Effect 1
+31
+4
+NEHU
+NULL
+
+Effect 2
+35
+4
+NEHU
+NULL
+
+Effect 3
+39
+4
+NDHU
+Effect 3.txt
+
+Effect 4
+43
+4
+NEHU
+NULL
+
+Effectiveness
+47
+4
+NDHU
+Effectiveness.txt
+
+Map Animation Pointer
+51
+4
+NDHU
+Map Animation Pointer.txt
+
+Ranged Attack Animation Pointer
+55
+4
+NDHU
+Ranged Attack Animation.txt
+
+Delimiter (0x00)
+59
+1
+NEHU
+NULL

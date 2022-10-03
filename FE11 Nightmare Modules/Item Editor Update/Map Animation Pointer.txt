@@ -1,0 +1,15 @@
+14
+0x00 None
+0xF8B000 Vulnerary/Gradivus/Falchion/Hauteclere
+0xC0E100 Pure Water/Parthia
+0xCB9400 Heal/Physic
+0xF81200 Mend
+0xF80A00 Recover
+0xF81900 Fortify
+0xF8BA00 Warp
+0xE17200 Barrier
+0xC0D800 Hammerne
+0xE18D00 Aum
+0xBAF100 Stat Boosters
+0xF89100 Torch
+0xBAF800 Geosphere

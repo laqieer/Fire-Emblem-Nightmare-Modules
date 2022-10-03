@@ -1,0 +1,13 @@
+12
+0x00 None
+0x02 +10% Hit
+0x05 +5% Hit/Crit
+0x08 +10% Crit
+0x0A +10% Hit/Crit
+0x0D +5% Hit/+15% Crit
+0x0F +15% Hit/Crit
+0x10 Unlock Ability?
+0x1F Unlock +15% Hit/Crit
+0x20 Unknown
+0x40 Special Ability Flag?
+0x7F Unknown

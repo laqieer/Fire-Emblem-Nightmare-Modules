@@ -1,0 +1,24 @@
+As time is a limited resource these days, I did not add evrything to the effects.
+
+If you want a special effect like a weapon making you invincible and being a brave weapon simultanously,
+just take the two values (0x40000 for invincibility and 0x200 for Brave Effect) and add them together
+(so 0x40200 for invincibility and brave effect). 
+
+Obviously, you can combine as many effects as you want.
+
+Just keep in mind that these are all in hex, so 0x600 (Brave Magic Weapon) + 0x800 (Uncounterable Weapon) is not 0x14000 but
+0xE00 (Uncounterable Brave Magic Weapon). (Use a calculator if necessary)
+
+After you have combined the bytes open "Effect 3.txt" in a text editor. Add yur new value to the list.
+
+After that, go to the top of the text-file. You'll see a number in the first line. 35 should be the default
+(it could be higher if you/someone already edited the file). This number tells Nightmare how many entries there are in
+the dropdown box when editing the database in Nightmare. If there are more entries than this number's value, the simply
+won't show up.
+Now, if you just added one value to the list, add one to the number at the top, for two values two for three three and so on.
+Be aware that this number is NOT in hex, so you adding 6 to 35 is 41 and not 3B!
+
+Customization is also possible with class abilites and more. Then you'll have to edit other text files, but it essentially the same thing as it is with items.
+
+Have Fun making broken items
+~Mariode

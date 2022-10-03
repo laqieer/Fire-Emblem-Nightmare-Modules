@@ -1,0 +1,6 @@
+Effect 2 Documentation by Mariode
+
+Read Stat Boosts.txt for more Information
+0x0X       SKL +X (X = Stat increase value; Default: 2)
+0xX00      SPE +X (X = Stat increase value; Default: 2)
+0xX0000    LCK +X (X = Stat increase value; Default: 2)
