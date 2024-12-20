@@ -1,0 +1,64 @@
+#FE4 Class Map Battle Sprite Editor by DefaultFormat
+#
+
+1
+FE4 Class Map Battle Sprite Editor by DefaultFormat
+0x1EB70D
+94
+49
+FE4 Class List Extended.txt
+NULL
+
+Facing Right
+0
+6
+HEHU
+NULL
+
+Facing Down-Right
+6
+6
+HEHU
+NULL
+
+Facing Down
+12
+6
+HEHU
+NULL
+
+Facing Down-Left
+18
+6
+HEHU
+NULL
+
+Facing Left
+24
+6
+HEHU
+NULL
+
+Facing Up-Left
+30
+6
+HEHU
+NULL
+
+Facing Up
+36
+6
+HEHU
+NULL
+
+Facing Up-Right
+42
+6
+HEHU
+NULL
+
+Class Type
+48
+1
+NDHU
+Mounted.txt

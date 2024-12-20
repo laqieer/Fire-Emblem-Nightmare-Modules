@@ -1,0 +1,65 @@
+Iron Sword
+Steel Sword
+Silver Sword
+Thief Sword
+Prayer Sword
+Barrier Sword
+Berserk Sword
+Hero Sword
+Silence Sword
+Sleep Sword
+Thin Sword
+Defense Sword
+Fire Sword
+Earth Sword
+Thunder Sword
+Wind Sword
+Balmunk
+Light Sword
+(unused)
+Mistoltin
+Tyrfing
+Armor Killer
+Wing Clipper
+Broken Sword
+Iron Lance
+Steel Lance
+Silver Lance
+Javelin
+Knight Killer
+Hero Lance
+Gungnir
+Gae Bolg
+Broken Lance
+Iron Axe
+Steel Axe
+Silver Axe
+Hand Axe
+Hero Axe
+Swanchika
+Broken Axe
+Iron Bow
+Steel Bow
+Silver Bow
+Hero Bow
+Killer Bow
+Ichival
+Broken Bow
+Live Staff
+Libro Staff
+Reserve Staff
+Warp Staff
+Return Staff
+Rescue Staff
+Charm Staff (unused)
+Rest Staff
+Sleep Staff
+Berserk Staff
+Silence Staff
+Thief Staff (unused)
+Valkyrie Staff
+Broken Staff (unused)
+Long Arch
+Iron Arch
+Killer Arch
+Gold Arch

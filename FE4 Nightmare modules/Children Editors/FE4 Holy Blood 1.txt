@@ -1,0 +1,82 @@
+81
+0x00 None
+0x01 Baldo
+0x02 Baldo+
+0x04 Narga
+0x08 Narga+
+0x10 Dain
+0x20 Dain+
+0x40 Noba
+0x80 Noba+
+0x05 Baldo, Narga
+0x09 Baldo, Narga+
+0x11 Baldo, Dain
+0x21 Baldo, Dain+
+0x41 Baldo, Noba
+0x81 Baldo, Noba+
+0x06 Baldo+, Narga
+0x0A Baldo+, Narga+
+0x12 Baldo+, Dain
+0x22 Baldo+, Dain+
+0x42 Baldo+, Noba
+0x82 Baldo+, Noba+
+0x14 Narga, Dain
+0x24 Narga, Dain+
+0x44 Narga, Noba
+0x84 Narga, Noba+
+0x18 Narga+, Dain
+0x28 Narga+, Dain+
+0x48 Narga+, Noba
+0x88 Narga+, Noba+
+0x50 Dain, Noba
+0x90 Dain, Noba+
+0x60 Dain+, Noba
+0xA0 Dain+, Noba+
+0x15 Baldo, Narga, Dain
+0x25 Baldo, Narga, Dain+
+0x45 Baldo, Narga, Noba
+0x85 Baldo, Narga, Noba+
+0x19 Baldo, Narga+, Dain
+0x29 Baldo, Narga+, Dain+
+0x49 Baldo, Narga+, Noba
+0x89 Baldo, Narga+, Noba+
+0x51 Baldo, Dain, Noba
+0x91 Baldo, Dain, Noba+
+0x61 Baldo, Dain+, Noba
+0xA1 Baldo, Dain+, Noba+  
+0x16 Baldo+, Narga, Dain
+0x26 Baldo+, Narga, Dain+
+0x46 Baldo+, Narga, Noba
+0x86 Baldo+, Narga, Noba+
+0x1A Baldo+, Narga+, Dain
+0x2A Baldo+, Narga+, Dain+
+0x4A Baldo+, Narga+, Noba 
+0x8A Baldo+, Narga+, Noba+
+0x52 Baldo+, Dain, Noba
+0x92 Baldo+, Dain, Noba+
+0x62 Baldo+, Dain+, Noba
+0xA2 Baldo+, Dain+, Noba+ 
+0x54 Narga, Dain, Noba
+0x94 Narga, Dain, Noba+
+0x64 Narga, Dain+, Noba
+0xA4 Narga, Dain+, Noba+
+0x58 Narga+, Dain, Noba
+0x98 Narga+, Dain, Noba+
+0x68 Narga+, Dain+, Noba
+0xA8 Narga+, Dain+, Noba+
+0x55 Baldo, Narga, Dain, Noba
+0x95 Baldo, Narga, Dain, Noba+
+0x65 Baldo, Narga, Dain+, Noba
+0xA5 Baldo, Narga, Dain+, Noba+
+0x59 Baldo, Narga+, Dain, Noba
+0x99 Baldo, Narga+, Dain, Noba+
+0x69 Baldo, Narga+, Dain+, Noba
+0xA9 Baldo, Narga+, Dain+, Noba+
+0x56 Baldo+, Narga, Dain, Noba
+0x96 Baldo+, Narga, Dain, Noba+
+0x66 Baldo+, Narga, Dain+, Noba
+0xA6 Baldo+, Narga, Dain+, Noba+
+0x5A Baldo+, Narga+, Dain, Noba
+0x9A Baldo+, Narga+, Dain, Noba+
+0x6A Baldo+, Narga+, Dain+, Noba
+0xAA Baldo+, Narga+, Dain+, Noba+

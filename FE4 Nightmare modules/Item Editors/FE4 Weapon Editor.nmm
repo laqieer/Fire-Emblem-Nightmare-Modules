@@ -4,7 +4,7 @@
 1
 FE4 Weapon/Staff Editor 1
 0x3ECE4
-140
+107
 19
 FE4 Weapon Editor.txt
 NULL
@@ -36,8 +36,8 @@ NULL
 Stat Bonus
 5
 1
-NDDU
-FE4 Weapon Bonus.txt
+HEXA
+NULL
 
 Staff Effect
 6
@@ -54,13 +54,13 @@ FE4 Weapon Rank.txt
 Skill Set 1
 8
 1
-NDDU
+NDHU
 FE4 Weapon Skills 1.txt
 
 Skill Set 2
 9
 1
-NDDU
+NDHU
 FE4 Weapon Skills 2.txt
 
 Weapon Type

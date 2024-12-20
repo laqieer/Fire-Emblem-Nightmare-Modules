@@ -1,0 +1,8 @@
+7
+0x01 Infantry
+0x19 Unpromoted Armor
+0x31 Promoted Armor
+0x49 Unpromoted Cavalry
+0x61 Promoted Cavalry
+0x79 Flying
+0x91 Brigands

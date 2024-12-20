@@ -1,0 +1,61 @@
+Iron Sword
+Steel Sword
+Silver Sword
+Iron Blade
+Steel Blade
+Silver Blade
+Prayer Sword
+Thief Sword
+Barrier Sword
+Berserk Sword
+Hero's Sword
+Silence Sword
+Sleep Sword
+Thin Sword
+Defence Sword
+Fire Sword
+Earth Sword
+Thunder Sword
+Wind Sword
+Light Sword
+Mistoltin
+Tyrfing
+Balmunk
+Armor Killer
+Wing Clipper
+Broken Sword (A)
+Broken Sword (B)
+Broken Sword (C)
+Iron Lance
+Steel Lance
+Silver Lance
+Hand Lance
+Knight Killer
+Hero's Lance
+Thin Lance
+Gungnir
+Gae Bolg
+Broken Lance (A)
+Broken Lance (B)
+Broken Lance (C)
+Iron Axe
+Steel Axe
+Silver Axe
+Hero's Axe
+Swanchika
+Hand Axe
+Broken Axe (A)
+Broken Axe (B)
+Broken Axe (C)
+Iron Bow
+Steel Bow
+Silver Bow
+Hero's Bow
+Killer Bow
+Ichieval
+Broken Bow (A)
+Broken Bow (B)
+Broken Bow (C)
+Broken Sword (*)
+Broken Lance (*)
+Broken Bow (*)

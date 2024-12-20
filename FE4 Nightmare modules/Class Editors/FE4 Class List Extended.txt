@@ -1,0 +1,94 @@
+Social Knight
+Lance Knight
+Arch Knight
+Axe Knight
+Free Knight
+Trobadour
+Lord Knight (Sigurd)
+Duke Knight
+Master Knight
+Male Paladin
+Female Paladin
+Bow Knight
+Forrest Knight
+Mage Knight
+Great Knight
+Pegasus Rider
+Pegasus Knight
+Falcon Knight
+Dragon Rider
+Dragon Knight
+Dragon Master
+Bow Fighter
+Sword Fighter
+Sword Master
+Sniper
+Forest
+General
+Emperor
+Baron
+Soldier
+Spear Soldier
+Axe Soldier
+Archer
+Sword Soldier
+Armor
+Axe Armor
+Bow Armor
+Sword Armor
+Barbarian
+Axe Fighter
+Mountain Thief
+Warrior
+Hunter
+Pirate
+Junior Lord
+Mage Fighter (M)
+Prince
+Princess
+Mage Fighter (F)
+Queen
+Dancer
+Priest
+Mage
+Fire Mage
+Thunder Mage
+Wind Mage
+High Priest
+Bishop
+Sage
+Bard
+Shaman
+Dark Mage
+Dark Bishop
+Thief
+Thief Fighter
+Civilian
+Child
+Long Arch
+Iron Arch
+Killer Arch
+Great Arch
+Dark Prince
+Female Master Knight
+Female Mage Knight
+Female Dragon Rider
+Female Dragon Knight
+Female Dragon Master
+Female Bow Fighter
+Female Sword Fighter
+Female Sword Master
+Female Sniper
+Female Forrest
+Female Priest
+Female Mage
+Female Fire Mage
+Female Thunder Mage
+Female Wind Mage
+Female High Priest
+Female Sage
+Female Thief
+Female Thief Fighter
+Female Civilian
+Female Child
+Lord Knight (Seliph)

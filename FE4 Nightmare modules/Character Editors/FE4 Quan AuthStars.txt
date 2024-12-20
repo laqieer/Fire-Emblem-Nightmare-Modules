@@ -1,0 +1,5 @@
+4
+0x0F Zero Stars
+0x1E Two Stars
+0x19 Three Stars
+0x14 Five Stars

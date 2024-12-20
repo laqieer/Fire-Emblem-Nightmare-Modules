@@ -9,7 +9,7 @@ FE4 Class Editor by Camus
 FE4 Class List.txt
 NULL
 
-Lv Needed to Promote to This
+Promotion-Into Level
 0
 1
 NEDU
@@ -135,25 +135,25 @@ Fire Rank
 NDHU
 Class Weapon Rank.txt
 
-Water Rank
+Thunder Rank
 21
 1
 NDHU
 Class Weapon Rank.txt
 
-Arcane Rank
+Wind Rank
 22
 1
 NDHU
 Class Weapon Rank.txt
 
-Force Rank
+Light Rank
 23
 1
 NDHU
 Class Weapon Rank.txt
 
-Spirit Rank
+Dark Rank
 24
 1
 NDHU
@@ -168,25 +168,25 @@ NULL
 Movement Type
 26
 1
-NEDU
-NULL
+NDHU
+FE4 Movement Types.txt
 
-???
+Terrain Avoid Type
 27
 1
-NEDU
-NULL
+NDHU
+FE4 Flying Class.txt
 
 Class Skills 1
 28
 1
-NDDU
+NDHU
 FE4 Class Skills 1.txt
 
 Class Skills 2
 29
 1
-NDDU
+NDHU
 FE4 Class Skills 2.txt
 
 Gold x 100
